@@ -1,5 +1,6 @@
 {
     "entries_file": "vocabulary.txt",
+    "unmatched_file": "vocabulary-unmatched.txt",
     "vocab_template": "vocabulary-template.lyx",
     "vocab_lyx": "vocabulary.lyx",
     "source_file": "Na-Usdi-Agigage-Jitaga-Agisi.lyx"

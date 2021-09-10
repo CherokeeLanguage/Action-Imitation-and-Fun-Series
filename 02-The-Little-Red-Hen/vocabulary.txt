@@ -1,321 +1,634 @@
+# Na-Usdi-Agigage-Jitaga-Agisi.lyx
+# ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳ ㉑ ㉒ ㉓ ㉔ ㉕ ㉖ ㉗ ㉘ ㉙ ㉚ ㉛ ㉜ ㉝ ㉞ ㉟ ㊱ ㊲ ㊳ ㊴ ㊵ ㊶ ㊷ ㊸ ㊹ ㊺ ㊻ ㊼ ㊽ ㊾ ㊿
 Syllabary|Pronounce|Breakdown|Definition
-ᎠᎩᎦᎨ|||
-ᎠᎩᎩᏍᏗ|||
-ᎠᎩᎩᏎᎾ|||
-ᎠᎩᎭ|||
-ᎠᎩᎯᏒ|||
-ᎠᎩᏍᏗ|||
-ᎠᎩᏎᎦ|||
-ᎠᎩᏏ|||
-ᎠᎩᏩᏛᎲ|||
-ᎠᎩᏩᏟᏌᏅ|||
-ᎠᎩᏩᏟᏐᏗ|||
-ᎠᎩᏫᏍᏗ|||
-ᎠᎩᏫᏒ|||
-ᎠᎩᏫᏛᎲ|||
-ᎠᎪᏩᏔ|||
-ᎠᎪᏩᏘ|||
-ᎠᎭᏂ|||
-ᎠᎴ|||
-ᎠᎵᏍᏕᎵ|||
-ᎠᎵᏍᏕᎵᏍᎪ|||
-ᎠᏂᎩᏔ|||
-ᎠᏂᎾᎵ|||
-ᎠᏂᏦᎢ|||
-ᎠᏃᏍᏓ|||
-ᎠᏃᏍᏓᏍ|||
-ᎠᏅᏂᏍᎪ|||
-ᎠᏅᏂᏍᎪᏍ|||
-ᎠᏆᏚᏅ|||
-ᎠᏆᏟᏌᏅ|||
-ᎠᏆᏤᎵ|||
-ᎠᏋᏌ|||
-ᎠᏎ|||
-ᎠᏎᏃ|||
-ᎠᏩᏔ|||
-ᎠᏴ|||
-ᎡᎦ|||
-ᎡᎮ|||
-ᎡᎵᏊ|||
-ᎡᎵᏊᏍ|||
-ᎡᏆ|||
-ᎢᎦ|||
-ᎢᎦᏓ|||
-ᎢᎩᎩᏍᏗ|||
-ᎢᎩᎲᎢ|||
-ᎢᎩᏫᏍᏗ|||
-ᎢᏌ|||
-ᎢᏌᏍ|||
-ᎢᏗᏩᏚᏅᎢ|||
-ᎢᏣᎵ|||
-ᎢᏣᏑᏰᏒ|||
-ᎢᏣᏤᎵ|||
-ᎢᏥᎪᏩᏔ|||
-ᎢᏥᎾᎵ|||
-ᎢᏦᏍᏓ|||
-ᎢᏳᏍᏗ|||
-ᎢᏳᏩᎦᏘ|||
-Ꭳ|||
-ᎣᎦᎵ|||
-ᎣᎩᎾᎵ|||
-ᎣᏍᏓ|||
-ᎣᏥᎾᎵ|||
-ᎤᎦᏙᏍᏔᏁ|||
-ᎤᎩᏎᎾ|||
-ᎤᎩᏒᏍᏗ|||
-ᎤᎩᏔ|||
-ᎤᎩᏔᏍ|||
-ᎤᎭ|||
-ᎤᎯᏎ|||
-ᎤᎵᏔᏁ|||
-ᎤᎵᏔᏅᎢ|||
-ᎤᎿ|||
-ᎤᏂᎩᏍᏗ|||
-ᎤᏂᎩᏔ|||
-ᎤᏅᏂᏒᎢ|||
-ᎤᏍᏗ|||
-ᎤᏍᏗᏍ|||
-ᎤᏍᏙᎡ|||
-ᎤᏑᏰᏎ|||
-ᎤᏛᏁ|||
-ᎤᏛᏎ|||
-ᎤᏝᎲᏍᎦ|||
-ᎤᏣᎴᏍᏗ|||
-ᎤᏣᎴᏍᏗᏍ|||
-ᎤᏤᎵ|||
-ᎤᏩᏌ|||
-ᎤᏩᏚᏁ|||
-ᎤᏩᏛᎮ|||
-ᎤᏩᏛᎮᎾ|||
-ᎤᏩᏟᏌᏁ|||
-ᎤᏩᏟᏐᏗ|||
-ᎤᏪᏅᏎ|||
-ᎤᏫᏍᏗ|||
-ᎤᏫᏎ|||
-ᎤᏫᏘᏗ|||
-ᎤᏫᏛᎮ|||
-ᎤᏮᏔᏁ|||
-ᎤᏰᏘᏎᎴ|||
-Ꭵ|||
-ᎥᎥ|||
-ᎥᏍᎩᎾ|||
-ᎥᏍᏊ|||
-ᎥᏝ|||
-ᎥᏝᏧ|||
-ᎦᎪ|||
-ᎦᎪᏗ|||
-ᎦᎯᎦᏙᏍᏓ|||
-ᎦᎯᏯᎦᏙᏍᏓ|||
-ᎦᎵᏍᏕᎵ|||
-ᎦᎵᏙᏗ|||
-ᎦᎾᎵ|||
-ᎦᎾᎵᏍ|||
-ᎦᎾᎵᏧ|||
-ᎦᎾᏄᎪᎦ|||
-ᎦᏍᎩᎸᎢ|||
-ᎦᏙ|||
-ᎦᏙᎲ|||
-ᎦᏙᏗ|||
-ᎦᏚ|||
-ᎦᏚᎲᏍᎨᏍᏗ|||
-Ꭷ|||
-ᎧᏂᏈᏌ|||
-ᎧᏂᏈᏌᏍ|||
-ᎧᏂᏊᏌ|||
-ᎧᏃᎮᏗ|||
-ᎨᎮ|||
-ᎨᏎ|||
-ᎨᏎᏍᏗ|||
-ᎨᏒ|||
-ᎩᎶ|||
-ᎩᎶᏍ|||
-ᎩᎾᎵ|||
-ᎩᎾᏈᏌ|||
-ᎩᏂᏈᏌ|||
-ᎪᎱᏍᏗ|||
-ᎪᎱᏍᏗᏍ|||
-ᎬᏍᏕᎵ|||
-ᎬᏩᎩᏍᏗ|||
-ᎬᏩᎵᏍᏓᏴᏗ|||
-ᎬᏩᏃᏍᎩᏍᏗ|||
-ᎬᏩᏢᏅᏗ|||
-ᎬᏩᏩᏘᏗ|||
-ᎬᏩᏪᏅᏍᏗ|||
-ᎭᎵᏍᏕᎵᏍ|||
-ᎭᏢ|||
-ᎯᎠ|||
-ᎯᎠᏍ|||
-ᎯᎦᏖᎾᎦ|||
-ᎯᎧᏂᏈᏌ|||
-ᎯᎩᎦᎨ|||
-ᎯᎪᏩᏔ|||
-ᎯᎪᏩᏘ|||
-ᎯᎪᏩᏘᏍ|||
-ᎯᎾᎵ|||
-ᎯᎾᎵᏍ|||
-ᎯᏏᏆ|||
-ᎯᏥᏔᎦ|||
-ᎯᏥᏔᎦᏍ|||
-ᎯᏩᏔ|||
-ᎯᏪᏌ|||
-ᎰᏍᏓ|||
-Ꮎ|||
-ᎾᎦᎵ|||
-ᎾᎯᏳ|||
-ᎾᏍ|||
-Ꮒ|||
-ᏂᎦᏓ|||
-ᏂᎦᏓᏍ|||
-ᏂᎦᏛᏁ|||
-ᏂᎯ|||
-ᏃᏊ|||
-ᏄᎩᏒᎾ|||
-ᏄᏛᏁᎴ|||
-ᏌᏊ|||
-ᏍᎩᏅᏳᏍᏗ|||
-ᏍᎩᏍᏕᎵ|||
-ᏍᏊ|||
-ᏍᏗ|||
-ᏏᎦ|||
-ᏏᏆ|||
-ᏏᏆᏍ|||
-ᏓᎦᎾᏏᏅᏏ|||
-ᏓᎦᏃᏍᎩᏏ|||
-ᏓᎦᏛᏁᎴᎵ|||
-ᏓᎦᏛᏁᎵ|||
-ᏓᎦᏟᏌᏂ|||
-ᏓᏂᎦᏛᏁᎵ|||
-ᏓᏣᎯ|||
-ᏓᏤᎾ|||
-ᏓᏥᎨᎵ|||
-ᏓᏥᎪᏩᏔ|||
-ᏓᏥᏫᏏ|||
-ᏓᏥᏫᏛᎯ|||
-ᏓᏫᏏ|||
-ᏓᏰᏅᏏ|||
-ᏓᏰᏅᏏᏍ|||
-ᏔᏛᏁᎴᎵ|||
-ᏕᎦᎵᏍᏗ|||
-ᏕᎦᎵᏍᏗᏍ|||
-ᏕᎦᎵᏗ|||
-ᏕᎦᎵᏗᎯ|||
-ᏕᎦᎵᏗᏍ|||
-ᏖᎾ|||
-ᏗᎩᏟᏐᏗ|||
-ᏗᏍᎪᏍᎩᎢ|||
-ᏗᏍᏙᏍᎩ|||
-ᏗᏍᏙᏍᎩᎢ|||
-ᏗᏍᏙᏍᎩᎢᏍ|||
-ᏗᏤᎾ|||
-ᏘᎩᏎᏏ|||
-ᏘᏍᏕᎸᎯᏍ|||
-ᏘᏫᏛᎯ|||
-ᏙᎯᏳ|||
-ᏙᎯᏳᏍ|||
-ᏚᎮᏍᏗ|||
-ᏛᎩ|||
-ᏛᎩᏎᏏ|||
-ᏛᎵᏍᏕᎸᎯ|||
-ᏛᏁᏅᏏ|||
-ᏛᏂᏃᏍᎩᏏ|||
-ᏛᏅᏂᏏ|||
-ᏛᏍᏙᎢ|||
-ᏛᏍᏚᎢᏏ|||
-ᏛᏛᏁᎴᎵ|||
-ᏛᏛᏁᎵ|||
-ᏛᏛᏏ|||
-ᏛᏫᏛᎯ|||
-Ꮭ|||
-ᏠᎨᏏ|||
-ᏠᎨᏏᎯ|||
-ᏣᎭ|||
-ᏣᎳᎩ|||
-ᏣᏍᏗ|||
-ᏣᏤᎵ|||
-ᏣᏩᏘᏗ|||
-ᏣᏩᏚᏅ|||
-ᏣᏩᏛᎲ|||
-ᏣᏩᏟᏌᏅ|||
-ᏣᏫᏍᏗᏍ|||
-ᏣᏫᏒ|||
-ᏣᏫᏛᎲ|||
-ᏥᎧᏂᏈᏌ|||
-ᏥᎩ|||
-ᏥᎩᎦᎨ|||
-ᏥᎩᏎᎦ|||
-ᏥᎪᏩᏘ|||
-ᏥᎾᎵ|||
-ᏥᏏᏆ|||
-ᏥᏔᎠ|||
-ᏥᏔᎦ|||
-ᏥᏔᎦᏃ|||
-ᏥᏔᎦᏍ|||
-ᏥᏚᎲᏍᎦ|||
-ᏥᏟᏏ|||
-ᏥᏥᏔᎦ|||
-ᏥᏩᏔ|||
-ᏥᏪᏌ|||
-ᏥᏫᏍᎦ|||
-ᏥᏫᏗ|||
-ᏧᎾᎵ|||
-ᏧᎾᎵᎢ|||
-ᏧᏤᎵ|||
-ᏧᏫᏍᏗ|||
-ᏩᎩᏫᏛᎲ|||
-ᏪᎾ|||
-ᏪᏌ|||
-ᏪᏌᏍ|||
-ᏫᎩᏎᎾ|||
-ᏫᏍᏕᎾ|||
-ᏫᏛᎩᏎᏏ|||
-ᏫᏤᎾ|||
-ᏫᏤᏅᏎ|||
-ᏭᏪᏅᏎ|||
-ᏯᎦ|||
-ᏯᎾᎵᏍᏕᎳ|||
-ᏯᏂᎩᏑᎦ|||
-ᏯᏂᏩᏔ|||
-ᏯᏩᏔ|||
-ᏯᏫᏗ|||
-ᏰᎾ|||
-ᏱᎦᎵᏍᏕᎵ|||
-ᏱᎨᎦ|||
-ᏱᎨᎾ|||
-ᏱᎩ|||
-ᏱᏂᎦᏛᏁ|||
-ᏱᏂᏓᏣᏛᏁᎵ|||
-ᏱᏓᎦᏟᏌᏂ|||
-ᏱᏓᏣᎯ|||
-ᏱᏓᏥᎩ|||
-ᏱᏓᏳᎯ|||
-ᏱᏖᎾ|||
-ᏱᏛᏁᏅᏏ|||
-ᏱᏛᏂᎩᏎᏏ|||
-ᏱᏛᏍᏚᎢᏏ|||
-ᏱᏣᎭ|||
-ᏱᏣᎵᏍᏕᎵ|||
-ᏱᏣᎵᏍᏕᎵᏍᎪ|||
-ᏱᏣᎵᏍᏕᎸᎮ|||
-ᏱᏥᎩᏎᎦ|||
-ᏱᏥᎩᏎᎾ|||
-ᏱᏥᏍᏚᎢᏒ|||
-ᏱᏥᏟᏌᏅ|||
-ᏱᏥᏩᏚᏅ|||
-ᏱᏥᏩᏛᎲ|||
-ᏱᏥᏩᏟᏌᏅ|||
-ᏱᏥᏫᏒ|||
-ᏱᏥᏫᏗ|||
-ᏱᏥᏫᏛᎲ|||
-ᏱᏭᏁᏅᏎ|||
-ᏳᎩᏎᎾ|||
-ᏳᏂᎩᏎᎾ|||
-ᏳᏂᏟᏌᏁ|||
-ᏳᏂᏩᏚᏁ|||
-ᏳᏂᏩᏛᎮ|||
-ᏳᏂᏫᏎ|||
-ᏳᏂᏫᏛᎮ|||
-ᏳᏩᏛᎮ|||
-ᏳᏩᏟᏌᏁ|||
-ᏳᏪᏅᏎ|||
-ᏳᏫᏎ|||
-ᏳᏫᏛᎮᎾ|||
+-Ꭶ|||
+-ᎥᎾ|||
+-Ꭰ|||
+ᎥᏍᎩᏅ|||
+-ᎡᎦ|-é:ga||Is now leaving to do it.
+-ᎡᎭ|-e:ha||Is doing for someone. Is doing towards someone.
+-ᎡᎵ|-e:lī||Just now did for someone. Just now did towards someone.
+-ᎡᎸᎢ|-e:lv̌:ɂi||Did for someone. Did towards someone.
+-ᎡᎾ|-é:na||Just now left to do it.
+-ᎡᏗ|-éhdi||To do something for someone. To do something towards someone.
+-ᎢᏌ|-ǐ:sa||Let do it again.
+-ᎢᏏᎸᎢ|-isilv́:ɂi||Did it again.
+-ᎢᏐᏗ|-ǐ:sohdi||To do it again.
+-ᎢᏗ|-i̋:di||Is just about to do it.
+-ᎤᎦ|-ú:ga||Let go somewhere to do it.
+-ᎥᎭ|-v:ha||Should or would.
+-ᎥᏌᏅᎢ|-v̌:sáhnv́:ɂi||Did it again.
+-ᎥᏍᏗ|-v́:sdi||To leave to do it.
+-ᎥᏒᎢ|-v́:sv̌:ɂi||Left to do it.
+-Ꭸ|① -kē ② -ge̋||① Or is it? ② More of.
+-ᎨᎢ|-ge̋:ɂi||More of.
+-Ꮚ|||Just. Only.
+-ᏍᎪ|||Is it?
+-ᏍᏊ|||Also. Again.
+-ᏒᎢ|-sv̋:ɂi||More than usual.
+-Ꮷ|||Isn't it?
+-ᏯᎢ|||① Truly. ② Pure.
+ᎠᎩᎦᎨ|||Red.
+ᎠᎩᎩᏍᏗ|||For me to eat.
+ᎠᎩᎭ|||I have it.
+ᎠᎩᏍᏕᎵᎭ|||He or she is helping me.
+ᎠᎩᏍᏗ|||For eating.
+ᎠᎩᏎᎦ|||He or she is leaving to get it.
+ᎠᎩᏏ|||Female.
+ᎠᎩᏘᏗ|||For me to bake it.
+ᎠᎩᏚᏅᎩ|||I baked it.
+ᎠᎩᏟᏐᏗ|||For me to gather it.
+ᎠᎩᏩᏛᎲᎩ|||I found it.
+ᎠᎩᏩᏟᏌᏅᎩ|||I gathered it.
+ᎠᎩᏫᏍᏗ|||For me to plant it.
+ᎠᎩᏫᏒᎩ|||I planted it.
+ᎠᎩᏫᏛᎲᎩ|||I took it somewhere.
+ᎠᎪᏩᏘᎭ|||He or she sees him, her, or it.
+ᎠᎬᎭ||Ꭰ- ᎤᎬᎢ -ᎥᎭ|He or she would eat it.
+ᎠᎬᎭᏍ||Ꭰ- ᎤᎬᎢ -ᎥᎭ -ᏍᎪ|Would he or she eat it?
+ᎠᎭᏂ|||Here.
+ᎠᎴ|||And. Or.
+ᎠᎵᏍᏕᎵᏍᎪᎢ|||He or she usually helps.
+ᎠᏂᎩᏒᎭ||ᎠᏂ- ᎤᎬᎢ -ᎥᎭ|They should or would eat it.
+ᎠᏂᎩᏔ|||Seeds.
+ᎠᏂᎾᎵ|||They are lazy.
+ᎠᏂᏦᎢ|||Three.
+ᎠᏃᏍᏓ|||They are good.
+ᎠᏃᏍᏓᏍ|||Are they good?
+ᎠᏆᏟᏌᏅᎩ|||I gathered it.
+ᎠᏆᏤᎵ|||My.
+ᎠᏆᏤᎵᎦᏯ||ᎠᎩ- ᎤᏤᎵᎢ -Ꭶ -ᏯᎢ|It is truly and solely mine.
+ᎠᏋᏌ|① agwv̌:sa ② agwv̋:sa||① Myself. ② I alone.
+ᎠᏍᎦᏯ|||A man.
+ᎠᏎ|① ase ② ǎ:se||① Must. ② Maybe. Perhaps.
+ᎠᏎᏃ|||But.
+ᎠᏥᎵᏔᏅᎩ|||It was put into a container.
+ᎠᏩᏔ|||He or she just found it.
+ᎠᏴ|||I. Me.
+ᎠᏴᏫ|||A person.
+ᎡᎦ|||He or she is going.
+ᎡᎮ|||He or she lived.
+ᎡᎵᏊ|||Able to.
+ᎡᎵᏊ Ᏹ-|||It might happen.
+ᎡᎵᏊᏍ|||Is it possible?
+ᎡᏆ|||Large.
+ᎢᎦ|||Day.
+ᎢᎦᏓ|||Some.
+ᎢᎦᏓᏊ||ᎢᎦᏓ -Ꮚ|Just some.
+ᎢᎩᎩᏍᏗ|||For all of us to eat.
+ᎢᎩᎲᎭ||ᎢᎩ- ᎤᎲᎢ -ᎥᎭ|We all should or would have it.
+ᎢᏌ|||Flour.
+ᎢᏌᏍ|||Is it flour?
+ᎢᏣᎵᎢ|||① You all are friends. ② Your all's friend.
+ᎢᏣᏤᎵ|||Your all's
+ᎢᏤᎾ|||Let you all go.
+ᎢᏥᎪᏩᏔ|||Let you all see it.
+ᎢᏥᎾᎵ|||You all are lazy.
+ᎢᏥᎾᎵᏒᎢ|||You all are extra lazy.
+ᎢᏥᏫᏍᏗ|||For you all to plant it.
+ᎢᏦᏍᏓ|||You all are good.
+ᎢᏳᏍᏗ|||① Way of. ② As like as. ③ Is the reason for.
+ᎢᏳᏩᎪᏘ|||Time. Times.
+Ꭳ|||Oh!
+ᎣᏍᏓ|||Good. Well.
+ᎣᏥᎾᎵ|||They and I are lazy.
+ᎤᎦᏙᏍᏔᏁ|||He or she looked at him, her, or it.
+ᎤᎩᏒᏍᏗ||ᎤᎩᏒᎢ -ᎥᏍᏗ|For him or her to leave and get it.
+ᎤᎩᏒᏎ||ᎤᎩᏒᎢ -ᎥᏒᎢ|He or she went to get it.
+ᎤᎩᏔ|||A seed.
+ᎤᎩᏔᏍ|||Is it a seed?
+ᎤᎭ|||He or she has it.
+ᎤᎵᏔᏁ|||He or she put it into a container.
+ᎤᎾᎵᎢ|||① They are friends. ② His or her friend.
+ᎤᎿ|||There.
+ᎤᏂᎩᏍᏗ|||For them to eat it.
+ᎤᏂᎩᏔ|||Seeds.
+ᎤᏅᏂᏎ|||① They became ripe. ② They became cooked.
+ᎤᏅᏂᏒᎢ|||① Their ripeness. Ripened. ② Their being cooked.
+ᎤᏅᏂᏒᎢᏍ|||① Are they ripe? ② Are they cooked?
+ᎤᏍᏗ|① u:sdi̋ ② usdi̋||① A baby. ② Little.
+ᎤᏍᏗᏍ|||Is it little?
+ᎤᏍᏙᎡ|||He or she ground it.
+ᎤᏍᏙᎥᎩ|||He or she ground it.
+ᎤᏙᎯᏳ|||True
+ᎤᏛᏁ|① ù:dv:hne ② ù:dv:ɂne ③ ù:dv́:ne||① He or she said. ② He or she was hanged. ③ He or she hanged it.
+ᎤᏛᏎ|||It grew.
+ᎤᏝᏁ|||He or she placed it.
+ᎤᏣᎠ|||It is inside it.
+ᎤᏣᎴᏍᏗ|||Wheat.
+ᎤᏣᎴᏍᏗᏃ|||And wheat.
+ᎤᏣᎴᏍᏗᏍ|||Is it wheat?
+ᎤᏤᎵ|||His.
+ᎤᏩᏌ|||Him or herself.
+ᎤᏩᏚᏁ|||He or she baked it.
+ᎤᏩᏛᎮ|||He or she found it.
+ᎤᏩᏟᏌᏁ|||He or she gathered it.
+ᎤᏩᏟᏐᏗ|||For him or her to gather it.
+ᎤᏪᏅᏎ|||He or she went.
+ᎤᏫᏍᏗ|||For him or her to plant it.
+ᎤᏫᏎ|||He or she planted it.
+ᎤᏫᏘᏗ|||For him or her to take it somewhere.
+ᎤᏫᏛᎮ|||He or she took it somewhere.
+ᎤᏫᏛᎲᎭ||ᎤᏫᏛᎲᎢ -ᎥᎭ|He or she should or would take it somewhere.
+ᎤᏬᏢᏁ|||He or she made it.
+ᎤᏰᏘᏎᎴ|ᎤᏰᏘᏒᎢ -ᎡᎸᎢ||He or she laughed for him or her.
+Ꭵ|||Yes.
+ᎥᎥ|||Yes.
+ᎥᏍᎩᎾ|||That. Those. He. She. It.
+ᎥᏍᏊ|||Also.
+ᎥᏝ|||No. Not.
+ᎥᏝᏧ|||① Isn't it no? ② Didn't it?
+ᎦᎪ|||Who?
+ᎦᎪᏗ|||A plant.
+ᎦᎯᏯᎦᏙᏍᏓ|||Let you look at them.
+ᎦᎾᎵ|① gà:na̋:li ② gà:náɂli||① Lazy. ② Castrated.
+ᎦᎾᎵᏍ|||Is it laziness?
+ᎦᎾᎵᏧ|||Isn't he or she lazy?
+ᎦᏍᎩᎸᎢ|||On a raised flat surface.
+ᎦᏙ|||What?
+ᎦᏙᎲ|||Why?
+ᎦᏚ|① ga̋:du ② gadú||① Bread. ② On top.
+Ꭷ|||Hey!
+ᎧᏂᏈᏌ|||A rat. Rats.
+ᎧᏂᏈᏌᏍ|||Is it the rat?
+ᎧᏃᎮᏗ|||Story.
+ᎧᏅᏩᏗ|||Conrad
+ᎨᏎ|||Was being.
+ᎨᏎᎢ|||It was being.
+ᎨᏎᏍᏗ|||It will be.
+ᎨᏐᎢ|||It usually is.
+ᎨᏒᎩ|||Was.
+ᎩᎶ|||Someone.
+ᎩᎶᏍ|||Is it someone?
+ᎪᎱᏍᏗ|||Something. Things.
+ᎪᎱᏍᏗᏍ|||Is it something?
+ᎬᏍᏕᎸᏗ|||For me to help you.
+ᎬᏗ|||By means of.
+ᎬᏩᎩᎸᏗ|||He or she is able to get on or in it.
+ᎬᏩᎩᎸᏗᏍ|||Is he or she able to get on or in it?
+ᎬᏩᎩᏍᏗ|||He or she is able to get it.
+ᎬᏩᎵᏍᏓᏴᏗ|||He or she is able to eat a meal.
+ᎬᏩᏂᏍᏕᎸᏗ|||They are able to help him or her.
+ᎬᏩᏃᏍᎩᏍᏗ|||He or she is able to steal it.
+ᎬᏩᏘᏗ|||He or she is able to bake.
+ᎬᏩᏛᏗ|||He or she is able to find it.
+ᎬᏩᏟᏐᏗ|||He or she is able to gather it.
+ᎬᏩᏢᏅᏗ|||He or she is able to sleep.
+ᎬᏩᏫᏍᏗ|||He or she is able to plant it.
+ᎭᏢ|||Where?
+ᎯᎠ|||① This. These. ② He. She. It.
+ᎯᎠᏍ|||Is this?
+ᎯᎧᏂᏈᏌ|||You are a rat.
+ᎯᎪᏩᏔ|||Let you see.
+ᎯᎪᏩᏘᎭ|||You see him, her, or it.
+ᎯᎪᏩᏘᎭᏍ|||Do you see him, her, or it?
+ᎯᎾᎵ|||You are lazy.
+ᎯᎾᎵᏍ|||Are you lazy?
+ᎯᏏᏆ|||You are a pig.
+ᎯᏥᏔᎦ|||You are a chicken.
+ᎯᏥᏔᎦᏍ|||Are you a chicken?
+ᎯᏩᏔ|① hihwatā ② hihwata ③ hì:watā ④ hì:wata||① You just found it. ② Let you find it. ③ You just found him or her. ④ Let you find him or her.
+ᎯᏪᏌ|||You are a cat.
+ᎰᏍᏓ|||You are good.
+ᎹᎦᎵ|||Michael
+Ꮎ|||The. That.
+ᎾᎩᏍᎦᎸᎾ||Ꮒ- ᎠᎩ- ᎤᏍᎦᎸᎢ -ᎥᎾ|I am without fear.
+ᎾᎩᏩᎾᏕᎪ|||① I always treat it… ② He or she always treats me…
+ᎾᎯᏳ|||Then.
+ᎾᎯᏳᏃ|||And then.
+ᎾᎯᏳᏊ|||Just then.
+ᎾᎾᎵᏍᏇᏚᎠ|||They just now caused it.
+ᎾᏍ|||Is it that?
+Ꮒ|||Look!
+Ꮒ- -ᎥᎾ|||Without.
+ᏂᎦᎵᏍᏗᎭ|||It is happening.
+ᏂᎦᎵᏍᏗᏍᎨᏍᏗ|||It will be happening.
+ᏂᎦᏓ|||All. Everyone.
+ᏂᎦᏓᏍ|||Is it all?
+ᏂᎦᏛᏁᎭ|||I am doing it.
+ᏂᎦᏥᎸᏉᏛᎾ||Ꮒ- ᎦᏥ- ᎤᎸᏉᏛᎢ -ᎥᎾ|I am without liking for them.
+ᏂᎨᏒᎾ||Ꮒ- ᎨᏒᎢ -ᎥᎾ|Without.
+ᏂᎨᏣᏛᏁᎴᎴ||Ꮒ- ᎨᏣ- ᎤᏛᏁᎸᎢ -ᎡᎸᎢ|They did it for you.
+ᏂᎪᎯᎸᎢ|||Always.
+ᏂᎬᎩᎸᏉᏛᎾ||Ꮒ- ᎬᎩ- ᎤᎸᏉᏛᎢ -ᎥᎾ|They are without liking for me.
+ᏂᎬᏫᏍᏗ|||Is the look of it. Is the appearance of it.
+ᏂᎯ|||You.
+ᏂᎯᎾ|||What of you?
+ᏂᎯᎾᏰᎬᎾ|||You are without causing danger.
+ᏂᎯᏍᏊ|||You also.
+ᏂᏓᎦᎵᏍᏔᏂ|||① He, she, or it will become. ② It will happen.
+ᏂᏓᎦᏛᏁᎵ|||I will do it.
+ᏂᏣᏛᏁᎴ|||You all did.
+ᏂᏣᏛᏁᎸᎩ|||You did it.
+ᏂᏥᎬᏨᎾ||Ꮒ- ᎢᏥ- ᎤᎬᏨᎢ -ᎥᎾ|You all are without need.
+ᏃᎦᏛᏁᎸᎩ|||They and I did.
+ᏃᏊ|||Now.
+ᏄᎩᏒᎾ|||He or she is without getting it.
+ᏄᎳ|① nű:la ② nǔ:la||① Hurry. ② Come here.
+ᏄᎵᏍᏔᏁ|||① It became. ② It happened.
+ᏄᎵᏍᏔᏅᎩ|||① He, she, or it became. ② It happened.
+ᏄᏍᎦᎸᎾ||Ꮒ- ᎤᏍᎦᎸᎢ -ᎥᎾ|He or she is without fear.
+ᏄᏍᏗ|nű:sdi||His, her, or its way.
+ᏄᏒᏅᎾ||Ꮒ- ᎤᏒᏅᎢ -ᎥᎾ|He or she is without being devoured.
+ᏄᏛᏁᎴ|||He or she did it.
+ᏄᏩᎾᏕᎪ|||He or she always treats him, her or it…
+ᏅᎩ|||Four.
+ᏅᏯ|||A rock. Rocks.
+ᏌᏊ|||One.
+ᏌᏊᏊ||ᏌᏊ -Ꮚ|Just the one.
+ᏍᎩᎾ|||That. Those. He. She. It.
+ᏍᎩᏅᏳᏍᏗ|||Therefore. Is the reason for.
+ᏍᎩᏍᎦᎭ|||You are afraid of me.
+ᏍᎩᏍᎦᎭᏍ|||Are you afraid of me?
+ᏍᎩᏍᏕᎳ|||Let you help me.
+ᏍᎩᏍᏕᎵᎭᏍ|||Are you helping me?
+ᏍᏊ|||Also.
+ᏍᏓᎵᎢ|||① You two are friends. ② Your friend.
+ᏍᏙᏍᏓ|||You two are good.
+ᏍᏚᏗ|||A door or gate.
+Ꮟ|||① Yet. ② Still.
+ᏏᏆ|||A pig. Pigs.
+ᏏᏆᏍ|||Is it the pig?
+ᏏᏊ|||Again.
+ᏏᏊᏍ|||Is it again?
+ᏐᎢ|||Another.
+ᏑᏓᎵ|||Six.
+ᏓᎦᎵᏍᏓᏴᏂ|||I will eat a meal.
+ᏓᎦᎵᏍᏕᎸᎯ|||I will help.
+ᏓᎦᎾᏏᏅᏏ|||He or whe will drag it.
+ᏓᎦᏃᏍᎩᏏ|||He or she will steal it.
+ᏓᎦᏓᏅᏖᏟ|||I will think it.
+ᏓᎦᏚᏂ|||He or she will bake it.
+ᏓᎦᏛᏁᎴᎵ||Ꮣ- Ꮵ- ᎠᏛᏁᎸᎢ -ᎡᎸᎢ|I will be doing for him, her, or it.
+ᏓᎦᏛᏁᎵ|||I will do.
+ᏓᎦᏤᎸᏂ|||I will act like him or her.
+ᏓᎦᏥᎩᏏ|||I will get them.
+ᏓᎦᏥᎷᏥᏏᎴᎵ||Ꮣ- ᎦᏥ- ᎤᎷᏨᎢ -ᎢᏏᎸᎢ -ᎡᎸᎢ|I will come again for them.
+ᏓᎨᏅᏏ|||I will go.
+ᏓᎩᎧᎯᏐᏗ||Ꮥ- ᎠᎩ- ᎤᏪᎧᎲᎢ -ᎢᏐᏗ|For me to have them again.
+ᏓᎩᏏ|||① A terrapin turtle. ② A padlock. ③ A door knob.
+ᏓᎩᏙᎥ|||My name.
+ᏓᎬᎩᏟ|||They will kill me.
+ᏓᎬᎪᎯᏏᎵ||Ꮣ- Ꭼ- ᎤᎪᎲᎢ -ᎢᏏᎸᎢ|I will see you again.
+ᏓᎬᏍᏕᎸᎯ|||I will help you.
+ᏓᎬᏯᏄᎩᏨᏂ|||I will hug you.
+ᏓᏂᎦᏛᏁᎵ|||I will do it.
+ᏓᏍᎩᏍᏕᎸᎯᏍ|||Will you help me?
+ᏓᏗᏚᏂ|||All of us will bake it.
+ᏓᏣᎯ|||You will have it.
+ᏓᏣᏅᏘ|||You will know.
+ᏓᏣᏅᏘᏍᎪ|||Will you all know?
+ᏓᏤᎾ|||You all, come towards me.
+ᏓᏥᎦᏘᏗ|||I will wait for him or her.
+ᏓᏥᎩ||① dajigi ② dà:jigi|① I will eat it. ② You all will eat it.
+ᏓᏥᎩᏒᏏ||Ꮣ- Ꮵ- ᎤᎩᏒᎢ -ᎥᏒᎢ|I will go and get it.
+ᏓᏥᎪᏩᏔ||Ꮣ- ᎢᏥ- ᎯᎪᏩᏔ|Let you all come towards me and see it.
+ᏓᏥᎷᏥ|||I will arrive.
+ᏓᏥᏁᎴᎵ||Ꮣ- Ꮵ- ᎤᏁᎸᎢ -ᎡᎸᎢ|I will give it to him or her.
+ᏓᏥᏂᏴᎯ|||I will catch him or her.
+ᏓᏥᏒᏂ|||I will devour him, her, or it.
+ᏓᏥᏒᏂᎵ|||He or she will devour you all.
+ᏓᏥᏫᏏ|||I will plant it.
+ᏓᏥᏫᏛᎯ|||I will take it.
+ᏓᏨᏯᎵᏍᏕᎸᎯ|||They and I will help you.
+ᏓᏫᏏ|||He or she will plant it.
+ᏓᏲᎦᏅᏘ|||They and I will know it.
+ᏓᏲᏣᏛᏓᏍᏔᏂ|||The and I will listen to it.
+ᏓᏲᏥᎾᏫᏛᎯ|||They and I will take him or her somewhere.
+ᏓᏲᏥᏍᏚᎢᏏ|||They and I will open it.
+ᏓᏲᏥᏍᏚᏂ|||They and I will close it.
+ᏓᏲᏥᏫᏛᎯ|||They and I will lead him or her.
+ᏓᏲᏦᏎᎵ|||They and I will say to him or her.
+ᏓᏳᎯ|||He or she will have it.
+ᏓᏳᎷᏥ|||He or she will arrive.
+ᏔᎷᏣ|||A basket. Baskets.
+ᏔᏃᎨᏂ|||Your arms.
+ᏔᏛᏁᎵ|||You will do it.
+ᏕᎦᎵᏗ|||A sack.
+ᏕᎦᎵᏗᏍ|||Is it a sack?
+ᏕᎯᏍᎦᎭ|||You are afraid of them.
+ᏕᎯᏍᎦᎭᏍᎪ|||Are you afraid of them?
+ᏕᏥᎦᏙᎵ|||My eyes.
+ᏕᏥᏍᎦᎭ|||I am afraid of them.
+ᏕᏥᏫᏗᎭ|||I am taking them.
+ᏕᏥᏲᎦ|||I just brought them.
+ᏖᎾ|||Let you go towards me.
+ᏗᎦᎴᏂ|||His ears.
+ᏗᎦᏃᎨᏂ|||My arms.
+ᏗᎦᏘᏅᏘᏗ|||Eye glasses.
+ᏗᎦᏙᎵ|||His or her eyes.
+ᏗᎧᏃᎨ|||Arms.
+ᏗᎨᏅᏒᎢ|||① Your all's and my home. ② Your all's and my goings.
+ᏗᎩᏁᏅᏒᎢ|||① Your and my home. ② Your and my goings.
+ᏗᎩᏟᏐᏗ|||For me to gather them.
+ᏗᎬᎿᎨ|||Black.
+ᏗᎬᎿᎨᎢ|||Black.
+ᏗᎬᏩᏂᏩᏛᏗ|||They are able to find them.
+ᏗᎵᏍᏓᏴᏗ|||Groceries. Meals.
+ᏗᎵᏍᏙᏰᏗ|||Scissors.
+ᏗᏂᎨᏓ|||Heavy.
+ᏗᏂᎨᏓᏒᎢᏍᎪ|||Are they unusually heavy?
+ᏗᏂᎴᏴᏍᏗᏍᎩ|||Lumberjacks.
+ᏗᏆᎳᏏᏕᏂ|||My feet.
+ᏗᏆᎵᏨᏯᏍᏗ|||I'm brave.
+ᏗᏆᏃᎨᏂ|||My arms.
+ᏗᏆᏤᎵ|||My.
+ᏗᏇᏥ|||My children.
+ᏗᏍᏙᏍᎩ|||① One who crushes. ② One who operates a mill.
+ᏗᏍᏙᏍᎩᎢ|||① A crusher. ② A mill.
+ᏗᏍᏙᏍᎩᎢᏍ|||Is it the mill?
+ᏗᏐᎢ|||Others.
+ᏗᏜ|||Toward.
+ᏗᏣᎦᏙᏍᏓ|||Let you all look at them.
+ᏗᏣᎳᏏᏕᏂ|||Your feet.
+ᏗᏥᎴᏂ|||My ears.
+ᏗᏥᏱᎦ|||Let you all look for it.
+ᏗᏨᏰᏥ|||They and I, your children.
+ᏘᎦᏙᎵ|||Your eyes.
+ᏘᎩᏒᏏ|||You will go and get it.
+ᏘᎩᏒᏏᏍᎪ|||Will you go and get it?
+ᏘᎴᏂ|||Your ears.
+ᏘᎷᎩ|||Come, approaching me.
+ᏘᏫᏛᎯ|||You will take it somewhere.
+ᏙᎢ|||Still.
+ᏙᎯᏳ|||Really. Very.
+ᏙᎯᏳᏍ|||Very?
+ᏙᎾᏓᎪᎲᎢ|||Let you one and I see each other again later.
+ᏙᏓᎦᏟᏌᏂ|||I will gather them.
+ᏙᏓᎫᏢᏂ|||I will cover them.
+ᏙᏓᎸᏉᏗ|||He or she will like them.
+ᏙᏓᏓᎪᎲᎢ|||Let us see each other later.
+ᏙᏓᏥᏫᏛᎯ|||I will take them.
+ᏙᏓᏲᎩᏯᎵ|||They and I will look for them.
+ᏙᏛᎩᎧᎯᏏᎵ||Ꮥ- Ꮣ- ᎠᎩ- ᎤᏪᎧᎲᎢ -ᎢᏏᎸᎢ|I will have them again.
+ᏙᏛᏒᏂ|||He or she will devour him, her, or it.
+ᏙᏣᎵᎮᎵᎦ|||They and I are happy.
+ᏙᏥᎪᏩᏘᎭ|||They and I see them.
+ᏙᏦᎵᎦ|||They and I recognize them.
+ᏙᏱ|||Outside.
+ᏙᏳ|||Very.
+ᏚᎦᏘᏅᏔ|||He or she is wearing glasses.
+ᏚᎦᏘᏅᏔᏁ|||He put on eye glasses.
+ᏚᎦᏙᏍᏔᏁ|||He or she looked at them.
+ᏚᎨᏳᏐ|||He or she loves or is possessive over them.
+ᏚᎩᏎ|||① He or she got them. ② He or she picked them up.
+ᏚᎮᏍᏗ|||He or she will be having them.
+ᏚᎳᏑᏝᏃ|||And he or she is wearing shoes or boots.
+ᏚᎵᏔᏁ|||He or she put them in a container.
+ᏚᎵᏔᏗᏅᏎ|||He jumped.
+ᏚᎵᏔᏗᏅᏒᎢ|||His or her jumping.
+ᏚᎸᏉᏗ|||He or she likes them.
+ᏚᎾᎦᏙᏍᏔᏁ|||They looked at them.
+ᏚᎾᎵᏔᏗᏅᏎ|||They jumped.
+ᏚᎾᏓᏓᎦᏙᏍᏔᏁ|||They looked at each other.
+ᏚᎾᏠᏎ|||They met.
+ᏚᏁᎧᎮ|||He or she has them.
+ᏚᏒᏁ|||He or she devoured them.
+ᏚᏒᏅᎩ|||He or she devoured them.
+ᏚᏙᎠ|||Is called.
+ᏚᏭᏢᏁ|||① He or she covered them. ② He or she put lids on them.
+ᏚᏯᏅᎮ|||He or she called out to them.
+ᏚᏯᏅᎯᏏᎴ||Ꮥ- ᎤᏯᏅᎲᎢ -ᎢᏏᎸᎢ|He or she called out again for them.
+ᏚᏯᏪᎦ|||I am tired.
+ᏛᎩᎸᏂ|||He or she will get on or in it.
+ᏛᎩᎸᏂᏍ|||Will he or she get on or in it?
+ᏛᎩᏍ|||Will he or she eat it?
+ᏛᎩᏍᏕᎸᎯ|||He or she will help me.
+ᏛᎩᏒᏏ||Ꮣ- ᎤᎩᏒᎢ -ᎥᏒᎢ|He or she will go and get it.
+ᏛᎩᏒᏏᏍᎪ|||Will he or she go and get it?
+ᏛᎩᏒᏟ|||I will get into bed.
+ᏛᎵᎮᎵᏥ|||He or she will be glad.
+ᏛᎾᎩᎸᏂ|||They will get on or in it.
+ᏛᏂᏃᏍᎩᏏ|||They will steal it.
+ᏛᏅᏂᏏ|||① They will ripen. ② They will become cooked.
+ᏛᏇᏅᏏ|||I will go.
+ᏛᏍᎦᎵᏍ|||Will he or she be afraid?
+ᏛᏍᏙᎢ|||He or she will be grinding.
+ᏛᏍᏚᎢᏏ|||He or she will open it.
+ᏛᏓᏅᏏ|||It will move.
+ᏛᏛᏁᎵ|||He or she will do it.
+ᏛᏛᏏ|||It will grow.
+ᏛᏫᏏ|||He or she will plant it.
+ᏛᏫᏛᎯ|||He or she will take it somewhere.
+Ꮭ|||No. Not.
+Ꮭ ᎢᎸᎯᏳ|||Ever.
+Ꮭ ᏱᏘᏯᎵᏃᎮᏔᏂ|||I will not talk to him or her.
+ᏞᏍᏗ|||Do not.
+ᏞᏍᏗ ᏥᎯᏯᎵᏃᎮᏓ|||Do not speak to him or her.
+ᏠᎨᏏ|||A field.
+ᏡᎬ|||A tree.
+ᏣᎦᏎᏍᏕᏍᏗ|||① You will be careful. ② Let you be careful.
+ᏣᎪᏩᏛᏗ|||① For you to see it. ② For him or her to see you.
+ᏣᎭ|||You have it.
+ᏣᎵᏍᏓᏁᎭ|||It is happening to you.
+ᏣᎵᏍᏓᏁᏗ|||For it to happen to you.
+ᏣᎵᏍᏓᏁᏗᏍᏊ|||For it to happen to you also.
+ᏣᎵᏍᏓᏏ|||Let it happen to you.
+ᏣᎵᏏ|||Your maternal grandmother.
+ᏣᎵᏏᏍᎪ|||Is it your maternal grandmother?
+ᏣᎸᏍᏗ|||For you to climb.
+ᏣᎸᏍᏗᏍ|||Is it for you to climb it?
+ᏣᏅᎢᏍᏗ|||For me to fall from an upright position.
+ᏣᏅᏔ|||You know it.
+ᏣᏍᏗ|||You are good.
+ᏣᏓᏅᏘ|||You are gentle.
+ᏣᏓᏣᏘᏗ|||You are reckless.
+ᏣᏘᏗ|||For me to bake it.
+ᏣᏚᎵᎭ|||You are wanting.
+ᏣᏚᏅᎩ|||You baked it.
+ᏣᏛᎦᏁᏍ|||Did you hear it?
+ᏣᏛᏁ|||You said.
+ᏣᏛᏁᎴ|||You did it.
+ᏣᏢᎦ|||You are sick.
+ᏣᏤᎵ|||Your.
+ᏣᏤᎵᏍᎪ|||Is it yours?
+ᏣᏩᏟᏌᏅᎩ|||You gathered it.
+ᏣᏫᏍᏗᏍ|||Is it for you to plant it?
+ᏣᏫᏒᎩ|||You planted it.
+ᏣᏫᏛᎲᎩ|||You took it somewhere.
+ᏣᏬᏂᏒᎢ|||Your speaking.
+ᏣᏲ|||You are bad.
+ᏣᏲᏒ|||You are unusually bad.
+ᏣᏴᏍᏗ|||For you to enter.
+ᏤᏅᏍᏗ|||For you to go.
+ᏥᎦᏔᎭ|||I know how.
+ᏥᎧᏂᏈᏌ|||I am a rat.
+ᏥᎨᏓ|||I'm heavy.
+ᏥᎨᏳᎠ|||I love or am possessive over him or her.
+ᏥᎨᏳᏐ|||I always love or am possessive over him, her, or it.
+ᏥᎩ|||I am eating it.
+ᏥᎩᎦᎨ|||I am red.
+ᏥᎩᏎᎦ|||I am leaving to get it.
+ᏥᎪᎮᎦ||Ꮵ- ᎤᎪᎲᎢ -ᎡᎦ|I go to see him, her, or it.
+ᏥᎪᎲᏍᏗ|||For me to see him or her.
+ᏥᎪᏩᏘ|||I see him, her, or it.
+ᏥᎪᏩᏘᎭ|||I see him, her, or it.
+ᏥᎯᏯᎵᏃᎮᏓ|||Don't talk with him or her.
+ᏥᎯᏰᎢᏍᏓ|||Don't you wake him or her.
+ᏥᎾᎵ|||I am lazy.
+ᏥᏂᏱᏗ|||For me to catch him or her.
+ᏥᏈᏍᏗ|||Many.
+ᏥᏍᎦᎭ|||I am afraid of him, her, or it.
+ᏥᏍᎦᏯ|||I was just now afraid.
+ᏥᏏᏆ|||I am a pig.
+ᏥᏒᎲᏍᏗ|||For me to devour him, her, or it.
+ᏥᏔᎦ|||A chicken. Chickens.
+ᏥᏔᎦᏃ|||And the chicken.
+ᏥᏔᎦᏍ|||Is it the chicken?
+ᏥᏚᎲᏍᎦ|||I am baking it.
+ᏥᏟᎲᎩ|||I was sleeping.
+ᏥᏟᏏ|||I will gather it.
+ᏥᏣᎵᏍᎪᎸᏓᏏ|||Do not let you all permit it.
+ᏥᏥᏍᏚᎢ|||You all, do not open it.
+ᏥᏥᏔᎦ|||I am a chicken.
+ᏥᏩᏔ|||I just found it.
+ᏥᏪᏌ|||I am a cat.
+ᏥᏫᏍᎦ|||I am planting it.
+ᏥᏫᏗᎭ|||I am taking it.
+ᏥᏯᎠ|||I am inside it.
+ᏥᏲᏌ|||I just spoke to him or her.
+ᏦᎩᎪᏩᏛᏗ|||For them and me to see them.
+ᏦᎳᏂ|||A window. Windows.
+ᏦᏟᏍᏗ|||① For you to understand it. ② For him or her to recognize you.
+ᏧᎳᏏᏕᏂ|||His or her feet.
+ᏧᎾᎵᎢ|||① His or her friends. ② Their friends.
+ᏧᎾᏍᏗ|||Babies. Little.
+ᏧᎾᏟᏂᎩᏓ|||Strong.
+ᏧᏁᎦ|||White.
+ᏧᏁᏅᏒᎢ|||① Their home. ② Their goings.
+ᏧᏂᏫᏍᏗ|||For them to take them somewhere.
+ᏧᏍᏗ|||Little.
+ᏧᏓᏙᏎᎸᎢ||Ꮧ- ᎤᏓᏓ- ᎤᏬᏎᎸᎢ|His or her talking to themselves.
+ᏧᏔᎾ|||They are big.
+ᏧᏔᎾᏍ|||Are they big?
+ᏧᏔᏂ|||They are too big.
+ᏧᏛᏅᎢ|||His or her saying.
+ᏧᏤᎵ|||His or her friends.
+ᏧᏩᎧᎯᏯᏍᏗ|||He or she must leave them behind.
+ᏧᏩᏛᎮᏗ||Ꮧ- ᎤᏩᏛᎲᎢ -ᎡᏗ|For him or her to find it for them.
+ᏧᏩᏟᏐᏗ|||For him or her to gather them.
+ᏧᏪᏅᏒᎢ|||① His or her home. ② His or her goings.
+ᏧᏪᏥ|||Offspring.
+ᏧᏬᏎᎸᎢ|||His or her speaking to them.
+ᏩᎩᏫᏛᎲᎩ|||I took it somewhere.
+ᏩᎲᎦ|||He or she just sent it.
+ᏩᏂᎨᎢ|||Soft.
+ᏩᏇᏅᏍᏗ|||For me to go away.
+ᏩᏇᏓᏍᏗ|||For me to go away.
+ᏩᏥ|||Watch. Clock.
+ᏩᏥᏱ|||Usual location of the watch or clock.
+ᏩᏯ|||A wolf. Wolves.
+ᏩᏯᏊ|||Just a wolf. Just wolves.
+ᏪᎦ|||He or she is going away.
+ᏪᎾ|||Go away!
+ᏪᏌ|||A cat. Cats.
+ᏪᏌᏍ|||Is it the cat?
+ᏪᏙᎭ|||He or she is away walking about.
+Ꮻ-|||① Moving or facing away from the speaker. ② Unseen in the distance.
+ᏫᎦᎧᎲᎦ|||He or she just sent him or her.
+ᏫᎦᏁᎳ|||Away he or she resides.
+ᏫᎩᏎᎦᏍ||Ꮻ- Ꭿ- ᎤᎩᏒᎢ -ᎡᎦ -ᏍᎪ|Are you leaving to get it?
+ᏫᏍᎩᎩᏎᎷᎦ||Ꮻ- ᎢᏍᎩ- ᎤᎩᏒᎢ -ᎡᎸᎢ -ᎤᎦ|Let you go get it for us.
+ᏫᏍᎩᏕᎳ|||Let you help them and me.
+ᏫᏍᏕᎾ|||Let you two go.
+ᏫᏗᏓᏓᎾᏩᏍᏓ|||Let everyone take off running.
+ᏫᏘᎪᏩᏛᏓ|||Let you show them.
+ᏫᏘᏩᏔ|||Let you find them.
+ᏫᏙᏥᎪᏩᏔ|||Let them and me see them.
+ᏫᏚᎵᏔᏗᏅᏎᎴ||Ꮻ- ᏚᎵᏔᏗᏅᏒᎢ -ᎡᎸᎢ|He or she jumped for him or her.
+ᏫᏛᎩᏒᏏ|Ꮻ- Ꮣ- ᎤᎩᏒᎢ -ᎥᏒᎢ||He or she will leave to get it.
+ᏫᏣᏓᎾᏩᏍᏓ|||Let you all start running away.
+ᏫᏤᎾ|||Let you go.
+ᏫᏤᏅᏍᏗ|||For you to go away.
+ᏫᏤᏅᏒᎢ|||Your being gone away.
+ᏫᏥᏫᏛᎮᏗ||Ꮻ- Ꮵ- ᎤᏫᏛᎲᎢ -ᎡᏗ|For me to take it away to her.
+ᏭᎪᏛ|||Most.
+ᏭᏁᏅᏎ|||They went away.
+ᏭᏪᏅᏍᏗ|||Away for him or her to go.
+ᏭᏪᏅᏎ|||Away he or she went.
+ᏭᏪᏅᏏᏏᎴ||Ꮻ- ᎤᏪᏅᏒᎢ -ᎢᏏᎸᎢ|He or she went away again.
+ᏭᏪᏅᏒᎢ|||His or her going away.
+ᏭᏪᏅᏒᎩ|||He or she went away.
+ᏭᏰᏘᏎᎴ||Ꮻ- ᎤᏰᏘᏒᎢ -ᎡᎸᎢ|He or she laughed at them.
+ᏯᎾᎵᏍᎪᎸᏓᏁᎰ|||Maybe they will permit it.
+ᏯᏂᎩ|||Maybe they just got it.
+ᏯᏆᎵᏍᏓᏁᎭ|||Maybe it is happening to me.
+ᏯᏆᏚᎵ|||Maybe I am wanting it.
+ᏯᏩᏔ|||Maybe he or she just found it.
+ᏯᏫᏗᎭ|||Maybe he or she is taking it somewhere.
+ᏰᎾ|||Maybe he or she just went.
+ᏰᏅᏒᎭ||Ᏹ- Ꭰ- ᎤᏪᏅᏒᎢ -ᎥᎭ|Maybe he or she should or would go.
+Ᏹ- -Ꭰ|||When something does or happens, something else usually does or happens.
+ᏱᎦᏣᏴᏍᏗ|||Maybe for you to enter.
+ᏱᎦᏣᏴᏟᏐᏗ||Ᏹ- Ꭶ- Ꮳ- ᎤᏴᏢᎢ -ᎢᏐᏗ|Maybe for you to enter it again.
+ᏱᎦᏱᏥᏍᏕᎸᏗ|||He or she can't help you all.
+ᏱᎨᎦ|||Maybe I am going.
+ᏱᎨᏎ|||Maybe it was being.
+ᏱᎩ|||Maybe it is.
+ᏱᎬᎩᎪᏩᏔ|||Maybe they just saw me.
+ᏱᎬᎩᎷᎦ|||Maybe they just killed me.
+ᏱᎬᏍᏕᎵᎭ|||Maybe I am helping you.
+ᏱᎬᏩᎩᎸᏗ|||Maybe he or she can get on or in it.
+ᏱᎯᎾᏌᎾᎦ|||Maybe you pull it just now.
+ᏱᎾᏛᏁᎰ|||Maybe you usually do something.
+ᏱᏂᎦᏛᏁᎭ|||Maybe I am doing it.
+ᏱᏂᎬᏩᎾᏛᏁᏗ|||If they have the ability to do it.
+ᏱᏂᎬᏩᏛᏁᏗ|||Maybe he or she is able to do it.
+ᏱᏂᏓᏣᏛᏁᎵ|||Maybe you all will do it.
+ᏱᏂᏣᏛᏁᎵ|||Maybe you all will do it.
+ᏱᏄᏛᏁᎴ|||Maybe he or she did.
+ᏱᏍᎩᏯᏛᎩᎠ|||Maybe you all are hearing me.
+ᏱᏍᎩᏲᎵᎦ|||Maybe you all recognize me.
+ᏱᏓᎬᏯᏅᎯ|||Maybe I will help you.
+ᏱᏓᏣᎯ|||Maybe you will have it.
+ᏱᏓᏥᎩ|① yidajigi ② yidà:jigi||① Maybe I will eat it. ② Maybe you all will eat it.
+ᏱᏓᏨᏍᏚᎢᏎᎵ||Ᏹ- Ꮣ- ᎢᏨ- ᎤᏍᏚᎢᏒᎢ -ᎡᎸᎢ|Maybe they and I will open it for you.
+ᏱᏓᏲᏣᎵᏍᎪᎸᏓᏁᎵ|||Maybe they and I will permit it.
+ᏱᏓᏲᏥᏍᏚᎢᏎᎵ||Ᏹ- Ꮣ- ᎣᏥ- ᎤᏍᏚᎢᏒᎢ -ᎡᎸᎢ|Maybe they and I will open it for him or her.
+ᏱᏓᏲᏥᏍᏚᎢᏏ|||Maybe we will open it.
+ᏱᏓᏳᎯ|||Maybe he or she will have it.
+ᏱᏕᏣᏛᎩᎠ|||Maybe you all hear it.
+ᏱᏖᎾ||Ᏹ- Ꮣ- ᎮᎾ|Maybe you go towards me.
+ᏱᏘᏯᎵᏃᎮᏔᏂ|||Maybe I will talk to him or her.
+ᏱᏛᏂᎩᏒᏏ|||Maybe they will go and get it.
+ᏱᏛᏂᏫᏛᎯ|||Maybe they will take it somewhere.
+ᏱᏛᏍᏚᎢᏏ|||Maybe he or she will open it.
+ᏱᏛᏫᏏ|||Maybe he or she will plant it.
+ᏱᏣᎬᏣ||Ᏹ- ᏣᎬᏨᎢ -Ꭰ|When you drown.
+ᏱᏣᎵᏍᎪᎸᏓᏁᎭ|||Maybe you all are permitting.
+ᏱᏣᎵᏍᏕᎵᏍᎪ|||Maybe you all help.
+ᏱᏣᎵᏍᏕᎸᎮ|||Maybe you all help.
+ᏱᏥᎩᎠ|||Maybe he or she is catching you all.
+ᏱᏥᎩᏎᎦ|||Maybe I am leaving to get it.
+ᏱᏥᎩᏒᏒᎭ||Ᏹ- ᎢᏥ- ᎤᎩᏒᎢ- -ᎥᏒᎢ -ᎥᎭ|Maybe you all should or would go and get it.
+ᏱᏥᏂᏴᎯᏌ||Ᏹ- ᎢᏥ- ᎤᏂᏴᎲᎢ -ᎢᏌ|① You all might catch it again. ② He or she might catch you all again.
+ᏱᏥᏍᏚᎢᏍᏗ|||Maybe you all are opening it.
+ᏱᏥᏍᏚᎢᏒᎭ||Ᏹ- ᎢᏥ- ᎤᏍᏚᎢᏒᎢ -ᎥᎭ|Maybe you all should or would open it.
+ᏱᏥᏒᎲᏍᏗ|||Maybe for me to devour him or her.
+ᏱᏥᏚᏅᎭ|||Maybe you all baked it.
+ᏱᏥᏟᏌᏅᎩ|||Maybe you all gathered it.
+ᏱᏥᏟᏌᏅᎭ|||Maybe you all should or would gather it.
+ᏱᏥᏩᏛᎲᎩ|||Maybe you all found it.
+ᏱᏥᏫᏒᎩ|||Maybe you all planted it.
+ᏱᏥᏫᏒᎭ|||Maybe you all should or would plant it.
+ᏱᏥᏫᏗᎭ|||Maybe I am taking it somewhere.
+ᏱᏥᏫᏛᎲᎩ|||Maybe you all took it somewhere.
+ᏱᏥᏫᏛᎲᎭ|||Maybe you all should or would take it somewhere.
+ᏱᏭᏁᏅᏎ|||Maybe they should or would go.
+ᏳᎩᏒᏎ|||Maybe he or she went and got it.
+ᏳᎪᎮ|||Maybe he or she sees him, her, or it.
+ᏳᎵᏃᎮᏔᏁ|||Maybe he or she did.
+ᏳᎷᏤ|||Maybe arrived.
+ᏳᎾᏛᎦᏁ|||Maybe they heard.
+ᏳᏂᎩᏒᏎ||Ᏹ- ᎤᏂ- ᎤᎩᏒᎢ -ᎥᏒᎢ|Maybe they left and got it.
+ᏳᏂᏍᏚᎢᏎ|||Maybe they opened it.
+ᏳᏂᏟᏌᏁ|||Maybe they gathered it.
+ᏳᏂᏩᏚᏁ|||Maybe they made it.
+ᏳᏂᏩᏛᎮ|||Maybe they found it.
+ᏳᏂᏫᏎ|||Maybe they planted it.
+ᏳᏂᏫᏛᎮ|||Maybe they took it somewhere.
+ᏳᏩᏛᎮ|||Maybe he or she found it.
+ᏳᏩᏟᏌᏁ|||Maybe he or she gathered it.
+ᏳᏩᏟᏌᏅᎭ|||Maybe he or she should or would gather it.
+ᏳᏪᏅᏎ|||Maybe he or she went.
+ᏳᏫᏎ|||Maybe he or she planted it.

@@ -1,154 +1,4735 @@
 #LyX 2.3 created this file. For more info see http://www.lyx.org/
-
 \lyxformat 544
-
 \begin_document
-
 \begin_header
-
 \save_transient_properties true
-
 \origin unavailable
-
-\textclass article
-
-\use_default_options true
-
+\textclass book
+\begin_preamble
+\usepackage{multicol}%
+\usepackage{wallpaper}%
+%
+\end_preamble
+\use_default_options false
+\begin_modules
+fixltx2e
+\end_modules
 \maintain_unincluded_children false
-
-\language english
-
+\language american
 \language_package default
-
-\inputencoding auto
-
+\inputencoding utf8-plain
 \fontencoding global
-
-\font_roman "default" "default"
-
-\font_sans "default" "default"
-
-\font_typewriter "default" "default"
-
+\font_roman "default" "FreeSerif"
+\font_sans "default" "FreeSans"
+\font_typewriter "default" "FreeMono"
 \font_math "auto" "auto"
-
 \font_default_family default
-
-\use_non_tex_fonts false
-
+\use_non_tex_fonts true
 \font_sc false
-
-\font_osf false
-
+\font_osf true
 \font_sf_scale 100 100
-
 \font_tt_scale 100 100
-
 \use_microtype false
-
 \use_dash_ligatures true
-
-\graphics default
-
-\default_output_format default
-
-\output_sync 0
-
+\graphics none
+\default_output_format pdf4
+\output_sync 1
 \bibtex_command default
-
 \index_command default
-
 \paperfontsize default
-
-\use_hyperref false
-
-\papersize default
-
-\use_geometry false
-
+\spacing single
+\use_hyperref true
+\pdf_title "Ꮎ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ"
+\pdf_author "Michael Joyner"
+\pdf_subject "Cherokee Language"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered true
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 2
+\pdf_breaklinks true
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\pdf_quoted_options "unicode=true,hypertexnames=false"
+\papersize custom
+\use_geometry true
 \use_package amsmath 1
-
 \use_package amssymb 1
-
 \use_package cancel 1
-
 \use_package esint 1
-
 \use_package mathdots 1
-
 \use_package mathtools 1
-
 \use_package mhchem 1
-
 \use_package stackrel 1
-
 \use_package stmaryrd 1
-
 \use_package undertilde 1
-
 \cite_engine basic
-
 \cite_engine_type default
-
+\biblio_style plain
 \use_bibtopic false
-
 \use_indices false
-
 \paperorientation portrait
-
-\suppress_date false
-
-\justification true
-
-\use_refstyle 1
-
+\suppress_date true
+\justification false
+\use_refstyle 0
 \use_minted 0
-
+\branch smashwords
+\selected 0
+\filename_suffix 0
+\color #faf0e6
+\end_branch
 \index Index
-
 \shortcut idx
-
 \color #008000
-
 \end_index
-
-\secnumdepth 3
-
-\tocdepth 3
-
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 0.7in
+\topmargin 0.7in
+\rightmargin 0.6in
+\bottommargin 0.7in
+\secnumdepth -1
+\tocdepth 1
 \paragraph_separation indent
-
 \paragraph_indentation default
-
 \is_math_indent 0
-
 \math_numbering_side default
-
 \quotes_style english
-
 \dynamic_quotes 0
-
 \papercolumns 1
-
-\papersides 1
-
-\paperpagestyle default
-
+\papersides 2
+\paperpagestyle fancy
+\bullet 0 0 8 5
+\bullet 1 0 0 5
+\bullet 2 0 6 5
+\bullet 3 0 10 5
 \tracking_changes false
-
 \output_changes false
-
 \html_math_output 0
-
 \html_css_as_file 0
-
-\html_be_strict false
-
+\html_be_strict true
 \end_header
 
-
-
 \begin_body
+
+\begin_layout Chapter
+Vocabulary
+\end_layout
+
+
+\begin_layout
+Section*
+-
+\end_layout
+
+
+\begin_layout Description
+-ᎡᎦ [-é:ga] \begin_inset Quotes eld
+\end_inset
+
+Is now leaving to do it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+-ᎥᎭ [-v:ha] \begin_inset Quotes eld
+\end_inset
+
+Should or would.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+-ᎥᏍᏗ [-v́:sdi] \begin_inset Quotes eld
+\end_inset
+
+To leave to do it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+-ᎥᏒᎢ [-v́:sv̌:ɂi] \begin_inset Quotes eld
+\end_inset
+
+Left to do it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+-Ꮚ \begin_inset Quotes eld
+\end_inset
+
+Just. Only.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+-ᏍᎪ \begin_inset Quotes eld
+\end_inset
+
+Is it?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+-ᏯᎢ \begin_inset Quotes eld
+\end_inset
+
+① Truly. ② Pure.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꭰ
+\end_layout
+
+
+\begin_layout Description
+ᎠᎩᎦᎨ \begin_inset Quotes eld
+\end_inset
+
+Red.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎠᎩᎩᏍᏗ \begin_inset Quotes eld
+\end_inset
+
+For me to eat.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎠᎩᎭ \begin_inset Quotes eld
+\end_inset
+
+I have it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎠᎩᏍᏕᎵᎭ \begin_inset Quotes eld
+\end_inset
+
+He or she is helping me.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎠᎩᏍᏗ \begin_inset Quotes eld
+\end_inset
+
+For eating.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎠᎩᏎᎦ \begin_inset Quotes eld
+\end_inset
+
+He or she is leaving to get it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎠᎩᏏ \begin_inset Quotes eld
+\end_inset
+
+Female.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎠᎩᏘᏗ \begin_inset Quotes eld
+\end_inset
+
+For me to bake it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎠᎩᏚᏅᎩ \begin_inset Quotes eld
+\end_inset
+
+I baked it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎠᎩᏟᏐᏗ \begin_inset Quotes eld
+\end_inset
+
+For me to gather it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+ᎠᎩᏩᏛᎲᎩ
+\end_layout
+
+
+\begin_layout Description
+ᎠᎩᏩᏛᎲᎩ \begin_inset Quotes eld
+\end_inset
+
+I found it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎠᎩᏩᏟᏌᏅᎩ \begin_inset Quotes eld
+\end_inset
+
+I gathered it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎠᎩᏫᏍᏗ \begin_inset Quotes eld
+\end_inset
+
+For me to plant it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎠᎩᏫᏒᎩ \begin_inset Quotes eld
+\end_inset
+
+I planted it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎠᎩᏫᏛᎲᎩ \begin_inset Quotes eld
+\end_inset
+
+I took it somewhere.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎠᎪᏩᏘᎭ \begin_inset Quotes eld
+\end_inset
+
+He or she sees him, her, or it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎠᎬᎭ \begin_inset Quotes eld
+\end_inset
+
+He or she would eat it.
+\begin_inset Quotes erd
+\end_inset
+
+ (Ꭰ- ᎤᎬᎢ -ᎥᎭ)
+\end_layout
+
+
+
+\begin_layout Description
+ᎠᎬᎭᏍ \begin_inset Quotes eld
+\end_inset
+
+Would he or she eat it?
+\begin_inset Quotes erd
+\end_inset
+
+ (Ꭰ- ᎤᎬᎢ -ᎥᎭ -ᏍᎪ)
+\end_layout
+
+
+
+\begin_layout Description
+ᎠᎭᏂ \begin_inset Quotes eld
+\end_inset
+
+Here.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎠᎴ \begin_inset Quotes eld
+\end_inset
+
+And. Or.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+ᎠᎵᏍᏕᎵᏍᎪᎢ
+\end_layout
+
+
+\begin_layout Description
+ᎠᎵᏍᏕᎵᏍᎪᎢ \begin_inset Quotes eld
+\end_inset
+
+He or she usually helps.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎠᏂᎩᏒᎭ \begin_inset Quotes eld
+\end_inset
+
+They should or would eat it.
+\begin_inset Quotes erd
+\end_inset
+
+ (ᎠᏂ- ᎤᎬᎢ -ᎥᎭ)
+\end_layout
+
+
+
+\begin_layout Description
+ᎠᏂᎩᏔ \begin_inset Quotes eld
+\end_inset
+
+Seeds.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎠᏂᎾᎵ \begin_inset Quotes eld
+\end_inset
+
+They are lazy.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎠᏂᏦᎢ \begin_inset Quotes eld
+\end_inset
+
+Three.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎠᏃᏍᏓ \begin_inset Quotes eld
+\end_inset
+
+They are good.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎠᏃᏍᏓᏍ \begin_inset Quotes eld
+\end_inset
+
+Are they good?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎠᏆᏟᏌᏅᎩ \begin_inset Quotes eld
+\end_inset
+
+I gathered it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎠᏆᏤᎵ \begin_inset Quotes eld
+\end_inset
+
+My.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎠᏆᏤᎵᎦᏯ \begin_inset Quotes eld
+\end_inset
+
+It is truly and solely mine.
+\begin_inset Quotes erd
+\end_inset
+
+ (ᎠᎩ- ᎤᏤᎵᎢ -Ꭶ -ᏯᎢ)
+\end_layout
+
+
+
+\begin_layout
+Section*
+ᎠᏋᏌ
+\end_layout
+
+
+\begin_layout Description
+ᎠᏋᏌ [① agwv̌:sa ② agwv̋:sa] \begin_inset Quotes eld
+\end_inset
+
+① Myself. ② I alone.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎠᏎ [① ase ② ǎ:se] \begin_inset Quotes eld
+\end_inset
+
+① Must. ② Maybe. Perhaps.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎠᏎᏃ \begin_inset Quotes eld
+\end_inset
+
+But.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎠᏥᎵᏔᏅᎩ \begin_inset Quotes eld
+\end_inset
+
+It was put into a container.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎠᏩᏔ \begin_inset Quotes eld
+\end_inset
+
+He or she just found it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎠᏴ \begin_inset Quotes eld
+\end_inset
+
+I. Me.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎠᏴᏫ \begin_inset Quotes eld
+\end_inset
+
+A person.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꭱ
+\end_layout
+
+
+\begin_layout Description
+ᎡᎦ \begin_inset Quotes eld
+\end_inset
+
+He or she is going.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎡᎮ \begin_inset Quotes eld
+\end_inset
+
+He or she lived.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎡᎵᏊ \begin_inset Quotes eld
+\end_inset
+
+Able to.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎡᎵᏊ\begin_inset space ~
+\end_inset
+
+Ᏹ- \begin_inset Quotes eld
+\end_inset
+
+It might happen.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎡᎵᏊᏍ \begin_inset Quotes eld
+\end_inset
+
+Is it possible?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎡᏆ \begin_inset Quotes eld
+\end_inset
+
+Large.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꭲ
+\end_layout
+
+
+\begin_layout Description
+ᎢᎦ \begin_inset Quotes eld
+\end_inset
+
+Day.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎢᎦᏓ \begin_inset Quotes eld
+\end_inset
+
+Some.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎢᎦᏓᏊ \begin_inset Quotes eld
+\end_inset
+
+Just some.
+\begin_inset Quotes erd
+\end_inset
+
+ (ᎢᎦᏓ -Ꮚ)
+\end_layout
+
+
+
+\begin_layout Description
+ᎢᎩᎩᏍᏗ \begin_inset Quotes eld
+\end_inset
+
+For all of us to eat.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎢᎩᎲᎭ \begin_inset Quotes eld
+\end_inset
+
+We all should or would have it.
+\begin_inset Quotes erd
+\end_inset
+
+ (ᎢᎩ- ᎤᎲᎢ -ᎥᎭ)
+\end_layout
+
+
+
+\begin_layout Description
+ᎢᏌ \begin_inset Quotes eld
+\end_inset
+
+Flour.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎢᏌᏍ \begin_inset Quotes eld
+\end_inset
+
+Is it flour?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎢᏣᎵᎢ \begin_inset Quotes eld
+\end_inset
+
+① You all are friends. ② Your all's friend.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎢᏣᏤᎵ \begin_inset Quotes eld
+\end_inset
+
+Your all's.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎢᏤᎾ \begin_inset Quotes eld
+\end_inset
+
+Let you all go.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+ᎢᏥᎪᏩᏔ
+\end_layout
+
+
+\begin_layout Description
+ᎢᏥᎪᏩᏔ \begin_inset Quotes eld
+\end_inset
+
+Let you all see it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎢᏥᎾᎵ \begin_inset Quotes eld
+\end_inset
+
+You all are lazy.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎢᏥᎾᎵᏒᎢ \begin_inset Quotes eld
+\end_inset
+
+You all are extra lazy.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎢᏥᏫᏍᏗ \begin_inset Quotes eld
+\end_inset
+
+For you all to plant it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎢᏦᏍᏓ \begin_inset Quotes eld
+\end_inset
+
+You all are good.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎢᏳᏍᏗ \begin_inset Quotes eld
+\end_inset
+
+① Way of. ② As like as. ③ Is the reason for.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎢᏳᏩᎪᏘ \begin_inset Quotes eld
+\end_inset
+
+Time. Times.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꭳ
+\end_layout
+
+
+\begin_layout Description
+Ꭳ \begin_inset Quotes eld
+\end_inset
+
+Oh!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎣᏍᏓ \begin_inset Quotes eld
+\end_inset
+
+Good. Well.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎣᏥᎾᎵ \begin_inset Quotes eld
+\end_inset
+
+They and I are lazy.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꭴ
+\end_layout
+
+
+\begin_layout Description
+ᎤᎦᏙᏍᏔᏁ \begin_inset Quotes eld
+\end_inset
+
+He or she looked at him, her, or it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎤᎩᏒᏍᏗ \begin_inset Quotes eld
+\end_inset
+
+For him or her to leave and get it.
+\begin_inset Quotes erd
+\end_inset
+
+ (ᎤᎩᏒᎢ -ᎥᏍᏗ)
+\end_layout
+
+
+
+\begin_layout Description
+ᎤᎩᏒᏎ \begin_inset Quotes eld
+\end_inset
+
+He or she went to get it.
+\begin_inset Quotes erd
+\end_inset
+
+ (ᎤᎩᏒᎢ -ᎥᏒᎢ)
+\end_layout
+
+
+
+\begin_layout Description
+ᎤᎩᏔ \begin_inset Quotes eld
+\end_inset
+
+A seed.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎤᎩᏔᏍ \begin_inset Quotes eld
+\end_inset
+
+Is it a seed?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎤᎭ \begin_inset Quotes eld
+\end_inset
+
+He or she has it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎤᎵᏔᏁ \begin_inset Quotes eld
+\end_inset
+
+He or she put it into a container.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎤᎾᎵᎢ \begin_inset Quotes eld
+\end_inset
+
+① They are friends. ② His or her friend.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎤᎿ \begin_inset Quotes eld
+\end_inset
+
+There.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎤᏂᎩᏍᏗ \begin_inset Quotes eld
+\end_inset
+
+For them to eat it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+ᎤᏂᎩᏔ
+\end_layout
+
+
+\begin_layout Description
+ᎤᏂᎩᏔ \begin_inset Quotes eld
+\end_inset
+
+Seeds.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎤᏅᏂᏎ \begin_inset Quotes eld
+\end_inset
+
+① They became ripe. ② They became cooked.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎤᏅᏂᏒᎢ \begin_inset Quotes eld
+\end_inset
+
+① Their ripeness. Ripened. ② Their being cooked.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎤᏅᏂᏒᎢᏍ \begin_inset Quotes eld
+\end_inset
+
+① Are they ripe? ② Are they cooked?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎤᏍᏗ [① u:sdi̋ ② usdi̋] \begin_inset Quotes eld
+\end_inset
+
+① A baby. ② Little.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎤᏍᏗᏍ \begin_inset Quotes eld
+\end_inset
+
+Is it little?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎤᏍᏙᎡ \begin_inset Quotes eld
+\end_inset
+
+He or she ground it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎤᏍᏙᎥᎩ \begin_inset Quotes eld
+\end_inset
+
+He or she ground it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎤᏙᎯᏳ \begin_inset Quotes eld
+\end_inset
+
+True.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎤᏛᏁ [① ù:dv:hne ② ù:dv:ɂne ③ ù:dv́:ne] \begin_inset Quotes eld
+\end_inset
+
+① He or she said. ② He or she was hanged. ③ He or she hanged it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+ᎤᏛᏎ
+\end_layout
+
+
+\begin_layout Description
+ᎤᏛᏎ \begin_inset Quotes eld
+\end_inset
+
+It grew.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎤᏝᏁ \begin_inset Quotes eld
+\end_inset
+
+He or she placed it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎤᏣᎠ \begin_inset Quotes eld
+\end_inset
+
+It is inside it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎤᏣᎴᏍᏗ \begin_inset Quotes eld
+\end_inset
+
+Wheat.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎤᏣᎴᏍᏗᏃ \begin_inset Quotes eld
+\end_inset
+
+And wheat.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎤᏣᎴᏍᏗᏍ \begin_inset Quotes eld
+\end_inset
+
+Is it wheat?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎤᏤᎵ \begin_inset Quotes eld
+\end_inset
+
+His.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎤᏩᏌ \begin_inset Quotes eld
+\end_inset
+
+Him or herself.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎤᏩᏚᏁ \begin_inset Quotes eld
+\end_inset
+
+He or she baked it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎤᏩᏛᎮ \begin_inset Quotes eld
+\end_inset
+
+He or she found it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+ᎤᏩᏟᏌᏁ
+\end_layout
+
+
+\begin_layout Description
+ᎤᏩᏟᏌᏁ \begin_inset Quotes eld
+\end_inset
+
+He or she gathered it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎤᏩᏟᏐᏗ \begin_inset Quotes eld
+\end_inset
+
+For him or her to gather it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎤᏪᏅᏎ \begin_inset Quotes eld
+\end_inset
+
+He or she went.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎤᏫᏍᏗ \begin_inset Quotes eld
+\end_inset
+
+For him or her to plant it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎤᏫᏎ \begin_inset Quotes eld
+\end_inset
+
+He or she planted it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎤᏫᏘᏗ \begin_inset Quotes eld
+\end_inset
+
+For him or her to take it somewhere.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎤᏫᏛᎮ \begin_inset Quotes eld
+\end_inset
+
+He or she took it somewhere.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎤᏫᏛᎲᎭ \begin_inset Quotes eld
+\end_inset
+
+He or she should or would take it somewhere.
+\begin_inset Quotes erd
+\end_inset
+
+ (ᎤᏫᏛᎲᎢ -ᎥᎭ)
+\end_layout
+
+
+
+\begin_layout Description
+ᎤᏬᏢᏁ \begin_inset Quotes eld
+\end_inset
+
+He or she made it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎤᏰᏘᏎᎴ [ᎤᏰᏘᏒᎢ -ᎡᎸᎢ] \begin_inset Quotes eld
+\end_inset
+
+He or she laughed for him or her.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꭵ
+\end_layout
+
+
+\begin_layout Description
+Ꭵ \begin_inset Quotes eld
+\end_inset
+
+Yes.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎥᎥ \begin_inset Quotes eld
+\end_inset
+
+Yes.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎥᏍᎩᎾ \begin_inset Quotes eld
+\end_inset
+
+That. Those. He. She. It.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎥᏍᏊ \begin_inset Quotes eld
+\end_inset
+
+Also.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎥᏝ \begin_inset Quotes eld
+\end_inset
+
+No. Not.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎥᏝᏧ \begin_inset Quotes eld
+\end_inset
+
+① Isn't it no? ② Didn't it?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꭶ
+\end_layout
+
+
+\begin_layout Description
+ᎦᎪ \begin_inset Quotes eld
+\end_inset
+
+Who?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎦᎪᏗ \begin_inset Quotes eld
+\end_inset
+
+A plant.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎦᎯᏯᎦᏙᏍᏓ \begin_inset Quotes eld
+\end_inset
+
+Let you look at them.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎦᎾᎵ [① gà:na̋:li ② gà:náɂli] \begin_inset Quotes eld
+\end_inset
+
+① Lazy. ② Castrated.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎦᎾᎵᏍ \begin_inset Quotes eld
+\end_inset
+
+Is it laziness?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎦᎾᎵᏧ \begin_inset Quotes eld
+\end_inset
+
+Isn't he or she lazy?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎦᏍᎩᎸᎢ \begin_inset Quotes eld
+\end_inset
+
+On a raised flat surface.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎦᏙ \begin_inset Quotes eld
+\end_inset
+
+What?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎦᏙᎲ \begin_inset Quotes eld
+\end_inset
+
+Why?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎦᏚ [① ga̋:du ② gadú] \begin_inset Quotes eld
+\end_inset
+
+① Bread. ② On top.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꭷ
+\end_layout
+
+
+\begin_layout Description
+Ꭷ \begin_inset Quotes eld
+\end_inset
+
+Hey!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎧᏂᏈᏌ \begin_inset Quotes eld
+\end_inset
+
+A rat. Rats.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎧᏂᏈᏌᏍ \begin_inset Quotes eld
+\end_inset
+
+Is it the rat?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎧᏃᎮᏗ \begin_inset Quotes eld
+\end_inset
+
+Story.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎧᏅᏩᏗ \begin_inset Quotes eld
+\end_inset
+
+Conrad.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꭸ
+\end_layout
+
+
+\begin_layout Description
+ᎨᏎ \begin_inset Quotes eld
+\end_inset
+
+Was being.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎨᏎᎢ \begin_inset Quotes eld
+\end_inset
+
+It was being.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎨᏎᏍᏗ \begin_inset Quotes eld
+\end_inset
+
+It will be.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎨᏐᎢ \begin_inset Quotes eld
+\end_inset
+
+It usually is.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎨᏒᎩ \begin_inset Quotes eld
+\end_inset
+
+Was.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꭹ
+\end_layout
+
+
+\begin_layout Description
+ᎩᎶ \begin_inset Quotes eld
+\end_inset
+
+Someone.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎩᎶᏍ \begin_inset Quotes eld
+\end_inset
+
+Is it someone?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꭺ
+\end_layout
+
+
+\begin_layout Description
+ᎪᎱᏍᏗ \begin_inset Quotes eld
+\end_inset
+
+Something. Things.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎪᎱᏍᏗᏍ \begin_inset Quotes eld
+\end_inset
+
+Is it something?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꭼ
+\end_layout
+
+
+\begin_layout Description
+ᎬᏍᏕᎸᏗ \begin_inset Quotes eld
+\end_inset
+
+For me to help you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎬᏗ \begin_inset Quotes eld
+\end_inset
+
+By means of.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎬᏩᎩᎸᏗ \begin_inset Quotes eld
+\end_inset
+
+He or she is able to get on or in it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎬᏩᎩᎸᏗᏍ \begin_inset Quotes eld
+\end_inset
+
+Is he or she able to get on or in it?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎬᏩᎩᏍᏗ \begin_inset Quotes eld
+\end_inset
+
+He or she is able to get it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎬᏩᎵᏍᏓᏴᏗ \begin_inset Quotes eld
+\end_inset
+
+He or she is able to eat a meal.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎬᏩᏂᏍᏕᎸᏗ \begin_inset Quotes eld
+\end_inset
+
+They are able to help him or her.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎬᏩᏃᏍᎩᏍᏗ \begin_inset Quotes eld
+\end_inset
+
+He or she is able to steal it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎬᏩᏘᏗ \begin_inset Quotes eld
+\end_inset
+
+He or she is able to bake.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎬᏩᏛᏗ \begin_inset Quotes eld
+\end_inset
+
+He or she is able to find it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+ᎬᏩᏟᏐᏗ
+\end_layout
+
+
+\begin_layout Description
+ᎬᏩᏟᏐᏗ \begin_inset Quotes eld
+\end_inset
+
+He or she is able to gather it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎬᏩᏢᏅᏗ \begin_inset Quotes eld
+\end_inset
+
+He or she is able to sleep.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎬᏩᏫᏍᏗ \begin_inset Quotes eld
+\end_inset
+
+He or she is able to plant it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꭽ
+\end_layout
+
+
+\begin_layout Description
+ᎭᏢ \begin_inset Quotes eld
+\end_inset
+
+Where?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꭿ
+\end_layout
+
+
+\begin_layout Description
+ᎯᎠ \begin_inset Quotes eld
+\end_inset
+
+① This. These. ② He. She. It.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎯᎠᏍ \begin_inset Quotes eld
+\end_inset
+
+Is this?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎯᎪᏩᏔ \begin_inset Quotes eld
+\end_inset
+
+Let you see.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎯᎪᏩᏘᎭ \begin_inset Quotes eld
+\end_inset
+
+You see him, her, or it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎯᎪᏩᏘᎭᏍ \begin_inset Quotes eld
+\end_inset
+
+Do you see him, her, or it?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎯᎾᎵ \begin_inset Quotes eld
+\end_inset
+
+You are lazy.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎯᎾᎵᏍ \begin_inset Quotes eld
+\end_inset
+
+Are you lazy?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎯᏥᏔᎦᏍ \begin_inset Quotes eld
+\end_inset
+
+Are you a chicken?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎯᏩᏔ [① hihwatā ② hihwata ③ hì:watā ④ hì:wata] \begin_inset Quotes eld
+\end_inset
+
+① You just found it. ② Let you find it. ③ You just found him or her. ④ Let you find him or her.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꮀ
+\end_layout
+
+
+\begin_layout Description
+ᎰᏍᏓ \begin_inset Quotes eld
+\end_inset
+
+You are good.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꮉ
+\end_layout
+
+
+\begin_layout Description
+ᎹᎦᎵ \begin_inset Quotes eld
+\end_inset
+
+Michael.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꮎ
+\end_layout
+
+
+\begin_layout Description
+Ꮎ \begin_inset Quotes eld
+\end_inset
+
+The. That.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎾᎯᏳ \begin_inset Quotes eld
+\end_inset
+
+Then.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᎾᏍ \begin_inset Quotes eld
+\end_inset
+
+Is it that?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꮒ
+\end_layout
+
+
+\begin_layout Description
+Ꮒ \begin_inset Quotes eld
+\end_inset
+
+Look!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+Ꮒ-\begin_inset space ~
+\end_inset
+
+-ᎥᎾ \begin_inset Quotes eld
+\end_inset
+
+Without.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏂᎦᏓ \begin_inset Quotes eld
+\end_inset
+
+All. Everyone.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏂᎦᏓᏍ \begin_inset Quotes eld
+\end_inset
+
+Is it all?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏂᎦᏛᏁᎭ \begin_inset Quotes eld
+\end_inset
+
+I am doing it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏂᎬᏫᏍᏗ \begin_inset Quotes eld
+\end_inset
+
+Is the look of it. Is the appearance of it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏂᎯ \begin_inset Quotes eld
+\end_inset
+
+You.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏂᎯᎾ \begin_inset Quotes eld
+\end_inset
+
+What of you?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏂᏓᎦᎵᏍᏔᏂ \begin_inset Quotes eld
+\end_inset
+
+① He, she, or it will become. ② It will happen.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏂᏓᎦᏛᏁᎵ \begin_inset Quotes eld
+\end_inset
+
+I will do it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+ᏂᏣᏛᏁᎸᎩ
+\end_layout
+
+
+\begin_layout Description
+ᏂᏣᏛᏁᎸᎩ \begin_inset Quotes eld
+\end_inset
+
+You did it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꮓ
+\end_layout
+
+
+\begin_layout Description
+ᏃᏊ \begin_inset Quotes eld
+\end_inset
+
+Now.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꮔ
+\end_layout
+
+
+\begin_layout Description
+ᏄᎩᏒᎾ \begin_inset Quotes eld
+\end_inset
+
+He or she is without getting it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏄᎵᏍᏔᏁ \begin_inset Quotes eld
+\end_inset
+
+① It became. ② It happened.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏄᎵᏍᏔᏅᎩ \begin_inset Quotes eld
+\end_inset
+
+① He, she, or it became. ② It happened.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏄᏛᏁᎴ \begin_inset Quotes eld
+\end_inset
+
+He or she did it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꮜ
+\end_layout
+
+
+\begin_layout Description
+ᏌᏊ \begin_inset Quotes eld
+\end_inset
+
+One.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꮝ
+\end_layout
+
+
+\begin_layout Description
+ᏍᎩᏍᏕᎵᎭᏍ \begin_inset Quotes eld
+\end_inset
+
+Are you helping me?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏍᏊ \begin_inset Quotes eld
+\end_inset
+
+Also.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏍᏓᎵᎢ \begin_inset Quotes eld
+\end_inset
+
+① You two are friends. ② Your friend.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏍᏙᏍᏓ \begin_inset Quotes eld
+\end_inset
+
+You two are good.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꮟ
+\end_layout
+
+
+\begin_layout Description
+ᏏᏆ \begin_inset Quotes eld
+\end_inset
+
+A pig. Pigs.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏏᏆᏍ \begin_inset Quotes eld
+\end_inset
+
+Is it the pig?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꮣ
+\end_layout
+
+
+\begin_layout Description
+ᏓᎦᎵᏍᏕᎸᎯ \begin_inset Quotes eld
+\end_inset
+
+I will help.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏓᎦᎾᏏᏅᏏ \begin_inset Quotes eld
+\end_inset
+
+He or whe will drag it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏓᎦᏃᏍᎩᏏ \begin_inset Quotes eld
+\end_inset
+
+He or she will steal it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏓᎦᏚᏂ \begin_inset Quotes eld
+\end_inset
+
+He or she will bake it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏓᎦᏛᏁᎵ \begin_inset Quotes eld
+\end_inset
+
+I will do.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏓᎬᏍᏕᎸᎯ \begin_inset Quotes eld
+\end_inset
+
+I will help you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏓᏂᎦᏛᏁᎵ \begin_inset Quotes eld
+\end_inset
+
+I will do it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏓᏍᎩᏍᏕᎸᎯᏍ \begin_inset Quotes eld
+\end_inset
+
+Will you help me?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏓᏗᏚᏂ \begin_inset Quotes eld
+\end_inset
+
+All of us will bake it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏓᏤᎾ \begin_inset Quotes eld
+\end_inset
+
+You all, come towards me.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+ᏓᏥᎩ
+\end_layout
+
+
+\begin_layout Description
+ᏓᏥᎩ \begin_inset Quotes eld
+\end_inset
+
+① I will eat it. ② You all will eat it.
+\begin_inset Quotes erd
+\end_inset
+
+ (① dajigi ② dà:jigi)
+\end_layout
+
+
+
+\begin_layout Description
+ᏓᏥᏫᏏ \begin_inset Quotes eld
+\end_inset
+
+I will plant it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏓᏥᏫᏛᎯ \begin_inset Quotes eld
+\end_inset
+
+I will take it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏓᏳᎯ \begin_inset Quotes eld
+\end_inset
+
+He or she will have it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꮤ
+\end_layout
+
+
+\begin_layout Description
+ᏔᏛᏁᎵ \begin_inset Quotes eld
+\end_inset
+
+You will do it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꮥ
+\end_layout
+
+
+\begin_layout Description
+ᏕᎦᎵᏗ \begin_inset Quotes eld
+\end_inset
+
+A sack.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏕᎦᎵᏗᏍ \begin_inset Quotes eld
+\end_inset
+
+Is it a sack?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꮦ
+\end_layout
+
+
+\begin_layout Description
+ᏖᎾ \begin_inset Quotes eld
+\end_inset
+
+Let you go towards me.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꮧ
+\end_layout
+
+
+\begin_layout Description
+ᏗᎩᏟᏐᏗ \begin_inset Quotes eld
+\end_inset
+
+For me to gather them.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏗᎬᏩᏂᏩᏛᏗ \begin_inset Quotes eld
+\end_inset
+
+They are able to find them.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏗᏍᏙᏍᎩ \begin_inset Quotes eld
+\end_inset
+
+① One who crushes. ② One who operates a mill.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏗᏍᏙᏍᎩᎢ \begin_inset Quotes eld
+\end_inset
+
+① A crusher. ② A mill.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏗᏍᏙᏍᎩᎢᏍ \begin_inset Quotes eld
+\end_inset
+
+Is it the mill?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꮨ
+\end_layout
+
+
+\begin_layout Description
+ᏘᎩᏒᏏ \begin_inset Quotes eld
+\end_inset
+
+You will go and get it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏘᎩᏒᏏᏍᎪ \begin_inset Quotes eld
+\end_inset
+
+Will you go and get it?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏘᏫᏛᎯ \begin_inset Quotes eld
+\end_inset
+
+You will take it somewhere.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꮩ
+\end_layout
+
+
+\begin_layout Description
+ᏙᎯᏳ \begin_inset Quotes eld
+\end_inset
+
+Really. Very.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏙᎯᏳᏍ \begin_inset Quotes eld
+\end_inset
+
+Very?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏙᏓᎦᏟᏌᏂ \begin_inset Quotes eld
+\end_inset
+
+I will gather them.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꮪ
+\end_layout
+
+
+\begin_layout Description
+ᏚᎮᏍᏗ \begin_inset Quotes eld
+\end_inset
+
+He or she will be having them.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꮫ
+\end_layout
+
+
+\begin_layout Description
+ᏛᎩᎸᏂ \begin_inset Quotes eld
+\end_inset
+
+He or she will get on or in it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏛᎩᏍ \begin_inset Quotes eld
+\end_inset
+
+Will he or she eat it?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏛᎩᏍᏕᎸᎯ \begin_inset Quotes eld
+\end_inset
+
+He or she will help me.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏛᎩᏒᏏ \begin_inset Quotes eld
+\end_inset
+
+He or she will go and get it.
+\begin_inset Quotes erd
+\end_inset
+
+ (Ꮣ- ᎤᎩᏒᎢ -ᎥᏒᎢ)
+\end_layout
+
+
+
+\begin_layout Description
+ᏛᎩᏒᏏᏍᎪ \begin_inset Quotes eld
+\end_inset
+
+Will he or she go and get it?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏛᎾᎩᎸᏂ \begin_inset Quotes eld
+\end_inset
+
+They will get on or in it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏛᏂᏃᏍᎩᏏ \begin_inset Quotes eld
+\end_inset
+
+They will steal it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏛᏅᏂᏏ \begin_inset Quotes eld
+\end_inset
+
+① They will ripen. ② They will become cooked.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏛᏍᏙᎢ \begin_inset Quotes eld
+\end_inset
+
+He or she will be grinding.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏛᏍᏚᎢᏏ \begin_inset Quotes eld
+\end_inset
+
+He or she will open it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+ᏛᏛᏁᎵ
+\end_layout
+
+
+\begin_layout Description
+ᏛᏛᏁᎵ \begin_inset Quotes eld
+\end_inset
+
+He or she will do it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏛᏛᏏ \begin_inset Quotes eld
+\end_inset
+
+It will grow.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏛᏫᏏ \begin_inset Quotes eld
+\end_inset
+
+He or she will plant it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏛᏫᏛᎯ \begin_inset Quotes eld
+\end_inset
+
+He or she will take it somewhere.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꮭ
+\end_layout
+
+
+\begin_layout Description
+Ꮭ \begin_inset Quotes eld
+\end_inset
+
+No. Not.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+Ꮭ\begin_inset space ~
+\end_inset
+
+ᎢᎸᎯᏳ \begin_inset Quotes eld
+\end_inset
+
+Ever.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+Ꮭ\begin_inset space ~
+\end_inset
+
+ᏱᏘᏯᎵᏃᎮᏔᏂ \begin_inset Quotes eld
+\end_inset
+
+I will not talk to him or her.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꮮ
+\end_layout
+
+
+\begin_layout Description
+ᏞᏍᏗ\begin_inset space ~
+\end_inset
+
+ᏥᎯᏯᎵᏃᎮᏓ \begin_inset Quotes eld
+\end_inset
+
+Do not speak to him or her.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꮰ
+\end_layout
+
+
+\begin_layout Description
+ᏠᎨᏏ \begin_inset Quotes eld
+\end_inset
+
+A field.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꮳ
+\end_layout
+
+
+\begin_layout Description
+ᏣᎦᏎᏍᏕᏍᏗ \begin_inset Quotes eld
+\end_inset
+
+① You will be careful. ② Let you be careful.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏣᎭ \begin_inset Quotes eld
+\end_inset
+
+You have it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏣᏍᏗ \begin_inset Quotes eld
+\end_inset
+
+You are good.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏣᏘᏗ \begin_inset Quotes eld
+\end_inset
+
+For me to bake it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏣᏚᎵᎭ \begin_inset Quotes eld
+\end_inset
+
+You are wanting.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏣᏚᏅᎩ \begin_inset Quotes eld
+\end_inset
+
+You baked it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏣᏤᎵ \begin_inset Quotes eld
+\end_inset
+
+Your.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏣᏩᏟᏌᏅᎩ \begin_inset Quotes eld
+\end_inset
+
+You gathered it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏣᏫᏍᏗᏍ \begin_inset Quotes eld
+\end_inset
+
+Is it for you to plant it?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏣᏫᏒᎩ \begin_inset Quotes eld
+\end_inset
+
+You planted it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+ᏣᏫᏛᎲᎩ
+\end_layout
+
+
+\begin_layout Description
+ᏣᏫᏛᎲᎩ \begin_inset Quotes eld
+\end_inset
+
+You took it somewhere.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꮵ
+\end_layout
+
+
+\begin_layout Description
+ᏥᎩ \begin_inset Quotes eld
+\end_inset
+
+I am eating it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏥᎩᎦᎨ \begin_inset Quotes eld
+\end_inset
+
+I am red.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏥᎩᏎᎦ \begin_inset Quotes eld
+\end_inset
+
+I am leaving to get it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏥᎪᏩᏘᎭ \begin_inset Quotes eld
+\end_inset
+
+I see him, her, or it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏥᎾᎵ \begin_inset Quotes eld
+\end_inset
+
+I am lazy.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏥᏈᏍᏗ \begin_inset Quotes eld
+\end_inset
+
+Many.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏥᏔᎦ \begin_inset Quotes eld
+\end_inset
+
+A chicken. Chickens.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏥᏔᎦᏃ \begin_inset Quotes eld
+\end_inset
+
+And the chicken.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏥᏔᎦᏍ \begin_inset Quotes eld
+\end_inset
+
+Is it the chicken?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏥᏚᎲᏍᎦ \begin_inset Quotes eld
+\end_inset
+
+I am baking it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+ᏥᏥᏔᎦ
+\end_layout
+
+
+\begin_layout Description
+ᏥᏥᏔᎦ \begin_inset Quotes eld
+\end_inset
+
+I am a chicken.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏥᏩᏔ \begin_inset Quotes eld
+\end_inset
+
+I just found it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꮷ
+\end_layout
+
+
+\begin_layout Description
+ᏧᎾᎵᎢ \begin_inset Quotes eld
+\end_inset
+
+① His or her friends. ② Their friends.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏧᏩᏟᏐᏗ \begin_inset Quotes eld
+\end_inset
+
+For him or her to gather them.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꮹ
+\end_layout
+
+
+\begin_layout Description
+ᏩᎩᏫᏛᎲᎩ \begin_inset Quotes eld
+\end_inset
+
+I took it somewhere.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꮺ
+\end_layout
+
+
+\begin_layout Description
+ᏪᎾ \begin_inset Quotes eld
+\end_inset
+
+Go away!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏪᏌ \begin_inset Quotes eld
+\end_inset
+
+A cat. Cats.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏪᏌᏍ \begin_inset Quotes eld
+\end_inset
+
+Is it the cat?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꮻ
+\end_layout
+
+
+\begin_layout Description
+ᏫᎩᏎᎦᏍ \begin_inset Quotes eld
+\end_inset
+
+Are you leaving to get it?
+\begin_inset Quotes erd
+\end_inset
+
+ (Ꮻ- Ꭿ- ᎤᎩᏒᎢ -ᎡᎦ -ᏍᎪ)
+\end_layout
+
+
+
+\begin_layout Description
+ᏫᏍᏕᎾ \begin_inset Quotes eld
+\end_inset
+
+Let you two go.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏫᏛᎩᏒᏏ [Ꮻ- Ꮣ- ᎤᎩᏒᎢ -ᎥᏒᎢ] \begin_inset Quotes eld
+\end_inset
+
+He or she will leave to get it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏫᏤᎾ \begin_inset Quotes eld
+\end_inset
+
+Let you go.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꮽ
+\end_layout
+
+
+\begin_layout Description
+ᏭᎪᏛ \begin_inset Quotes eld
+\end_inset
+
+Most.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏭᏁᏅᏎ \begin_inset Quotes eld
+\end_inset
+
+They went away.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏭᏪᏅᏎ \begin_inset Quotes eld
+\end_inset
+
+Away he or she went.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ꮿ
+\end_layout
+
+
+\begin_layout Description
+ᏯᏩᏔ \begin_inset Quotes eld
+\end_inset
+
+Maybe he or she just found it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏯᏫᏗᎭ \begin_inset Quotes eld
+\end_inset
+
+Maybe he or she is taking it somewhere.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ᏸ
+\end_layout
+
+
+\begin_layout Description
+ᏰᎾ \begin_inset Quotes eld
+\end_inset
+
+Maybe he or she just went.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏰᏅᏒᎭ \begin_inset Quotes eld
+\end_inset
+
+Maybe he or she should or would go.
+\begin_inset Quotes erd
+\end_inset
+
+ (Ᏹ- Ꭰ- ᎤᏪᏅᏒᎢ -ᎥᎭ)
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ᏹ
+\end_layout
+
+
+\begin_layout Description
+Ᏹ-\begin_inset space ~
+\end_inset
+
+-Ꭰ \begin_inset Quotes eld
+\end_inset
+
+When something does or happens, something else usually does or happens.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏱᎨᎦ \begin_inset Quotes eld
+\end_inset
+
+Maybe I am going.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏱᎩ \begin_inset Quotes eld
+\end_inset
+
+Maybe it is.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏱᎬᏍᏕᎵᎭ \begin_inset Quotes eld
+\end_inset
+
+Maybe I am helping you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏱᎬᏩᎩᎸᏗ \begin_inset Quotes eld
+\end_inset
+
+Maybe he or she can get on or in it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏱᏂᎦᏛᏁᎭ \begin_inset Quotes eld
+\end_inset
+
+Maybe I am doing it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏱᏂᎬᏩᎾᏛᏁᏗ \begin_inset Quotes eld
+\end_inset
+
+If they have the ability to do it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏱᏂᎬᏩᏛᏁᏗ \begin_inset Quotes eld
+\end_inset
+
+Maybe he or she is able to do it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏱᏂᏓᏣᏛᏁᎵ \begin_inset Quotes eld
+\end_inset
+
+Maybe you all will do it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏱᏂᏣᏛᏁᎵ \begin_inset Quotes eld
+\end_inset
+
+Maybe you all will do it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+ᏱᏓᏣᎯ
+\end_layout
+
+
+\begin_layout Description
+ᏱᏓᏣᎯ \begin_inset Quotes eld
+\end_inset
+
+Maybe you will have it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏱᏓᏥᎩ [① yidajigi ② yidà:jigi] \begin_inset Quotes eld
+\end_inset
+
+① Maybe I will eat it. ② Maybe you all will eat it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏱᏖᎾ \begin_inset Quotes eld
+\end_inset
+
+Maybe you go towards me.
+\begin_inset Quotes erd
+\end_inset
+
+ (Ᏹ- Ꮣ- ᎮᎾ)
+\end_layout
+
+
+
+\begin_layout Description
+ᏱᏛᏂᎩᏒᏏ \begin_inset Quotes eld
+\end_inset
+
+Maybe they will go and get it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏱᏛᏂᏫᏛᎯ \begin_inset Quotes eld
+\end_inset
+
+Maybe they will take it somewhere.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏱᏛᏍᏚᎢᏏ \begin_inset Quotes eld
+\end_inset
+
+Maybe he or she will open it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏱᏛᏫᏏ \begin_inset Quotes eld
+\end_inset
+
+Maybe he or she will plant it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏱᏣᎵᏍᏕᎵᏍᎪ \begin_inset Quotes eld
+\end_inset
+
+Maybe you all help.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏱᏣᎵᏍᏕᎸᎮ \begin_inset Quotes eld
+\end_inset
+
+Maybe you all help.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏱᏥᎩᏎᎦ \begin_inset Quotes eld
+\end_inset
+
+Maybe I am leaving to get it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+ᏱᏥᎩᏒᏒᎭ
+\end_layout
+
+
+\begin_layout Description
+ᏱᏥᎩᏒᏒᎭ \begin_inset Quotes eld
+\end_inset
+
+Maybe you all should or would go and get it.
+\begin_inset Quotes erd
+\end_inset
+
+ (Ᏹ- ᎢᏥ- ᎤᎩᏒᎢ- -ᎥᏒᎢ -ᎥᎭ)
+\end_layout
+
+
+
+\begin_layout Description
+ᏱᏥᏍᏚᎢᏒᎭ \begin_inset Quotes eld
+\end_inset
+
+Maybe you all should or would open it.
+\begin_inset Quotes erd
+\end_inset
+
+ (Ᏹ- ᎢᏥ- ᎤᏍᏚᎢᏒᎢ -ᎥᎭ)
+\end_layout
+
+
+
+\begin_layout Description
+ᏱᏥᏚᏅᎭ \begin_inset Quotes eld
+\end_inset
+
+Maybe you all baked it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏱᏥᏟᏌᏅᎩ \begin_inset Quotes eld
+\end_inset
+
+Maybe you all gathered it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏱᏥᏟᏌᏅᎭ \begin_inset Quotes eld
+\end_inset
+
+Maybe you all should or would gather it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏱᏥᏩᏛᎲᎩ \begin_inset Quotes eld
+\end_inset
+
+Maybe you all found it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏱᏥᏫᏒᎩ \begin_inset Quotes eld
+\end_inset
+
+Maybe you all planted it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏱᏥᏫᏒᎭ \begin_inset Quotes eld
+\end_inset
+
+Maybe you all should or would plant it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏱᏥᏫᏗᎭ \begin_inset Quotes eld
+\end_inset
+
+Maybe I am taking it somewhere.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏱᏥᏫᏛᎲᎩ \begin_inset Quotes eld
+\end_inset
+
+Maybe you all took it somewhere.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+ᏱᏥᏫᏛᎲᎭ
+\end_layout
+
+
+\begin_layout Description
+ᏱᏥᏫᏛᎲᎭ \begin_inset Quotes eld
+\end_inset
+
+Maybe you all should or would take it somewhere.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏱᏭᏁᏅᏎ \begin_inset Quotes eld
+\end_inset
+
+Maybe they should or would go.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+Ᏻ
+\end_layout
+
+
+\begin_layout Description
+ᏳᎩᏒᏎ \begin_inset Quotes eld
+\end_inset
+
+Maybe he or she went and got it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏳᏂᎩᏒᏎ \begin_inset Quotes eld
+\end_inset
+
+Maybe they left and got it.
+\begin_inset Quotes erd
+\end_inset
+
+ (Ᏹ- ᎤᏂ- ᎤᎩᏒᎢ -ᎥᏒᎢ)
+\end_layout
+
+
+
+\begin_layout Description
+ᏳᏂᏟᏌᏁ \begin_inset Quotes eld
+\end_inset
+
+Maybe they gathered it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏳᏂᏩᏚᏁ \begin_inset Quotes eld
+\end_inset
+
+Maybe they made it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏳᏂᏩᏛᎮ \begin_inset Quotes eld
+\end_inset
+
+Maybe they found it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏳᏂᏫᏎ \begin_inset Quotes eld
+\end_inset
+
+Maybe they planted it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏳᏂᏫᏛᎮ \begin_inset Quotes eld
+\end_inset
+
+Maybe they took it somewhere.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏳᏩᏛᎮ \begin_inset Quotes eld
+\end_inset
+
+Maybe he or she found it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏳᏩᏟᏌᏁ \begin_inset Quotes eld
+\end_inset
+
+Maybe he or she gathered it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏳᏩᏟᏌᏅᎭ \begin_inset Quotes eld
+\end_inset
+
+Maybe he or she should or would gather it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout
+Section*
+ᏳᏪᏅᏎ
+\end_layout
+
+
+\begin_layout Description
+ᏳᏪᏅᏎ \begin_inset Quotes eld
+\end_inset
+
+Maybe he or she went.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+
+
+\begin_layout Description
+ᏳᏫᏎ \begin_inset Quotes eld
+\end_inset
+
+Maybe he or she planted it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
 
 
 \end_body
