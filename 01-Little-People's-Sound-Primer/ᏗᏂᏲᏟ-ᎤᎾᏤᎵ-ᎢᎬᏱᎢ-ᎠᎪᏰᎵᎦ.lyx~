@@ -1,0 +1,10821 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass book
+\begin_preamble
+\usepackage{multicol}%
+\usepackage{wallpaper}%
+%
+\end_preamble
+\use_default_options false
+\begin_modules
+fixltx2e
+\end_modules
+\maintain_unincluded_children false
+\language american
+\language_package default
+\inputencoding utf8-plain
+\fontencoding global
+\font_roman "default" "FreeSerif"
+\font_sans "default" "FreeSans"
+\font_typewriter "default" "FreeMono"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics none
+\default_output_format pdf4
+\output_sync 1
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref true
+\pdf_title "ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ | Ꮎ ᎦᎵᏉᎩ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ"
+\pdf_author "Michael Conrad"
+\pdf_subject "Cherokee Language Reader"
+\pdf_keywords "Cherokee, Reader"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered true
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 2
+\pdf_breaklinks true
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\pdf_quoted_options "unicode=true,hypertexnames=false"
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification false
+\use_refstyle 0
+\use_minted 0
+\branch smashwords
+\selected 0
+\filename_suffix 0
+\color #faf0e6
+\end_branch
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 0.7in
+\topmargin 0.7in
+\rightmargin 0.6in
+\bottommargin 0.7in
+\secnumdepth -1
+\tocdepth 1
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 2
+\paperpagestyle fancy
+\bullet 0 0 8 5
+\bullet 1 0 0 5
+\bullet 2 0 6 5
+\bullet 3 0 10 5
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict true
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{sloppy}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+frontmatter{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Title
+\noindent
+ᏗᏂᏲᏟ ᎤᎾᏤᎵ ᎢᎬᏱᎢ ᎠᎪᏰᎵᎦ
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Little Red Hood
+\begin_inset Newline newline
+\end_inset
+
+The Seven Kids
+\end_layout
+
+\begin_layout Author
+Michael Conrad
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+This work is licensed to you under the 
+\noun on
+Creative Commons Attribution-Share Alike 3.0 United States License
+\noun default
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ / Ꮎ ᎦᎵᏉᎩ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ
+\end_layout
+
+\begin_layout Standard
+Little Red Hood / The Seven Kids
+\end_layout
+
+\begin_layout Standard
+\begin_inset Branch smashwords
+inverted 0
+status collapsed
+
+\begin_layout Standard
+Published by Michael Joyner at Smashwords
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Copyright 2021, Michael Conrad
+\end_layout
+
+\begin_layout Standard
+ISBN: 978-0-000-00000-0
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+mainmatter{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size giant
+ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size giant
+Ꮎ ᎦᎵᏉᎩ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size huge
+\begin_inset Graphics
+	filename jpgs-b/004.jpg
+	lyxscale 10
+	width 99text%
+	height 99theight%
+	keepAspectRatio
+	groupId fullpage
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{plain}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size huge
+\begin_inset Graphics
+	filename jpgs-b/005.jpg
+	lyxscale 10
+	width 65col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏧᏣᏍ ᎠᎨᏳᏣᎨ ᎯᎠ ᎠᏲᏟ?
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎯᎠ ᎠᏲᏟ ᎠᎨᏳᏣ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎯᎪᏩᏔ ᎯᎠ ᎤᏍᏗ ᎠᎨᏳᏣ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+See this little girl.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏤᎵ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎯᎪᏩᏔ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+See her red hood.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᎵᏍᏚᎶ ᎤᏤᎵ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+It is her hood.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᎵᏍᏚᎶ ᎩᎦᎨ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+It is a red hood.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᏚᏙᎠ Ꮎ ᎠᎨᏳᏣ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+She is Little Red Riding Hood.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎩᎦᎨᏍ ᎠᎵᏍᏚᎶ?
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Is the hood red?
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎦᎪ ᎤᏤᎵ Ꮎ ᎠᎵᏍᏚᎶ?
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Whose hood is this?
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᎵᏍᏚᎶ ᎠᏆᏤᎵ.
+ ᎠᏆᏤᎵ ᎠᎵᏍᏚᎶ ᎠᎩᎸᏉᏗ.
+ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"It is my hood.
+ I like my hood.
+ It is a red riding, hood."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎦᎪ ᎤᏤᎵ Ꮎ ᎠᎵᏍᏚᎶ?
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Whose hood is it?
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏣᏤᎵᏍᎪ ᎠᎵᏍᏚᎶ, ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ?
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Is it your hood, Little Red Riding Hood?
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭵ, ᎠᏆᏤᎵ ᎠᎵᏍᏚᎶ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Yes, it is my hood.
+\end_layout
+
+\end_inset
+
+ ᎠᏆᏤᎵ ᎠᎵᏍᏚᎶ ᎠᎩᎸᏉᏗ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+1 like my hood."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size huge
+\begin_inset Graphics
+	filename jpgs-b/006.jpg
+	lyxscale 10
+	width 65col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎦᎪ ᎯᎠ? ᎤᎵᏏᏧ ᎤᏥᎨ?
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᎵᏏ ᎠᎨᏳᏣ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Little Red Riding Hood has a
+\end_layout
+
+\begin_layout Plain Layout
+
+\size huge
+grandmother.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎤᎨᏳᏐ ᎤᎵᏏ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+She loves Little Red Riding Hood.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᎵᏏ ᎤᎨᏳᏐ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Little Red Riding Hood loves her.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᎵᏏ ᎠᎵᏍᏚᎶ ᎤᏬᏢᏁ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+The grandmother made the hood.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size huge
+\begin_inset Graphics
+	filename jpgs-b/007.jpg
+	lyxscale 10
+	width 65col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎦᎪ ᎯᎠ? ᎤᏥᏧ ᎤᎵᏏᎨ?
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏥ ᎠᎨᏳᏣ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+This is Little Red Riding Hood's
+\end_layout
+
+\begin_layout Plain Layout
+
+\size huge
+mother.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏄᎳ, ᎤᏍᏗ ᎠᎩᎦᎨ ᎠᎵᏍᏚᎶ, ᎠᎭᏂ ᏘᎷᎩ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+" Come to me, Little Red Riding
+\end_layout
+
+\begin_layout Plain Layout
+
+\size huge
+Hood," she said.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᏴ ᎠᎭᏂ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Here I am," said Little Red Riding Hood.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏣᏤᎵ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎭᎵᏍᏚᎸᎦ, ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
+ ᎤᎵᏏ ᎤᏤᎵ ᎦᎵᏦᏕ ᏫᏤᏅᏍᏗ ᎠᏆᏚᎵᎭ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Put on your little red hood, Little Red Riding Hood.
+ I wish to send you to your grandmother."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᎥ, ᏓᎨᏅᏏ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Yes, let me go," said Little Red Riding Hood.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᎩᎵᏏ ᏥᎪᎲᏍᏗ ᎠᎩᎸᏉᏗ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"I like to go to see grandmother."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᎭᏂ ᎢᎦᏓ ᎦᏚ ᎤᏂᎦᎾᏍᏓ, ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
+ ᏣᎵᏏ ᎯᏫᏛᎮᏗ ᎠᏆᏚᎵ.
+ ᏣᎵᏏ ᎯᎠ ᎤᏂᎦᎾᏍᏓ ᎤᎸᏉᏗ.
+ ᏣᎪᏩᏛᏗ ᏛᎵᎮᎵᏥ, ᏍᏊ," ᎤᏛᏁ ᎤᏥ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Here are some cakes, Little Red Riding Hood.
+ I wish you to take them to grandmother.
+ Grandmother likes these cakes.
+ She will be glad to see you, too," said her mother.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏓᎨᏅᏏ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"I will go," said Little Red Hiding Hood.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏩᏇᏓᏍᏗ ᎦᎵᎡᎵᎦ.
+ ᎦᏚ ᎤᏂᎦᎾᏍᏓ ᏙᏓᏥᏫᏛᎯ.
+ ᎠᎩᎵᏏ ᏙᏓᏥᏫᏛᎯ.
+ ᎠᎩᎪᏩᏛᏗ ᏛᎵᎮᎵᏥ.
+ ᎦᏚ ᎤᏂᎦᎾᏍᏓ ᏙᏓᎸᏉᏗ.
+ ᎠᎩᎵᏏ ᏥᎨᏳᏐ.
+ ᎥᏍᎩ ᎣᏍᏓ ᎠᎴ ᎤᏓᏅᏘ.
+ ᎠᎩᎨᏳᏐ ᎠᎴ ᏥᎨᏳᏐ.
+ ᎣᏍᏓ ᎾᎩᏩᎾᏕᎪ.
+ ᎠᎩᏥ ᎣᏍᏓ ᏄᏩᎾᏕᎪ.
+ ᎠᎩᎵᏏ ᎣᏍᏗᎨᏳᏐ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\size huge
+"I am glad to go.
+ I will take the cakes.
+ I will take them to grandmother.
+ She will be glad to see me.
+ She will like the cakes.
+ I love my grandmother.
+ She is good and kind.
+ She loves me.
+ And I love her.
+ She is kind to me.
+ She is kind to my mother.
+ We love grandmother."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎭᏢ ᎤᎵᏏ ᎦᏁᎳ?
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Where does grandmother live?
+\end_layout
+
+\end_inset
+
+ ᎢᎾ ᎦᏁᎳ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+She lives far away.
+\end_layout
+
+\end_inset
+
+ ᎢᎾᎨᎢ ᎾᎥ ᎦᏁᎳ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+She lives near the forest.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏛᏍᎦᎵᏍ Ꮎ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ?
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Will Little Red Riding Hood be afraid?
+\end_layout
+
+\end_inset
+
+ Ꭳ Ꮭ, ᏄᏍᎦᎸᎾ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+O no, she is not afraid.
+\end_layout
+
+\end_inset
+
+ ᏭᏪᏅᏍᏗ ᎠᎵᎮᎵᎦ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+She is glad to go.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎯᏍᎦᎭᏍᎪ ᏫᏤᏅᏍᏗ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏥ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Are you afraid to go?" said her mother.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᎥᏝ, ᎾᎩᏍᎦᎸᎾ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"O no, I am not afraid," said Little Red Riding Hood.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᎿ ᎢᎾᎨᎢ ᎨᏙᎰ.
+ ᎤᎿ ᎢᎾᎨᎢ ᎾᎩᏍᎦᎸᎾ.
+ ᎢᎾᎨᎢ ᎠᎩᎸᏉᏙᎢ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"I like to walk in the forest.
+ I am not afraid in the forest.
+ I like the forest."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎤᎵᏏ ᎦᎵᏦᏕ ᎡᎦ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Little Red Riding Hood is going to her grandmother's.
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᎵᏏ ᎢᎾ ᏫᎦᏁᎳ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Grandmother lives far away.
+\end_layout
+
+\end_inset
+
+ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎦᏁᎳ ᎢᎾᎨᎢ ᎠᏍᏗ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Little Red Riding Hood lives on one edge of the forest.
+\end_layout
+
+\end_inset
+
+ ᎤᎵᏏ ᎦᏁᎳ ᏐᎢ ᎠᏍᏗ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Grandmother lives on the other edge.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏓᏅᎯᏓ ᎠᎢᏒᎢ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+It is a long walk.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏎᏃ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᏄᏍᎦᎸᎾ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+But Little Red Riding Hood is not afraid.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎢᎾᎨᎢ ᎠᎩᎸᏉᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"I like the forest," she said.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᎿ ᎠᏇᏓᏍᏗ ᎠᎩᎸᏉᏗ.
+ ᎤᎵᏏ ᏥᎪᎲᏍᏗ ᎠᎩᎸᏉᏗ.
+ ᎾᎩᏍᎦᎸᎾ.
+ ᎠᎩᎪᏩᏛᏗ ᎤᎸᏉᏗ.
+ ᎦᏚ ᎤᏂᎦᎾᏍᏓ ᏫᏥᏫᏛᎮᏗ ᎠᎩᎸᏉᏗ.
+ ᎦᏚ ᎤᏂᎦᎾᏍᏓ ᎤᎸᏉᏗ.
+ ᎤᏓᏅᏘ ᎠᎩᎵᏏ ᏥᎨᏳᎠ.
+ ᎠᎩᎵᏏ ᎠᎩᎸᏉᏗ.
+ ᎠᎩᎪᏩᏛᏗ ᏛᎵᎮᎵᏥ.
+ ᎦᏚ ᎤᏂᎦᎾᏍᏓ ᏓᏥᏁᎴᎵ.
+ ᎠᎩᏥ ᎥᏍᎩ ᏩᎲᎦ.
+ ᎠᎩᏥ ᎤᎵᏏ ᎤᎨᏳᎭ.
+ ᎤᎵᏏ ᎠᎩᏥ ᎤᎨᏳᎭ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+I like to walk in it.
+ I like to go to see my grandmother.
+ I am not afraid.
+ She likes to see me.
+ I like to take cakes to her.
+ She likes cakes.
+ I love my kind grandmother.
+ Grandmother loves me.
+ She will be glad to see me.
+ I will give her the cakes.
+ Mother sent them to her.
+ Mother loves grandmother.
+ Grandmother loves mother."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size huge
+\begin_inset Graphics
+	filename jpgs-b/008.jpg
+	lyxscale 10
+	width 65col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎯᎪᏩᏔ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+See Little Red Riding Hood.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎢᎾᎨ ᏪᏙᎭ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+She is in the forest now.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎢᎾᎨ ᎤᎯᏐᏗ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+The forest is lonely.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᏄᏍᎦᎸᎾ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Little Red Riding Hood is not afraid.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᎵᏏ ᎠᎪᎮᎨᏍᏗ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+She is going to see her grandmother.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏥ ᏫᎦᎧᎲᎦ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Her mother has sent her.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏔᎷᏣ ᎤᎭ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+She has a basket.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎦᏙ ᏧᏍᏗ ᎤᎾᏣᎠ Ꮎ ᏔᎷᏣ?
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+What is in the basket?
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎦᏚ ᎤᏂᎦᎾᏍᏓ ᎤᎾᏣᎠ Ꮎ ᏔᎷᏣ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+There are cakes in the basket.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎪᏢᏅᏍᏊ ᎤᏣᎠ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+There is butter in it, too.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᎵᏏ ᎤᏂᎦᎾᏍᏓ ᏚᎸᏉᏗ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Grandmother likes cakes.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎪᏢᏅ ᎤᎸᏉᏗ ᏍᏊ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+She likes butter, too.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᏄᏍᎦᎸᎾ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Little Red Riding Hood is not afraid.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꭳ, ᎥᏝ, ᏄᏍᎦᎸᎾ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+O no, she is not afraid.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᎵᏏ ᏛᎵᎮᎵᏥ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Grandmother will be glad.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᏛᎵᎮᎵᏥ ᎥᏍᏊ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Little Red Riding Hood will be glad, too.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size huge
+\begin_inset Graphics
+	filename jpgs-b/009.jpg
+	lyxscale 10
+	width 65col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎠᎴ ᎡᏆ ᏩᏯ ᎠᎩᏏ ᏚᎾᏠᏎ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Little Red Riding Hood met a wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎢᎾᎨᎢ ᏚᎾᏠᏎ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+She met him in the forest.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꮎ ᎤᏲ, ᎤᏲ ᏩᏯ ᎨᏎ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+He was a bad, bad wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎯᎠ ᎤᏍᏗ ᎠᎨᏳᏣ ᎠᎵᏍᏓᏴᏗ ᏂᎦᎵᏍᏗᏍᎨᏍᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏓᏅᏖᏞ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+" I will eat this little girl," said he.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏍᎩ ᏓᏥᏒᏂ.
+ ᎠᏎᏃ ᎦᏙ ᏧᏍᏗ ᏔᎷᏣ ᎤᎾᏣᎠ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"I will eat her.
+ I wonder what she has in the basket.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏙ ᏧᏍᏗ ᏔᎷᏣ ᎤᎾᏣᎠ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+What have you in the basket?" said the wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎪᏢᏅ ᎤᏣᎠ.
+ ᎦᏚᏃ ᎤᏂᎦᎾᏍᏓ ᎤᎾᏣᎠ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"I have some butter.
+ And I have some cakes."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎭᏢ ᎡᎦ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Where are you going?" said the wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᎩᎵᏏ ᏥᎪᎮᎦ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"I am going to see my grandmother."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎭᏢ ᎦᏁᎳ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+" Where does she live?" asked the wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᏍᏗ ᎢᎾᎨᎢ ᎦᏁᎳ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"She lives on the edge of the forest."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏣᎵᏏᏍᎪ ᎤᏢᎦ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Is your grandmother ill?" said the wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᎥ, ᎤᏢᎦ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Yes, she is ill," said Little Red Riding Hood.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏢᎬᎢ ᎤᏂᎭ.
+ ᎠᎩᎪᏩᏛᏗ ᏛᎵᎮᎵᏥ.
+ ᎠᎩᎨᏳᎠ.
+ ᎪᏢᏅ ᏥᏫᏗᎭ.
+ ᎦᏚᏃ ᎤᏂᎦᎾᏍᏓ ᏕᏥᏫᏗᎭ, ᎥᏍᏊ.
+ ᎢᎾ ᏫᎦᏁᎳ.
+ ᎠᏎᏃ ᎾᎩᏍᎦᎸᎾ.
+ ᎢᎾᎨᎢ ᎠᏇᏓᏍᏗ ᎠᎩᎸᏉᏗ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"She is ill in bed.
+ She will be glad to see me.
+ She loves me.
+ I shall take this butter to her.
+ I shall take these cakes to her, too.
+ She likes butter.
+ And she likes cakes, too.
+ She lives far away.
+ But I am not afraid.
+ I like to walk in the forest."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size huge
+\begin_inset Graphics
+	filename jpgs-b/010.jpg
+	lyxscale 10
+	width 65col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᏎ ᏩᏇᏅᏍᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"I must be going away now," said the wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꮟ, ᎣᏍᏓ ᏣᎵᏍᏓᏁᏗ, ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"So good-morning, Little Red Riding Hood."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎣᏍᏓ ᏣᎵᏍᏓᏁᏗᏍᏊ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+" Good-morning."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꮎ ᎤᏍᏗ ᎠᎨᏳᏣ ᎠᏎ ᏥᏒᎲᏍᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏓᏅᏖᏞ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"I must eat that little girl," said the wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꮎ ᎠᎨᏳᏣ ᎠᏎ ᏥᏒᎲᏍᏗ.
+ ᎦᏙ ᏥᏂᏱᏗ? ᏥᏒᎲᏍᏗ ᎠᏆᎵᏨᏯᏍᏗ ᏂᎨᏒᎾ.
+ ᏗᏂᎴᏴᏍᏗᏍᎩ ᎢᎾᎨᎢ ᎠᏁᏙᎰ.
+ ᎡᎵᏊ ᏗᏂᎴᏴᏍᏗᏍᎩ ᏱᎬᎩᎪᏩᏔ.
+ ᎡᎵᏊ ᏗᏂᎴᏴᏍᏗᏍᎩ ᏱᎬᎩᎷᎦ.
+ ᏂᎬᎩᎸᏉᏛᎾ.
+ ᏗᏂᎴᏴᏍᏗᏍᎩ ᏂᎦᏥᎸᏉᏛᎾ.
+ ᎬᎩᏂᏱᏗ ᎤᏂᎸᏉᏛᎭ.
+ ᏗᏂᎴᏴᏍᏗᏍᎩ ᎠᏂᎪᏩᏔ Ꮎ ᏥᏲᏌ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
+ ᏗᏂᎴᏴᏍᏗᏍᎩ ᎠᏂᎪᏩᏔ Ꮎ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎠᎩᏬᏂᏒᏌ.
+ ᏃᏊ ᏗᏆᎵᏨᏯᏍᏗ ᏂᎨᏒᎾ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᏥᏒᎲᏍᏗ.
+ ᏗᏂᎴᏴᏍᏗᏍᎩ ᎬᎩᎪᎲᎭ.
+ Ꮭ ᏱᏥᏒᎲᏍᏗ ᏃᏊ.
+ ᎠᏎ ᎠᎩᎦᏘᏗᏍᏗ.
+ ᏓᏥᏒᏂ ᎪᎯᏴᎢ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"I must eat her.
+ How can I catch her? I do not dare to eat her in the forest.
+ The wood choppers are in the forest.
+ The wood choppers might see me.
+ The wood choppers might kill me.
+ They do not like me.
+ I do not like the wood choppers.
+ They would like to catch me.
+ They would like to kill me.
+ The wood choppers saw me speak to Little Red Riding Hood.
+ The wood choppers saw Little Red Riding Hood speak to me.
+ So I do not dare to eat Little Red Riding Hood now.
+ The wood choppers would see me.
+ I can not eat her now.
+ I must wait.
+ I will eat her by and by."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏙᎾᏓᎪᎲᎢ, ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+" Good-bye, Little Red Riding Hood," said the wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏙᎾᏓᎪᎲᎢ, ᏣᏓᏅᏘ ᎯᏩᏯ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+" Good-bye, kind wolf," said she.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᏎ ᎠᏇᏅᏍᏗ ᏃᏊ.
+ ᎠᎩᎵᏏ ᎠᏎ ᎠᏇᏅᏍᏗ.
+ ᎰᏩ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+" I must go now.
+ I must go to my grandmother's.
+ Good-bye."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏓᎬᎪᎯᏏᎵ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"I shall see you again," said the wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎾᎯᏳ Ꮎ ᏩᏯ ᎤᎵᏘᏎ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Then the wolf ran away.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎭᏢᏍᎩᏂ ᎡᎦ?,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"I wonder where he is going," said Little Red Riding Hood.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꮎ ᏩᏯ ᎢᎾᎨᎢ ᎤᎦᏛᎴᏎ ᎠᏟᏎ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+The wolf ran through the forest.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᎵᏏ ᎦᎵᏦᏕ ᎠᏟᏎ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+He ran to grandmother's house.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꭳ, Ꮎ ᎤᏲ, ᎤᏲ ᏩᏯ!
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+O, the bad, bad wolf!
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭽ, Ꭽ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Ha, ha!" said the wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᏆᏛᏁᏗ ᏥᎦᏔᎭ.
+ ᎤᎵᏏ ᎦᎵᏦᏕ ᏛᏇᏅᏏ.
+ ᏓᏥᏒᏂ.
+ ᎤᏤᎵ ᎦᏂᏟ ᏛᎩᏒᏟ.
+ ᏓᏥᎦᏘᏗ Ꮎ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
+ ᎤᎵᏏ ᏓᎦᏤᎸᏂ.
+ Ꭽ, Ꭽ! Ꭽ, Ꭽ! ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎤᎵᏏ ᎦᎵᏦᏕ ᎡᎦ.
+ ᎤᎿ ᏓᏥᏂᏴᎯ.
+ Ꭽ, Ꭽ! Ꭽ, Ꭽ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"I know what I will do.
+ I will go to grandmother's house.
+ I will eat her up.
+ I will get into her bed.
+ I will wait for Little Red Riding Hood.
+ I will play grandmother.
+ Ha, ha! Ha, ha! Little Red Riding Hood is going to her grandmother's.
+ I will catch her there.
+ Ha, ha! Ha, ha!"
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꭳ, Ꮎ ᎤᏲ, ᎤᏲ ᏩᏯ!
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+O, the bad, bad wolf!
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size huge
+\begin_inset Graphics
+	filename jpgs-b/011.jpg
+	lyxscale 10
+	width 65col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᎵᏏ ᎦᎵᏦᏕ ᎤᎷᏤ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+The wolf came to grandmother's house.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎦᎶᎯᏍᏗ ᎤᏩᏂᎴ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+He knocked on the door.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎪ ᎤᎿ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏢᎬ ᎤᎵᏏ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Who is it?" said the sick grandmother.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"It is Red Riding Hood," said the wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᎯᎷᎦ ᎦᎵᎡᎵᎦ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᎵᏏ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"O, I am glad you have come," said the grandmother.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎢᎦᏓ ᎦᏚ ᎤᏂᎦᎾᏍᏓ ᎠᎴ ᎪᏢᏅᎢ ᏕᏥᏲᎦ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"I have brought you some cakes and butter," said the wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏍᏘ ᏍᏚᏗ ᎤᏯᎸᏅᏤ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+There was a string on the door.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏍᏘ ᎤᎪᎮ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+The wolf looked at the string.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏙ ᎠᎩᏴᏍᏗ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"How shall I get in?"
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᏍᏘ ᎯᎾᏌᎾᎩ.
+ ᎠᏍᏘ ᏱᎯᎾᏌᎾᎦ ᎦᎸᎳᏗᏜ ᏓᎩᏏ ᎠᏓᏅᎾ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Pull the string.
+ Pull the string and the latch will come up."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏍᏘ ᎤᎾᏌᏁᏎ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+The wolf pulled the string.
+\end_layout
+
+\end_inset
+
+ ᎦᎸᎳᏗᏜ ᏓᎩᏏ ᎤᏓᏅᏎ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+The latch came up.
+\end_layout
+
+\end_inset
+
+ Ꮎ ᏩᏯ ᎤᏴᏞ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+The wolf went in.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size huge
+\begin_inset Graphics
+	filename jpgs-b/012.jpg
+	lyxscale 10
+	width 65col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏙ ᎣᏍᏓ ᎭᏛᏁᎭ, ᎡᎵᏏ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"How do you do, grandmother? " said the wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᏣᏲ, ᏣᏲ ᎯᏩᏯ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᎵᏏ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"O, you bad, bad wolf!" said the grandmother.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝ ᎬᎪᏩᏛᏗ ᏯᏆᏚᎵ.
+ ᎦᏙᎲ ᏂᎯ ᎠᎭᏂ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"I do not wish to see you.
+ Why are you here?"
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎬᏒᎲᏍᏗ, ᎡᎵᏏ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+" I came to eat you, grandmother."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎩᎶ ᏍᎩᏍᏕᎳ! ᏍᎩᏍᏕᎳ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏪᏡᏁ ᎤᎵᏏ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Help! help!" cried the grandmother.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎥᏝ Ꮎ ᏗᏂᎴᏴᏍᏗᏍᎩ ᏳᎾᏛᎦᏁ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+The wood choppers did not hear.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏍᎩᏍᏕᎳ! ᏍᎩᏍᏕᎳ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Help! help!"
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏎᏃ ᎥᏝ ᎠᎵᏍᏕᎵᏍᎩ ᏳᎷᏤ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+But no help came.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏲ ᎤᎵᏏ!
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Poor grandmother!
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎥᏝ ᎠᎵᏍᏕᎵᏍᎩ ᏳᎷᏤ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+No help came to her.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏗᏂᎴᏴᏍᏗᏍᎩ ᎢᏅᎯ ᎨᏎ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+The wood choppers were too far away.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎩᎳᏊ ᎥᏝ ᎤᎵᏏ ᏱᎨᏎ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Soon there was no grandmother.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏩᏯᏊ ᎨᏎ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+There was only a wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᎴ ᎤᏲ, ᎤᏲ ᏩᏯ ᎨᏎ!
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+And he was a bad, bad wolf!
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꭳ, ᎤᏲᏒ ᏩᏯ!
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+O, what a bad wolf!
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size huge
+\begin_inset Graphics
+	filename jpgs-b/013.jpg
+	lyxscale 10
+	width 65col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꮎ ᎤᏲ ᏩᏯ ᎤᎵᏍᏚᎳᏁ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+The bad wolf put on a cap.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꮎ ᎤᏲ ᏩᏯ ᏚᎦᏘᏅᏔᏁ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+The bad wolf put on glasses.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᎵᏏ ᎤᏤᎵ ᎠᎵᏍᏚᎶ ᎨᏎ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+It was grandmother's cap.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᎵᏏ ᎤᏤᎵ ᏗᎦᏘᏅᏘᏗ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+They were grandmother's glasses.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏃᏊ ᎠᏎ ᎠᎩᏒᏍᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+" Now I must get into bed," he said.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎩᎳᏊ ᎠᎭᏂ ᎤᎷᏥᏗ.
+ ᏓᏥᏒᏂ ᎥᏍᏊ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Little Red Riding Hood will soon be here.
+ I shall eat her, too."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎾᎯᏳ ᎤᏒᏞ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+So he got into bed.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᏓᏥᎦᏘᏗ.
+ ᎩᎳᏊ ᎤᎷᏥᏗ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"I shall wait for Little Red Riding Hood.
+ She will come soon."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꭳ, ᏣᏲ ᎯᏩᏯ!
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+O, you bad wolf!
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᎵᏏ ᎤᏤᎵ ᏗᎦᏘᏅᏘᏗ ᎯᎪᏩᏔ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+See grandmother's glasses.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏤᎵ ᎠᎵᏍᏚᎶ ᎯᎪᏩᏔ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+See her cap.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏲ ᎤᎵᏏ!
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Poor grandmother!
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏤᎵ ᏗᎦᏘᏅᏘᏗ ᏚᎦᏘᏅᏔ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+The wolf has on her glasses.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏤᎵ ᎠᎵᏍᏚᎶ ᎤᎵᏍᏚᎳ, ᎥᏍᏊ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+He has on her cap, too.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎯᎪᏩᏔ ᏩᏯ ᎤᏂᎭ, ᎤᏤᎵ ᎦᏂᏟ ᎨᏎ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+See him in her bed.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꭳ, Ꮎ ᎤᏲ, ᎤᏲ ᏩᏯ!
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+O, the bad, bad wolf!
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size huge
+\begin_inset Graphics
+	filename jpgs-b/014.jpg
+	lyxscale 10
+	width 65col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎩᎳᏊ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎤᎷᏤ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Soon Little Red Riding Hood came.
+\end_layout
+
+\end_inset
+
+ ᏔᎷᏣ ᎠᏰᎮ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+She had the basket on her arm.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎦᎶᎯᏍᏗ ᎤᏩᏂᎴ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+She knocked at the door.
+\end_layout
+
+\end_inset
+
+ ᎾᎧ, ᎾᎧ, ᎾᎧ!
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Knock, knock, knock!
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎪ ᎤᎿ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Who is it?" said the wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᏴ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"It is I, Little Red Riding Hood."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᎯᎷᎦ ᎦᎵᎡᎵᎦ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"O, I am glad you have come!" said the wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᎩᏴᏍᏗ, ᎡᎵᏏ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Let me in, grandmother," said Little Red Riding Hood.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎬᏲᎴᎵ ᎢᎦᏓ ᎪᏢᏅ.
+ ᎠᎴ ᎬᏲᎴᎵ ᎦᏚ ᎤᏂᎦᎾᏍᏓ.
+ ᎦᏙ ᎠᎩᏴᏍᏗ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"I have some butter for you.
+ And I have some cakes.
+ How shall I get in?"
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎯᎾᏌᎾᎩ Ꮎ ᎠᏍᏘ.
+ ᎦᎸᎳᏗᏜ ᏓᎩᏏ ᏛᏓᏅᏏ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Pull the string.
+ Then the latch will come up."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎠᏍᏘ ᎤᎾᏌᏁᏎ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Little Red Riding Hood pulled the string.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏓᎩᏏ ᎦᎸᎳᏗᏜ ᎤᎾᏌᏁᏎ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+The latch came up.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎤᏴᏞ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Little Red Riding Hood went in.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ, ᎣᏍᏓ ᎬᎪᏩᏘᎭ, ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Ah, good-morning, Little Red Riding Hood," said the wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎣᏍᏓ ᎬᎪᏩᏘᎭ, ᎡᎵᏏ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+" Good-morning, grandmother," said Little Red Riding Hood.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏂᏟ ᏗᏜ ᏖᎾ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Come to the bedside," said the wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏙᎯᏳ ᎠᎩᏢᎦ, ᏣᏅᏔ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"I am very ill, you know."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᏙᎯᏳᏍ ᏣᏢᎦ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"O, are you very ill?"
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭵ, ᏙᎯᏳ ᎠᎩᏢᎦ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Yes, I am very ill."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᎤᏲ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"O, I am so sorry!" said Little Red Riding Hood.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎯᎳ ᎢᏴ ᏣᏢᎦ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"How long have you been ill?"
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎪᎯᏓ, ᏙᎯᏳ ᎪᎯᏓ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"A long, long time."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᎤᏲ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"O, I am so sorry!"
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size huge
+\begin_inset Graphics
+	filename jpgs-b/015.jpg
+	lyxscale 10
+	width 65col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎦᏂᏟ ᎾᎥ ᎤᏪᏅᏎ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Little Red Riding Hood went to the bedside.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏍᎦᎴ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+She was afraid.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ! Ꭳ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏪᏡᏁ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"O! O!" she cried.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏙ ᎤᏍᏗ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"What is it?" said the wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏙᎲ ᎮᏡᎲᎦ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Why do you cry out?"
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎬᎦᏙᏍᏗ ᎠᎴ ᎯᏎᎩ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ Ꮎ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"You look so strange! " said Little Red Riding Hood.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎬᏍᎦᎭ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"I am afraid of you."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏍᎩᏍᎦᎭᏍ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Afraid of me?" said the wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏍᎩᏍᎦᎭᏍ ᎬᎵᏏ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Afraid of your grandmother?"
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᏎᏃ ᎬᎦᏙᏍᏗ ᎠᎴ ᎯᏎᎩᏒ, ᎡᎵᏏ.
+ ᏧᏔᏂ ᏔᏃᎨᏂ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"But you look so strange, grandmother.
+ You have such big arms!"
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏧᏔᎾᏍ ᏗᏆᏃᎨᏂ? Ꮎ ᎣᏍᏓ.
+ ᎣᏍᏓᎨᎢ ᎬᏯᏄᎩᏣᏗ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Big arms? That is good.
+ I can hug you all the better."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꮟ, ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎤᏍᎦᎴ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Still Little Red Riding Hood was afraid.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꭳ, Ꮎ ᎤᏲ, ᎤᏲ ᏩᏯ!
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+O, the bad, bad wolf!
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏔᏃᎨᏂ ᎠᏂᏎᎩ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"These arms look so strange," said Little Red Riding Hood.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝ ᏔᏃᎨᏂ ᏱᎩ, ᎡᎵᏏ.
+ ᏗᎧᏃᎨ ᏕᏥᏍᎦᎭ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"They do not look like your arms, grandmother.
+ I am afraid of these arms."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏧᎾᏟᏂᎩᏓ ᏗᎦᏃᎨᏂ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"These are strong arms," said the wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎯᎪᏩᏔ ᎥᏍᎩ ᎣᏍᏓ ᎨᏣᏄᎩᏣᏗ, ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
+ ᏖᎾ ᎠᎭᏂ ᎬᏄᎩᏣᏗ.
+ ᏓᎬᏯᏄᎩᏨᏂ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"See how they can hug you, Little Red Riding Hood.
+ Come here and let me hug you.
+ I will hug you."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏎᏃ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎤᏍᎦᎴ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+But Little Red Riding Hood was afraid.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎥᏝ ᏳᏪᏅᏒᎭ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+She would not come.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᏩᏯ ᏗᎦᎴᏂ ᏚᎦᏙᏍᏔᏁ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Little Red Riding Hood looked at the wolf's ears.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᎴ ᏘᎴᏂ, ᎡᎵᏏ! ᎠᏂᏎᎩᏒ! ᎥᏝ ᏘᎴᏂ ᏱᎩ.
+ ᎤᏔᏂ.
+ ᏕᏥᏍᎦᎭ, ᎡᎵᏏ.
+ ᎤᎪᏗ ᏧᏔᎾ ᏘᎴᏂ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"And your ears, grandmother! How strange they are! They do not look like
+ your ears.
+ They are too big.
+ I am afraid of them, grandmother.
+ They are such big ears!"
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏕᎯᏍᎦᎭᏍᎪ ᏗᏥᎴᏂ? ᏗᏥᎴᏂ ᎣᏍᏓ.
+ ᏧᏔᎾ.
+ ᎠᏎᏃ ᎣᏍᏓᎨᎢ ᎬᏯᏛᎪᏗ, ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Afraid of my ears? They are good ears.
+ They are large.
+ But I can hear you all the better, Little Red Riding Hood."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᏩᏯ ᏗᎦᏙᎵ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Little Red Riding Hood looked at the wolf's eyes.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ ᎡᎵᏏ, ᏧᏔᎾ ᏘᎦᏙᎵ! ᎥᏝ ᏘᎦᏙᎵ ᏱᎩ.
+ ᏘᎦᏙᎵ ᏕᏥᏍᎦᎭ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"O grandmother, what big eyes! They do not look like your eyes.
+ I am afraid of those eyes."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏕᎯᏍᎦᎭᏍᎪ ᏕᏥᎦᏙᎵ? ᎭᏛᏁᎵᏍᎩ ᎤᏍᏗ ᎠᎨᏳᏣ! ᎤᎵᏏ ᏗᎦᏙᎵ ᏕᎯᏍᎦᎭ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+" Afraid of these eyes? What a silly little girl! Afraid of your grandmother's
+ eyes!"
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᎥ, ᏘᎦᏙᎵ ᏕᏥᏍᎦᎭ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Yes, I am afraid of your eyes," said Little Red Riding Hood.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏧᏔᏂ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"They are so big."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎣᏍᏓᎨᎢ ᎬᏯᎦᏙᏍᏙᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Then I can see you all the better," said the wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏂᏟ ᏗᏜ ᏖᎾ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Come to the bedside," said the wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏖᎾ, ᎬᏯᎦᏙᏍᏙᏗ.
+ ᏖᎾ, ᎬᏯᏛᎪᏗ.
+ ᏖᎾ, ᎬᏯᏄᎩᏣᏗ.
+ ᏖᎾ, ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ, ᏖᎾ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+" Come, so that I can see you.
+ Come, so that I can hear you.
+ Come, so that I can hug you.
+ Come, Little Red Riding Hood, come!"
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᏥᏍᎦᎭ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"O, I am afraid!" said Little Red Riding Hood.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝ ᏫᏤᏅᏍᏗ ᏯᏆᏚᎵ!
+\begin_inset Quotes erd
+\end_inset
+
+ "I do not want to come!"
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎯᏍᎦᎭᏍ? ᎦᏙᏃ ᎯᏍᎦᎭ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Afraid? Why are you afraid?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏧᏔᏂ ᏘᎦᏙᎵ, ᎡᎵᏏ.
+ ᏧᏔᏂ ᏘᎴᏂ.
+ ᏔᏃᎨᏂ ᏧᏔᏂ.
+ ᎠᎴ ᎯᎰᎵ, ᎡᎵᏏ.
+ Ꭳ, ᎤᏔᏂ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Your eyes are so big, grandmother.
+ Your ears are so big.
+ Your arms are so big.
+ And your mouth, grandmother.
+ O, it is so big!"
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏔᎾᏍ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+" Big?" said the wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎣᏍᏓᎨᎢ ᎬᏒᎲᏍᏗ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Then I can eat you all the better."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭼ.
+ Ꭼ.
+ Ꭼ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏪᏡᏁ!
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Growl, growl, growl!
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏗᏛᎲᎢ ᎦᏂᏟ ᏫᏚᎵᏔᏗᏅᏎᎴ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+The wolf sprang out of bed.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭼ.
+ Ꭼ.
+ Ꭼ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏪᏡᏁ!
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Growl, growl, growl!
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ! Ꭳ! Ꭳ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏪᏡᏁ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"O! O! O!" cried Little Red Riding Hood.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size huge
+\begin_inset Graphics
+	filename jpgs-b/016.jpg
+	lyxscale 10
+	width 65col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ! Ꭳ! Ꭳ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏪᏡᏁ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"O! O! O!" screamed Little Red Riding Hood.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ! Ꭳ! Ꭳ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"O! O! O!"
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏍᎩᏍᏕᎳ, ᏍᎩᏍᏕᎳ, ᏍᎩᏍᏕᎳ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Help, help, help!"
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ! Ꭳ! Ꭳ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"O! O! O!"
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏙ ᎤᏍᏗ ᎥᏍᎩ ᎠᏓᏃᏴᏟᏍᏗᎭ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏗᏂᎴᏴᏍᏗᏍᎩ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"What is that noise?" said the wood choppers.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝᏍᎪ ᏱᏕᏣᏛᎩᎠ? ᎢᏣᏛᏓᏍᏓ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Don't you hear it? Listen!"
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏍᎩᏍᏕᎳ, ᏍᎩᏍᏕᎳ, ᏍᎩᏍᏕᎳ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Help, help, help!"
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
+ ᎦᏙᎲ ᎤᏪᏡᏁ? Ꮎ ᎤᏲ ᏩᏯ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏌᏊ ᎦᎴᏴᏍᏗᏍᎩ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"It is Little Red Riding Hood.
+ Why does she scream? It is that bad wolf," said one wood chopper.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᎥ, ᎥᏍᎩ.
+ ᏫᏗᏓᏓᎾᏩᏍᏓ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Yes, that is it.
+ Let us run."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎾᎯᏳ ᏗᏂᎴᏴᏍᏗᏍᎩ ᎤᎾᏓᎾᏩᏍᏔᏁ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+So the wood choppers ran.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎦᎵᏦᏕ ᏗᏜ ᎤᎾᏓᎾᏩᏍᏔᏁ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+They ran to the house.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꮎ ᏩᏯ ᎤᏂᎪᎮ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+The wolf saw them.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏓᎬᎩᏟ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"They will kill me," said the wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎾᎯᏳ Ꮎ ᏩᏯ ᎦᎶᎯᏍᏗ ᎤᎦᏛᎴᏒᎢ ᎤᎵᏘᏎ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+So the wolf ran out at the door.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size huge
+\begin_inset Graphics
+	filename jpgs-b/017.jpg
+	lyxscale 10
+	width 65col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᏂᎯ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏁᏡᏁ Ꮎ ᏗᏂᎴᏴᏍᏗᏍᎩ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"O, there you are!" cried the wood choppers.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᎾᏅᏕ Ꮎ ᏂᎯ.
+ ᏣᏲᏒ ᎯᏩᏯ.
+ ᏃᏊ ᎢᏨᏟᏗ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+" We knew that it was you.
+ You are a bad wolf.
+ Now we will kill you."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎾᎯᏳ Ꮎ ᎤᏲ ᏩᏯ ᎤᏂᏞ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+So they killed the bad wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᎰᎵᏃ ᎤᎵᏏ ᏚᎵᏔᏗᏅᏒᎢ ᎤᏄᎪᏤ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+And grandmother jumped out of his month.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᎵᏏ ᎤᏓᎾᏩᏍᏔᏁ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᏗᏜ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+She ran to Red Riding Hood.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏥᏍᎦᏯ ᏂᎯᏍᏊ ᎤᎩᏒᎭ
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏪᏡᏁ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"I was so afraid he would swallow you, too!" she cried.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎾᎯᏳ ᎤᎵᏏ ᎥᏍᎩ ᎤᏄᎩᏨᏁ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Then she took Little Red Riding Hood up in her arms.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᎪᏗ ᎤᎾᎵᎮᎵᏨᎢ ᎨᏎ!
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+How glad they both were!
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꮎ ᏗᏂᎴᏴᏍᏗᏍᎩ ᎤᎾᎵᎮᎵᏤ, ᎥᏍᏊ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+The wood cutters were glad, too.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꮎ ᏭᎪᏛ ᎤᏲ ᏩᏯ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᎾᏛᏁ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"That wicked wolf!" they said.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎣᎩᏂᏱᏗ ᎪᎯᏓ ᎣᏣᏁᏟᏗᏍᎬᎩ.
+ ᏃᏊ Ꮭ ᎢᎸᎯᏳ ᏙᏛᏒᏂ.
+ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᏓᏲᏥᎾᏫᏛᎯ ᎤᏥ ᎦᎵᏦᏕ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᎾᏛᏁ Ꮎ ᏗᏂᎴᏴᏍᏗᏍᎩ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"We have been trying to catch him for a long time.
+ Now he will never do any more harm.
+ We will take Little Red Riding Hood home to her mother," said the wood
+ cutters.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎾᎯᏳᏃ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎤᏂᏫᏛᎮ ᏧᏪᏅᏒᎢ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+So they took Little Red Riding Hood to her home.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏙ ᏂᎦᎵᏍᏗᎭ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏪᏡᏁ ᎤᏥ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"What is it?" cried her mother.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏙᎲ ᏗᏂᎴᏴᏍᏗᏍᎩ ᏗᎩᏁᏅᏒᎢ ᎨᏣᏫᏓ? ᎤᏲᏍ ᏣᎵᏍᏓᏁᎭ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Why do the wood choppers bring you home? Are you hurt?"
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝ ᎤᏲ ᏯᏆᎵᏍᏓᏁᎭ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"No, I am not hurt," said Little Red Riding Hood.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᏎᏃ ᎤᏲ ᏩᏯ ᎨᏎ.
+ ᎤᏛᏁ ᎠᎩᏒᏅᎭ.
+ ᎠᏎᏃ ᏗᏂᎴᏴᏍᏗᏍᎩ ᎤᏂᎷᏨᎩ.
+ Ꮎ ᎤᏲ ᏩᏯ ᎤᏂᏢᎩ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"But there was a bad wolf.
+ He said he would eat me.
+ But the wood choppers came.
+ They killed the bad wolf."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size huge
+\begin_inset Graphics
+	filename jpgs-b/018.jpg
+	lyxscale 10
+	width 65col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏙ ᏦᏟᏍᏗ ᎨᏎ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏥ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"How did the wolf know you?" said Little Red Riding Hood's mother.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏓᎩᏙᎥ ᎠᎩᏃᎮᏢᎩ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"I told him my name," said Little Red Riding Hood.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏙ ᎤᎿ ᏤᏅᏍᏗ ᎤᏅᏖ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"How did he know where you were going?"
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᎿ ᎠᏇᏅᏍᏗ ᎠᎩᏃᎮᏢᎩ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"I told him where I was going."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏙ ᏣᎵᏏ ᎤᎿ ᎤᏪᎮᏍᏛ ᎤᏅᏖ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"How did he know where grandmother lived?"
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᎿ ᎠᎩᎵᏏ ᎤᏪᎮᏍᏛ ᎠᎩᏃᎮᏢᎩ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+\begin_inset Quotes erd
+\end_inset
+
+"I told him where grandmother lived."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᏣᏓᏣᏘᏗ.
+ ᎤᏓᏣᏘᏗ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ! ᏞᏍᏗ ᎢᎸᎯᏳ ᏩᏯ ᏥᎯᏯᎵᏃᎮᏓ.
+ ᎤᏙᎯᏳ, ᏞᏍᏗ ᎢᎸᎯᏳ ᏩᏯ ᏥᎯᏯᎵᏃᎮᏓ ᏏᏊ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"O, you silly, silly Little Red Riding Hood! You must never talk with a
+ wolf.
+ Never, never talk with a wolf again."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝ ᎢᎸᎯᏳ ᏩᏯ ᏱᏘᏯᎵᏃᎮᏔᏂ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+" No, I never will," said Little Red Riding Hood.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᎴ ᎥᏝ ᎢᎸᎯᏳ ᏱᏄᏛᏁᎴ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+And she never did.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size huge
+\begin_inset Graphics
+	filename jpgs-b/019.jpg
+	lyxscale 10
+	width 99text%
+	height 99theight%
+	keepAspectRatio
+	groupId fullpage
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Ꮎ ᎦᎵᏉᎩ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{plain}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size huge
+\begin_inset Graphics
+	filename jpgs-b/020.jpg
+	lyxscale 10
+	width 65col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎯᎠ ᎤᎾᎦᏐᏣᏁᏓ.
+ ᏌᏊ ᎤᏂᏥ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+This is a goat.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ ᏚᏁᎧᎮ ᎦᎵᏉᎩ ᏧᎾᏍᏗ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+The goat has seven little kids.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ ᏧᏪᏥ ᏚᎨᏳᏐ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Mother Goat loves her kids.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᎤᏂᏥ ᎤᏂᎨᏳᏐ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+The kids love Mother Goat.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᎠᏎ ᏧᏩᎧᎯᏯᏍᏗ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Mother Goat must leave the kids.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᎵᏍᏓᏴᏗ ᎠᏎ ᏧᏩᏛᎮᏗ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+She must go out to find food.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size huge
+\begin_inset Graphics
+	filename jpgs-b/021.jpg
+	lyxscale 10
+	width 65col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎯᎠ ᏩᏯ ᎠᏨᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+This is a wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᎵᏍᏇᏚᎦ ᎤᏄᏩ ᏚᎳᏑᏝᏃ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꮎ ᏩᏯ ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ ᎠᎪᏩᏘᎭ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+The wolf sees Mother Goat.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᏧᏬᏎᎸᎢ ᎤᏛᎦᏁ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+He heard what she said to the kids.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏍᎩ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᎠᏎ ᎦᏥᏒᎲᏍᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"I must eat those kids," said the wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎾᎯᏳ ᏪᎾ, ᎤᎦᏐᏣᏁᏓ, ᏗᎵᏍᏓᏴᏗ ᏫᏘᏩᏔ.
+ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᏓᎦᏥᎩᏏ ᏫᏤᏅᏒᎢ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"So go, goat, and find food.
+ I will get the kids while you are away."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꭳ, ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ, ᏣᏛᎦᏁᏍ ᏩᏯ ᎤᏬᏂᏒᎢ?
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+O, Mother Goat, did you hear what the wolf said ?
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ, ᎢᏣᏛᎦᏁᏍ?
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Did you hear, little kids?
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏃᏊ Ꮎ ᏩᏯ ᏪᎦ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Now the wolf is going away.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎭᏛᎬᎦ.
+ ᎤᏩᏌ ᏧᏓᏙᏎᎸᎢ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Hear him talk to himself.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎯᎠ ᏧᏛᏅᎢ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+This is what he says.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ ᏗᎵᏍᏓᏴᏗ ᎠᎩᏎᎦ.
+ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᎠᏎ ᎦᏥᏒᎲᏍᏗ.
+ ᎣᏍᏓ ᎠᎵᏍᏓᏴᏗ ᎠᏎ ᎠᎩᎮᏍᏗ.
+ Ꮎ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᎥᏝ ᎠᎩᏴᏍᏗ ᏯᎾᎵᏍᎪᎸᏓᏁᎰ.
+ ᎠᏎᏃ ᎠᏎ ᎠᎩᏴᏍᏗ.
+ ᏄᏍᏗ ᎠᎩᏴᏍᏗ ᏓᎦᏓᏅᏖᏟ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Mother Goat is going to get food.
+ I must eat the kids.
+ I must have a good dinner.
+ The kids will not let me in.
+ But I must get in.
+ I shall think of a way to get in.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size huge
+\begin_inset Graphics
+	filename jpgs-b/022.jpg
+	lyxscale 10
+	width 65col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏃᏊ, ᏙᏓᏓᎪᎲᎢ, ᏧᎾᏍᏗ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.
+ ᎠᏎ ᏩᏇᏅᏍᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Now, good-bye, little kids.
+ I must go away," said the Mother Goat.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꮎ ᏩᏯ ᏓᏳᎷᏥ.
+ Ꮎ ᏩᏯ ᏓᏥᏒᏂᎵ.
+ Ꮎ ᏩᏯ ᏓᏥᏒᏂ ᏱᏥᎩᎠ.
+ ᎥᏍᎩᏅ ᎢᏳᏍᏗ ᏞᏍᏗ ᎤᏴᏍᏗ ᏥᏣᎵᏍᎪᎸᏓᏏ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"The wolf will come.
+ The wolf will come to eat you.
+ The wolf will eat you, if he can get you.
+ So do not let the wolf in," said the Mother Goat.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꮎ ᏩᏯ ᎥᏝ ᎤᏴᏍᏗ ᏱᏓᏲᏣᎵᏍᎪᎸᏓᏁᎵ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᎾᏛᏁ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"We will not let the wolf in," said the kids.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝ Ꮎ ᎦᎶᎯᏍᏗᎢ ᏱᏓᏲᏥᏍᏚᎢᏏ.
+ ᏂᎪᎯᎸᎢ ᏓᏲᏥᏍᏚᏂ.
+ ᎥᏝ ᎩᎶ ᏱᏓᏲᏥᏍᏚᎢᏏ.
+ ᏃᏊ ᏪᎾ, ᎢᏍᎩᏥ ᎤᎦᏐᏣᏁᏓ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᎾᏛᏁ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"We will not open the door.
+ We will keep it closed.
+ We will open it for no one.
+ So go, Mother Goat," said the kids.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᎵᏍᏓᏴᏗ ᏫᏍᎩᎩᏎᎷᎦ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Go to get food for us."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏓᏣᏅᏘᏍᎪ Ꮎ ᏩᏯ ᎤᎷᏨᎢ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏛᏅ ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Shall you know the wolf when he comes?" said Mother Goat.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏁᏨᎢᏍᎪ ᏓᏣᏅᏘ? Ꮎ ᏩᏯ ᎤᏓᏣᎧᏗ ᎤᏁᏨᎢ ᎨᏎ.
+ ᎾᎯᏳ ᎢᏣᏛᏓᏍᏓ Ꮎ ᎤᏓᏣᎧᏗ ᎤᏁᏨᎢ.
+ ᎤᏓᏣᎧᏗ ᎤᏁᏨᎢ ᏱᎩ ᏞᏍᏗ ᎦᎶᎯᏍᏗᎢ ᏥᏥᏍᏚᎢ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+" Shall you know his voice? The wolf has a ᎤᏓᏣᎧᏗ rough voice.
+ Listen, then, for the rough voice.
+ Do not open the door when you hear the rough voice."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝ, Ꮭ ᏱᏓᏲᏥᏍᏚᎢᏏ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᎾᏛᏁ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+" No, we will not," said the kids.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᎴ ᏓᏲᏣᏛᏓᏍᏔᏂ.
+ ᎤᏓᏣᎧᏗ ᎤᏁᏨᎢ ᏓᏲᏣᏛᏓᏍᏔᏂ.
+ ᏩᏯ ᏱᎩ ᎥᏝ ᎦᎶᎯᏍᏗᎢ ᏱᏓᏲᏥᏍᏚᎢᏏ.
+ ᎤᏓᏣᎧᏗ ᎤᏁᏨᎢ ᏱᎩ ᏩᏯ ᏓᏲᎦᏅᏘ.
+ ᎯᎠ ᏓᏲᏦᏎᎵ, 'ᎥᏝ, ᎥᏝ, ᎤᏓᏣᎧᏗ ᎤᏁᏨᎢ.
+ ᎥᏝ ᏱᎦᏣᏴᏍᏗ.
+ ᎯᏩᏯ ᎣᎦᏅᏔ.
+ ᏃᏊ ᏪᎾ, ᏩᏯ.
+ ᎥᏝ ᏣᏴᏍᏗ ᏱᏓᏲᏣᎵᏍᎪᎸᏓᏁᎵ.'
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"And we will listen.
+ We will listen for the rough voice.
+ We will not open the door for the wolf.
+ We shall know him by his voice.
+ We will say, 'No, no, rough voice.
+ You cannot come in.
+ You have a rough voice.
+ We know that you are a wolf.
+ So go away, wolf.
+ We will not let you in.' "
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏩᏯ ᏗᎬᎿᎨ ᏧᎳᏏᏕᏂ, ᎥᏍᏊ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᎾᎦᏐᏣᏁᏓ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"The wolf has black feet, too," said the goat.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏗᏥᏱᎦ Ꮎ ᏗᎬᎿᎨ ᏧᎳᏏᏕᏂ.
+ ᏗᎬᎿᎨ ᏧᎳᏏᏕᏂ ᏱᎩ ᏞᏍᏗ ᎦᎶᎯᏍᏗᎢ ᏥᏥᏍᏚᎢ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Look out for the black feet.
+ Do not open the door for black feet."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏙᏓᏲᎩᏯᎵ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᎾᏛᏁ Ꮎ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"We will look," said the kids.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎶᎯᏍᏗᎢ ᎥᏝ ᏩᏯ ᏱᏓᏲᏥᏍᏚᎢᏎᎵ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+" We will not open the door for any wolf."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size huge
+\begin_inset Graphics
+	filename jpgs-b/023.jpg
+	lyxscale 10
+	width 65col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎾᎯᏳᏃ ᎤᎦᏐᏣᏁᏓ ᎤᏂᏥ ᎤᏪᏅᏎ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+So the Mother Goat went away.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᎵᏍᏓᏴᏗ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᎤᎩᏒᏎ Ꮎ ᎤᎦᏐᏣᏁᏓ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+The goat went to get food for the kids.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏭᏪᏅᏒᎢ Ꮎ ᏩᏯ ᎤᎪᎮ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+The wolf saw her go away.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏃᏊ ᎠᏆᏜᏅᏓᏕᎭ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Now is my time," said he.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎾᎯᏳᏃ ᎦᎵᏦᏕ ᎤᏪᏅᏎ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+So the wolf went to the house.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size huge
+\begin_inset Graphics
+	filename jpgs-b/024.jpg
+	lyxscale 10
+	width 65col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᎩᏴᏍᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Let me in," said the wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎪ ᏂᎯ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᎾᏛᏁ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Who are you?" said the kids.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏙ? ᎥᏝᏍᎪ ᏱᏍᎩᏲᎵᎦ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Why, don't you know me?" said the wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎢᏨᏥ ᎤᎦᏐᏣᏁᏓ.
+ ᎠᏎ ᎠᎩᏴᏍᏗ.
+ ᎠᎵᏍᏓᏴᏗ ᎢᏨᎮᎭ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"I am your Mother Goat.
+ Let me in.
+ I have some food for you."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size huge
+\begin_inset Graphics
+	filename jpgs-b/025.jpg
+	lyxscale 10
+	width 65col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏦᎳᏂ ᎤᎾᎦᏔᏁ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+The little kids looked out of the window.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏂᎯ ᎥᏝ ᎣᏥᏥ ᎤᎦᏐᏣᏁᏓ ᏱᎩ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᎾᏛᏁ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"You are not the Mother Goat," said the kids.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎯᏩᏯ.
+ ᏣᏬᏂᏒᎢ ᎣᏣᏛᎩᎠ.
+ ᏩᏯ ᎤᏓᏣᎧᏗ ᎤᏬᏂᏒᎢ.
+ ᏃᏊ ᏪᎾ, ᏩᏯ.
+ ᎥᏝ ᏣᏴᏍᏗ ᏱᏓᏲᏣᎵᏍᎪᎸᏓᏁᎵ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+" You are a wolf.
+ We hear your voice.
+ It is a rough wolf's voice.
+ So go away, wolf.
+ We will not let you in."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏙ, ᎢᏨᏥ ᎥᏝ ᎠᎩᏴᏍᏗ ᏱᏣᎵᏍᎪᎸᏓᏁᎭ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏠᏱᎸᎢ ᎤᏛᏁ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"What, not let your mother in?" cried the wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝ ᎢᏍᎩᏥ ᏱᎩ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᎾᏛᏁ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"You are not our mother, " said the kids.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎯᏩᏯ.
+ ᎤᏲᏒ ᎠᎦᏴᎵ ᏩᏯ! ᏣᏬᏂᏒᎢ ᎣᏣᏅᏔ.
+ ᏃᏊ ᏪᎾ.
+ Ꮭ ᎣᎦᏤᎵ ᎦᎵᏦᏕ ᏱᎦᏣᏴᏍᏗ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"You are a wolf.
+ A wicked old wolf! We know your voice.
+ So go away.
+ You cannot get into our house."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎬᎬᎬ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏓᏙᏎᎴ Ꮎ ᏩᏯ.
+ ᎾᎯᏳ ᏭᏪᏅᏎ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+The wolf growled to himself.
+ Then he went away.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᎩᏬᏂᏒᎢ ᎠᏎ ᎤᏓᏁᏟᏴᏍᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏓᏅᏖᏞ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"I shall have to change my voice," he said.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎾᎯᏳ ᏓᎦᏥᎷᏥᏏᎴᎵ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Then I will go again to the kids."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎪᎯᏴᎢ ᎤᎷᏥᏏᎴ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+So by and by he came again.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏬᏂᏒᎢ ᏃᏊ ᎤᎦᎾᏍᏓ ᎤᏓᏅᏘᏃ ᎨᏎ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+His voice was now very sweet and kind.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎶᎯᏍᏗᎢ ᎢᏥᏍᏚᎢ, ᏧᎾᏍᏗ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏯᏅᎮ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Open the door, little kids," he called.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎢᏨᏥ ᎤᎦᏐᏣᏁᏓ, ᎢᏥᎪᏩᏔ, ᎠᎵᏍᏓᏴᏗ ᎢᏨᎮᏍᏕᎭ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+" It is the Mother Goat, See, I have food for you."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᏚᎾᏓᏓᎦᏙᏍᏔᏁ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+The kids looked at each other.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏬᏂᏒᎢ ᏩᏂᎨᎢ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᎾᏛᏁ Ꮎ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"The voice is soft," said the kids.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏏᏊᏍ ᏩᏯ? ᎣᏥᏥᎨ ᎤᎦᏐᏣᏁᏓ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Is it the wolf again? Or is it our Mother Goat?"
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᎩᏴᏍᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Let me in," said the wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏙᎲ ᎥᏝ ᎦᎶᎯᏍᏗᎢ ᏱᏥᏍᏚᎢᏍᏗ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+" Why do you not open the door? "
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏩᏯ ᏱᎩ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏌᏊ ᎤᎦᏐᏣᏁᏓ ᎠᎩᎾ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Can it be the wolf?" said one kid.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏬᏂᏒᎢ ᏩᏂᎨᎢ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏐᎢ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"His voice is so ᏩᏂᎨᎢ soft," said another.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎪᎯᏓ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᏙᎢ ᎨᏎ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+The kids kept very still for a time.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎥᏝ ᎦᎶᎯᏍᏗᎢ ᏳᏂᏍᏚᎢᏎ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+They did not open the door.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝᏍᎪ ᏱᏍᎩᏯᏛᎩᎠ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᏚᏯᏅᎯᏏᎴ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Don't you hear me?" called the wolf again.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝᏍᎪ ᏱᏍᎩᏯᏛᎩᎠ ᎢᏨᏥ? ᎦᏙᎲ ᎥᏝ ᏱᎦᏣᏴᏍᏗ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Don't you hear your mother? Why do you not let me in?"
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size huge
+\begin_inset Graphics
+	filename jpgs-b/026.jpg
+	lyxscale 10
+	width 65col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꮎ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᏦᎳᏂ ᏗᏜ ᎤᏓᎾᏩᏍᏔᏁ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+The kids ran to the window.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏗᏣᎳᏏᏕᏂ ᏫᏙᏥᎪᏩᏔ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᎾᏛᏁ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Let us see your feet," they said.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎶᎯᏍᏗᎢ ᎠᏎ ᎢᏥᏍᏚᎢᏍᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Open the door," said the wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ, ᎥᏝ! ᎢᎪᎯᏓ ᏗᏣᎳᏏᏕᏂ ᏙᏥᎪᏩᏘᎭ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᎾᏛᏁ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"No, no! Not until you let us see your feet " said the kids.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏫᏙᏥᎪᏩᏔ, ᎬᏲᏎᎭ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏓᏂᎳᎨᎢ ᎤᎦᏐᏣᏁᏓ ᎠᎩᎾ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Let us see your feet, I say," cried the oldest kid.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᎣᏥᎪᏩᏘᎭ.
+ ᏗᏣᎳᏏᏕᏂ ᏗᎬᎿᎨᎢ.
+ ᎣᏥᏥ ᏧᎳᏏᏕᏂ ᏧᏁᎦ.
+ ᏃᏊ ᏪᎾ.
+ ᎯᏩᏯ.
+ ᎥᏝ ᏱᎦᏣᏴᏍᏗ.
+ ᎥᏝ ᎦᎶᎯᏍᏗᎢ ᏱᏓᏨᏍᏚᎢᏎᎵ.
+ ᏂᎯ ᎥᏝ ᎣᏥᏥ ᎤᎦᏐᏣᏁᏓ ᏱᎩ.
+ ᏣᏲᏒ.
+ ᎯᎦᏴᎵ.
+ ᎯᏩᏯ.
+ ᏗᎬᎿᎨ ᏗᏣᎳᏏᏕᏂ ᏙᏦᎵᎦ.
+ ᎣᏦᎵᎦ ᏩᏯ.
+ ᏃᏊ ᏪᎾ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"O, we see them.
+ Your feet are black.
+ Mother Goat's feet are white.
+ So go away.
+ You are the wolf.
+ We will not let you in.
+ We will not open the door for you.
+ You are not our Mother Goat.
+ You are a wicked old wolf.
+ We know your black feet.
+ We know you, wolf.
+ So away with you ! "
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏃᏊ ᏩᏯ ᏭᏪᏅᏏᏏᎴ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+So the wolf went away again.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꮎ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᎤᎪᏗ ᎠᎢᎦᏙᎲᏍᎪ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Those kids are very wise," he said.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᏍᏙᏍᎩᏱ ᎢᎦᏓ ᎢᏌ ᏓᏥᎩᏒᏏ.
+ ᏗᏆᎳᏏᏕᏂ ᏙᏓᎫᏢᏂ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"I will go to the miller and get some flour.
+ I will put it on my feet."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎾᎯᏳᏃ ᏧᎳᏏᏕᏂ ᎢᏌ ᏚᏭᏢᏁ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+So the wolf put flour on his feet.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎾᎯᏳ ᎦᎵᏦᏕ ᎤᎷᏥᏏᎴ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Then the wolf went to the house again.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᎩᏴᏍᏗ, ᏗᏆᏤᎵ ᏧᎾᏍᏗ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Let me in, dear little kids," said the wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎢᏨᏥ ᎤᎦᏐᏣᏁᏓ.
+ ᎠᎵᏍᏓᏴᏗ ᎢᏨᎢᏙᎴᎭ.
+ ᏃᏊ ᎢᏥᏍᏚᎢ ᎯᎠ ᎦᎶᎯᏍᏗᎢ.
+ ᏄᎳ, ᏧᎾᏍᏗ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.
+ ᎤᎪᏗ ᏚᏯᏪᎦ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"I am Mother Goat.
+ I have food for you.
+ So open the door.
+ Quick, little kids, for I am very tired."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ Ꮭ, Ꮭ ᏱᎦᏣᏴᏍᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᎾᏛᏁ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+" O no, we will not let you in," said the kids.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎢᎬᏱ ᏗᏣᎳᏏᏕᏂ ᎠᏎ ᏦᎩᎪᏩᏛᏗ.
+ ᏫᏘᎪᏩᏛᏓ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"You must first let us see your feet."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏍᎩᎩ? ᏗᏆᎳᏏᏕᏂ ᏗᏣᎦᏙᏍᏓ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Well, look at my feet," said the wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꮎ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᏚᎾᎦᏙᏍᏔᏁ.
+ ᎥᎥ, ᏧᎳᏏᏕᏂ ᏧᏁᎦ ᎨᏎ.
+ ᎤᏬᏂᏒᎢ ᏩᏂᎨᎢ ᎨᏎ ᎥᏍᏊ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+The kids looked.
+ Yes, the feet were white.
+ The voice was soft, too.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏬᏂᏒᎢ ᏩᏂᎨᎢ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏌᏊ ᎤᎦᏐᏣᏁᏓ ᎠᎩᎾ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"The voice is soft," said one kid.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏧᎳᏏᏕᏂ ᏧᏁᎦ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏐᎢ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"The feet are white," said another.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎡᎵᏍᏗ ᎣᎩᏥ ᎤᎦᏐᏣᏁᏓ.
+ ᎥᎥ, ᎦᎶᎯᏍᏗ ᏓᏲᏥᏍᏚᎢᏏ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"It must be Mother Goat.
+ Yes, we will open the door."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size huge
+\begin_inset Graphics
+	filename jpgs-b/027.jpg
+	lyxscale 10
+	width 65col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎾᎯᏳᏃ ᎦᎶᎯᏍᏗ ᎤᎾᏛᏓᏍᏔᏁ Ꮎ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+So the kids opened the door.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏟᏒᎢ ᎤᏴᏞ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+In ran the wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ! Ꭳ! Ꭳ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᎾᏛᏁ Ꮎ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"O! O! O!" said the kids.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏃᏊ ᎤᏂᎪᎮ Ꮎ ᏩᏯ ᎠᏴᎭ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+For they saw that they had let in the wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꮎ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᎠᎾᏟᏎ ᎤᏁᏡᏁᏃ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+The kids ran and screamed.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꮎ ᏩᏯ ᎠᏟᏎ ᎤᏪᏡᏁᏃ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+The wolf ran and growled.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ! Ꭳ! Ꭳ! Ꭳ ᎣᎩᏥ ᎤᎦᏐᏣᏁᏓ, ᎯᎷᎩ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"O! O! O! O Mother Goat, come!" cried the kids.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ ᎯᎷᎩ, ᎯᎷᎩ, ᎣᎩᏥ ᎤᎦᏐᏣᏁᏓ! ᏫᏍᎩᏕᎳ, ᏫᏍᎩᏕᎳ ᏗᏨᏰᏥ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"O come, come, Mother Goat! Help, help your baby kids!"
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎩᎶ ᎢᏥᏍᏕᎸᏗ ᎢᏥᏯᏅᏗ ᏂᏥᎬᏨᎾ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"You need not cry for help," said the wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎢᏥᏥ ᎤᎦᏐᏣᏁᏓ Ꮭ ᏱᎦᏱᏥᏍᏕᎸᏗ.
+ ᏭᏪᏅᏒᎩ.
+ ᏃᏊ ᎣᏍᏓ ᎠᎵᏍᏓᏴᏗ ᏓᎦᎵᏍᏓᏴᏂ.
+ ᏌᏊ, ᎠᏂᏔᎵ, ᎠᏂᏦᎢ! ᏅᎩ, ᎯᏍᎩ, ᏑᏓᎵ! ᎦᎵᏉᎩ ᏧᎾᏍᏗ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Mother Goat cannot help you.
+ She has gone away.
+ I shall now have a good dinner.
+ One, two, three! Four, five, six! Seven little kids!"
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size huge
+\begin_inset Graphics
+	filename jpgs-b/028.jpg
+	lyxscale 10
+	width 65col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏌᏊ ᎤᎦᏐᏣᏁᏓ ᎠᎩᎾ ᎤᎵᏘᏒᎢ ᎡᏆ ᏩᏥ ᎤᏴᏞ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+One kid ran into the clock.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎥᏝ ᎥᏍᎩ ᏳᎪᎮ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+The wolf did not see him.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏃᏊ ᏂᎦᏓ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᎦᏥᏒᏅᎩ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Now I have eaten all the kids," he said.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎾᎯᏳ Ꮎ ᏩᏯ ᏭᏪᏅᏎ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Then the wolf went away.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size huge
+\begin_inset Graphics
+	filename jpgs-b/029.jpg
+	lyxscale 10
+	width 65col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎪᎯᏴᎢ ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ ᎤᎷᏤ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+By and by the Mother Goat came.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎶᎯᏍᏗ ᎢᏥᏍᏚᎢ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏂᏥ Ꮎ ᎤᎦᏐᏣᏁᏓ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+" Open the door," said the goat.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᎩᏴᏍᏗ.
+ ᎠᎵᏍᏓᏴᏗ ᎢᏨᎮᎭ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Let me in.
+ I have food for you."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏎᏃ ᎦᎶᎯᏍᏗ ᎤᎵᏍᏚᎢᏓ ᎨᏎ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+But the door was open.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎾᎯᏳᏃ ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ ᎤᏴᏞ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+So the goat went in.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size huge
+\begin_inset Graphics
+	filename jpgs-b/030.jpg
+	lyxscale 10
+	width 65col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ! Ꭳ! Ꭳ! Ꭳ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ, 
+\begin_inset Quotes eld
+\end_inset
+
+ᎭᏢ ᏗᏇᏥ? Ꭳ, ᏗᏇᏥ! Ꮎ ᏩᏯ ᎠᎭᏂ ᎨᏎ.
+ Ꭵ, Ꮎ ᏩᏯ, Ꮎ ᏩᏯ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"No kids! O! O! O!" said the Mother Goat, "Where are my kids? O, my kids!
+ The wolf has been here.
+ Yes, the wolf, the wolf!"
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏂᏥ ᎤᏠᏱᏍᏗ ᎤᎴᏅᎮ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+The mother began to cry.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᏗᏇᏥ, ᏗᏇᏥ! Ꮎ ᏩᏯ ᏗᏇᏥ ᏚᏒᏁ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"O, my kids, my kids! The wolf has eaten my kids!"
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᏴ ᎠᎭᏂ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏠᏱᎴ Ꮎ ᎤᎦᏐᏣᏁᏓ ᎠᎩᎾ ᎤᏣᎥᎢ ᎡᏆ ᏩᏥᏱ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"I am here," cried the kid in the clock.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎭᏢ, ᎭᏢ, ᎭᏢ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏠᏱᎴ ᎤᏥ ᎤᎦᏐᏣᏁᏓ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+" Where, where, where?" cried Mother Goat.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᎭᏂ, ᎡᏥ, ᏩᏥᏱ ᏥᏯᎠ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Here, mother, in the clock."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏥ ᎠᏟᏎ ᏩᏥ ᎦᎶᎯᏍᏗᎢ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+The mother ran to the clock door.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏙᏱ ᏚᎵᏔᏗᏅᏎ Ꮎ ᎤᎦᏐᏣᏁᏓ ᎠᎩᎾ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Out jumped the kid.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎭᏢ ᏗᏐᎢ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏥ ᎤᎦᏐᏣᏁᏓ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+" Where are the other kids?" said the Mother Goat.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꮎ ᏩᏯ ᎥᏍᎩ ᏚᏒᏅᎩ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᎦᏐᏣᏁᏓ ᎠᎩᎾ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"The wolf ate them," said the kid.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏂᎦᏓ ᏚᏒᏅᎩ ᎠᏎᏍᎩᏂ ᎠᏴ.
+ ᎡᏆ ᏩᏥᏱ ᎠᏆᏗᏍᎦᎳᏅᎩ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"He ate all but me.
+ I hid in the clock."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size huge
+\begin_inset Graphics
+	filename jpgs-b/031.jpg
+	lyxscale 10
+	width 65col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏥ ᎤᎦᏐᏣᏁᏓ ᎤᏠᏱᎴ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+The Mother Goat cried.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏩᏯ ᎤᏴᏍᏗ ᏂᏣᏛᏁᎴ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏥ ᎤᎦᏐᏣᏁᏓ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Did you let the wolf in?" said the goat.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᎥ, ᏩᏯ ᎤᏴᏍᏗ ᏃᎦᏛᏁᎸᎩ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᎦᏐᏣᏁᏓ ᎠᎩᎾ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Yes, we let the wolf in," said the kid.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏬᏂᏒᎢ ᏩᏂᎨᎢ ᎨᏒᎩ.
+ ᏧᎳᏏᏕᏂ ᏧᏁᎦ ᎨᏒᎩ.
+ ᎠᎵᏍᏓᏴᏗ ᎣᎩᎯᏙᎴᎴ ᎤᏛᏁ Ꮎ ᏩᏯ.
+ ᎣᎩᏥ ᎤᎦᏐᏣᏁᏓ ᎤᏛᏁ Ꮎ ᏩᏯ.
+ ᎦᎶᎯᏍᏗ ᎠᏎ ᎣᎩᏍᏚᎢᏍᏗ ᎣᎪᏎᎸᎩ.
+ ᏂᎯ ᎣᎨᎵᏒᎩ ᎠᎴ ᏩᏯ ᎤᏴᏍᏗ ᏃᎦᏛᏁᎸᎩ.
+ ᎾᎯᏳ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᏚᏒᏅᎩ.
+ ᎡᏆ ᏩᏥᏱ ᎠᏆᏗᏍᎦᎳᏅᎩ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"He had a soft voice.
+ He had white feet.
+ The wolf said that he had food for us.
+ The wolf said that he was the Mother Goat.
+ He told us to open the door.
+ We thought it was you.
+ So we let the wolf in.
+ Then he ate the kids.
+ I hid in the clock."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᏗᏇᏥ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏠᏱᎴ ᎤᏥ ᎤᎦᏐᏣᏁᏓ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"O, my kids!" cried the goat.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꮎ ᏩᏯ ᏗᏇᏥ ᏚᏒᏁ.
+ ᏑᏓᎵ ᎤᏍᏗ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.
+ ᎠᏇᏥ ᏌᏊᏊ ᎤᎦᏐᏣᏁᏓ ᎠᎩᎾ ᏄᏒᏅᎾ.
+ Ꭳ! Ꭳ! ᏗᏇᏥ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ! ᏗᏇᏥ ᎤᏂᏲ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"The wolf ate my six little kids.
+ Only one little kid is left.
+ O! O! my kids! My poor little kids!"
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size huge
+\begin_inset Graphics
+	filename jpgs-b/032.jpg
+	lyxscale 10
+	width 65col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎪᎯᏴᎢ ᎤᏥ ᎤᎦᏐᏣᏁᏓ ᎠᎴ ᎤᏪᏥ ᎤᎦᏐᏣᏁᏓ ᎠᎩᎾ ᎤᏁᏙᎸᏎ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+By and by, the goat and the one kid went out for a walk.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏥ ᎤᎦᏐᏣᏁᏓ ᏩᏯ ᎤᎪᎮ ᏡᎬ ᎾᎥ.
+ ᎦᏟᎮ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+The goat saw the wolf near a tree.
+ He was asleep.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᎿ Ꮎ ᏩᏯ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᎦᏐᏣᏁᏓ ᎠᎩᎾ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+" There is the wolf!" said the kid.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꮎ ᏭᎪᏛ ᎤᏲ ᏩᏯ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏥ ᎤᎦᏐᏣᏁᏓ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"The wicked wolf ! " said the goat.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏗᏇᏥ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᏚᏒᏁ.
+ ᎦᏙ ᏄᏍᏗ ᏂᎦᏓ ᏗᏇᏥ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᏓᎩᎧᎯᏐᏗ.
+ ᏥᎦᏔᎭ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+He has eaten my kids.
+ Some way I must get my kids again."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏥ ᎤᎦᏐᏣᏁᏓ ᎥᎤᎷᏤ ᎤᏤᎵ ᎦᎵᏦᏕ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+The goat went back to her house.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎦᎶᎯᏍᏗ ᎤᏍᏚᎢᏎ ᎠᎴ ᎤᏴᏞ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+She opened the door and went in.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏤᎵ ᏗᎵᏍᏙᏰᏗ ᎤᎩᏎ ᎤᏩᏰᏫᏒᎢ ᏔᎷᏣ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+She took her scissors from the Work basket.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎾᎯᏳ ᎤᏥ ᎥᎤᎷᏤ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Then she went back to the wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꮟ, Ꮎ ᏩᏯ ᎦᏟᎮ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+The wolf was still asleep.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏃᏊ, ᏙᏛᎩᎧᎯᏏᎵ.,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Now, I will get my kids again," said the goat.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꮝ! ᏞᏍᏗ ᏥᎯᏰᎢᏍᏓ Ꮎ ᏩᏯ.
+ ᎯᎪᏩᏔ, ᎠᏆᏤᎵ ᏗᎵᏍᏙᏰᏗ.
+ ᎠᎴ ᏗᏇᏥ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᏙᏛᎩᎧᎯᏏᎵ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Sh! don't wake the wolf.
+ See, I have my scissors.
+ And I will get my kids back."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size huge
+\begin_inset Graphics
+	filename jpgs-b/033.jpg
+	lyxscale 10
+	width 65col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏃᏊ ᎤᏥ ᎤᎦᏐᏣᏁᏓ ᎤᏃᎴᏎ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+So the goat crept up to the wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꮟ Ꮎ ᏩᏯ ᎦᏟᎮ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+The wolf was still asleep.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᎬᎭᎸᎮ ᎠᎴ ᎤᎬᎭᎸᎮ ᎠᎴ ᎤᎬᎭᎸᎮ.
+ ᏗᎵᏍᏙᏰᏗ ᎤᏭᏔᏁ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Snip, snip, snip, went the scissors.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏥ ᎤᎦᏐᏣᏁᏓ ᎤᎬᎭᎸᎲᎢ ᎬᏗ ᏩᏯ ᎤᏍᏚᎢᏎ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+The goat cut the wolf open.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏙᏱ ᏚᎾᎵᏔᏗᏅᏎ Ꮎ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Out jumped the kids.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ ᎡᏥ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᎾᏠᏱᎴ Ꮎ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"O mother!" cried the kids.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size huge
+\begin_inset Graphics
+	filename jpgs-b/034.jpg
+	lyxscale 10
+	width 65col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ ᎢᏨᏳᎭ ᏗᏇᏥ; ᎢᏨᏳᎭ ᏗᏇᏥ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏠᏱᎴ ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"O my dear kids; my dear kids!" cried the goat.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏫᏣᏓᎾᏩᏍᏓ ᏗᎨᏅᏒᎢ, ᏗᏇᏥ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ! ᎪᎯᏴᎢ ᏓᏥᎷᏥ.
+ ᏫᏣᏓᎾᏩᏍᏓ.
+ Ꮎ ᏩᏯ ᎡᎵᏊ ᏱᏥᏂᏴᎯᏌ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+\begin_inset Quotes erd
+\end_inset
+
+"Run away home, kids! I will come by and by.
+ Run, or the wolf may get you again."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size huge
+\begin_inset Graphics
+	filename jpgs-b/035.jpg
+	lyxscale 10
+	width 65col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏧᏁᏅᏒᎢ ᏗᏜ Ꮎ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᎤᎾᏓᎾᏩᏍᏔᏁ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+So the kids ran home.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎾᎯᏳ ᏑᏓᎵ ᎤᏔᎾ ᏅᏯ ᏚᎩᏎ Ꮎ ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ.
+ ᏅᏯ ᏚᎵᏔᏁ Ꮎ ᏩᏯ.
+ ᎾᎯᏳ ᎤᏍᏚᏁ ᎤᏩᏰᏫᏒᎢ ᎬᏗ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Then the goat got six large stones.
+ She put the stones inside the wolf.
+ Then she sewed the wolf up again.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꮎ ᏩᏯ ᎦᏟᎮ ᎠᎴ ᎦᏟᎮ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+The wolf slept on and on.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏂᎯ ᏭᎪᏛ ᎤᏲᎢ ᏩᏯ ᎨᏎ ᎦᎯᏒᏅᎢ ᏗᏇᏥ Ꮎ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"You were a bad wolf to eat my kids," said the goat.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎾᎯᏳ ᏗᎵᏍᏙᏰᏗ ᎤᎵᏔᏁ ᎠᏜᏩᏛᎢ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Then she put her scissors in her pocket.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏲ ᏣᎵᏍᏓᏏ, ᎤᏲ ᏩᏯ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Good-bye, bad wolf," she said.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎾᎯᏳ ᏧᏪᏅᏒᎢ ᏭᏪᏅᏎ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Then she went home.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎪᎯᏴᎢ ᎤᏰᏤ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+By and by the wolf awoke.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎣᏍᏓ ᏥᏟᎲᎩ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+" I have had a good sleep," he said.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎾᎯᏳ Ꮎ ᏩᏯ ᎤᏪᏓᏍᏗ ᎤᏁᏟᏔᏁ.
+ ᎤᏲ ᎬᏩᏪᏓᏍᏗ.
+ Then the wolf tried to walk.
+ He could not walk very well.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏙ ᏃᏊ? ᏭᎪᏛ ᏥᎨᏓ! ᎤᏛᏁ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Why, how heavy I am!" said the wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꮎ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᎦᏥᏒᏅᎩ, ᎤᏙᎯᏳ.
+ ᎠᏎᏃ ᏗᏂᎨᏓᏒᎢᏍᎪ ᎯᎠ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"I ate the kids, to be sure.
+ But are the kids as heavy as this?"
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size huge
+\begin_inset Graphics
+	filename jpgs-b/036.jpg
+	lyxscale 10
+	width 65col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꮎ ᏩᏯ ᎦᏄᎪᎬᎢ ᎤᏪᏅᏍᏗ ᎤᎴᏅᎮ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+The wolf started to go to the spring.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᏭᎪᏛ ᏥᎨᏓ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"O, I am so heavy!" he said.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎦᏄᎪᎬᎢ ᏗᏜ ᎤᏓᎾᏏᏅᏎ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+He dragged himself down to the spring.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size huge
+\begin_inset Graphics
+	filename jpgs-b/037.jpg
+	lyxscale 10
+	width 65col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏗᏔᏍᏗ ᎤᏁᏟᏔᏁ ᎠᏎᏍᎩᏂ ᎦᏄᎪᎬᎢ ᎤᏅᏤ ᎠᏍᎪᎵ ᎢᎬᏱᎢ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+He tried to drink.
+ But he fell head first into the spring.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᎯᎠ ᏭᎪᏛ ᏗᏂᎨᏓ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏠᏱᎴ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"O, these heavy kids!" he cried.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᎹᏱ ᏣᏅᎢᏍᏗ ᎥᏍᎩ ᎾᎾᎵᏍᏇᏚᎠ.
+ ᎩᎶ ᎠᎩᎸᏍᏗ ᏍᎩᏍᏕᎳ! ᏍᎩᏍᏕᎳ! ᏍᎩᏍᏕᎳ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+They made me fall into the water.
+ Help me out! Help! help!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size huge
+\begin_inset Graphics
+	filename jpgs-b/038.jpg
+	lyxscale 10
+	width 65col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎾᎯᏳᏊ ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ ᎤᎷᏤ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+Just then Mother Goat came along.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏍᎩᏍᏕᎳ! ᏍᎩᏍᏕᎳ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏯᏅᎮ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Help me out! Help me out!" cried the wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᎥᏝ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"O no," said the goat.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝ ᏣᎸᏍᏗ ᏱᏓᎬᏯᏅᎯ.
+ ᏗᏇᏥ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᎦᎯᏲᏎᎴ ᏗᏣᎳᏏᏕᏂ ᏧᏁᎦ.
+ ᎦᎯᏲᏎᎴ ᏣᏬᏂᏒᎢ ᏩᏂᎨᎢ.
+ ᎾᎯᏳ ᏗᏇᏥ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᎦᎶᎯᏍᏗ ᎨᏣᏍᏚᎢᏎᎴ.
+ ᏣᏴᏍᏗ ᏂᎨᏣᏛᏁᎴᎴ.
+ ᎾᎯᏳ ᎦᏙ ᏣᏛᏁᎴ? ᏗᏇᏥ ᎤᏂᏲ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᎦᎯᏒᏁ.
+ ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ ᏣᏛᏁ.
+ ᎠᏎᏃ ᎠᏆᏤᎵ ᎦᎵᏦᏕ ᎥᏝ ᏱᎦᏣᏴᏟᏐᏗ.
+ ᎯᏟᎲᎩ ᎠᎴ ᎬᏯᏢᏔᎲᎩ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+" I will not help you out.
+ You told my kids that your feet were white.
+ You told them that your voice was soft.
+ Then my kids opened the door for you.
+ My kids let you in.
+ Then what did you do? You ate the poor little kids.
+ You said that you were Mother Goat.
+ But you will not get into my house again.
+ I caught you when you were asleep."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size huge
+\begin_inset Graphics
+	filename jpgs-b/039.jpg
+	lyxscale 10
+	width 65col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ ᏍᎩᏍᏕᎳ! ᏍᎩᏍᏕᎳ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏯᏅᎮ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"O help! help!" cried the wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ ᏍᎩᏍᏕᎳ! ᏍᎩᏍᏕᎳ! Ꭳ ᎠᎩᎸᏍᏗ ᏍᎩᏍᏕᎳ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"O help! help! Help me out! O help me out!"
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"No," said the goat
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏗᏇᏥ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᎦᎯᏒᏁ.
+ ᎠᏎᏃ ᏃᏊ ᏂᎯᎾᏰᎬᎾ ᏂᎦᎵᏍᏗᏍᎨᏍᏗ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"You ate my kids.
+ But now they are safe."
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᎩᎸᏍᏗ ᎢᏍᎩᏍᏕᎳ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᏚᏯᏅᎮ Ꮎ ᏩᏯ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"Help me out!" cried the wolf.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᎾᏛᏁ Ꮎ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"No," said the kids.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏙᏣᎵᎮᎵᎦ.
+ ᏣᎸᏍᏗᏍ ᎢᏨᏯᎵᏍᏕᎵᎭ? Ꭳ Ꮭ, ᎥᏝ ᏣᎸᏍᏗ ᏓᏨᏯᎵᏍᏕᎸᎯ.
+ ᎤᏲ ᏣᎵᏍᏓᏏ, ᏂᎯ Ꮎ ᏭᎪᏛ ᎤᏲ ᏩᏯ.
+ ᏱᏣᎬᏣ ᎥᏝ ᎤᏲ ᏱᎾᏛᏁᎰ.
+ Ꮭ ᎢᎸᎯᏳ, Ꮭ ᎢᎸᎯᏳ, ᎥᏍᏊ.
+ ᏃᏊ ᎯᎬᎩ, ᏣᏲ ᎯᏩᏯ, ᎯᎬᎩ! ᎯᎬᎩ, ᎯᎬᎩ, ᎯᎬᎩ! ᏂᎯ Ꮎ ᏭᎪᏛ ᎤᏲ ᏩᏯ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"We are glad.
+ Help you out? O no, we will not help you out.
+ Good-bye, wicked wolf.
+ When you are drowned you can do no harm.
+ Never, never, again! So, drown, bad wolf, drown! Drown, drown, drown! You
+ wicked, wicked wolf!"
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎾᎯᏳᏃ Ꮎ ᏩᏯ ᎤᎬᏤ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+So the wolf was drowned.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎦᏄᎪᎬᎢ ᎤᎬᏤ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+He drowned in the spring.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏭᎪᏛ ᎦᎵᎡᎵᎦ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"I am so glad," said the goat.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏭᎪᏛ ᎣᏣᎵᎮᎵᎦ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"We are so glad!" said the kids.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏭᎪᏛ ᎢᏓᎵᎮᎵᎦ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+"We are all glad," said the Mother Goat.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand include
+filename "vocabulary.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Creative Commons
+\end_layout
+
+\begin_layout Standard
+
+\size small
+This work is licensed under the 
+\noun on
+Creative Commons Attribution-Share Alike 3.0 United States License
+\noun default
+.
+ To view a copy of this license, visit 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://creativecommons.org/licenses/by-sa/3.0/us/
+\end_layout
+
+\end_inset
+
+ or send a letter to Creative Commons, 171 Second Street, Suite 300, San
+ Francisco, California, 94105, USA.
+\end_layout
+
+\begin_layout Subsection*
+In Summary:
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+The summary is not the license.
+ It is simply a handy reference for understanding the license and as such,
+ has no legal value.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size small
+You are free:
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+to Share — to copy, distribute, and transmit the work.
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+to Remix — to adapt the work.
+\end_layout
+
+\begin_layout Standard
+
+\size small
+Under the following conditions:
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+Attribution — You must attribute the work in the manner specified by the
+ author or licensor (but not in any way that suggests that they endorse
+ you or your use of the work).
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+Share Alike — If you alter, transform, or build upon this work, you may
+ distribute the resulting work only under the same or similar license to
+ this one.
+\end_layout
+
+\begin_layout Standard
+
+\size small
+With the understanding that:
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+Waiver — Any of the above conditions can be waived if you get permission
+ from the copyright holder.
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+Other Rights — In no way are any of the following rights affected by the
+ license:
+\size default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\size small
+Your fair dealing or fair use rights;
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+Apart from the remix rights granted under this license, the author's moral
+ rights;
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+Rights other persons may have either in the work itself or in how the work
+ is used, such as publicity or privacy rights.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\size small
+Notice — For any reuse or distribution, you must make clear to others the
+ license terms of this work.
+ The best way to do this is with a link to 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://creativecommons.org/licenses/by-sa/3.0/us/
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{sloppy}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
