@@ -335,6 +335,7 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
+\align center
 \begin_inset Graphics
 	filename src.xcf/jpgs/003.jpg
 	lyxscale 10
@@ -363,6 +364,7 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
+\align center
 
 \size huge
 \begin_inset Graphics
@@ -379,36 +381,31 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏏᏆ ᎯᏯᏛᎬᎦ.
+ᎡᏆ ᏏᏆ ᎯᏯᏛᎬᎦ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᏏᏆ ᎦᎯᏯᏛᎬᎦ.
+ᏧᎾᏍᏗ ᏏᏆ ᎦᎯᏯᏛᎬᎦ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᏏᏆ ᎦᏥᏯᏛᎩ.
+ᏏᏆ ᎦᏥᏯᏛᎩᎠ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᏏᏆ ᎠᏂᏬᏂ ᎦᎯᏯᏛᎬᎦ.
+ᏏᏆ ᎤᏂᏬᏂᏒᎢ ᎭᏛᎬᎦ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᏏᏆ ᎠᏂᏬᏂ ᎦᏥᏯᏛᎩ.
-\end_layout
-
-\begin_layout Standard
-
-\size huge
+ᏏᏆ ᎤᏂᏬᏂᏒᎢ ᎦᏛᎩᎠ.
 \begin_inset Newpage cleardoublepage
 \end_inset
 
@@ -444,37 +441,37 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎤᏂᏥ ᏏᏆ ᎦᏬᏂᏍᎪ.
+ᎤᏂᏥ ᏏᏆ ᎦᏬᏂᏍᎪᎢ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᎤᏂᏥ ᏏᏆ ᎦᏬᏂ ᎯᏯᏛᎬᎦ.
+ᎤᏂᏥ ᏏᏆ ᎤᏬᏂᏒᎢ ᎭᏛᎬᎦ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᎤᏂᏥ ᏏᏆ ᎦᏬᏂ ᏥᏯᏛᎩ.
+ᎤᏂᏥ ᏏᏆ ᎤᏬᏂᏒᎢ ᎦᏛᎩᎠ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᎯᏬᏂᎯ ᎨᏣᏥ ᏏᏆ.
+ᎯᏬᏂᎯ ᎦᎯᏥ ᏏᏆ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᎡᏣᏛᎬᎦ, ᏏᏆ, ᎡᏣᏛᎬᎦ!
+ᎢᏣᏛᎬᎦ, ᏧᎾᏍᏗ ᏏᏆ, ᎢᏣᏛᎬᎦ!
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᎡᏣᏛᎬᎦ ᎢᏥᏥ ᏏᏆ ᎢᏥᏬᏂᏎᎭ.
+ᎢᏥᏥ ᏏᏆ ᎤᏬᏂᏒᎢ ᎢᏣᏛᎬᎦ.
 \end_layout
 
 \begin_layout Standard
@@ -486,7 +483,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏧᎾᏍᏗ ᏏᏆ ᎠᎾᏛᎩ.
+ᏧᎾᏍᏗ ᏏᏆ ᎠᎾᏛᎩᎠ.
 \end_layout
 
 \begin_layout Standard
@@ -498,19 +495,19 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎢᏥᏥ ᎢᏣᏛᎩ.
+ᎢᏥᏥ ᎢᏣᏛᎩᎠ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᏘᏬᏂᏏ, ᎦᎯᏥ ᏏᏆ, ᏧᎾᏍᏗ ᏏᏆ.
+ᏧᎾᏍᏗ ᏏᏆ ᎦᎯᏬᏂᏏ ᎦᎯᏥ ᏏᏆ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᎢᏥᏬᏂᏏ, ᏧᎾᏍᏗ ᏏᏆ, ᎢᏥᏥ ᏏᏆ.
+ᏧᎾᏍᏗ ᏏᏆ ᎢᏥᏥ ᏪᏥᏬᏂᏏ.
 \end_layout
 
 \begin_layout Standard
@@ -528,13 +525,13 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎤᏂᏥ ᏏᏆ ᏥᏯᏛᎩ.
+ᎤᏂᏥ ᏏᏆ ᏥᏯᏛᎩᎠ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᏧᎾᏍᏗ ᏏᏆ ᎦᏥᏯᏛᎩ.
+ᏧᎾᏍᏗ ᏏᏆ ᎦᏥᏯᏛᎩᎠ.
 \end_layout
 
 \begin_layout Standard
@@ -546,7 +543,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎢᏥᏬᏂᏏ, ᏏᏆ, ᎥᏍᎩᎾ ᎢᏥᏬᏂᏏ.
+ᎡᏥᏬᏂᏏ, ᏏᏆ, ᎥᏍᎩᎾ ᎡᏥᏬᏂᏏ.
 \end_layout
 
 \begin_layout Standard
@@ -599,31 +596,31 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-Ꮭ ᎤᏂᏥ ᎠᎵᏍᏓᏴᏗ ᏳᎭ.
+ᎤᏂᏥ Ꮭ ᎠᎵᏍᏓᏴᏗ ᏳᎭ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-Ꮭ ᎤᏂᏥ ᏏᏆ ᎠᎵᏍᏓᏴᏗ ᏳᎭ.
+ᎤᏂᏥ ᏏᏆ Ꮭ ᎠᎵᏍᏓᏴᏗ ᏳᎭ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᎠᏂᏦᎢ ᏧᎾᏍᏗ ᏏᏆ ᎦᏥᎪᏩᏘ.
+ᎠᏂᏦᎢ ᏧᎾᏍᏗ ᏏᏆ ᎦᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᎤᏂᏥ ᏏᏆ ᎦᏬᏂ ᏥᏯᏛᎩ.
+ᎤᏂᏥ ᏏᏆ ᎤᏬᏂᏒᎢ ᎦᏛᎩᎠ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᏧᎾᏍᏗ ᏏᏆ ᎦᏥᏯᏛᎩ.
+ᏧᎾᏍᏗ ᏏᏆ ᎦᏥᏯᏛᎩᎠ.
 \end_layout
 
 \begin_layout Standard
@@ -682,25 +679,25 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎯᏯᏛᎬᎦ ᎤᏂᏥ ᏧᎾᏍᏗ ᏏᏆ ᏕᎦᏬᏂ.
+ᎭᏛᎬᎦ ᎤᏂᏥ ᏧᎾᏍᏗ ᏏᏆ ᏕᎦᏬᏂᏎᎭ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᎠᎵᏍᏓᏴᏗ ᎤᎾᏚᎵ ᎢᏳᏍᏗ ᏧᎾᏍᏗ ᏏᏆ ᎤᎾᏠᏱ.
+ᎠᎵᏍᏓᏴᏗ ᎤᎾᏚᎵᎭ ᎢᏳᏍᏗ ᏧᎾᏍᏗ ᏏᏆ ᎤᎾᏠᏱᎭ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᏧᎾᏍᏗᏍ ᏏᏆ ᎠᎵᏍᏓᏴᏗ ᎤᎩᏒᏍᏗ?
+ᎠᎵᏍᏓᏴᏗᏍ ᎠᏂᎩᏒᏒᎭ Ꮎ ᏧᎾᏍᏗ ᏏᏆ?
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᏧᎾᏍᏗ ᏏᏆ ᏯᏁᎾ.
+ᏧᎾᏍᏗ ᏏᏆ ᎠᎵᏍᏓᏴᏗ ᏛᏂᏩᏛᎯ.
 \end_layout
 
 \begin_layout Standard
@@ -8474,6 +8471,16 @@ mainmatter{}
 
 \size huge
 \begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand include
+filename "vocabulary.lyx"
+
 \end_inset
 
 

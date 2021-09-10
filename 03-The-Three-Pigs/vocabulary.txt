@@ -1,40 +1,6 @@
 # Na-Anijoi-Sigwa.lyx
 # ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳ ㉑ ㉒ ㉓ ㉔ ㉕ ㉖ ㉗ ㉘ ㉙ ㉚ ㉛ ㉜ ㉝ ㉞ ㉟ ㊱ ㊲ ㊳ ㊴ ㊵ ㊶ ㊷ ㊸ ㊹ ㊺ ㊻ ㊼ ㊽ ㊾ ㊿
 Syllabary|Pronounce|Breakdown|Definition
-ᎯᏯᏛᎬᎦ|||
-ᎦᎯᏯᏛᎬᎦ|||
-ᎦᏥᏯᏛᎩ|||
-ᎠᏂᏬᏂ|||
-ᎤᏂᏥ|||
-ᎦᏬᏂᏍᎪ|||
-ᎦᏬᏂ|||
-ᏥᏯᏛᎩ|||
-ᎯᏬᏂᎯ|||
-ᎨᏣᏥ|||
-ᎡᏣᏛᎬᎦ|||
-ᎢᏥᏥ|||
-ᎢᏥᏬᏂᏎᎭ|||
-ᎠᎾᏛᎩ|||
-ᎠᏂᏬᏂᏎᎭ|||
-ᎢᏣᏛᎩ|||
-ᏘᏬᏂᏏ|||
-ᎦᎯᏥ|||
-ᎢᏥᏬᏂᏏ|||
-ᎦᎯᎪᏩᏔ|||
-ᎠᎵᏍᏓᏴᏗᏍ|||
-ᎠᎵᏍᏓᏴᏗ|||
-ᏳᎭ|||
-ᎦᏥᎪᏩᏘ|||
-ᎦᎯᏬᏂᏏ|||
-ᎢᏥᏩᏔ|||
-ᎢᏣᏍᏗ|||
-ᏭᏪᏅᏍᏗᏍ|||
-ᎤᏩᏛᎲᏍᏗ|||
-ᏕᎦᏬᏂ|||
-ᎤᎾᏚᎵ|||
-ᎤᎾᏠᏱ|||
-ᏧᎾᏍᏗᏍ|||
-ᏯᏁᎾ|||
 ᏯᏂᏩᏔ|||
 ᎢᏥᏁᏗ|||
 ᎢᏣᏠᏱᎦ|||
@@ -54,6 +20,7 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎣᏤᎦ|||
 ᎡᏥ|||
 ᎢᏤᎦᏍ|||
+ᏓᏣᎯ|||
 ᎠᏁᎦ|||
 ᎤᏂᏥᎢ|||
 ᎦᎵᏦᏕ|||
@@ -70,8 +37,10 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏓᏥᎯ|||
 ᎢᎬᏱᎢ|||
 ᏭᏩᏛᎲᏒ|||
+ᎠᏍᎦᏯ|||
 ᏚᏠᏎ|||
 ᏃᎩᎲᎾ|||
+ᏣᏲᏒ|||
 ᎣᎩᎩᏍᏗ|||
 ᎦᎵᏦᏕᏍ|||
 ᎠᎩᏥ|||
@@ -88,6 +57,7 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏩᏙ|||
 ᎦᏁᏍᎨ|||
 ᎤᏟᏂᎩᏓ|||
+ᏂᎨᏒᎾ|||
 ᏓᎦᏁᏍᎨᎯ|||
 ᎤᏛᏁᎸᏅᎢ|||
 ᎤᏁᏍᎨᎮ|||
@@ -117,6 +87,7 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏱᎦᏛᏁᎵᏍᎪ|||
 ᏦᎢᏁ|||
 ᏥᏯᏁᏍᎨᎮᏗ|||
+ᏅᏯ|||
 ᏗᏛᏓᏅᎢ|||
 ᏚᎮ|||
 ᏣᏁᏍᎨᏗ|||
@@ -124,6 +95,7 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎦᏁᎴᏍᏗ|||
 ᏓᏥᏩᏛᎮᏏ|||
 ᎤᏂᏬᏂ|||
+ᎦᏬᏂ|||
 ᎠᎵᎮᎵᎦ|||
 ᎤᎮᏍᏗ|||
 ᏚᏁᏍᎨᎮ|||
@@ -145,6 +117,8 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎤᏦᏔᎲᎢ|||
 ᏯᏬᎳᏓᎩ|||
 ᏯᏦᏔ|||
+ᏣᏴᏍᏗ|||
+ᏣᏲ|||
 ᎬᏚᎢᏍᏗᎮ|||
 ᏛᏲᏥ|||
 ᎤᏬᎳᏕᏎ|||
@@ -157,6 +131,7 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏱᏯᏛᎦᏁ|||
 ᎡᎵᎠ|||
 ᏃᏊᎴ|||
+ᏗᏜ|||
 ᏓᎦᏦᏔᎯ|||
 ᎤᏲᏍᏗ|||
 ᏓᏂᎪᎯ|||
@@ -172,7 +147,9 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎠᏆᏅᏖᏗ|||
 ᎠᏆᏓᏅᏖᏢᏍᏗ|||
 ᎠᏆᏅᏔ|||
+ᏓᎨᏅᏏ|||
 ᏓᏲᏍᏗᏬᏂᏏ|||
+ᏙᏱ|||
 ᎤᎵᏍᏓᏁᏗ|||
 ᎢᏯᏛᏁᏗ|||
 ᎤᏓᏅᏖᏗ|||
@@ -218,7 +195,9 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏗᎩᎩᏍᏗ|||
 ᏓᏍᎩᎩᏏᏍ|||
 ᏓᏍᏆᏘᏂᏍ|||
+ᏓᏥᎷᏥ|||
 ᏓᎬᏯᏘᏂ|||
+ᏑᏓᎵ|||
 ᏞᎩ|||
 ᏥᏯᎵᏍᏓᏴᏗ|||
 ᎭᏛᏅᎢᏍᏓᏍ|||
@@ -232,6 +211,7 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏩᏇᏅᏒ|||
 ᎯᏍᎩ|||
 ᎤᎿᎸᏤ|||
+ᏣᏛᏁ|||
 ᏍᎩᎩᏍᎪ|||
 ᏱᏍᎩᎩ|||
 ᏣᎬ|||
@@ -252,9 +232,11 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎦᎯᎸᏉᏙ|||
 ᏗᎦᏛᏗ|||
 ᎦᏥᎸᏉᏙ|||
+ᏡᎬ|||
 ᏱᏫᏁᎾ|||
 ᏓᎦᏛᏅᎢᏍᏔᏂ|||
 ᏱᎬᎦᏘᏯ|||
+ᏅᎩ|||
 ᏧᎪᎮ|||
 ᎠᎩᎷᏨ|||
 ᎤᎿᎸᏨᎢ|||
@@ -274,11 +256,13 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎢᏴ|||
 ᎡᎳᏗ|||
 ᏧᎸᏎ|||
+ᏳᎪᎮ|||
 ᎦᏣᏄᎵ|||
 ᏩᏆᎵᏘᏍᏗ|||
 ᏓᎦᎵᏘᏏ|||
 ᏱᏍᎩᏂᏯ|||
 ᏱᎦᎵᏘ|||
+ᎾᎯᏳᏊ|||
 ᎤᎪᎮ|||
 ᎯᎪᏩᏘ|||
 ᏱᎬᏂᏯ|||
@@ -307,10 +291,12 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏒᏙᏂ|||
 ᏓᎦᏣᏂ|||
 ᎠᎩᎩᏍᎨᏍᏗ|||
+ᏓᏥᏂᏴᎯ|||
 ᎤᏣᏁ|||
 ᎤᏟᏍᏓ|||
 ᏒᏙᏂᏍ|||
 ᎭᏣᎥᎦ|||
+ᏥᎪᏩᏘ|||
 ᎦᏣᎥᏍᎦ|||
 ᏥᎪᎲ|||
 ᎧᎾᎷᏍᎬ|||
@@ -328,6 +314,7 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎤᏲᏏᏍᎬᎢ|||
 ᎠᎩᏲᏏ|||
 ᎤᏪᏅᏏᏌᏁ|||
+ᏙᏳ|||
 ᎠᎱᏣᏬᎳᏛᎢ|||
 ᏓᏥᎸᏏ|||
 ᏱᎦᎷᎦ|||
@@ -368,6 +355,7 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎠᎷᎩ|||
 ᎤᏩᏂᏎ|||
 ᎤᏥ|||
+ᏗᎵᏍᏓᏴᏗ|||
 ᎩᏂᎭ|||
 ᎩᎾᏤᎵ|||
 ᏱᏓᏍᎩᏂᎩᏏ|||
@@ -377,12 +365,14 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎢᏳᏩᎦᏘ|||
 ᏕᏥᏩᏛᎲᎢ|||
 ᎢᏣᏁᏍᎨᎲᎢ|||
+ᏚᎾᏠᏎ|||
 ᏣᏲᏨ|||
 ᏙᏛᎩᎯ|||
 ᎨᏐ|||
 ᏩᎭᏯᏃ|||
 ᎤᏴᏍᎩ|||
 ᎬᎩᏍᎨᏍᏗ|||
+ᏍᎩᎾ|||
 ᏨᏰᏍᏗ|||
 ᏥᏴᏢᎢ|||
 ᏅᏯᏍ|||
@@ -408,6 +398,7 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏤᏅᏎ|||
 ᎤᏟᏃ|||
 ᎢᏂᎩᏒᏒᎢ|||
+ᏱᎨᏎ|||
 ᎤᏓᎾᏩᏍᏔᏁ|||
 ᏗᎦᏛᏗᏃ|||
 ᏥᎩᏍᎨᏍᏗ|||
@@ -417,6 +408,7 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎭᏟᏎᏍᏗ|||
 ᎤᏴᏞᎾ|||
 ᏥᏴᎩᏗᏍᏗ|||
+ᏩᏇᏅᏍᏗ|||
 ᏓᏥᏴᎩᏗ|||
 ᎤᏲᏒ|||
 ᏓᏣᎪᎯ|||
@@ -427,6 +419,7 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎠᎦᏐᏍᎬᎢ|||
 ᎡᎨ|||
 ᎠᏯᏄᎵ|||
+ᏧᏪᏅᏒᎢ|||
 ᏳᏅᏖ|||
 ᎬᏴᎩᏗᏍᎨᏍᏗ|||
 ᏥᎴᎨᏍᏗ|||
@@ -444,3 +437,46 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏳᎨ|||
 ᎤᏴᎩᏕ|||
 ᎣᏍᏓᏊ|||
+-ᎡᎭ|-e:ha||Is doing for someone. Is doing towards someone.
+-ᎥᎭ|||Should or would.
+-ᎥᏍᏗ|-v́:sdi||To leave to do it.
+-ᎥᏒᎢ|-v́:sv̌:ɂi||Left to do it.
+-Ꮟ|-x̀:si||Let be doing for… Let be doing at…
+ᎠᎵᏍᏓᏴᏗ|||Groceries or a meal.
+ᎠᎵᏍᏓᏴᏗᏍ|||Is it groceries or a meal?
+ᎠᎾᏛᎩᎠ|||They hear him, her, or it.
+ᎠᏂᎩᏒᏒᎭ||ᎠᏂ- ᎤᎩᏒᎢ -ᎥᏒᎢ -ᎥᎭ|They should or would leave to get it.
+ᎠᏂᏬᏂᏎᎭ||ᎠᏂ- ᎤᏬᏂᏒᎢ -ᎡᎭ|They are speaking to or for him or her.
+ᎡᏣᏛᎬᎦ|||Let you all hear him or her.
+ᎡᏥᏬᏂᏏ||ᎡᏥ- ᎤᏬᏂᏒᎢ -Ꮟ|Let you all talk to or for him or her.
+ᎢᏣᏍᏗ|||You all are little.
+ᎢᏣᏛᎩᎠ|||① You all hear it. ② He or she hears you all.
+ᎢᏣᏛᎬᎦ|||Let you all hear it.
+ᎢᏥᏥ|||Your all's mother.
+ᎢᏥᏩᏔ|||Let you all find it.
+ᎢᏥᏬᏂᏎᎭ||ᎢᏥ- ᎤᏬᏂᏒᎢ -ᎡᎭ|He or she is talking to or for you all.
+ᎤᎾᏚᎵᎭ|||They want it.
+ᎤᎾᏠᏱᎭ|||They are crying.
+ᎤᏂᏥ|||Their mother.
+ᎤᏂᏬᏂᏒᎢ|||Their speaking.
+ᎤᏩᏛᎲᏍᏗ||ᎤᏩᏛᎲᎢ -ᎥᏍᏗ|For him or her to leave to find it.
+ᎤᏬᏂᏒᎢ|||His or her speaking. His or her speech.
+ᎦᎯᎪᏩᏔ|||Let you see them.
+ᎦᎯᏥ|||You, their mother.
+ᎦᎯᏬᏂᏏ||ᎦᎯ- ᎤᏬᏂᏒᎢ -Ꮟ|Let you speak for or to them.
+ᎦᎯᏯᏛᎬᎦ|||Let you hear them.
+ᎦᏛᎩᎠ|||I hear it.
+ᎦᏥᎪᏩᏘᎭ|||I see them.
+ᎦᏥᏯᏛᎩᎠ|||I hear them.
+ᎦᏬᏂᏍᎪᎢ|||He or she speaks.
+ᎭᏛᎬᎦ|||Let you hear it.
+ᎯᏬᏂᎯ|||Let you speak.
+ᎯᏯᏛᎬᎦ|||Let you hear him or her.
+ᏕᎦᏬᏂᏎᎭ||Ꮥ- Ꭶ- ᎤᏬᏂᏒᎢ -ᎡᎭ|He or she is talking to or for them.
+ᏛᏂᏩᏛᎯ|||They will find it.
+ᏥᏯᏛᎩ|||I hear him or her.
+ᏥᏯᏛᎩᎠ|||I hear him or her.
+ᏧᎾᏍᏗ|||Little.
+ᏪᏥᏬᏂᏏ||Ꮻ- ᎡᏥ- ᎤᏬᏂᏒᎢ -Ꮟ|Let you all talk to him or her.
+ᏭᏪᏅᏍᏗᏍ|||Is it for him or her to go?
+ᏳᎭ|||Maybe he or she has it.

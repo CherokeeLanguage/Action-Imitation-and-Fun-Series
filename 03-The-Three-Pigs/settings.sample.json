@@ -1,0 +1,16 @@
+{
+  "ISBN_formatted" : "ISBN: 978-0-000-00000-0",
+  "authors" : [ "Michael Joyner" ],
+  "copyright" : "Michael Joyner, All Rights Reserved. (CC BY 3.0 US)",
+  "coverImage" : "artwork/ebook-cover-784x1024.png",
+  "description" : "... description ...",
+  "dest_epub" : "epub/ouput.epub",
+  "dest_epub_kindle" : "epub/output-Kindle.epub",
+  "image_tmp" : "epub/image-tmp",
+  "sourcedir" : "./",
+  "sourcelyx" : "input.lyx",
+  "subjects" : [ "FOR031000", "Foreign Language Study, Native American Languages", "LAN012000", "Language Arts and Disciplines, Readers", "LAN021000", "Language Arts and Disciplines, Vocabulary", "FIC000000", "Fiction, General", "Native American Languages", "Cherokee", "Cherokee Language", "ᏣᎳᎩ", "ᎦᏬᏂᎯᏍᏗ", "ᎠᎪᎵᏰᏗ", "ᏧᏬᎵᏗ ᏗᎪᏪᎵ", "ᎤᏬᎵᏗ ᎪᏪᎵ", "ᏗᎪᏪᎵ" ],
+  "svg_mode" : false,
+  "title" : "... title ...",
+  "url" : "http://www.CherokeeLessons.com/"
+}

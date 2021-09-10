@@ -4,6 +4,7 @@ import os
 import re
 import shutil
 import json
+from dataclasses import field
 from json import JSONDecodeError
 
 TERM_REGEX: str = "[Ꭰ-Ᏼ]+"
@@ -11,6 +12,7 @@ ENTRY_REGEX: str = "-?[Ꭰ-Ᏼ]+-?"
 
 @dataclass
 class Config:
+    already_used: list[str] = field(default_factory=list)
     entries_file: str = "vocabulary.txt"
     unmatched_file: str = "vocabulary-unmatched.txt"
     vocab_template: str = "vocabulary-template.lyx"
@@ -36,6 +38,12 @@ class Config:
 def main() -> None:
     config: Config = Config()
     config.load()
+
+    already_used: list[str]
+    if config.already_used:
+        already_used = config.already_used
+    else:
+        already_used = []
 
     entries_file = config.entries_file
     unmatched_file = config.unmatched_file
@@ -102,8 +110,26 @@ def main() -> None:
                     if item not in active_entry_breakdowns and entry_term in terms:
                         active_entry_breakdowns[item] = (item, "", "", "")
 
+    previous_entries: list[str] = []
+    for already_file in already_used:
+        if not os.path.isfile(already_file):
+            print(f"Previous entries file {already_file} not found.")
+            continue
+        with open(already_file, "r") as w:
+            for line in w:
+                if line.strip().startswith("#"):
+                    continue
+                parts: list[str] = line.strip().split("|")
+                if len(parts) == 4:
+                    already_entry: str = parts[0].strip()
+                    if already_entry not in previous_entries:
+                        previous_entries.append(already_entry)
+        print(f"Loaded {len(previous_entries):,} entries from {already_file}")
+
     for term in terms:
         if term in entries:
+            continue
+        if term in previous_entries:
             continue
         entries[term] = (term, "", "", "")
 
@@ -140,6 +166,8 @@ def main() -> None:
                 continue
             if entry_term in terms:
                 continue
+            if entry_term in previous_entries:
+                continue
             if " " in entry_term:
                 continue
             skip_entries.append(entry_term)
@@ -157,7 +185,13 @@ def main() -> None:
     # Output updated used entries file.
     with open(f"used-{entries_file}", "w") as w:
         for entry in entries_text:
-            if entry in skip_entries:
+            parts: list[str] = entry.strip().split("|")
+            if len(parts) != 4:
+                continue
+            entry_term: str = parts[0]
+            if entry_term in skip_entries:
+                continue
+            if entry_term.startswith("-") and entry_term not in active_entry_breakdowns.keys():
                 continue
             w.write(entry.strip())
             w.write("\n")
@@ -187,6 +221,8 @@ def main() -> None:
             definition: str
             (term, pronounce, break_down, definition) = entries[key]
             if not definition.strip():
+                continue
+            if term in previous_entries:
                 continue
             if section != term[0]:
                 section = term[0]
