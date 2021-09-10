@@ -1,0 +1,14125 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass book
+\begin_preamble
+\usepackage{multicol}%
+\usepackage{wallpaper}%
+%
+\end_preamble
+\use_default_options false
+\begin_modules
+multicol
+\end_modules
+\maintain_unincluded_children false
+\language american
+\language_package default
+\inputencoding utf8-plain
+\fontencoding global
+\font_roman "default" "FreeSerif"
+\font_sans "default" "FreeSans"
+\font_typewriter "default" "FreeMono"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics none
+\default_output_format pdf4
+\output_sync 1
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref true
+\pdf_title "Ꮎ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ"
+\pdf_author "Michael Joyner"
+\pdf_subject "Cherokee Language"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered true
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 2
+\pdf_breaklinks true
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\pdf_quoted_options "unicode=true,hypertexnames=false"
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 0
+\use_minted 0
+\branch smashwords
+\selected 0
+\filename_suffix 0
+\color #faf0e6
+\end_branch
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 0.7in
+\topmargin 0.7in
+\rightmargin 0.6in
+\bottommargin 0.7in
+\secnumdepth -1
+\tocdepth 1
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 2
+\paperpagestyle fancy
+\bullet 0 0 8 5
+\bullet 1 0 0 5
+\bullet 2 0 6 5
+\bullet 3 0 10 5
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict true
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{sloppy}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+frontmatter{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Title
+ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+The Little Red Hen
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Author
+ᏔᎵ ᏗᎦᏬᏂᎯᏍᏗ ᏣᎳᎩ ᎠᎴ ᎩᎵᏏ
+\begin_inset Newline newline
+\end_inset
+
+Dual Language Cherokee-English
+\end_layout
+
+\begin_layout Date
+Michael Conrad
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ - ᏔᎵ ᏗᎦᏬᏂᎯᏍᏗ ᏣᎳᎩ ᎠᎴ ᎩᎵᏏ
+\end_layout
+
+\begin_layout Standard
+The Little Red Hen - Dual Language Cherokee-English
+\end_layout
+
+\begin_layout Standard
+\begin_inset Branch smashwords
+inverted 0
+status collapsed
+
+\begin_layout Standard
+Published by Michael Joyner at Smashwords
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Copyright 2020, Michael Conrad
+\end_layout
+
+\begin_layout Standard
+ISBN: 978-0-000-00000-0
+\end_layout
+
+\begin_layout Standard
+This work is licensed under the 
+\noun on
+Creative Commons Attribution-Share Alike 3.0 United States License
+\noun default
+.
+\end_layout
+
+\begin_layout Standard
+$Revision: 1.7 $
+\end_layout
+
+\begin_layout Standard
+$Date: 2020/02/07 04:04:13 $ UTC
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{plain}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+mainmatter{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename src.jpg/003.jpg
+	lyxscale 10
+	width 90col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᏥᏔᎦ ᎯᎪᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+ᏥᏔᎦ ᏥᎪᏩᏘ.
+\end_layout
+
+\begin_layout Standard
+Ꮎ ᏥᏔᎦ ᎠᎩᎦᎨ.
+\end_layout
+
+\begin_layout Standard
+Ꮎ ᏥᏔᎦ ᎠᎩᏏ.
+\end_layout
+
+\begin_layout Standard
+ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ ᎯᎪᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ ᏥᎪᏩᏘ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Look at the chicken.
+\end_layout
+
+\begin_layout Standard
+I see the chicken.
+\end_layout
+
+\begin_layout Standard
+That chicken is red.
+\end_layout
+
+\begin_layout Standard
+That chicken is a hen (female).
+\end_layout
+
+\begin_layout Standard
+Look at the red hen.
+\end_layout
+
+\begin_layout Standard
+I see the red hen.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename src.jpg/004.jpg
+	lyxscale 10
+	width 90col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᏥᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+ᏥᎩᎦᎨ ᏥᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+ᎯᏥᏔᎦᏍ?
+\end_layout
+
+\begin_layout Standard
+ᏥᏔᎦ ᎯᎪᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+ᏥᏔᎦ ᎠᎩᎦᎨ.
+\end_layout
+
+\begin_layout Standard
+ᎠᎩᎦᎨ ᏥᏔᎦ ᎯᎪᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+ᎦᏙ ᎤᏍᏗ ᎯᎠ?
+\end_layout
+
+\begin_layout Standard
+ᎯᎠ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+ᏥᏔᎦ ᎯᎪᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I'm a chicken.
+\end_layout
+
+\begin_layout Standard
+I'm a hen.
+\end_layout
+
+\begin_layout Standard
+Are you a chicken?
+\end_layout
+
+\begin_layout Standard
+Look at the chicken.
+\end_layout
+
+\begin_layout Standard
+The chicken is red.
+\end_layout
+
+\begin_layout Standard
+Look at the red chicken.
+\end_layout
+
+\begin_layout Standard
+What is this?
+\end_layout
+
+\begin_layout Standard
+This is a chicken.
+\end_layout
+
+\begin_layout Standard
+Look at the chicken.
+\end_layout
+
+\begin_layout Standard
+The red chicken.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎦᏙ ᎤᏍᏗ ᎯᎠ ᏥᏔᎦ?
+\end_layout
+
+\begin_layout Standard
+ᎯᎠ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+ᎯᎠᏍ ᏥᏔᎦ?
+\end_layout
+
+\begin_layout Standard
+ᎦᏙ ᎤᏍᏗ ᏂᎯ?
+\end_layout
+
+\begin_layout Standard
+ᎯᏥᏔᎦᏍ?
+\end_layout
+
+\begin_layout Standard
+ᎥᎥ, ᏥᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+ᏥᎩᎦᎨ ᏥᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+What about this chicken?
+\end_layout
+
+\begin_layout Standard
+This is a red chicken.
+\end_layout
+
+\begin_layout Standard
+Is this a chicken?
+\end_layout
+
+\begin_layout Standard
+What are you?
+\end_layout
+
+\begin_layout Standard
+Are you a chicken?
+\end_layout
+
+\begin_layout Standard
+Yes, I am a chicken.
+\end_layout
+
+\begin_layout Standard
+I am a red chicken.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename src.jpg/005.jpg
+	lyxscale 10
+	width 90col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎧᏂᏈᏌ ᎯᎪᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+ᏪᏌ ᎯᎪᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+Ꮎ ᏪᏌ ᎣᎩᎾᎵ.
+\end_layout
+
+\begin_layout Standard
+ᏏᏆ ᎯᎪᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+Ꮎ ᏏᏆ ᎣᎩᎾᎵ.
+\end_layout
+
+\begin_layout Standard
+Ꮎ ᎧᏂᏈᏌ ᎣᎩᎾᎵ.
+\end_layout
+
+\begin_layout Standard
+ᎩᎶᏍ ᎣᎩᎾᎵ?
+\end_layout
+
+\begin_layout Standard
+ᎥᎥ, ᎣᎩᎾᎵ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+ᎣᎩᎾᎵ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+ᎣᎩᎾᎵ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+ᎠᏴ ᏥᎩᎦᎨ ᏥᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Look at the rat.
+\end_layout
+
+\begin_layout Standard
+Look at the cat.
+\end_layout
+
+\begin_layout Standard
+That cat is her friend.
+\end_layout
+
+\begin_layout Standard
+Look at the pig.
+\end_layout
+
+\begin_layout Standard
+That pig is her friend.
+\end_layout
+
+\begin_layout Standard
+That rat is her friend.
+\end_layout
+
+\begin_layout Standard
+Is someone her friend?
+\end_layout
+
+\begin_layout Standard
+Yes, her friend is a cat.
+\end_layout
+
+\begin_layout Standard
+Her friend is a rat.
+\end_layout
+
+\begin_layout Standard
+Her friend is a pig.
+\end_layout
+
+\begin_layout Standard
+I'm a red chicken.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename src.jpg/006.jpg
+	lyxscale 10
+	width 90col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎠᎩᎦᎨ ᏥᏔᎦ ᏥᎪᏩᏘ.
+\end_layout
+
+\begin_layout Standard
+ᎠᎩᎦᎨ ᏥᏔᎦ ᎤᎩᏔ ᎠᎪᏩᏘ.
+\end_layout
+
+\begin_layout Standard
+ᎤᎩᏔ ᎯᎪᏩᏔ, ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+ᏥᏔᎦ ᎤᎩᏔ ᎠᎪᏩᏘ.
+\end_layout
+
+\begin_layout Standard
+Ꭷ ᏥᏔᎦ, ᎦᏙ ᎤᏍᏗ?
+\end_layout
+
+\begin_layout Standard
+ᎤᎩᏔ.
+\end_layout
+
+\begin_layout Standard
+Ꭷ ᏏᏆ, ᎤᎩᏔᏍ?
+\end_layout
+
+\begin_layout Standard
+Ꭷ ᎧᏂᏈᏌ, ᎤᎩᏔᏍ?
+\end_layout
+
+\begin_layout Standard
+Ꭷ ᏪᏌ, ᎤᎩᏔᏍ?
+\end_layout
+
+\begin_layout Standard
+Ꭷ ᏥᏔᎦ, ᎤᎩᏔᏍ ᏣᎭ?
+\end_layout
+
+\begin_layout Standard
+ᎥᎥ, ᎤᎩᏔ ᎠᎩᎭ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I see a red chicken.
+\end_layout
+
+\begin_layout Standard
+The red chicken sees a seed.
+\end_layout
+
+\begin_layout Standard
+Look at the seed, red chicken.
+\end_layout
+
+\begin_layout Standard
+The chicken sees the seed.
+\end_layout
+
+\begin_layout Standard
+Hey chicken, what is it?
+\end_layout
+
+\begin_layout Standard
+A seed.
+\end_layout
+
+\begin_layout Standard
+Hey pig, is it a seed?
+\end_layout
+
+\begin_layout Standard
+Hey rat, is it a seed?
+\end_layout
+
+\begin_layout Standard
+Hey cat, is it a seed?
+\end_layout
+
+\begin_layout Standard
+Hey chicken, do you have a seed?
+\end_layout
+
+\begin_layout Standard
+Yes, I have a seed.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename src.jpg/007.jpg
+	lyxscale 10
+	width 90col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ꭳ ᎯᎪᏩᏔ!
+\end_layout
+
+\begin_layout Standard
+Ꮎ ᏥᏔᎦ ᎤᎩᏔ ᎠᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+ᎯᎪᏩᏔ ᎥᏍᎩᎾ ᎠᏩᏔ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+ᏥᏔᎦ ᎤᎩᏔ ᎠᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+ᏪᏌᏍ ᎤᎩᏔ ᎠᏩᏔ?
+\end_layout
+
+\begin_layout Standard
+Ꭳ, Ꮭ.
+\end_layout
+
+\begin_layout Standard
+ᏥᏔᎦ ᎤᎩᏔ ᎠᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+ᏏᏆᏍ ᎤᎩᏔ ᎠᏩᏔ?
+\end_layout
+
+\begin_layout Standard
+Ꭳ, Ꮭ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Oh look!
+\end_layout
+
+\begin_layout Standard
+That chicken found a seed.
+\end_layout
+
+\begin_layout Standard
+Look at what the chicken found.
+\end_layout
+
+\begin_layout Standard
+The chicken found a seed.
+\end_layout
+
+\begin_layout Standard
+Did the cat find a seed?
+\end_layout
+
+\begin_layout Standard
+Oh, no.
+\end_layout
+
+\begin_layout Standard
+The chicken found a seed.
+\end_layout
+
+\begin_layout Standard
+Did the pig find a seed?
+\end_layout
+
+\begin_layout Standard
+Oh no.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎧᏂᏈᏌᏍ ᎤᎩᏔ ᎠᏩᏔ?
+\end_layout
+
+\begin_layout Standard
+Ꭳ, Ꮭ.
+\end_layout
+
+\begin_layout Standard
+ᏥᏔᎦᏍ ᎤᎩᏔ ᎠᏩᏔ?
+\end_layout
+
+\begin_layout Standard
+Ꭳ, ᎥᎥ.
+\end_layout
+
+\begin_layout Standard
+Ꮎ ᎠᎩᎦᎨ ᏥᏔᎦ ᎤᎩᏔ ᎠᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+Ꭷ ᎩᎾᎵ ᏏᏆ, ᎤᎩᏔᏍ ᎯᏩᏔ?
+\end_layout
+
+\begin_layout Standard
+Ꭷ ᎩᎾᎵ ᏪᏌ, ᎤᎩᏔᏍ ᎯᏩᏔ?
+\end_layout
+
+\begin_layout Standard
+Ꭷ ᎩᎾᎵ ᎧᏂᏈᏌ, ᎤᎩᏔᏍ ᎯᏩᏔ?
+\end_layout
+
+\begin_layout Standard
+Ꮎ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎤᎩᏔ ᎠᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Did the rat find a seed?
+\end_layout
+
+\begin_layout Standard
+Oh no.
+\end_layout
+
+\begin_layout Standard
+Did the chicken find a seed?
+\end_layout
+
+\begin_layout Standard
+Oh, yes.
+\end_layout
+
+\begin_layout Standard
+That red chicken found a seed.
+\end_layout
+
+\begin_layout Standard
+Hey friend pig, did you find a seed?
+\end_layout
+
+\begin_layout Standard
+Hey friend cat, did you find a seed?
+\end_layout
+
+\begin_layout Standard
+Hey friend rat, did you find a seed?
+\end_layout
+
+\begin_layout Standard
+That little red chicken found a seed.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename src.jpg/008.jpg
+	lyxscale 10
+	width 90col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ꭳ, ᎯᎪᏩᏘᏍ Ꮎ ᎠᎩᎦᎨ ᏥᏔᎦ?
+\end_layout
+
+\begin_layout Standard
+ᎤᎩᏔ ᎤᎭ.
+\end_layout
+
+\begin_layout Standard
+ᎤᎩᏔ ᎠᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+ᏪᏌᏍ ᎡᎵᏊ ᎤᎩᏔ ᏯᏩᏔ?
+\end_layout
+
+\begin_layout Standard
+Ꭳ, Ꮭ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᏪᏌ ᎡᎵᏊ ᎤᎩᏔ ᏯᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+ᎧᏂᏈᏌᏍ ᎡᎵᏊ ᎤᎩᏔ ᏯᏩᏔ?
+\end_layout
+
+\begin_layout Standard
+Ꭳ, Ꮭ.
+\end_layout
+
+\begin_layout Standard
+ᏏᏆᏍ ᎡᎵᏊ ᎤᎩᏔ ᏯᏩᏔ?
+\end_layout
+
+\begin_layout Standard
+Ꭳ, Ꮭ.
+\end_layout
+
+\begin_layout Standard
+ᎡᎵᏊ Ꮎ ᎠᎩᎦᎨ ᏥᏔᎦ ᎤᎩᏔ ᏯᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+ᎤᎩᏔ ᎠᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+ᎤᎩᏔᏍ ᎯᎪᏩᏘ?
+\end_layout
+
+\begin_layout Standard
+Ꮎ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎤᎩᏔ ᎠᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Oh, do you see that red chicken?
+\end_layout
+
+\begin_layout Standard
+She has a seed.
+\end_layout
+
+\begin_layout Standard
+She found a seed.
+\end_layout
+
+\begin_layout Standard
+Can the cat find a seed?
+\end_layout
+
+\begin_layout Standard
+Oh, no.
+\end_layout
+
+\begin_layout Standard
+The cat can't find a seed.
+\end_layout
+
+\begin_layout Standard
+Can the rat find a seed?
+\end_layout
+
+\begin_layout Standard
+Oh, no.
+\end_layout
+
+\begin_layout Standard
+Can the pig find a seed?
+\end_layout
+
+\begin_layout Standard
+Oh, no.
+\end_layout
+
+\begin_layout Standard
+That red chicken can find a seed.
+\end_layout
+
+\begin_layout Standard
+She found a seed.
+\end_layout
+
+\begin_layout Standard
+Do you see the seed?
+\end_layout
+
+\begin_layout Standard
+That little red chicken found a seed.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename src.jpg/009.jpg
+	lyxscale 10
+	width 90col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎦᎪ ᎯᎠ?
+\end_layout
+
+\begin_layout Standard
+ᎯᎠ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+ᎯᎠᏍ ᏥᏔᎦ ᎤᎩᏔ ᎠᏩᏔ?
+\end_layout
+
+\begin_layout Standard
+ᎥᎥ, ᎯᎠ ᏥᏔᎦ ᎤᎩᏔ ᎠᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+ᎯᎪᏩᏔ, ᎯᎠ ᎤᎩᏔ.
+\end_layout
+
+\begin_layout Standard
+ᏪᏌᏍ ᎡᎵᏊ ᎤᎩᏔ ᏯᏩᏔ?
+\end_layout
+
+\begin_layout Standard
+Ꭳ, Ꮭ, ᎯᎠ ᏪᏌ ᏙᎯᏳ ᎦᎾᎵ.
+\end_layout
+
+\begin_layout Standard
+ᎦᎾᎵᏍ ᎧᏂᏈᏌ?
+\end_layout
+
+\begin_layout Standard
+ᎥᎥ, ᎯᎠ ᎧᏂᏈᏌ ᎦᎾᎵ ᏍᏊ.
+\end_layout
+
+\begin_layout Standard
+ᎦᎾᎵᏍ ᏏᏆ?
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Who is this?
+\end_layout
+
+\begin_layout Standard
+This is the red chicken.
+\end_layout
+
+\begin_layout Standard
+Did this chicken find a seed?
+\end_layout
+
+\begin_layout Standard
+Yes, this chicken found a seed.
+\end_layout
+
+\begin_layout Standard
+Look at it, this seed.
+\end_layout
+
+\begin_layout Standard
+Can the cat find a seed?
+\end_layout
+
+\begin_layout Standard
+Oh, no, this cat is truly lazy.
+\end_layout
+
+\begin_layout Standard
+Is the rat lazy?
+\end_layout
+
+\begin_layout Standard
+Yes, this rat is lazy also.
+\end_layout
+
+\begin_layout Standard
+Is the pig lazy?
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎥᎥ, ᎯᎠ ᏏᏆ ᎦᎾᎵ ᏍᏊ.
+\end_layout
+
+\begin_layout Standard
+ᎦᎪ ᏂᎯ ᎯᏏᏆ?
+\end_layout
+
+\begin_layout Standard
+ᏥᎾᎵ ᏥᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+ᎦᎪ ᏂᎯ ᎯᏪᏌ?
+\end_layout
+
+\begin_layout Standard
+ᏙᎯᏳ ᏥᎾᎵ ᏥᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+ᎦᎪ ᏂᎯ ᎯᎧᏂᏈᏌ?
+\end_layout
+
+\begin_layout Standard
+ᏥᎾᎵ ᏥᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+ᎦᎪ ᏂᎯ ᎯᏥᏔᎦ?
+\end_layout
+
+\begin_layout Standard
+ᎯᎾᎵᏍ?
+\end_layout
+
+\begin_layout Standard
+ᎥᏝ, Ꮭ ᏥᎾᎵ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+ᎤᎩᏔ ᏥᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Yes, this pig is lazy also.
+\end_layout
+
+\begin_layout Standard
+Who are you pig?
+\end_layout
+
+\begin_layout Standard
+I am a lazy pig.
+\end_layout
+
+\begin_layout Standard
+Who are you cat?
+\end_layout
+
+\begin_layout Standard
+I'm a truly lazy cat.
+\end_layout
+
+\begin_layout Standard
+Who are you rat?
+\end_layout
+
+\begin_layout Standard
+I'm a lazy rat.
+\end_layout
+
+\begin_layout Standard
+Who are you chicken?
+\end_layout
+
+\begin_layout Standard
+Are you lazy?
+\end_layout
+
+\begin_layout Standard
+No, I'm not lazy.
+\end_layout
+
+\begin_layout Standard
+I found a seed.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename src.jpg/010.jpg
+	lyxscale 10
+	width 90col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎾᏍ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎤᎩᏔ ᎠᏩᏔ?
+\end_layout
+
+\begin_layout Standard
+ᎥᎥ, Ꮎ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎤᎩᏔ ᎠᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+ᏪᏌᏍ ᎤᎩᏔ ᎠᏩᏔ ᏍᏊ?
+\end_layout
+
+\begin_layout Standard
+Ꭳ, Ꮭ, ᎥᏍᎩᎾ ᏙᎯᏳ ᎦᎾᎵ.
+\end_layout
+
+\begin_layout Standard
+ᎧᏂᏈᏌᏍ ᎤᎩᏔ ᎠᏩᏔ?
+\end_layout
+
+\begin_layout Standard
+Ꮭ, ᎦᎾᎵ ᏍᏊ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᎡᎵᏊ ᎤᎩᏔ ᏯᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+ᏏᏆᏍ ᎦᎾᎵ ᏍᏊ?
+\end_layout
+
+\begin_layout Standard
+Ꭳ, ᎥᎥ, ᏏᏆ ᎦᎾᎵ ᏍᏊ.
+\end_layout
+
+\begin_layout Standard
+ᎤᏍᏗᏍ ᎠᎩᎦᎨ ᏥᏔᎦ ᎦᎾᎵ?
+\end_layout
+
+\begin_layout Standard
+Ꭳ, Ꮭ, ᎥᏝ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎦᎾᎵ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+ᎤᎩᏔ ᎠᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Did that little red chicken find a seed?
+\end_layout
+
+\begin_layout Standard
+Yes, that little red chicken found a seed.
+\end_layout
+
+\begin_layout Standard
+Did the cat find a seed also?
+\end_layout
+
+\begin_layout Standard
+Oh, no, it is truly lazy.
+\end_layout
+
+\begin_layout Standard
+Did the rat find a seed?
+\end_layout
+
+\begin_layout Standard
+No, it is lazy also.
+\end_layout
+
+\begin_layout Standard
+It could not find a seed.
+\end_layout
+
+\begin_layout Standard
+Is the pig lazy also?
+\end_layout
+
+\begin_layout Standard
+Oh, yes, the pig is lazy also.
+\end_layout
+
+\begin_layout Standard
+Is the little red chicken lazy?
+\end_layout
+
+\begin_layout Standard
+Oh, no, no.
+\end_layout
+
+\begin_layout Standard
+The little red chicken is not lazy.
+\end_layout
+
+\begin_layout Standard
+She found a seed.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename src.jpg/011.jpg
+	lyxscale 10
+	width 90col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎭᏢ Ꮎ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ?
+\end_layout
+
+\begin_layout Standard
+ᎤᎿ.
+\end_layout
+
+\begin_layout Standard
+ᎭᏢ Ꮎ ᏏᏆ?
+\end_layout
+
+\begin_layout Standard
+ᎭᏢ Ꮎ ᎧᏂᏈᏌ?
+\end_layout
+
+\begin_layout Standard
+ᎭᏢ Ꮎ ᏪᏌ?
+\end_layout
+
+\begin_layout Standard
+ᎤᎿ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+ᎤᎿ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+ᎤᎿ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Where is that little red chicken?
+\end_layout
+
+\begin_layout Standard
+There.
+\end_layout
+
+\begin_layout Standard
+Where is that pig?
+\end_layout
+
+\begin_layout Standard
+Where is that rat?
+\end_layout
+
+\begin_layout Standard
+Where is that cat?
+\end_layout
+
+\begin_layout Standard
+There is the cat.
+\end_layout
+
+\begin_layout Standard
+There is the rat.
+\end_layout
+
+\begin_layout Standard
+There is the pig.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎭᏢ ᎦᎾᎵ ᏏᏆ?
+\end_layout
+
+\begin_layout Standard
+ᎭᏢ ᎦᎾᎵ ᎧᏂᏈᏌ?
+\end_layout
+
+\begin_layout Standard
+ᎭᏢ ᎦᎾᎵ ᏪᏌ?
+\end_layout
+
+\begin_layout Standard
+Ꭳ, ᎥᏍᎩᎾ ᎤᎿ!
+\end_layout
+
+\begin_layout Standard
+ᎦᎾᎵ ᏪᏌ ᎯᎪᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+ᎦᎾᎵ ᎧᏂᏈᏌ ᎯᎪᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+ᎦᎾᎵ ᏏᏆ ᎯᎪᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+ᎥᏍᎩᎾ ᎤᎿ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Where is the lazy pig?
+\end_layout
+
+\begin_layout Standard
+Where is the lazy rat?
+\end_layout
+
+\begin_layout Standard
+Where is the lazy cat?
+\end_layout
+
+\begin_layout Standard
+Oh, there they are!
+\end_layout
+
+\begin_layout Standard
+Look at the lazy cat.
+\end_layout
+
+\begin_layout Standard
+Look at the lazy rat.
+\end_layout
+
+\begin_layout Standard
+Look at the lazy pig.
+\end_layout
+
+\begin_layout Standard
+There they are.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename src.jpg/012.jpg
+	lyxscale 10
+	width 90col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename src.jpg/013.jpg
+	lyxscale 10
+	width 90col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎯᎪᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+ᏠᎨᏏ ᎤᏪᏅᏎ.
+\end_layout
+
+\begin_layout Standard
+ᎤᎩᏔ ᎤᏩᏛᎮᎾ.
+\end_layout
+
+\begin_layout Standard
+ᏪᏌᏍ ᏠᎨᏏ ᎤᏪᏅᏎ?
+\end_layout
+
+\begin_layout Standard
+Ꭳ, Ꮭ, ᎥᏍᎩᎾ ᏙᎯᏳ ᎦᎾᎵ.
+\end_layout
+
+\begin_layout Standard
+Ꮎ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᏠᎨᏏ ᎤᏪᏅᏎ.
+\end_layout
+
+\begin_layout Standard
+ᎤᎩᏔ ᎤᏩᏛᎮ.
+\end_layout
+
+\begin_layout Standard
+ᎧᏂᏈᏌᏍ ᏠᎨᏏ ᎤᏪᏅᏎ?
+\end_layout
+
+\begin_layout Standard
+ᎧᏂᏈᏌᏍ ᎤᎩᏔ ᎤᏩᏛᎮ?
+\end_layout
+
+\begin_layout Standard
+ᎥᏝ, ᎧᏂᏈᏌ ᏙᎯᏳ ᎦᎾᎵ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Look at the little red chicken.
+\end_layout
+
+\begin_layout Standard
+She went to a field.
+\end_layout
+
+\begin_layout Standard
+She went and found the seed.
+\end_layout
+
+\begin_layout Standard
+Did the cat go to the field?
+\end_layout
+
+\begin_layout Standard
+Oh, no, it is truly lazy.
+\end_layout
+
+\begin_layout Standard
+That little red chicken went to the field.
+\end_layout
+
+\begin_layout Standard
+She found the seed.
+\end_layout
+
+\begin_layout Standard
+Did the rat go to the field?
+\end_layout
+
+\begin_layout Standard
+Did the rat find the seed?
+\end_layout
+
+\begin_layout Standard
+No, the rat is truly lazy.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᏏᏆᏍ ᏠᎨᏏ ᎤᏪᏅᏎ?
+\end_layout
+
+\begin_layout Standard
+Ꭳ, Ꮭ, ᎥᏍᎩᎾ ᏙᎯᏳ ᎦᎾᎵ.
+\end_layout
+
+\begin_layout Standard
+Ꮎ ᎦᎾᎵ ᏪᏌ!
+\end_layout
+
+\begin_layout Standard
+Ꮎ ᎦᎾᎵ ᎧᏂᏈᏌ!
+\end_layout
+
+\begin_layout Standard
+Ꮎ ᎦᎾᎵ ᏏᏆ!
+\end_layout
+
+\begin_layout Standard
+ᏪᏌ ᎦᎾᎵ ᏍᎩᏅᏳᏍᏗ Ꮭ ᎡᎵᏊ ᏰᎾ.
+\end_layout
+
+\begin_layout Standard
+ᎧᏂᏈᏌ ᎦᎾᎵ ᏍᎩᏅᏳᏍᏗ Ꮭ ᎡᎵᏊ ᏰᎾ.
+\end_layout
+
+\begin_layout Standard
+ᏏᏆ ᎦᎾᎵ ᏍᎩᏅᏳᏍᏗ Ꮭ ᎡᎵᏊ ᏰᎾ.
+\end_layout
+
+\begin_layout Standard
+Ꮎ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᏠᎨᏏ ᎤᏪᏅᏎ.
+\end_layout
+
+\begin_layout Standard
+ᎭᏢ ᎤᎩᏔ ᎤᏩᏛᎮ?
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Did the pig go to the field?
+\end_layout
+
+\begin_layout Standard
+Oh, no, it is truly lazy.
+\end_layout
+
+\begin_layout Standard
+That lazy cat!
+\end_layout
+
+\begin_layout Standard
+That lazy rat!
+\end_layout
+
+\begin_layout Standard
+That lazy pig!
+\end_layout
+
+\begin_layout Standard
+The cat is lazy therefore it couldn't go.
+\end_layout
+
+\begin_layout Standard
+The rat is lazy therefore it couldn't go.
+\end_layout
+
+\begin_layout Standard
+The pig is lazy therefore it couldn't go.
+\end_layout
+
+\begin_layout Standard
+That little red chicken went to the field.
+\end_layout
+
+\begin_layout Standard
+Where did she find the seed?
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᏠᎨᏏᎯ ᎤᏩᏛᎮ.
+\end_layout
+
+\begin_layout Standard
+ᏏᏆ ᎯᎪᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+ᎡᏆ ᎦᎾᎵ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+ᎧᏂᏈᏌ ᎯᎪᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+ᎡᏆ ᎦᎾᎵ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+ᎦᎾᎵᏍ Ꮎ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ?
+\end_layout
+
+\begin_layout Standard
+Ꭳ, ᎥᏝ, Ꮭ ᎦᎾᎵ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᏠᎨᏏ ᎤᏪᏅᏎ.
+\end_layout
+
+\begin_layout Standard
+ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎤᎩᏔ ᎤᏩᏛᎮ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+She found it in the field.
+\end_layout
+
+\begin_layout Standard
+Look at the pig.
+\end_layout
+
+\begin_layout Standard
+Look at the lazy pig.
+\end_layout
+
+\begin_layout Standard
+Look at the rat.
+\end_layout
+
+\begin_layout Standard
+The big lazy rat.
+\end_layout
+
+\begin_layout Standard
+Is that little red chicken lazy?
+\end_layout
+
+\begin_layout Standard
+Oh, no, it isn't lazy.
+\end_layout
+
+\begin_layout Standard
+The little red chicken went to the field.
+\end_layout
+
+\begin_layout Standard
+The little red chicken found the seed.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename src.jpg/014.jpg
+	lyxscale 10
+	width 90col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᏓᏤᎾ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎪᎱᏍᏗ ᏥᏩᏔ ᏓᏥᎪᏩᏔ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᏖᎾ, ᏏᏆ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏖᎾ, ᎧᏂᏈᏌ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏖᎾ, ᏪᏌ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏙ ᎤᏍᏗ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎡᏆ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏙ ᎤᏍᏗ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎡᏆ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏙ ᎤᏍᏗ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎡᏆ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh, let y'all come (to me),
+\begin_inset Quotes erd
+\end_inset
+
+ said the little red chicken.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I found something.
+ Let y'all see it (here).
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh, come, pig.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Come, rat.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Come, cat.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What is it?
+\begin_inset Quotes erd
+\end_inset
+
+ said the big cat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What is it?
+\begin_inset Quotes erd
+\end_inset
+
+ said the large rat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What is it?
+\begin_inset Quotes erd
+\end_inset
+
+ said the large pig.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᎩᏔ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏓᏤᎾ, ᎤᎩᏔ ᎢᏥᎪᏩᏔ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏥᎾᎵ, Ꮭ ᏱᎨᎾ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏥᎾᎵ, Ꮭ ᏱᎨᎾ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏥᎾᎵ, Ꮭ ᏱᎨᎾ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᎯᎾᎵ ᎯᏏᏆ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᎯᎾᎵ ᎯᎧᏂᏈᏌ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᎯᎾᎵ ᎯᏪᏌ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+A seed,
+\begin_inset Quotes erd
+\end_inset
+
+ said the little red chicken.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Come (here), let y'all see the seed.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm lazy, I'm not going,
+\begin_inset Quotes erd
+\end_inset
+
+ said the rat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm lazy, I'm not going,
+\begin_inset Quotes erd
+\end_inset
+
+ said the pig.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm lazy, I'm not going,
+\begin_inset Quotes erd
+\end_inset
+
+ said the cat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh, you are a lazy pig!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh, you are a lazy rat!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh, you are a lazy cat!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename src.jpg/015.jpg
+	lyxscale 10
+	width 90col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎡᎵᏊᏍ ᏱᏖᎾ, ᎧᏂᏈᏌ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝ, ᏙᎯᏳ ᏥᎾᎵ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎡᎵᏊᏍ ᏱᏖᎾ, ᏪᏌ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝ, ᏙᎯᏳ ᏥᎾᎵ ᏍᏊ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎡᎵᏊᏍ ᏱᏖᎾ, ᏏᏆ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, Ꮭ, ᎥᏝ, ᎠᏴ ᏙᎯᏳ ᏥᎾᎵ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏙ ᏓᎦᏛᏁᎵ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Can you come, rat?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No, I'm truly lazy.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Can you come, cat?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No, I'm truly lazy also.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Can you come, pig?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh, no, no, I'm truly lazy.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What will I do?
+\begin_inset Quotes erd
+\end_inset
+
+ said the little red chicken.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎦᏙ ᎤᎩᏔ ᏓᎦᏛᏁᎴᎵ?
+\end_layout
+
+\begin_layout Standard
+ᎦᏙ ᏓᎦᏛᏁᎴᎵ Ꮎ ᎦᎾᎵ ᏏᏆ?
+\end_layout
+
+\begin_layout Standard
+ᎦᏙ ᏓᎦᏛᏁᎴᎵ Ꮎ ᎦᎾᎵ ᎧᏂᏈᏌ?
+\end_layout
+
+\begin_layout Standard
+ᎦᏙ ᏓᎦᏛᏁᎴᎵ Ꮎ ᎦᎾᎵ ᏪᏌ?
+\end_layout
+
+\begin_layout Standard
+ᎦᏙ ᏓᎦᏛᏁᎴᎵ ᎤᎩᏔ?
+\end_layout
+
+\begin_layout Standard
+ᎤᎩᏔ ᏓᏥᏫᏏ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ Ꮎ ᎦᎾᎵ ᏪᏌ ᏱᏓᏳᎯ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ Ꮎ ᎦᎾᎵ ᎧᏂᏈᏌ ᏱᏓᏳᎯ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ Ꮎ ᎦᎾᎵ ᏏᏆ ᏱᏓᏳᎯ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+What will I do with the seed?
+\end_layout
+
+\begin_layout Standard
+What will I do with that lazy pig?
+\end_layout
+
+\begin_layout Standard
+What will I do with that lazy rat?
+\end_layout
+
+\begin_layout Standard
+What will I do with that lazy cat?
+\end_layout
+
+\begin_layout Standard
+What will I do with the seed?
+\end_layout
+
+\begin_layout Standard
+I will plant the seed.
+\end_layout
+
+\begin_layout Standard
+That lazy cat won't have it.
+\end_layout
+
+\begin_layout Standard
+That lazy rat won't have it.
+\end_layout
+
+\begin_layout Standard
+That lazy pig won't have it.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename src.jpg/016.jpg
+	lyxscale 10
+	width 90col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎯᎠ ᎤᏣᎴᏍᏗ ᎤᎩᏔ, ᎯᎾᎵ ᎯᏪᏌ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎪᎱᏍᏗᏍ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎦᎾᎵ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏙ ᏔᏛᏁᎴᎵ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏓᏥᏫᏏ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏘᏍᏕᎸᎯᏍ, ᏪᏌ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏘᏍᏕᎸᎯᏍ, ᎧᏂᏈᏌ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏘᏍᏕᎸᎯᏍ, ᏏᏆ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+This is a wheat seed, you lazy cat.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Is it something?
+\begin_inset Quotes erd
+\end_inset
+
+ said the lazy cat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What will you do with it?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I will plant it,
+\begin_inset Quotes erd
+\end_inset
+
+ said the little red chicken.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Will you help me, cat?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No,
+\begin_inset Quotes erd
+\end_inset
+
+ said the cat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Will you help me, rat?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No,
+\begin_inset Quotes erd
+\end_inset
+
+ said the rat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Will you help me, pig?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No,
+\begin_inset Quotes erd
+\end_inset
+
+ said the pig.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᎯᎾᎵ ᎯᏪᏌ! Ꭳ, ᎯᎾᎵ ᎯᎧᏂᏈᏌ! Ꭳ, ᎯᎾᎵ ᎯᏏᏆ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᎦᎪ ᎤᎩᏔ ᏓᏫᏏ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎾᎯᏳ ᏓᎦᏛᏁᎵ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+ᎠᎴ ᏄᏛᏁᎴ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh, you lazy cat! Oh, you lazy rat! Oh, you lazy pig!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh, who will plant the seed?
+\begin_inset Quotes erd
+\end_inset
+
+ said the chicken.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm not doing it,
+\begin_inset Quotes erd
+\end_inset
+
+ said the rat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm not doing it,
+\begin_inset Quotes erd
+\end_inset
+
+ said the cat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm not doing it,
+\begin_inset Quotes erd
+\end_inset
+
+ said the pig.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Then I will do it,
+\begin_inset Quotes erd
+\end_inset
+
+ said the little red chicken.
+\end_layout
+
+\begin_layout Standard
+And she did.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᎰᏍᏓ ᎩᎾᎵ ᏱᎩ, ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᎰᏍᏓ ᎩᎾᎵ ᏱᎩ, ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᎰᏍᏓ ᎩᎾᎵ ᏱᎩ, ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+ᎦᏙᎲ Ꮭ ᎢᏦᏍᏓ ᎢᏣᎵ ᏱᎩ?
+\end_layout
+
+\begin_layout Standard
+ᎣᏍᏓ ᎣᎩᎾᎵ ᎠᎵᏍᏕᎵᏍᎪ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᎢᏦᏍᏓ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᏱᏣᎵᏍᏕᎸᎮ.
+\end_layout
+
+\begin_layout Standard
+ᏙᎯᏳ ᎢᏥᎾᎵ.
+\end_layout
+
+\begin_layout Standard
+ᏙᎯᏳ ᎢᏥᎾᎵ ᎢᏳᏍᏗ Ꮭ ᏱᏣᎵᏍᏕᎵᏍᎪ.
+\end_layout
+
+\begin_layout Standard
+ᏙᎯᏳ ᎢᏥᎾᎵ ᎢᏳᏍᏗ Ꮭ ᎢᏦᏍᏓ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+You are not a good friend, cat.
+\end_layout
+
+\begin_layout Standard
+You are not a good friend, rat.
+\end_layout
+
+\begin_layout Standard
+You are not a good friend, pig.
+\end_layout
+
+\begin_layout Standard
+Why are y'all not good friends?
+\end_layout
+
+\begin_layout Standard
+A good friend helps.
+\end_layout
+
+\begin_layout Standard
+Y'all aren't good.
+\end_layout
+
+\begin_layout Standard
+Y'all didn't help.
+\end_layout
+
+\begin_layout Standard
+Y'all are truly lazy.
+\end_layout
+
+\begin_layout Standard
+Y'all are truly lazy therefore y'all don't help.
+\end_layout
+
+\begin_layout Standard
+Y'all are truly lazy therefore y'all aren't good.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᏥᏔᎦ ᎯᎪᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+ᎥᏍᎩᎾ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+ᎥᏍᎩᎾ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+ᎥᏍᎩᎾ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+ᏪᏌ ᎯᎪᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+ᎧᏂᏈᏌ ᎯᎪᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+ᏏᏆ ᎯᎪᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+ᏪᏌ ᎣᎩᎾᎵ.
+\end_layout
+
+\begin_layout Standard
+ᎧᏂᏈᏌ ᎣᎩᎾᎵ.
+\end_layout
+
+\begin_layout Standard
+ᏏᏆ ᎣᎩᎾᎵ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Look at the chicken.
+\end_layout
+
+\begin_layout Standard
+That chicken.
+\end_layout
+
+\begin_layout Standard
+That red chicken.
+\end_layout
+
+\begin_layout Standard
+That little red chicken.
+\end_layout
+
+\begin_layout Standard
+Look at the cat.
+\end_layout
+
+\begin_layout Standard
+Look at the rat.
+\end_layout
+
+\begin_layout Standard
+Look at the pig.
+\end_layout
+
+\begin_layout Standard
+The cat is her friend.
+\end_layout
+
+\begin_layout Standard
+The rat is her friend.
+\end_layout
+
+\begin_layout Standard
+The pig is her friend.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎠᏃᏍᏓᏍ ᎣᎦᎵ?
+\end_layout
+
+\begin_layout Standard
+ᎥᏝ, ᎠᏂᎾᎵ ᎣᎦᎵ.
+\end_layout
+
+\begin_layout Standard
+ᎥᏝ ᎠᏃᏍᏓ ᎣᎦᎵ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+ᏙᎯᏳ ᎠᏂᎾᎵ ᎢᏳᏍᏗ Ꮭ ᎠᏃᏍᏓ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+ᏪᏌ ᎦᎾᎵ.
+\end_layout
+
+\begin_layout Standard
+ᎧᏂᏈᏌ ᎦᎾᎵ.
+\end_layout
+
+\begin_layout Standard
+ᏏᏆ ᎦᎾᎵ.
+\end_layout
+
+\begin_layout Standard
+ᎠᏂᏦᎢ ᎠᏂᎾᎵ ᎣᎦᎵ.
+\end_layout
+
+\begin_layout Standard
+ᏥᏔᎦ ᎤᎩᏔ ᎤᏩᏛᎮ.
+\end_layout
+
+\begin_layout Standard
+ᏠᎨᏏᎯ ᎤᏩᏛᎮ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Are they good friends of hers?
+\end_layout
+
+\begin_layout Standard
+No, They are lazy friends of hers.
+\end_layout
+
+\begin_layout Standard
+They are not good friends of hers.
+\end_layout
+
+\begin_layout Standard
+Truly they are lazy therefore they are not good.
+\end_layout
+
+\begin_layout Standard
+The cat is lazy.
+\end_layout
+
+\begin_layout Standard
+The rat is lazy.
+\end_layout
+
+\begin_layout Standard
+The pig is lazy.
+\end_layout
+
+\begin_layout Standard
+Three lazy friends of hers.
+\end_layout
+
+\begin_layout Standard
+The chicken found the seed.
+\end_layout
+
+\begin_layout Standard
+She found it in the field.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᏪᏌ ᏠᎨᏏ ᏳᏪᏅᏎ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᎧᏂᏈᏌ ᏠᎨᏏ ᏳᏪᏅᏎ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᏏᏆ ᏠᎨᏏ ᏳᏪᏅᏎ.
+\end_layout
+
+\begin_layout Standard
+ᏙᎯᏳ ᎠᏂᎾᎵ.
+\end_layout
+
+\begin_layout Standard
+ᏥᏔᎦᏃ ᏠᎨᏏ ᎤᏪᏅᏎ.
+\end_layout
+
+\begin_layout Standard
+ᎣᏍᏓ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+ᎤᎩᏔ ᎤᏩᏛᎮ.
+\end_layout
+
+\begin_layout Standard
+ᎣᏍᏓ ᎤᏍᏗ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᎦᎾᎵ ᏥᏔᎦ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The cat did not go to the field.
+\end_layout
+
+\begin_layout Standard
+The rat did not go to the field.
+\end_layout
+
+\begin_layout Standard
+The pig did not go to he field.
+\end_layout
+
+\begin_layout Standard
+Truly they are lazy.
+\end_layout
+
+\begin_layout Standard
+And the chicken went to the field.
+\end_layout
+
+\begin_layout Standard
+The good little red chicken.
+\end_layout
+
+\begin_layout Standard
+She found the seed.
+\end_layout
+
+\begin_layout Standard
+The good little chicken.
+\end_layout
+
+\begin_layout Standard
+The chicken is not lazy.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ ᏓᏤᎾ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ ᏖᎾ, ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+Ꭳ ᏖᎾ, ᎩᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+Ꭳ ᏖᎾ, ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+ᏓᏤᎾ, ᎪᎱᏍᏗ ᏥᏩᏔ ᎢᏥᎪᏩᏔ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh let y'all come,
+\begin_inset Quotes erd
+\end_inset
+
+ said the little chicken.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh let you come, cat.
+\end_layout
+
+\begin_layout Standard
+Oh let you come, rat.
+\end_layout
+
+\begin_layout Standard
+Oh let you come, pig.
+\end_layout
+
+\begin_layout Standard
+Let y'all go, let y'all see something I found.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏙ ᎤᏍᏗ ᎯᏩᏔ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏙ ᎤᏍᏗ ᎯᏩᏔ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏙ ᎤᏍᏗ ᎯᏩᏔ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᎩᏔ ᏥᏩᏔ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᏙᎯᏳ ᎣᏥᎾᎵ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᏙᎯᏳ ᎣᏥᎾᎵ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᏙᎯᏳ ᎣᏥᎾᎵ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᏎᏃ, ᎯᎠ ᎤᏣᎴᏍᏗ ᎤᎩᏔ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏣᎴᏍᏗᏍ ᎤᎩᏔ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏣᎴᏍᏗᏍ ᎤᎩᏔ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏣᎴᏍᏗᏍ ᎤᎩᏔ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What did you find?
+\begin_inset Quotes erd
+\end_inset
+
+ said the cat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What did you find?
+\begin_inset Quotes erd
+\end_inset
+
+ said the rat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What did you find?
+\begin_inset Quotes erd
+\end_inset
+
+ said the pig.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I found a seed.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh, truly we are lazy,
+\begin_inset Quotes erd
+\end_inset
+
+ said the cat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh, truly we are lazy,
+\begin_inset Quotes erd
+\end_inset
+
+ said the rat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh, truly we are lazy,
+\begin_inset Quotes erd
+\end_inset
+
+ said the pig.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But, this is a wheat seed,
+\begin_inset Quotes erd
+\end_inset
+
+ said the chicken.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+A wheat seed?
+\begin_inset Quotes erd
+\end_inset
+
+ said the cat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+A wheat seed?
+\begin_inset Quotes erd
+\end_inset
+
+ said the rat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+A wheat seed?
+\begin_inset Quotes erd
+\end_inset
+
+ said the pig.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᎥ, ᎤᏣᎴᏍᏗ ᎤᎩᏔ.
+ ᏓᏤᎾ, ᎠᏎ ᎢᎩᏫᏍᏗ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏣᏫᏍᏗᏍ ᎬᏍᏕᎵ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏣᏫᏍᏗᏍ ᎬᏍᏕᎵ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏣᏫᏍᏗᏍ ᎬᏍᏕᎵ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎾᎯᏳ ᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+ᎠᎴ ᏄᏛᏁᎴ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes, a wheat seed.
+ Let y'all go, y'all must plant it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You want me to help you with planting it?
+\begin_inset Quotes erd
+\end_inset
+
+ said the cat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You want me to help you with planting it?
+\begin_inset Quotes erd
+\end_inset
+
+ said the rat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You want me to help you with planting it?
+\begin_inset Quotes erd
+\end_inset
+
+ said the pig.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm not doing it,
+\begin_inset Quotes erd
+\end_inset
+
+ said the cat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm not doing it, 
+\begin_inset Quotes eld
+\end_inset
+
+ said the rat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm not doing it,
+\begin_inset Quotes erd
+\end_inset
+
+ said the pig.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Then I will do it,
+\begin_inset Quotes erd
+\end_inset
+
+ said the little chicken.
+\end_layout
+
+\begin_layout Standard
+And she did.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename src.jpg/017.jpg
+	lyxscale 10
+	width 90col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᎩᏔ ᏓᏥᏫᏏ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+ᎯᎠ ᎤᏣᎴᏍᏗ ᎤᎩᏔ.
+\end_layout
+
+\begin_layout Standard
+ᏛᏛᏏ ᎠᎴ ᏛᏛᏏ ᎠᎴ ᏛᏛᏏ.
+\end_layout
+
+\begin_layout Standard
+ᎤᏣᎴᏍᏗ ᎦᎪᏗ ᎨᏎᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+ᎤᏣᎴᏍᏗ ᎦᏙᏗ ᏛᏛᏏ ᎠᎴ ᏛᏛᏏ.
+\end_layout
+
+\begin_layout Standard
+ᎡᏆ ᎤᏣᎴᏍᏗ ᎦᏙᏗ ᎨᏎᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+ᎾᎯᏳ ᎤᏣᎴᏍᏗ ᎤᏂᎩᏔ ᏚᎮᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+ᎠᎴ ᎤᏣᎴᏍᏗ ᎤᏂᎩᏔ ᏛᏅᏂᏏ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I will plant the seed.
+\begin_inset Quotes erd
+\end_inset
+
+, said the chicken.
+\end_layout
+
+\begin_layout Standard
+This wheat seed.
+\end_layout
+
+\begin_layout Standard
+It will grow and it will grow and it will grow.
+\end_layout
+
+\begin_layout Standard
+It will be a wheat plant.
+\end_layout
+
+\begin_layout Standard
+The wheat plant will grow and it will grow.
+\end_layout
+
+\begin_layout Standard
+It will be a large wheat plant.
+\end_layout
+
+\begin_layout Standard
+Then it will have wheat seeds.
+\end_layout
+
+\begin_layout Standard
+And the wheat seeds will become ripe.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename src.jpg/018.jpg
+	lyxscale 10
+	width 90col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎠᏅᏂᏍᎪᏍ Ꮎ ᎤᏣᎴᏍᏗ ᎠᏂᎩᏔ?
+\end_layout
+
+\begin_layout Standard
+ᎥᎥ, ᎤᏣᎴᏍᏗ ᎠᏂᎩᏔ ᎠᏅᏂᏍᎪ.
+\end_layout
+
+\begin_layout Standard
+ᎠᏃᏍᏓᏍ ᎤᏅᏂᏒᎢ ᎤᏣᎴᏍᏗ ᎠᏂᎩᏔ?
+\end_layout
+
+\begin_layout Standard
+ᎥᎥ, ᎤᏅᏂᏒᎢ ᎤᏣᎴᏍᏗ ᎠᏂᎩᏔ ᎠᏃᏍᏓ.
+\end_layout
+
+\begin_layout Standard
+ᏖᎾ, ᎦᎾᎵ ᏪᏌ, ᎤᏣᎴᏍᏗ ᎤᏂᎩᏔ ᎠᏅᏂᏍᎪ.
+\end_layout
+
+\begin_layout Standard
+ᏖᎾ, ᎦᎾᎵ ᎧᏂᏈᏌ, ᎤᏣᎴᏍᏗ ᎤᏂᎩᏔ ᎠᏅᏂᏍᎪ.
+\end_layout
+
+\begin_layout Standard
+ᏖᎾ, ᎦᎾᎵ ᏏᏆ, ᎤᏣᎴᏍᏗ ᎤᏂᎩᏔ ᎠᏅᏂᏍᎪ.
+\end_layout
+
+\begin_layout Standard
+ᎦᎪ ᏍᎩᏍᏕᎵ ᎤᏂᎩᏔ ᏗᎩᏟᏐᏗ?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ, 
+\begin_inset Quotes eld
+\end_inset
+
+ᏙᎯᏳ ᏥᎾᎵ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Are those wheat seeds ripe?
+\end_layout
+
+\begin_layout Standard
+Yes, the wheat seeds are ripe.
+\end_layout
+
+\begin_layout Standard
+Are the ripe wheat seeds good?
+\end_layout
+
+\begin_layout Standard
+yes, The ripe wheat seeds are good.
+\end_layout
+
+\begin_layout Standard
+Come, lazy cat, the wheat seeds are ripe.
+\end_layout
+
+\begin_layout Standard
+Come, lazy rat, the wheat seeds are ripe.
+\end_layout
+
+\begin_layout Standard
+Come, lazy pig, the wheat seeds are ripe.
+\end_layout
+
+\begin_layout Standard
+Who will help me to gather the seeds?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm not doing it,
+\begin_inset Quotes erd
+\end_inset
+
+ said the cat, 
+\begin_inset Quotes eld
+\end_inset
+
+I'm lazy.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ, 
+\begin_inset Quotes eld
+\end_inset
+
+ᏙᎯᏳ ᏥᎾᎵ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ, 
+\begin_inset Quotes eld
+\end_inset
+
+ᏙᎯᏳ ᏥᎾᎵ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎦᎪ ᏓᎦᏟᏌᏂ Ꮎ ᎤᏅᏂᏒᎢ ᎤᏣᎴᏍᏗ ᎤᏂᎩᏔ?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎩᎾᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏓᏂᎦᏛᏁᎵ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+ᎠᎴ ᏄᏛᏁᎴ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm not doing it,
+\begin_inset Quotes erd
+\end_inset
+
+ said the rat, 
+\begin_inset Quotes eld
+\end_inset
+
+I'm lazy.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm not doing it,
+\begin_inset Quotes erd
+\end_inset
+
+ said the pig, 
+\begin_inset Quotes eld
+\end_inset
+
+I'm lazy.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Who will gather those ripe wheat seeds?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm not doing it,
+\begin_inset Quotes erd
+\end_inset
+
+ said the cat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm not doing it,
+\begin_inset Quotes erd
+\end_inset
+
+ said the rat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm not doing it,
+\begin_inset Quotes erd
+\end_inset
+
+ said the pig.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I will gather them,
+\begin_inset Quotes erd
+\end_inset
+
+ said the little red chicken.
+\end_layout
+
+\begin_layout Standard
+And she did.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename src.jpg/019.jpg
+	lyxscale 10
+	width 90col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎯᎪᏩᏔ, ᎠᎭᏂ Ꮎ ᎤᏣᎴᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+ᏪᏌᏍ ᎤᏣᎴᏍᏗ ᎤᏩᏟᏌᏁ?
+\end_layout
+
+\begin_layout Standard
+Ꭳ, Ꮭ, ᎥᏍᎩᎾ ᏙᎯᏳ ᎦᎾᎵ.
+\end_layout
+
+\begin_layout Standard
+ᎧᏂᏈᏌᏍ ᎤᏣᎴᏍᏗ ᎤᏩᏟᏌᏁ?
+\end_layout
+
+\begin_layout Standard
+Ꭳ, Ꮭ, ᎥᏍᎩᎾ ᏙᎯᏳ ᎦᎾᎵ.
+\end_layout
+
+\begin_layout Standard
+ᏏᏆᏍ ᎤᏣᎴᏍᏗ ᎤᏩᏟᏌᏁ?
+\end_layout
+
+\begin_layout Standard
+Ꭳ, Ꮭ, ᎥᏍᎩᎾ ᏙᎯᏳ ᎦᎾᎵ.
+\end_layout
+
+\begin_layout Standard
+ᎦᎾᎵ ᏏᏆ ᎬᏩᏢᏅᏗ.
+\end_layout
+
+\begin_layout Standard
+ᎦᎾᎵ ᏏᏆ ᎬᏩᎵᏍᏓᏴᏗ.
+\end_layout
+
+\begin_layout Standard
+ᎦᎾᎵ ᏪᏌ ᎬᏩᎵᏍᏓᏴᏗ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Look, here is that wheat.
+\end_layout
+
+\begin_layout Standard
+Did the cat gather the wheat?
+\end_layout
+
+\begin_layout Standard
+Oh, no, that one is truly lazy.
+\end_layout
+
+\begin_layout Standard
+Did the rat gather the wheat?
+\end_layout
+
+\begin_layout Standard
+Oh, no, that one is truly lazy.
+\end_layout
+
+\begin_layout Standard
+Did the pig gather the wheat?
+\end_layout
+
+\begin_layout Standard
+Oh, no, that one is truly lazy.
+\end_layout
+
+\begin_layout Standard
+The lazy pig can sleep.
+\end_layout
+
+\begin_layout Standard
+The lazy pig can eat a meal.
+\end_layout
+
+\begin_layout Standard
+The lazy cat can eat a meal.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎬᏩᏢᏅᏗ ᏍᏊ.
+\end_layout
+
+\begin_layout Standard
+ᎥᏍᏊ ᎦᎾᎵ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+ᎦᎾᎵ ᎧᏂᏈᏌ ᎬᏩᎵᏍᏓᏴᏗ.
+\end_layout
+
+\begin_layout Standard
+ᎬᏩᏢᏅᏗ ᏍᏊ.
+\end_layout
+
+\begin_layout Standard
+ᏏᏆ ᏙᎯᏳ ᎦᎾᎵ ᎠᎴ Ꮭ ᎤᏣᎴᏍᏗ ᏱᏓᎦᏟᏌᏂ.
+\end_layout
+
+\begin_layout Standard
+ᏪᏌ ᏙᎯᏳ ᎦᎾᎵ ᎠᎴ Ꮭ ᎤᏣᎴᏍᏗ ᏱᏓᎦᏟᏌᏂ.
+\end_layout
+
+\begin_layout Standard
+ᎧᏂᏈᏌ ᏙᎯᏳ ᎦᎾᎵ ᏍᏊ.
+\end_layout
+
+\begin_layout Standard
+ᎥᏍᎩᎾ ᎬᏩᎵᏍᏓᏴᏗ ᎠᎴ ᎬᏩᏢᏅᏗ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᎥᏍᎩᎾ ᎤᏣᎴᏍᏗ ᏱᏓᎦᏟᏌᏂ.
+\end_layout
+
+\begin_layout Standard
+ᎥᏍᎩᎾ ᏙᎯᏳ ᎦᎾᎵ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎦᎾᎵ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎣᏍᏓ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+She can sleep also.
+\end_layout
+
+\begin_layout Standard
+Also the lazy rat.
+\end_layout
+
+\begin_layout Standard
+The lazy rat can eat a meal.
+\end_layout
+
+\begin_layout Standard
+She can sleep also.
+\end_layout
+
+\begin_layout Standard
+The pig is truly lazy and wouldn't gather the wheat.
+\end_layout
+
+\begin_layout Standard
+The cat is truly lazy and wouldn't gather the wheat.
+\end_layout
+
+\begin_layout Standard
+The rat truly lazy also.
+\end_layout
+
+\begin_layout Standard
+She can eat a meal and she can sleep.
+\end_layout
+
+\begin_layout Standard
+She didn't gather the wheat.
+\end_layout
+
+\begin_layout Standard
+She is truly lazy.
+\end_layout
+
+\begin_layout Standard
+The little red chicken is not lazy.
+\end_layout
+
+\begin_layout Standard
+The little red chicken is good.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎯᎪᏩᏔ, ᎠᎭᏂ ᎦᎾᎵ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+ᎯᎪᏩᏔ, ᎠᎭᏂ ᎦᎾᎵ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+ᎯᎪᏩᏔ, ᎠᎭᏂ ᎦᎾᎵ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+ᎥᏍᎩᎾ ᏙᎯᏳ ᎠᏂᎾᎵ ᎠᎴ Ꮭ ᎤᎩᏔ ᏳᏂᏩᏛᎮ.
+\end_layout
+
+\begin_layout Standard
+ᎥᏍᎩᎾ ᏙᎯᏳ ᎠᏂᎾᎵ ᎠᎴ Ꮭ ᎤᎩᏔ ᏳᏂᏫᏎ.
+\end_layout
+
+\begin_layout Standard
+ᎥᏍᎩᎾ ᏙᎯᏳ ᎠᏂᎾᎵ ᎠᎴ Ꮭ ᎤᏣᎴᏍᏗ ᏳᏂᏟᏌᏁ.
+\end_layout
+
+\begin_layout Standard
+Ꭳ, ᎠᏂᎾᎵ ᏧᎾᎵ.
+\end_layout
+
+\begin_layout Standard
+ᎡᎵᏊ ᎤᏂᎩᏔ ᏱᏓᏂᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+ᎡᎵᏊ ᏧᏂᏫᏍᏗ ᏯᎾᎵᏍᏕᎳ.
+\end_layout
+
+\begin_layout Standard
+ᎡᎵᏊ ᏚᏂᏟᏐᏗ ᏯᎾᎵᏍᏕᎳ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+See, here is the lazy cat.
+\end_layout
+
+\begin_layout Standard
+See, here is the lazy rat.
+\end_layout
+
+\begin_layout Standard
+See, here is the lazy pig.
+\end_layout
+
+\begin_layout Standard
+They are truly lazy and did not find the seed.
+\end_layout
+
+\begin_layout Standard
+They are truly lazy and did not plant the seed.
+\end_layout
+
+\begin_layout Standard
+They are truly lazy and did not gather the wheat.
+\end_layout
+
+\begin_layout Standard
+Oh, lazy friends.
+\end_layout
+
+\begin_layout Standard
+They could find seeds.
+\end_layout
+
+\begin_layout Standard
+They could help to plant them.
+\end_layout
+
+\begin_layout Standard
+They could help to gather them.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename src.jpg/020.jpg
+	lyxscale 10
+	width 90col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎠᎭᏂ ᏗᏍᏙᏍᎩᎢ.
+\end_layout
+
+\begin_layout Standard
+ᎩᎶ ᎤᏣᎴᏍᏗ ᎤᏫᏘᏗ ᏗᏍᏙᏍᎩᎢ.
+\end_layout
+
+\begin_layout Standard
+ᎦᎪ ᎤᏣᎴᏍᏗ ᏛᏫᏛᎯ ᏗᏍᏙᏍᎩᎢ?
+\end_layout
+
+\begin_layout Standard
+Ꭷ ᏏᏆ, ᏘᏫᏛᎯ?
+\end_layout
+
+\begin_layout Standard
+Ꭷ ᏪᏌ, ᏘᏫᏛᎯ?
+\end_layout
+
+\begin_layout Standard
+Ꭷ ᎧᏂᏈᏌ, ᏘᏫᏛᎯ?
+\end_layout
+
+\begin_layout Standard
+ᎦᎪ ᏛᏫᏛᎯ?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏥᏫᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏥᏫᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏥᏫᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎾᎯᏳ ᏓᏥᏫᏛᎯ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+ᎠᎴ ᏄᏛᏁᎴ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Here is a mill.
+\end_layout
+
+\begin_layout Standard
+Someone needs to take the wheat to the mill.
+\end_layout
+
+\begin_layout Standard
+Who will take the wheat to the mill?
+\end_layout
+
+\begin_layout Standard
+Hey pig, will you take it?
+\end_layout
+
+\begin_layout Standard
+Hey cat, will you take it?
+\end_layout
+
+\begin_layout Standard
+Hey rat, will you take it?
+\end_layout
+
+\begin_layout Standard
+Who will take it?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm not taking it,
+\begin_inset Quotes erd
+\end_inset
+
+ said the pig.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm not taking it,
+\begin_inset Quotes erd
+\end_inset
+
+ said the cat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm not taking it,
+\begin_inset Quotes erd
+\end_inset
+
+ said the rat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Then I will take it,
+\begin_inset Quotes erd
+\end_inset
+
+ said the chicken.
+\end_layout
+
+\begin_layout Standard
+And she did.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎦᏙᎲ ᎩᎶ ᎤᏣᎴᏍᏗ ᎠᏎ ᎤᏫᏘᏗ ᏗᏍᏙᏍᎩᎢ?
+\end_layout
+
+\begin_layout Standard
+ᎦᏙᎲ ᏥᏔᎦ ᎠᏎ ᎤᏫᏘᏗ?
+\end_layout
+
+\begin_layout Standard
+ᎦᎾᎵ ᏏᏆ ᎤᏫᏘᏗ.
+\end_layout
+
+\begin_layout Standard
+ᎦᎾᎵ ᏪᏌ ᎤᏫᏘᏗ.
+\end_layout
+
+\begin_layout Standard
+ᎦᎾᎵ ᎧᏂᏈᏌ ᎤᏫᏘᏗ.
+\end_layout
+
+\begin_layout Standard
+ᎦᏙᎲ Ꮭ ᏏᏆ ᏯᏫᏗ?
+\end_layout
+
+\begin_layout Standard
+Ꮎ ᏏᏆ ᏙᎯᏳ ᎦᎾᎵ.
+\end_layout
+
+\begin_layout Standard
+ᎦᏙᎲ Ꮭ ᏪᏌ ᏯᏫᏗ?
+\end_layout
+
+\begin_layout Standard
+Ꮎ ᏪᏌ ᏙᎯᏳ ᎦᎾᎵ.
+\end_layout
+
+\begin_layout Standard
+ᎦᏙᎲ Ꮭ ᎦᎾᎵ ᎧᏂᏈᏌ ᏯᏫᏗ?
+\end_layout
+
+\begin_layout Standard
+Ꮎ ᎧᏂᏈᏌ ᏙᎯᏳ ᎦᎾᎵ.
+\end_layout
+
+\begin_layout Standard
+ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᏛᏫᏛᎯ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Why must someone take the wheat to the mill?
+\end_layout
+
+\begin_layout Standard
+Why must the chicken take it?
+\end_layout
+
+\begin_layout Standard
+The lazy pig should take it.
+\end_layout
+
+\begin_layout Standard
+The lazy cat should take it.
+\end_layout
+
+\begin_layout Standard
+The lazy rat needs to take it.
+\end_layout
+
+\begin_layout Standard
+Why isn't the pig taking it?
+\end_layout
+
+\begin_layout Standard
+That pig is truly lazy.
+\end_layout
+
+\begin_layout Standard
+Why isn't the cat taking it?
+\end_layout
+
+\begin_layout Standard
+That cat is truly lazy.
+\end_layout
+
+\begin_layout Standard
+Why isn't the lazy rat taking it?
+\end_layout
+
+\begin_layout Standard
+That rat is truly lazy.
+\end_layout
+
+\begin_layout Standard
+The little red chicken will take it.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename src.jpg/021.jpg
+	lyxscale 10
+	width 90col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎦᏙ ᏗᏍᏙᏍᎩ ᏛᏛᏁᎴᎵ ᎤᏣᎴᏍᏗ?
+\end_layout
+
+\begin_layout Standard
+ᏗᏍᏙᏍᎩ ᎤᏣᎴᏍᏗ ᏛᏍᏙᎢ.
+ ᎢᏌ ᎨᏎᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+ᎢᏌ ᎣᏍᏓ ᎨᏎᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+ᎣᏍᏓ ᎤᏣᎴᏍᏗ ᎢᏌ ᎨᏎᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+ᎦᏙ ᎣᏍᏓ ᎨᏎᏍᏗ?
+\end_layout
+
+\begin_layout Standard
+ᎣᏍᏓ ᎠᎩᏍᏗ ᎨᏎᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎤᏣᎴᏍᏗ ᎤᎩᏔ ᎤᏩᏛᎮ.
+\end_layout
+
+\begin_layout Standard
+ᎤᏫᏎ.
+\end_layout
+
+\begin_layout Standard
+ᎤᏣᎴᏍᏗ ᎤᏩᏟᏌᏁ.
+\end_layout
+
+\begin_layout Standard
+ᏗᏍᏙᏍᎩᎢ ᎤᏫᏛᎮ.
+\end_layout
+
+\begin_layout Standard
+ᏗᏍᏙᏍᎩ ᏛᏍᏙᎢ ᎠᎴ ᏛᏍᏙᎢ ᎠᎴ ᏛᏍᏙᎢ.
+\end_layout
+
+\begin_layout Standard
+ᏗᏍᏙᏍᎩ ᎤᏣᎴᏍᏗ ᏛᏍᏙᎢ.
+\end_layout
+
+\begin_layout Standard
+ᏛᏍᏙᎢ ᎠᎴ ᎢᏌ ᎨᏎᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+What will the miller be doing to the wheat?
+\end_layout
+
+\begin_layout Standard
+The miller will grind the wheat.
+ There will be flour.
+\end_layout
+
+\begin_layout Standard
+The flour will be good.
+\end_layout
+
+\begin_layout Standard
+It will be good wheat flour.
+\end_layout
+
+\begin_layout Standard
+What will be good?
+\end_layout
+
+\begin_layout Standard
+It will be good food.
+\end_layout
+
+\begin_layout Standard
+The little red chicken found a wheat seed.
+\end_layout
+
+\begin_layout Standard
+She planted it.
+\end_layout
+
+\begin_layout Standard
+She gathered the wheat.
+\end_layout
+
+\begin_layout Standard
+She took it to the mill.
+\end_layout
+
+\begin_layout Standard
+The miller will grind it and will grind it and will grind it.
+\end_layout
+
+\begin_layout Standard
+The miller will grind the wheat.
+\end_layout
+
+\begin_layout Standard
+He will grind it and there will be flour.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename src.jpg/022.jpg
+	lyxscale 10
+	width 90col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎦᎪ ᎦᎾᎵ ᎨᎮ ᎠᎴ Ꮭ ᎤᎩᏔ ᏳᏩᏛᎮ?
+\end_layout
+
+\begin_layout Standard
+Ꮎ ᏏᏆ ᏙᎯᏳ ᎦᎾᎵ ᎨᎮ ᎠᎴ Ꮭ ᎤᎩᏔ ᏳᏩᏛᎮ.
+\end_layout
+
+\begin_layout Standard
+ᎦᎪ ᎦᎾᎵ ᎨᎮ ᎠᎴ Ꮭ ᎤᎩᏔ ᏳᏫᏎ?
+\end_layout
+
+\begin_layout Standard
+Ꮎ ᏪᏌ ᏙᎯᏳ ᎦᎾᎵ ᎨᎮ ᎠᎴ Ꮭ ᎤᎩᏔ ᏳᏫᏎ.
+\end_layout
+
+\begin_layout Standard
+ᎦᎪ ᎦᎾᎵ ᎨᎮ ᎠᎴ Ꮭ ᎤᏣᎴᏍᏗ ᏳᏩᏟᏌᏁ?
+\end_layout
+
+\begin_layout Standard
+Ꮎ ᎧᏂᏈᏌ ᏙᎯᏳ ᎦᎾᎵ ᎨᎮ ᎠᎴ Ꮭ ᎤᏣᎴᏍᏗ ᏳᏩᏟᏌᏁ.
+\end_layout
+
+\begin_layout Standard
+Ꭳ, ᏙᎯᏳ ᎯᎾᎵ, ᎯᏏᏆ!
+\end_layout
+
+\begin_layout Standard
+Ꭳ, ᏙᎯᏳ ᎯᎾᎵ, ᎯᏪᏌ!
+\end_layout
+
+\begin_layout Standard
+Ꭳ, ᏙᎯᏳ ᎯᎾᎵ, ᎯᎧᏂᏈᏌ!
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Who was being lazy and didn't find the seed?
+\end_layout
+
+\begin_layout Standard
+That pig was being truly lazy and did not find the seed.
+\end_layout
+
+\begin_layout Standard
+Who was being lazy and didn't plant the seed?
+\end_layout
+
+\begin_layout Standard
+That cat was being truly lazy and didn't plant the seed.
+\end_layout
+
+\begin_layout Standard
+Who was being lazy and didn't gather the wheat?
+\end_layout
+
+\begin_layout Standard
+That pig was being truly lazy and did not gather the wheat.
+\end_layout
+
+\begin_layout Standard
+Oh, you are truly lazy, pig!
+\end_layout
+
+\begin_layout Standard
+Oh, you are truly lazy, cat!
+\end_layout
+
+\begin_layout Standard
+Oh, you are truly lazy, rat!
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᏙᎯᏳᏍ ᎯᎾᎵ ᎢᏳᏍᏗ Ꮭ ᏱᏣᎵᏍᏕᎸᎮ, ᏏᏆ?
+\end_layout
+
+\begin_layout Standard
+ᏙᎯᏳᏍ ᎯᎾᎵ ᎢᏳᏍᏗ Ꮭ ᏱᏣᎵᏍᏕᎸᎮ, ᏪᏌ?
+\end_layout
+
+\begin_layout Standard
+ᏙᎯᏳᏍ ᎦᎾᎵ ᎢᏳᏍᏗ Ꮭ ᏱᏣᎵᏍᏕᎸᎮ, ᎧᏂᏈᏌ?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎢᏌ ᎢᎩᎩᏍᏗ ᎦᎵᏍᏕᎵ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎢᏌ ᎢᎩᎩᏍᏗ ᎦᎵᏍᏕᎵ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎢᏌ ᎢᎩᎩᏍᏗ ᎦᎵᏍᏕᎵ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Are you truly lazy and therefore can't eat, pig?
+\end_layout
+
+\begin_layout Standard
+Are you truly lazy and therefore can't eat, cat?
+\end_layout
+
+\begin_layout Standard
+Are you truly lazy and therefore can't eat, rat?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I will help to eat the flour,
+\begin_inset Quotes erd
+\end_inset
+
+ said the pig.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I will help to eat the flour,
+\begin_inset Quotes erd
+\end_inset
+
+ said the cat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I will help to eat the flour,
+\begin_inset Quotes erd
+\end_inset
+
+ said the rat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename src.jpg/023.jpg
+	lyxscale 10
+	width 90col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎦᎪ ᎤᏤᎵ ᎯᎠ ᎤᏣᎴᏍᏗ?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᏆᏤᎵ ᎤᏣᎴᏍᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᏆᏤᎵ ᎤᏣᎴᏍᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᏆᏤᎵ ᎤᏣᎴᏍᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎩᎾᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝ ᎢᏣᏤᎵ ᎤᏣᎴᏍᏗ ᏱᎩ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᏆᏤᎵ ᎤᏣᎴᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+ᎤᎩᏔ ᎠᎩᏩᏛᎲ.
+\end_layout
+
+\begin_layout Standard
+ᎤᎩᏔ ᎠᎩᎯᏒ.
+\end_layout
+
+\begin_layout Standard
+ᎤᏣᎴᏍᏗ ᎠᎩᏩᏟᏌᏅ.
+\end_layout
+
+\begin_layout Standard
+ᏗᏍᏙᏍᎩᎢ ᎠᎩᏫᏛᎲ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Whose wheat is this?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It is my wheat,
+\begin_inset Quotes erd
+\end_inset
+
+ said the pig.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It is my wheat,
+\begin_inset Quotes erd
+\end_inset
+
+ said the cat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It is my wheat,
+\begin_inset Quotes erd
+\end_inset
+
+ said the rat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It is not y'all's,
+\begin_inset Quotes erd
+\end_inset
+
+ said the little red chicken.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It is my wheat.
+\end_layout
+
+\begin_layout Standard
+I found the seed.
+\end_layout
+
+\begin_layout Standard
+I planted the seed.
+\end_layout
+
+\begin_layout Standard
+I gathered the wheat.
+\end_layout
+
+\begin_layout Standard
+I took it to the mill.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᎤᎩᏔ ᏱᏥᏩᏛᎲ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᏱᏥᏫᏒ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᎤᏣᎴᏍᏗ ᏱᏥᏟᏌᏅ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᏗᏍᏙᏍᎩᎢ ᏱᏥᏫᏛᎲ.
+\end_layout
+
+\begin_layout Standard
+ᎢᏥᎪᏩᏔ, ᎠᎭᏂ ᎤᏣᎴᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+ᎤᎵᏔᏅᎢ ᎢᏌ ᏕᎦᎵᏗ.
+\end_layout
+
+\begin_layout Standard
+ᎢᏌ ᎣᏍᏓ.
+\end_layout
+
+\begin_layout Standard
+ᎣᏍᏓ ᎠᎩᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Y'all did not find the seed.
+\end_layout
+
+\begin_layout Standard
+Y'all did not plant it.
+\end_layout
+
+\begin_layout Standard
+Y'all did not gather the wheat.
+\end_layout
+
+\begin_layout Standard
+Y'all did not take it to the mill.
+\end_layout
+
+\begin_layout Standard
+Let y'all see, here is the wheat.
+\end_layout
+
+\begin_layout Standard
+The flour was put into a sack.
+\end_layout
+
+\begin_layout Standard
+Flour is good.
+\end_layout
+
+\begin_layout Standard
+It is good for me to eat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎥᏍᎩᎾ ᏙᎯᏳ ᎣᏍᏓ ᎠᏎᏃ Ꮭ ᏱᏣᎭ, ᎯᎾᎵ ᎯᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+ᎥᏍᎩᎾ ᏙᎯᏳ ᎣᏍᏓ ᎠᏎᏃ Ꮭ ᏱᏣᎭ, ᎯᎾᎵ ᎯᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+ᎥᏍᎩᎾ ᏙᎯᏳ ᎣᏍᏓ ᎠᏎᏃ Ꮭ ᏱᏣᎭ, ᎯᎾᎵ ᎯᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+ᎠᎭᏂ ᎤᏣᎴᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+ᏗᏍᏙᏍᎩ ᎤᏍᏙᎡ.
+ ᎢᏌ ᎨᎮ.
+\end_layout
+
+\begin_layout Standard
+ᎤᎵᏔᏅᎢ ᎢᏌ ᏕᎦᎵᏗ.
+\end_layout
+
+\begin_layout Standard
+ᎢᏌ ᎣᏍᏓ.
+\end_layout
+
+\begin_layout Standard
+ᎤᏣᎴᏍᏗ ᎢᏌ ᎣᏍᏓ.
+\end_layout
+
+\begin_layout Standard
+ᎣᏍᏓ ᎠᎩᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+ᎦᎪ ᏛᎩᏎᏏ?
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+It is truly good but you will not have it, you lazy pig.
+\end_layout
+
+\begin_layout Standard
+It is truly good but you will not have it, you lazy cat.
+\end_layout
+
+\begin_layout Standard
+It is truly good but you will not have it, you lazy rat.
+\end_layout
+
+\begin_layout Standard
+Here is the wheat.
+\end_layout
+
+\begin_layout Standard
+The miller ground.
+ There was flour.
+\end_layout
+
+\begin_layout Standard
+The flour was put into the sack.
+\end_layout
+
+\begin_layout Standard
+Flour is good.
+\end_layout
+
+\begin_layout Standard
+Wheat flour is good.
+\end_layout
+
+\begin_layout Standard
+It is good for me to eat.
+\end_layout
+
+\begin_layout Standard
+Who will go to get it?
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎾᏍ ᎦᎾᎵ ᏏᏆ ᏛᎩᏎᏏ?
+\end_layout
+
+\begin_layout Standard
+ᎾᏍ ᎦᎾᎵ ᏪᏌ ᏛᎩᏎᏏ?
+\end_layout
+
+\begin_layout Standard
+ᎾᏍ ᎦᎾᎵ ᎧᏂᏈᏌ ᏛᎩᏎᏏ?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏘᎩᏎᏏᏍ, ᏏᏆ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏘᎩᏎᏏᏍ, ᏪᏌ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏘᎩᏎᏏᏍ, ᎧᏂᏈᏌ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎠᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏥᎩᏎᎦ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎾᎦᎵ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏥᎩᏎᎦ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎦᎾᎵ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏥᎩᏎᎦ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎦᎾᎵ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎾᎯᏳ ᏥᎩᏎᎦ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+ᎠᎴ ᎠᎩᎩᏎᎾ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Will that lazy pig go and get it?
+\end_layout
+
+\begin_layout Standard
+Will that lazy cat go and get it?
+\end_layout
+
+\begin_layout Standard
+Will that lazy rat go and get it?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Will you go and get it, pig?
+\begin_inset Quotes erd
+\end_inset
+
+ said the little red chicken.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Will you go and get it, cat?
+\begin_inset Quotes erd
+\end_inset
+
+ said the little red chicken.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Will you go and get it, rat?
+\begin_inset Quotes erd
+\end_inset
+
+ said the little red chicken.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm not going to go get it,
+\begin_inset Quotes erd
+\end_inset
+
+ said the lazy rat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm not going to go get it,
+\begin_inset Quotes erd
+\end_inset
+
+ said the lazy cat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm not going to go get it,
+\begin_inset Quotes erd
+\end_inset
+
+ aid the lazy pig.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Then I am going to go get it,
+\begin_inset Quotes erd
+\end_inset
+
+ said the little red chicken.
+\end_layout
+
+\begin_layout Standard
+And she went and got it.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename src.jpg/024.jpg
+	lyxscale 10
+	width 90col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎦᎪ ᏗᏍᏙᏍᎩᎢ ᎢᏌ ᏫᏛᎩᏎᏏ?
+\end_layout
+
+\begin_layout Standard
+ᎦᎾᎵᏍ ᏏᏆ ᏫᏛᎩᏎᏏ?
+\end_layout
+
+\begin_layout Standard
+ᎦᎾᎵᏍ ᏪᏌ ᏫᏛᎩᏎᏏ?
+\end_layout
+
+\begin_layout Standard
+ᎦᎾᎵᏍ ᎧᏂᏈᏌ ᏫᏛᎩᏎᏏ?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏫᎩᏎᎾᏍ, ᏏᏆ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏫᎩᏎᎾᏍ, ᏪᏌ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏫᎩᏎᎾᏍ, ᎧᏂᏈᏌ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝ ᏱᎨᎦ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ Ꮎ ᎦᎾᎵ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝ ᏱᎨᎦ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ Ꮎ ᎦᎾᎵ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝ ᏱᎨᎦ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ Ꮎ ᎦᎾᎵ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎾᎯᏳ ᏥᎩᏎᎦ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Who will go to the mill and get the flour?
+\end_layout
+
+\begin_layout Standard
+Will the lazy pig go and get it?
+\end_layout
+
+\begin_layout Standard
+Will the lazy cat go and get it?
+\end_layout
+
+\begin_layout Standard
+Will the lazy rat go and get it?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Go and get it, pig?
+\begin_inset Quotes erd
+\end_inset
+
+ said the little red chicken.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Go and get it, cat?
+\begin_inset Quotes erd
+\end_inset
+
+ said the little red chicken.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Go and get it, rat?
+\begin_inset Quotes erd
+\end_inset
+
+ said the little red chicken.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm not going,
+\begin_inset Quotes erd
+\end_inset
+
+ said that lazy rat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm not going,
+\begin_inset Quotes erd
+\end_inset
+
+ said that lazy cat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm not going,
+\begin_inset Quotes erd
+\end_inset
+
+ said that lazy pig.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Then I am going and getting it,
+\begin_inset Quotes erd
+\end_inset
+
+ said the little red chicken.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎠᎴ ᏄᏛᏁᎴ.
+\end_layout
+
+\begin_layout Standard
+ᎡᎵᏊ ᏏᏆ ᎤᎩᏔ ᏳᏩᏛᎮ.
+\end_layout
+
+\begin_layout Standard
+ᎡᎵᏊ ᏪᏌ ᏳᏫᏎ.
+\end_layout
+
+\begin_layout Standard
+ᎡᎵᏊ ᎧᏂᏈᏌ ᎤᏣᎴᏍᏗ ᏳᏩᏟᏌᏁ.
+\end_layout
+
+\begin_layout Standard
+ᎠᏎᏃ Ꮭ ᏏᏆ ᏳᏩᏛᎮ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᏪᏌ ᏳᏫᏎ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᎧᏂᏈᏌ ᎤᏣᎴᏍᏗ ᏳᏩᏟᏌᏁ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᏳᏂᏫᏛᎮ ᏗᏍᏙᏍᎩᎢ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᏳᏂᎩᏎᎾ ᏗᏍᏙᏍᎩᎢ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+And she did.
+\end_layout
+
+\begin_layout Standard
+The pig could have found the seed.
+\end_layout
+
+\begin_layout Standard
+The cat could have planted it.
+\end_layout
+
+\begin_layout Standard
+The rat could have gathered the wheat.
+\end_layout
+
+\begin_layout Standard
+But the pig didn't find it.
+\end_layout
+
+\begin_layout Standard
+The cat didn't plant it.
+\end_layout
+
+\begin_layout Standard
+The rat didn't gather the wheat.
+\end_layout
+
+\begin_layout Standard
+They didn't take it to the mill.
+\end_layout
+
+\begin_layout Standard
+They didn't go and get it from the mill.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎥᏍᎩᎾ ᏙᎯᏳ ᎠᏂᎾᎵ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎤᎩᏔ ᎤᏩᏛᎮ.
+\end_layout
+
+\begin_layout Standard
+ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎤᏫᏎ.
+\end_layout
+
+\begin_layout Standard
+ᎤᎩᏔ ᎤᏩᏛᎮ.
+\end_layout
+
+\begin_layout Standard
+ᎠᏎ ᎤᏫᏍᏗ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+ᎤᏣᎴᏍᏗ ᎠᏎ ᎤᏩᏟᏐᏗ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+ᏗᏍᏙᏍᎩᎢ ᎠᏎ ᎤᏫᏘᏗ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+ᏗᏍᏙᏍᎩᎢ ᎠᏎ ᎤᎩᏒᏍᏗ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+They were truly lazy.
+\end_layout
+
+\begin_layout Standard
+The little red chicken found the seed.
+\end_layout
+
+\begin_layout Standard
+The little red chicken planted it.
+\end_layout
+
+\begin_layout Standard
+She found the seed.
+\end_layout
+
+\begin_layout Standard
+She had to plant it.
+\end_layout
+
+\begin_layout Standard
+She had to gather the wheat.
+\end_layout
+
+\begin_layout Standard
+She had to take it to the mill.
+\end_layout
+
+\begin_layout Standard
+She had to go to the mill to get it.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎦᎪ ᎤᏤᎵ ᎢᏌ, ᏪᏌ?
+\end_layout
+
+\begin_layout Standard
+ᎦᎪ ᎤᏤᎵ ᎢᏌ, ᎧᏂᏈᏌ?
+\end_layout
+
+\begin_layout Standard
+ᎦᎪ ᎤᏤᎵ ᎢᏌ, ᏏᏆ?
+\end_layout
+
+\begin_layout Standard
+ᎥᏝ ᏣᏤᎵ ᎢᏌ ᏱᎩ, ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+ᎥᏝ ᏣᏤᎵ ᎢᏌ ᏱᎩ, ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+ᎥᏝ ᏣᏤᎵ ᎢᏌ ᏱᎩ, ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᏆᏤᎵ ᎢᏌ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᏆᏤᎵ ᎤᎩᏔ ᎨᏎ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᎩᏫᏒ.
+\end_layout
+
+\begin_layout Standard
+ᎠᏆᏤᎵ ᎤᏣᎴᏍᏗ ᎦᎪᏗ ᎨᏒ.
+\end_layout
+
+\begin_layout Standard
+ᎠᏆᏤᎵ ᎤᏣᎴᏍᏗ ᎨᏒ.
+\end_layout
+
+\begin_layout Standard
+ᎠᏆᏟᏌᏅ.
+\end_layout
+
+\begin_layout Standard
+ᏗᏍᏙᏍᎩᎢ ᏩᎩᏫᏛᎲ.
+\end_layout
+
+\begin_layout Standard
+ᎠᎴ ᏃᏊ ᎠᏆᏤᎵ ᎢᏌ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Whose flour is it, cat?
+\end_layout
+
+\begin_layout Standard
+Whose flour is it, rat?
+\end_layout
+
+\begin_layout Standard
+Whose flour is it, pig?
+\end_layout
+
+\begin_layout Standard
+It is not your flour, cat.
+\end_layout
+
+\begin_layout Standard
+It is not your flour, rat.
+\end_layout
+
+\begin_layout Standard
+It is not your flour, pig.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It is my flour,
+\begin_inset Quotes erd
+\end_inset
+
+ said the chicken.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It was my seed,
+\begin_inset Quotes erd
+\end_inset
+
+ said the chicken.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I planted it.
+\end_layout
+
+\begin_layout Standard
+It was my wheat plant.
+\end_layout
+
+\begin_layout Standard
+It was my wheat.
+\end_layout
+
+\begin_layout Standard
+I gathered it.
+\end_layout
+
+\begin_layout Standard
+I took it to the mill.
+\end_layout
+
+\begin_layout Standard
+And now it is my flour.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᏂᎦᏓᏍ ᏏᏆ ᎠᏂᎾᎵ?
+\end_layout
+
+\begin_layout Standard
+Ꭳ, ᎥᏝ, Ꮭ ᏂᎦᏓ ᏏᏆ ᎠᏂᎾᎵ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+ᎢᎦᏓ ᏏᏆ ᎠᏂᎾᎵ.
+\end_layout
+
+\begin_layout Standard
+ᎯᎠ ᏏᏆ ᎦᎾᎵ.
+\end_layout
+
+\begin_layout Standard
+ᎥᏍᎩᎾ ᎯᎪᏩᏔ!
+\end_layout
+
+\begin_layout Standard
+Ꮎ ᎦᎾᎵ ᏏᏆ!
+\end_layout
+
+\begin_layout Standard
+ᏂᎦᏓᏍ ᏪᏌ ᎠᏂᎾᎵ?
+\end_layout
+
+\begin_layout Standard
+Ꭳ, ᎥᏝ, Ꮭ ᏂᎦᏓ ᏪᏌ ᎠᏂᎾᎵ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+ᎯᎠ ᏪᏌ ᎦᎾᎵ.
+\end_layout
+
+\begin_layout Standard
+ᎥᏍᎩᎾ ᎯᎪᏩᏔ!
+\end_layout
+
+\begin_layout Standard
+ᎦᎾᎵᏧ ᏪᏌ?
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Are all pigs lazy?
+\end_layout
+
+\begin_layout Standard
+Oh, no, not all pigs are lazy.
+\end_layout
+
+\begin_layout Standard
+Some pigs are lazy.
+\end_layout
+
+\begin_layout Standard
+This pig is lazy.
+\end_layout
+
+\begin_layout Standard
+Look at it!
+\end_layout
+
+\begin_layout Standard
+That lazy pig!
+\end_layout
+
+\begin_layout Standard
+Are all cats lazy?
+\end_layout
+
+\begin_layout Standard
+Oh, no, not all cats are lazy.
+\end_layout
+
+\begin_layout Standard
+This cat is lazy.
+\end_layout
+
+\begin_layout Standard
+Look at it!
+\end_layout
+
+\begin_layout Standard
+Isn't it a lazy cat?
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᏂᎦᏓᏍ ᎧᏂᏈᏌ ᎠᏂᎾᎵ?
+\end_layout
+
+\begin_layout Standard
+Ꭳ, ᎥᏝ, Ꮭ ᏂᎦᏓ ᎧᏂᏈᏌ ᎠᏂᎾᎵ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+ᎯᎠ ᎧᏂᏈᏌ ᎦᎾᎵ.
+\end_layout
+
+\begin_layout Standard
+ᎠᏎᏃ, Ꮒ, ᎠᎭᏂ ᎤᏍᏗ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ!
+\end_layout
+
+\begin_layout Standard
+ᎥᏝᏧ ᎥᏍᎩᎾ ᎦᎾᎵ ᏱᎩ?
+\end_layout
+
+\begin_layout Standard
+ᎦᏙ ᎤᏍᏗ? ᎤᏍᏗᏍ ᎠᎩᎦᎨ ᏥᏔᎦ ᎦᎾᎵ?
+\end_layout
+
+\begin_layout Standard
+Ꭳ, Ꮭ, ᎥᏝ! Ꮭ ᎥᏍᎩᎾ ᎦᎾᎵ ᏱᎩ!
+\end_layout
+
+\begin_layout Standard
+ᎤᎩᏔ ᎤᏩᏛᎮ.
+\end_layout
+
+\begin_layout Standard
+ᎤᏫᏎ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Are all rats lazy?
+\end_layout
+
+\begin_layout Standard
+Oh, no, not all rats are lazy.
+\end_layout
+
+\begin_layout Standard
+This rat is lazy.
+\end_layout
+
+\begin_layout Standard
+But, look! Here is the little chicken.
+\end_layout
+
+\begin_layout Standard
+A little red chicken!
+\end_layout
+
+\begin_layout Standard
+She is not lazy, is she?
+\end_layout
+
+\begin_layout Standard
+What? Is the little red chicken lazy?
+\end_layout
+
+\begin_layout Standard
+Oh, no, no! She is not lazy!
+\end_layout
+
+\begin_layout Standard
+She found the seed.
+\end_layout
+
+\begin_layout Standard
+She planted it.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎤᏣᎴᏍᏗ ᎤᏩᏟᏌᏁ.
+\end_layout
+
+\begin_layout Standard
+ᏗᏍᏙᏍᎩᎢ ᎤᏫᏛᎮ.
+\end_layout
+
+\begin_layout Standard
+ᏗᏍᏙᏍᎩᎢ ᎤᎩᏎᎾ.
+\end_layout
+
+\begin_layout Standard
+ᎦᎪ ᎤᏤᎵ ᎢᏌ ᎾᎯᏳ?
+\end_layout
+
+\begin_layout Standard
+ᎥᏝ ᏏᏆ ᎤᏤᎵ ᎢᏌ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+ᎥᏝ ᏪᏌ ᎤᏤᎵ ᎢᏌ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+ᎥᏝ ᎧᏂᏈᏌ ᎤᏤᎵ ᎢᏌ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎤᏤᎵ ᎢᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꭷ ᏏᏆ, ᎦᎪ ᎢᏌ ᏛᎩᏎᏏ?
+\end_layout
+
+\begin_layout Standard
+ᎦᎪ ᏗᏍᏙᏍᎩᎢ ᏛᎩᏎᏏ?
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+She gathered the wheat.
+\end_layout
+
+\begin_layout Standard
+She took it to the mill.
+\end_layout
+
+\begin_layout Standard
+She went and got it from the mill.
+\end_layout
+
+\begin_layout Standard
+Whose flour is it then?
+\end_layout
+
+\begin_layout Standard
+It is not the pig's flour.
+\end_layout
+
+\begin_layout Standard
+It is not the cat's flour.
+\end_layout
+
+\begin_layout Standard
+It is not the rat's flour.
+\end_layout
+
+\begin_layout Standard
+It is the little red chicken's flour.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hey pig, who will go and get the flour?
+\end_layout
+
+\begin_layout Standard
+Who will go to the mill and get it?
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ꭷ ᏪᏌ, ᎢᏌᏍ ᏘᎩᏎᏏ?
+\end_layout
+
+\begin_layout Standard
+ᏗᏍᏙᏍᎩᎢᏍ ᏘᎩᏎᏏ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝ, ᏙᎯᏳ ᏥᎾᎵ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꭷ ᎧᏂᏊᏌ, ᏗᏍᏙᏍᎩᎢ ᎢᏌᏍ ᏘᎩᏎᏏ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏗᏍᏙᏍᎩᎢᏍ ᏕᎦᎵᏗ ᏘᎩᏎᏏ?
+\end_layout
+
+\begin_layout Standard
+ᏕᎦᎵᏗᏍ ᏘᎩᏎᏏ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᎴ ᎥᏝ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᎴ ᎥᏝ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Hey cat, will you go and get the flour?
+\end_layout
+
+\begin_layout Standard
+Will you go to the mill and get it?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No, I'm truly lazy.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hey rat, will you go and get the flour from the mill?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Will you go and get the sack from the mill?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Will go and get the sack?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm not doing it,
+\begin_inset Quotes erd
+\end_inset
+
+ said the rat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And I'm not doing it,
+\begin_inset Quotes erd
+\end_inset
+
+ said the pig.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And I'm not doing it,
+\begin_inset Quotes erd
+\end_inset
+
+ said the cat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏙᎯᏳ ᏥᎾᎵ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏙᎯᏳ ᏥᎾᎵ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏙᎯᏳ ᏥᎾᎵ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+ᏙᎯᏳ ᎠᏂᎾᎵ ᎠᎴ ᎥᏝ ᏗᏍᏙᏍᎩᎢ ᏱᏛᏁᏅᏏ!
+\end_layout
+
+\begin_layout Standard
+ᏙᎯᏳ ᎠᏂᎾᎵ ᎠᎴ ᎥᏝ ᏕᎦᎵᏍᏗ ᏱᏛᏂᎩᏎᏏ!
+\end_layout
+
+\begin_layout Standard
+ᏙᎯᏳ ᎠᏂᎾᎵ ᎠᎴ ᎥᏝ ᎢᏌ ᏱᏛᏂᎩᏎᏏ!
+\end_layout
+
+\begin_layout Standard
+ᏙᎯᏳ ᎠᏂᎾᎵ ᎠᎴ ᏗᏍᏙᏍᎩᎢ ᎥᏝ ᏱᏛᏂᎩᏎᏏ!
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎪ ᎡᎦ? ᎦᎪ ᎢᏌ ᎠᎩᏎᎦ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm truly lazy,
+\begin_inset Quotes erd
+\end_inset
+
+ said the rat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm truly lazy,
+\begin_inset Quotes erd
+\end_inset
+
+ said the cat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm truly lazy,
+\begin_inset Quotes erd
+\end_inset
+
+ said the pig.
+\end_layout
+
+\begin_layout Standard
+They are truly lazy and will not take it to the mill!
+\end_layout
+
+\begin_layout Standard
+They are truly lazy and will not go and get the sack!
+\end_layout
+
+\begin_layout Standard
+They are truly lazy and will not go and get the flour!
+\end_layout
+
+\begin_layout Standard
+They are truly lazy and will not go and get it from the mill!
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh!
+\begin_inset Quotes erd
+\end_inset
+
+ said the little chicken.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Who is going? Who is going and getting the flour?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎾᎯᏳ ᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+ᎠᎴ ᏄᏛᏁᎴ.
+\end_layout
+
+\begin_layout Standard
+Ꮒ, ᎠᎭᏂ ᎢᏌ.
+\end_layout
+
+\begin_layout Standard
+ᎦᎵᏙᏗ ᎭᏫᏂ.
+\end_layout
+
+\begin_layout Standard
+ᎤᏍᏗ ᏥᏔᎦ ᎤᎩᏎᎾ.
+\end_layout
+
+\begin_layout Standard
+ᏗᏍᏙᏍᎩᎢ ᎤᎩᏎᎾ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᎦᎾᎵ ᏪᏌ ᏳᎩᏎᎾ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm not doing it,
+\begin_inset Quotes erd
+\end_inset
+
+ said the rat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm not doing it,
+\begin_inset Quotes erd
+\end_inset
+
+ said the cat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm not doing it,
+\begin_inset Quotes erd
+\end_inset
+
+ said the pig.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Then I'm doing it,
+\begin_inset Quotes erd
+\end_inset
+
+ said the little red chicken.
+\end_layout
+
+\begin_layout Standard
+And she did.
+\end_layout
+
+\begin_layout Standard
+Look, here is the flour.
+\end_layout
+
+\begin_layout Standard
+It is in the container.
+\end_layout
+
+\begin_layout Standard
+The little chicken went and got it.
+\end_layout
+
+\begin_layout Standard
+She went and got it from the mill.
+\end_layout
+
+\begin_layout Standard
+The lazy cat did not go and get it.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᏍᎩᏅᏳᏍᏗ ᎤᏍᏗ ᏥᏔᎦ ᎤᎩᏎᎾ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᎦᎾᎵ ᎧᏂᏈᏌ ᏳᏫᏛᎮᎾ.
+\end_layout
+
+\begin_layout Standard
+ᏍᎩᏅᏳᏍᏗ ᎤᏍᏗ ᏥᏔᎦ ᎤᎩᏎᎾ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᎦᎾᎵ ᏏᏆ ᏳᏫᏛᎮᎾ.
+\end_layout
+
+\begin_layout Standard
+ᏍᎩᏅᏳᏍᏗ ᎤᏍᏗ ᏥᏔᎦ ᎤᎩᏎᎾ.
+\end_layout
+
+\begin_layout Standard
+Ꮒ, ᎥᏍᎩᎾ ᎠᎭᏂ.
+\end_layout
+
+\begin_layout Standard
+ᏕᎦᎵᏗᎯ.
+\end_layout
+
+\begin_layout Standard
+ᎯᎠ ᏕᎦᎵᏗ.
+\end_layout
+
+\begin_layout Standard
+ᏕᎦᎵᏗᎯ ᎢᏌ.
+\end_layout
+
+\begin_layout Standard
+ᎢᏌᏍ ᏕᎦᎵᏗᎯ?
+\end_layout
+
+\begin_layout Standard
+ᏪᏌᏍ ᎡᏆ ᏕᎦᎵᏗ ᏓᎦᎾᏏᏅᏏ?
+\end_layout
+
+\begin_layout Standard
+ᎧᏂᏈᏌᏍ ᎡᏆ ᏕᎦᎵᏗ ᏓᎦᎾᏏᏅᏏ?
+\end_layout
+
+\begin_layout Standard
+ᏏᏆᏍ ᎡᏆ ᏕᎦᎵᏗ ᏓᎦᎾᏏᏅᏏ?
+\end_layout
+
+\begin_layout Standard
+ᎥᏝ, ᏥᏔᎦ ᎡᏆ ᏕᎦᎵᏗ ᏓᎦᎾᏏᏅᏏ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᏍᎩᏅᏳᏍᏗ ᎤᏍᏗ ᏥᏔᎦ ᎤᎩᏎᎾ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᎦᎾᎵ ᎧᏂᏈᏌ ᏳᏫᏛᎮᎾ.
+\end_layout
+
+\begin_layout Standard
+ᏍᎩᏅᏳᏍᏗ ᎤᏍᏗ ᏥᏔᎦ ᎤᎩᏎᎾ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᎦᎾᎵ ᏏᏆ ᏳᏫᏛᎮᎾ.
+\end_layout
+
+\begin_layout Standard
+ᏍᎩᏅᏳᏍᏗ ᎤᏍᏗ ᏥᏔᎦ ᎤᎩᏎᎾ.
+\end_layout
+
+\begin_layout Standard
+Ꮒ, ᎥᏍᎩᎾ ᎠᎭᏂ.
+\end_layout
+
+\begin_layout Standard
+ᏕᎦᎵᏗᎯ.
+\end_layout
+
+\begin_layout Standard
+ᎯᎠ ᏕᎦᎵᏗ.
+\end_layout
+
+\begin_layout Standard
+ᏕᎦᎵᏗᎯ ᎢᏌ.
+\end_layout
+
+\begin_layout Standard
+ᎢᏌᏍ ᏕᎦᎵᏗᎯ?
+\end_layout
+
+\begin_layout Standard
+ᏪᏌᏍ ᎡᏆ ᏕᎦᎵᏗ ᏓᎦᎾᏏᏅᏏ?
+\end_layout
+
+\begin_layout Standard
+ᎧᏂᏈᏌᏍ ᎡᏆ ᏕᎦᎵᏗ ᏓᎦᎾᏏᏅᏏ?
+\end_layout
+
+\begin_layout Standard
+ᏏᏆᏍ ᎡᏆ ᏕᎦᎵᏗ ᏓᎦᎾᏏᏅᏏ?
+\end_layout
+
+\begin_layout Standard
+ᎥᏝ, ᏥᏔᎦ ᎡᏆ ᏕᎦᎵᏗ ᏓᎦᎾᏏᏅᏏ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename src.jpg/025.jpg
+	lyxscale 10
+	width 90col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎢᏌᏍ ᏕᎦᎵᏗᎯ?
+\end_layout
+
+\begin_layout Standard
+Ꭳ, ᎥᎥ, ᎢᏌ ᏕᎦᎵᏗᎯ.
+\end_layout
+
+\begin_layout Standard
+ᎩᎶᏍ ᏕᎦᎵᏗ ᏛᏍᏚᎢᏏ?
+\end_layout
+
+\begin_layout Standard
+Ꮒ, ᏏᏆ ᏕᎦᎵᏗ ᎠᎪᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+ᎢᏌ ᏕᎦᎵᏗᎯ.
+\end_layout
+
+\begin_layout Standard
+ᏏᏆᏍ ᏙᎯᏳ ᎦᎾᎵ ᏱᎩ ᎢᏳᏍᏗ ᎥᏝ ᏏᏆ ᏱᏛᏍᏚᎢᏏ?
+\end_layout
+
+\begin_layout Standard
+ᎦᎪ ᏛᏍᏚᎢᏏ?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎢᏌᏍ ᏕᎦᎵᏗᎯ?
+\end_layout
+
+\begin_layout Standard
+Ꭳ, ᎥᎥ, ᎢᏌ ᏕᎦᎵᏗᎯ.
+\end_layout
+
+\begin_layout Standard
+ᎩᎶᏍ ᏕᎦᎵᏗ ᏛᏍᏚᎢᏏ?
+\end_layout
+
+\begin_layout Standard
+Ꮒ, ᏏᏆ ᏕᎦᎵᏗ ᎠᎪᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+ᎢᏌ ᏕᎦᎵᏗᎯ.
+\end_layout
+
+\begin_layout Standard
+ᏏᏆᏍ ᏙᎯᏳ ᎦᎾᎵ ᏱᎩ ᎢᏳᏍᏗ ᎥᏝ ᏏᏆ ᏱᏛᏍᏚᎢᏏ?
+\end_layout
+
+\begin_layout Standard
+ᎦᎪ ᏛᏍᏚᎢᏏ?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎾᎯᏳ ᏓᏂᎦᏛᏁᎵ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+ᎠᎴ ᏄᏛᏁᎴ.
+\end_layout
+
+\begin_layout Standard
+Ꭷ ᏏᏆ, Ꮭ ᎢᏌ ᏱᏓᏣᎯ.
+\end_layout
+
+\begin_layout Standard
+Ꭷ ᏪᏌ, Ꮭ ᎢᏌ ᏱᏓᏣᎯ.
+\end_layout
+
+\begin_layout Standard
+Ꭷ ᎧᏂᏈᏌ, Ꮭ ᎢᏌ ᏱᏓᏣᎯ.
+\end_layout
+
+\begin_layout Standard
+ᏙᎯᏳ ᎢᏥᎾᎵ ᎢᏳᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᏕᎦᎵᏗ ᏛᏍᏚᎢᏏ.
+\end_layout
+
+\begin_layout Standard
+ᎥᏍᎩᎾ ᎢᏌ ᏓᏣᎯ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎾᎯᏳ ᏓᏂᎦᏛᏁᎵ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+ᎠᎴ ᏄᏛᏁᎴ.
+\end_layout
+
+\begin_layout Standard
+Ꭷ ᏏᏆ, Ꮭ ᎢᏌ ᏱᏓᏣᎯ.
+\end_layout
+
+\begin_layout Standard
+Ꭷ ᏪᏌ, Ꮭ ᎢᏌ ᏱᏓᏣᎯ.
+\end_layout
+
+\begin_layout Standard
+Ꭷ ᎧᏂᏈᏌ, Ꮭ ᎢᏌ ᏱᏓᏣᎯ.
+\end_layout
+
+\begin_layout Standard
+ᏙᎯᏳ ᎢᏥᎾᎵ ᎢᏳᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᏕᎦᎵᏗ ᏛᏍᏚᎢᏏ.
+\end_layout
+
+\begin_layout Standard
+ᎥᏍᎩᎾ ᎢᏌ ᏓᏣᎯ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename src.jpg/026.jpg
+	lyxscale 10
+	width 90col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎦᎪ ᏕᎦᎵᏍᏗ ᏛᏍᏚᎢᏏ?
+\end_layout
+
+\begin_layout Standard
+ᏏᏆᏍ ᏛᏍᏚᎢᏏ?
+\end_layout
+
+\begin_layout Standard
+ᏪᏌᏍ ᏛᏍᏚᎢᏏ?
+\end_layout
+
+\begin_layout Standard
+ᎧᏂᏈᏌᏍ ᏛᏍᏚᎢᏏ?
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᏏᏆ ᏱᏛᏍᏚᎢᏏ.
+\end_layout
+
+\begin_layout Standard
+ᎥᏍᎩᎾ ᏙᎯᏳ ᎦᎾᎵ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᏪᏌ ᏱᏛᏍᏚᎢᏏ.
+\end_layout
+
+\begin_layout Standard
+ᎥᏍᎩᎾ ᏙᎯᏳ ᎦᎾᎵ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᎧᏂᏈᏌ ᏱᏛᏍᏚᎢᏏ.
+\end_layout
+
+\begin_layout Standard
+ᎥᏍᎩᎾ ᏙᎯᏳ ᎦᎾᎵ ᏍᏊ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎦᎪ ᏕᎦᎵᏍᏗ ᏛᏍᏚᎢᏏ?
+\end_layout
+
+\begin_layout Standard
+ᏏᏆᏍ ᏛᏍᏚᎢᏏ?
+\end_layout
+
+\begin_layout Standard
+ᏪᏌᏍ ᏛᏍᏚᎢᏏ?
+\end_layout
+
+\begin_layout Standard
+ᎧᏂᏈᏌᏍ ᏛᏍᏚᎢᏏ?
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᏏᏆ ᏱᏛᏍᏚᎢᏏ.
+\end_layout
+
+\begin_layout Standard
+ᎥᏍᎩᎾ ᏙᎯᏳ ᎦᎾᎵ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᏪᏌ ᏱᏛᏍᏚᎢᏏ.
+\end_layout
+
+\begin_layout Standard
+ᎥᏍᎩᎾ ᏙᎯᏳ ᎦᎾᎵ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᎧᏂᏈᏌ ᏱᏛᏍᏚᎢᏏ.
+\end_layout
+
+\begin_layout Standard
+ᎥᏍᎩᎾ ᏙᎯᏳ ᎦᎾᎵ ᏍᏊ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᏏᏆᏍ ᏗᏍᏙᏍᎩᎢ ᏭᏪᏅᏎ?
+\end_layout
+
+\begin_layout Standard
+ᏕᎦᎵᏗᏍ ᎤᎩᏎᎾ?
+\end_layout
+
+\begin_layout Standard
+Ꭳ, Ꮭ, ᎥᏍᎩᎾ ᏙᎯᏳ ᎦᎾᎵ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᏳᏪᏅᏎ ᎤᏑᏰᏎ.
+\end_layout
+
+\begin_layout Standard
+ᎦᎪ ᏗᏍᏙᏍᎩᎢ ᏭᏪᏅᏎ?
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᏪᏌ ᏳᏪᏅᏎ ᎤᏑᏰᏎ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᎧᏂᏈᏌ ᏳᏪᏅᏎ ᎤᏑᏰᏎ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᏏᏆ ᏳᏪᏅᏎ ᎤᏑᏰᏎ.
+\end_layout
+
+\begin_layout Standard
+ᏙᎯᏳ ᎠᏂᎾᎵ ᎢᏳᏍᏗ Ꮭ ᏱᏭᏁᏅᏎ.
+\end_layout
+
+\begin_layout Standard
+ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᏗᏍᎪᏍᎩᎢ ᏭᏪᏅᏎ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᏥᏔᎦ ᎦᎾᎵ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᏏᏆᏍ ᏗᏍᏙᏍᎩᎢ ᏭᏪᏅᏎ?
+\end_layout
+
+\begin_layout Standard
+ᏕᎦᎵᏗᏍ ᎤᎩᏎᎾ?
+\end_layout
+
+\begin_layout Standard
+Ꭳ, Ꮭ, ᎥᏍᎩᎾ ᏙᎯᏳ ᎦᎾᎵ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᏳᏪᏅᏎ ᎤᏑᏰᏎ.
+\end_layout
+
+\begin_layout Standard
+ᎦᎪ ᏗᏍᏙᏍᎩᎢ ᏭᏪᏅᏎ?
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᏪᏌ ᏳᏪᏅᏎ ᎤᏑᏰᏎ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᎧᏂᏈᏌ ᏳᏪᏅᏎ ᎤᏑᏰᏎ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᏏᏆ ᏳᏪᏅᏎ ᎤᏑᏰᏎ.
+\end_layout
+
+\begin_layout Standard
+ᏙᎯᏳ ᎠᏂᎾᎵ ᎢᏳᏍᏗ Ꮭ ᏱᏭᏁᏅᏎ.
+\end_layout
+
+\begin_layout Standard
+ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᏗᏍᎪᏍᎩᎢ ᏭᏪᏅᏎ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᏥᏔᎦ ᎦᎾᎵ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename src.jpg/027.jpg
+	lyxscale 10
+	width 90col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎦᏙ ᏛᏛᏁᎵ ᏃᏊ?
+\end_layout
+
+\begin_layout Standard
+ᎦᏙ ᎢᏌ ᏛᏛᏁᎴᎵ?
+\end_layout
+
+\begin_layout Standard
+ᎦᏚᎲᏍᎨᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+ᎣᏍᏓ ᎦᏚ ᎦᏚᎲᏍᎨᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+ᏏᏆᏍ ᎣᏍᏓ ᎦᏚ ᎬᏩᏩᏘᏗ?
+\end_layout
+
+\begin_layout Standard
+Ꭳ, ᎥᎥ, ᎬᏩᏩᏘᏗ.
+\end_layout
+
+\begin_layout Standard
+ᎠᏎᏃ, ᎥᏍᎩᎾ ᏙᎯᏳ ᎦᎾᎵ.
+\end_layout
+
+\begin_layout Standard
+ᏪᏌᏍ ᎣᏍᏓ ᎦᏚ ᎬᏩᏩᏘᏗ?
+\end_layout
+
+\begin_layout Standard
+Ꭳ, ᎥᎥ, ᎬᏩᏩᏘᏗ.
+\end_layout
+
+\begin_layout Standard
+ᎠᏎᏃ, ᎥᏍᎩᎾ ᏙᎯᏳ ᎦᎾᎵ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎦᏙ ᏛᏛᏁᎵ ᏃᏊ?
+\end_layout
+
+\begin_layout Standard
+ᎦᏙ ᎢᏌ ᏛᏛᏁᎴᎵ?
+\end_layout
+
+\begin_layout Standard
+ᎦᏚᎲᏍᎨᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+ᎣᏍᏓ ᎦᏚ ᎦᏚᎲᏍᎨᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+ᏏᏆᏍ ᎣᏍᏓ ᎦᏚ ᎬᏩᏩᏘᏗ?
+\end_layout
+
+\begin_layout Standard
+Ꭳ, ᎥᎥ, ᎬᏩᏩᏘᏗ.
+\end_layout
+
+\begin_layout Standard
+ᎠᏎᏃ, ᎥᏍᎩᎾ ᏙᎯᏳ ᎦᎾᎵ.
+\end_layout
+
+\begin_layout Standard
+ᏪᏌᏍ ᎣᏍᏓ ᎦᏚ ᎬᏩᏩᏘᏗ?
+\end_layout
+
+\begin_layout Standard
+Ꭳ, ᎥᎥ, ᎬᏩᏩᏘᏗ.
+\end_layout
+
+\begin_layout Standard
+ᎠᏎᏃ, ᎥᏍᎩᎾ ᏙᎯᏳ ᎦᎾᎵ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎧᏂᏈᏌᏍ ᎣᏍᏓ ᎦᏚ ᎬᏩᏩᏘᏗ?
+\end_layout
+
+\begin_layout Standard
+Ꭳ, ᎥᎥ, ᎬᏩᏩᏘᏗ.
+\end_layout
+
+\begin_layout Standard
+ᎠᏎᏃ, ᎥᏍᎩᎾ ᏙᎯᏳ ᎦᎾᎵ.
+\end_layout
+
+\begin_layout Standard
+ᎦᎪ ᎦᏚᎲᏍᎨᏍᏗ?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎾᎯᏳ ᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+ᎠᎴ ᏄᏛᏁᎴ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎧᏂᏈᏌᏍ ᎣᏍᏓ ᎦᏚ ᎬᏩᏩᏘᏗ?
+\end_layout
+
+\begin_layout Standard
+Ꭳ, ᎥᎥ, ᎬᏩᏩᏘᏗ.
+\end_layout
+
+\begin_layout Standard
+ᎠᏎᏃ, ᎥᏍᎩᎾ ᏙᎯᏳ ᎦᎾᎵ.
+\end_layout
+
+\begin_layout Standard
+ᎦᎪ ᎦᏚᎲᏍᎨᏍᏗ?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎾᎯᏳ ᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+ᎠᎴ ᏄᏛᏁᎴ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename src.jpg/028.jpg
+	lyxscale 10
+	width 90col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏚ ᎢᎩᎲᎢ
+\begin_inset Quotes erd
+\end_inset
+
+, ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᎥ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏚ ᎢᎩᎲᎢ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᎥᎥ, Ꭵ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏚ ᎢᎩᎲᎢ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏥᏔᎦ ᎣᏍᏓ ᎦᏚ ᎬᏩᏩᏘᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏥᏔᎦ ᎣᏍᏓ ᎦᏚ ᎬᏩᏩᏘᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏥᏔᎦ ᎣᏍᏓ ᎦᏚ ᎬᏩᏩᏘᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎪ ᎠᎵᏍᏕᎵ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏚ ᎢᎩᎲᎢ
+\begin_inset Quotes erd
+\end_inset
+
+, ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᎥ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏚ ᎢᎩᎲᎢ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᎥᎥ, Ꭵ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏚ ᎢᎩᎲᎢ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏥᏔᎦ ᎣᏍᏓ ᎦᏚ ᎬᏩᏩᏘᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏥᏔᎦ ᎣᏍᏓ ᎦᏚ ᎬᏩᏩᏘᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏥᏔᎦ ᎣᏍᏓ ᎦᏚ ᎬᏩᏩᏘᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎪ ᎠᎵᏍᏕᎵ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎭᎵᏍᏕᎵᏍ, ᏪᏌ?
+\end_layout
+
+\begin_layout Standard
+ᎭᎵᏍᏕᎵᏍ, ᎧᏂᏈᏌ?
+\end_layout
+
+\begin_layout Standard
+ᎭᎵᏍᏕᎵᏍ, ᏏᏆ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᎦᎵᏍᏕᎵ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᎦᎵᏍᏕᎵ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᎦᎵᏍᏕᎵ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎾᎯᏳ ᎠᏋᏌ ᏥᏚᎲᏍᎦ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+ᎠᎴ ᎤᏩᏌ ᎤᏩᏚᏁ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎭᎵᏍᏕᎵᏍ, ᏪᏌ?
+\end_layout
+
+\begin_layout Standard
+ᎭᎵᏍᏕᎵᏍ, ᎧᏂᏈᏌ?
+\end_layout
+
+\begin_layout Standard
+ᎭᎵᏍᏕᎵᏍ, ᏏᏆ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᎦᎵᏍᏕᎵ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᎦᎵᏍᏕᎵ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᎦᎵᏍᏕᎵ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎾᎯᏳ ᎠᏋᏌ ᏥᏚᎲᏍᎦ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+ᎠᎴ ᎤᏩᏌ ᎤᏩᏚᏁ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename src.jpg/029.jpg
+	lyxscale 10
+	width 90col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ꮒ, ᎦᏚ ᎤᏩᏚᏁ.
+\end_layout
+
+\begin_layout Standard
+ᎦᏚ ᎦᏍᎩᎸᎢ.
+\end_layout
+
+\begin_layout Standard
+ᎤᏍᏗᏍ ᏥᏔᎦ ᏛᎩ?
+\end_layout
+
+\begin_layout Standard
+ᏏᏆ ᏄᎩᏒᎾ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+ᎠᎴ ᏪᏌ ᏄᎩᏒᎾ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+ᎠᎴ ᎧᏂᏈᏌ ᏄᎩᏒᎾ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+ᎡᎵᏊ ᏯᏂᎩᏑᎦ.
+\end_layout
+
+\begin_layout Standard
+ᎥᏍᎩᎾ ᏙᎯᏳ ᎠᏂᎾᎵ ᎢᏳᏍᏗ Ꮭ ᏳᏂᏩᏚᏁ.
+\end_layout
+
+\begin_layout Standard
+ᎤᏂᎩᏍᏗ Ꮭ ᎥᏍᎩᎾ ᎠᏂᎾᎵ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+Ꭳ, ᎦᏚ ᏙᎯᏳ ᎣᏍᏓ ᎦᎾᏄᎪᎦ!
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ꮒ, ᎦᏚ ᎤᏩᏚᏁ.
+\end_layout
+
+\begin_layout Standard
+ᎦᏚ ᎦᏍᎩᎸᎢ.
+\end_layout
+
+\begin_layout Standard
+ᎤᏍᏗᏍ ᏥᏔᎦ ᏛᎩ?
+\end_layout
+
+\begin_layout Standard
+ᏏᏆ ᏄᎩᏒᎾ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+ᎠᎴ ᏪᏌ ᏄᎩᏒᎾ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+ᎠᎴ ᎧᏂᏈᏌ ᏄᎩᏒᎾ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+ᎡᎵᏊ ᏯᏂᎩᏑᎦ.
+\end_layout
+
+\begin_layout Standard
+ᎥᏍᎩᎾ ᏙᎯᏳ ᎠᏂᎾᎵ ᎢᏳᏍᏗ Ꮭ ᏳᏂᏩᏚᏁ.
+\end_layout
+
+\begin_layout Standard
+ᎤᏂᎩᏍᏗ Ꮭ ᎥᏍᎩᎾ ᎠᏂᎾᎵ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+Ꭳ, ᎦᏚ ᏙᎯᏳ ᎣᏍᏓ ᎦᎾᏄᎪᎦ!
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎥᎥ, ᎣᏍᏓ ᎦᎾᏄᎪᎦ.
+\end_layout
+
+\begin_layout Standard
+ᎡᎵᏊᏍ ᏏᏆ ᏯᎦ?
+\end_layout
+
+\begin_layout Standard
+Ꭳ, ᎥᎥ, ᎬᏩᎩᏍᏗ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+ᎡᎵᏊ ᏪᏌ ᏯᎦ ᏍᏊ, ᎬᏩᎩᏍᏗ ᏱᎩ.
+ 
+\end_layout
+
+\begin_layout Standard
+ᎡᎵᏊ ᎧᏂᏈᏌ ᏯᎦ ᏍᏊ, ᎬᏩᎩᏍᏗ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+ᏏᏆᏍ ᎦᏍᎩᎸᎢ ᎬᏩᎩᏍᏗ?
+\end_layout
+
+\begin_layout Standard
+Ꭳ, ᎥᎥ, ᏏᏆ ᎬᏩᎩᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+ᏪᏌᏍ ᎦᏍᎩᎸᎢ ᎬᏩᎩᏍᏗ?
+\end_layout
+
+\begin_layout Standard
+ᎥᎥ, ᎦᏍᎩᎸᎢ ᎬᏩᎩᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+ᎧᏂᏈᏌᏍ ᎦᏍᎩᎸᎢ ᎬᏩᎩᏍᏗ?
+\end_layout
+
+\begin_layout Standard
+ᎥᎥ, ᎦᏍᎩᎸᎢ ᎬᏩᎩᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎥᎥ, ᎣᏍᏓ ᎦᎾᏄᎪᎦ.
+\end_layout
+
+\begin_layout Standard
+ᎡᎵᏊᏍ ᏏᏆ ᏯᎦ?
+\end_layout
+
+\begin_layout Standard
+Ꭳ, ᎥᎥ, ᎬᏩᎩᏍᏗ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+ᎡᎵᏊ ᏪᏌ ᏯᎦ ᏍᏊ, ᎬᏩᎩᏍᏗ ᏱᎩ.
+ 
+\end_layout
+
+\begin_layout Standard
+ᎡᎵᏊ ᎧᏂᏈᏌ ᏯᎦ ᏍᏊ, ᎬᏩᎩᏍᏗ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+ᏏᏆᏍ ᎦᏍᎩᎸᎢ ᎬᏩᎩᏍᏗ?
+\end_layout
+
+\begin_layout Standard
+Ꭳ, ᎥᎥ, ᏏᏆ ᎬᏩᎩᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+ᏪᏌᏍ ᎦᏍᎩᎸᎢ ᎬᏩᎩᏍᏗ?
+\end_layout
+
+\begin_layout Standard
+ᎥᎥ, ᎦᏍᎩᎸᎢ ᎬᏩᎩᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+ᎧᏂᏈᏌᏍ ᎦᏍᎩᎸᎢ ᎬᏩᎩᏍᏗ?
+\end_layout
+
+\begin_layout Standard
+ᎥᎥ, ᎦᏍᎩᎸᎢ ᎬᏩᎩᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename src.jpg/030.jpg
+	lyxscale 10
+	width 90col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎯᎦᏖᎾᎦ! ᎯᎦᏖᎾᎦ, ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ!
+\end_layout
+
+\begin_layout Standard
+ᏪᏌ ᏓᏰᏅᏏ ᎦᏍᎩᎸᎢ.
+\end_layout
+
+\begin_layout Standard
+ᎦᏚ ᏓᎦᏃᏍᎩᏏ.
+\end_layout
+
+\begin_layout Standard
+ᏏᏆ ᎯᎪᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+ᏓᏰᏅᏏᏍ ᎦᏍᎩᎸᎢ?
+\end_layout
+
+\begin_layout Standard
+ᎥᏝ, Ꮭ ᎦᏍᎩᎸᎢ ᎬᏩᏪᏅᏍᏗ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+ᎠᏎᏃ, ᏪᏌ ᎬᏩᏪᏅᏍᏗ ᎦᏍᎩᎸᎢ.
+\end_layout
+
+\begin_layout Standard
+ᎠᎴ ᎧᏂᏈᏌ ᎬᏩᏪᏅᏍᏗ ᎦᏍᎩᎸᎢ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎯᎦᏖᎾᎦ! ᎯᎦᏖᎾᎦ, ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ!
+\end_layout
+
+\begin_layout Standard
+ᏪᏌ ᏓᏰᏅᏏ ᎦᏍᎩᎸᎢ.
+\end_layout
+
+\begin_layout Standard
+ᎦᏚ ᏓᎦᏃᏍᎩᏏ.
+\end_layout
+
+\begin_layout Standard
+ᏏᏆ ᎯᎪᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+ᏓᏰᏅᏏᏍ ᎦᏍᎩᎸᎢ?
+\end_layout
+
+\begin_layout Standard
+ᎥᏝ, Ꮭ ᎦᏍᎩᎸᎢ ᎬᏩᏪᏅᏍᏗ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+ᎠᏎᏃ, ᏪᏌ ᎬᏩᏪᏅᏍᏗ ᎦᏍᎩᎸᎢ.
+\end_layout
+
+\begin_layout Standard
+ᎠᎴ ᎧᏂᏈᏌ ᎬᏩᏪᏅᏍᏗ ᎦᏍᎩᎸᎢ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᏏᏆ ᎬᏩᏃᏍᎩᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+ᏪᏌ ᎬᏩᏃᏍᎩᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+ᎧᏂᏈᏌ ᎬᏩᏃᏍᎩᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+ᎦᏚ ᏛᏂᏃᏍᎩᏏ.
+\end_layout
+
+\begin_layout Standard
+Ꮒ! ᎦᎯᎦᏙᏍᏓ, ᏣᏍᏗ ᎯᎩᎦᎨ ᎯᏥᏔᎦ!
+\end_layout
+
+\begin_layout Standard
+Ꮒ! Ꮒ!
+\end_layout
+
+\begin_layout Standard
+ᏛᏁᏅᏏ ᎦᏍᎩᎸᎢ.
+\end_layout
+
+\begin_layout Standard
+ᎦᏚ ᏛᏂᏃᏍᎩᏏ.
+\end_layout
+
+\begin_layout Standard
+ᎦᎯᏯᎦᏙᏍᏓ! ᎦᎯᏯᎦᏙᏍᏓ!
+\end_layout
+
+\begin_layout Standard
+ᏣᏍᏗ ᎯᎩᎦᎨ ᎯᏥᏔᎦ, ᎦᎯᏯᎦᏙᏍᏓ!
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᏏᏆ ᎬᏩᏃᏍᎩᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+ᏪᏌ ᎬᏩᏃᏍᎩᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+ᎧᏂᏈᏌ ᎬᏩᏃᏍᎩᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+ᎦᏚ ᏛᏂᏃᏍᎩᏏ.
+\end_layout
+
+\begin_layout Standard
+Ꮒ! ᎦᎯᎦᏙᏍᏓ, ᏣᏍᏗ ᎯᎩᎦᎨ ᎯᏥᏔᎦ!
+\end_layout
+
+\begin_layout Standard
+Ꮒ! Ꮒ!
+\end_layout
+
+\begin_layout Standard
+ᏛᏁᏅᏏ ᎦᏍᎩᎸᎢ.
+\end_layout
+
+\begin_layout Standard
+ᎦᏚ ᏛᏂᏃᏍᎩᏏ.
+\end_layout
+
+\begin_layout Standard
+ᎦᎯᏯᎦᏙᏍᏓ! ᎦᎯᏯᎦᏙᏍᏓ!
+\end_layout
+
+\begin_layout Standard
+ᏣᏍᏗ ᎯᎩᎦᎨ ᎯᏥᏔᎦ, ᎦᎯᏯᎦᏙᏍᏓ!
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename src.jpg/031.jpg
+	lyxscale 10
+	width 90col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎦᎾᎵ ᏏᏆ ᎤᎦᏙᏍᏔᏁ.
+\end_layout
+
+\begin_layout Standard
+ᎦᎾᎵ ᏪᏌ ᎤᎦᏙᏍᏔᏁ.
+\end_layout
+
+\begin_layout Standard
+ᎦᎾᎵ ᎧᏂᏈᏌ ᎤᎦᏙᏍᏔᏁ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮒ, ᎦᏚ ᎠᎩᎭ, ᏏᏆ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮒ, ᎦᏚ ᎠᎩᎭ, ᏪᏌ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮒ, ᎦᏚ ᎠᎩᎭ, ᎧᏂᏈᏌ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᎥ, ᎰᏍᏓ ᏣᏍᏗ ᎯᏥᏔᎦ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᎥ, ᎰᏍᏓ ᏣᏍᏗ ᎯᏥᏔᎦ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᎥ, ᎰᏍᏓ ᏣᏍᏗ ᎯᏥᏔᎦ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎦᎾᎵ ᏏᏆ ᎤᎦᏙᏍᏔᏁ.
+\end_layout
+
+\begin_layout Standard
+ᎦᎾᎵ ᏪᏌ ᎤᎦᏙᏍᏔᏁ.
+\end_layout
+
+\begin_layout Standard
+ᎦᎾᎵ ᎧᏂᏈᏌ ᎤᎦᏙᏍᏔᏁ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮒ, ᎦᏚ ᎠᎩᎭ, ᏏᏆ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮒ, ᎦᏚ ᎠᎩᎭ, ᏪᏌ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮒ, ᎦᏚ ᎠᎩᎭ, ᎧᏂᏈᏌ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᎥ, ᎰᏍᏓ ᏣᏍᏗ ᎯᏥᏔᎦ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᎥ, ᎰᏍᏓ ᏣᏍᏗ ᎯᏥᏔᎦ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᎥ, ᎰᏍᏓ ᏣᏍᏗ ᎯᏥᏔᎦ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᏥᏔᎦ ᎤᏩᏌ ᎤᏰᏘᏎᎴ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎪ ᎤᎩᏔ ᎤᏩᏛᎮ?
+\begin_inset Quotes erd
+\end_inset
+
+, ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏣᏩᏛᎲ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏣᏩᏛᎲ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏣᏩᏛᎲ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+ᏥᏔᎦ ᎤᏩᏌ ᎤᏰᏘᏎᎴ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᏥᏔᎦ ᎤᏩᏌ ᎤᏰᏘᏎᎴ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎪ ᎤᎩᏔ ᎤᏩᏛᎮ?
+\begin_inset Quotes erd
+\end_inset
+
+, ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏣᏩᏛᎲ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏣᏩᏛᎲ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏣᏩᏛᎲ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+ᏥᏔᎦ ᎤᏩᏌ ᎤᏰᏘᏎᎴ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename src.jpg/032.jpg
+	lyxscale 10
+	width 90col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎪ ᎤᎩᏔ ᎤᏫᏎ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏣᏫᏒ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏣᏫᏒ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏣᏫᏒ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+ᏥᏔᎦ ᎤᏩᏌ ᎤᏰᏘᏎᎴ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎪ ᎤᏣᎴᏍᏗ ᎤᏩᏟᏌᏁ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏣᏩᏟᏌᏅ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏣᏩᏟᏌᏅ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏣᏩᏟᏌᏅ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+ᏥᏔᎦ ᎤᏩᏌ ᎤᏰᏘᏎᎴ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎪ ᎤᎩᏔ ᎤᏫᏎ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏣᏫᏒ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏣᏫᏒ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏣᏫᏒ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+ᏥᏔᎦ ᎤᏩᏌ ᎤᏰᏘᏎᎴ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎪ ᎤᏣᎴᏍᏗ ᎤᏩᏟᏌᏁ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏣᏩᏟᏌᏅ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏣᏩᏟᏌᏅ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏣᏩᏟᏌᏅ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+ᏥᏔᎦ ᎤᏩᏌ ᎤᏰᏘᏎᎴ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎪ ᎤᏣᎴᏍᏗ ᏗᏍᏙᏍᎩ ᎤᏫᏛᎮ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏣᏫᏛᎲ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏣᏫᏛᎲ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏣᏫᏛᎲ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+ᏥᏔᎦ ᎤᏩᏌ ᎤᏰᏘᏎᎴ.
+\end_layout
+
+\begin_layout Standard
+ᎣᏍᏓ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎪ ᎤᏩᏚᏁ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏣᏩᏚᏅ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏣᏩᏚᏅ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏣᏩᏚᏅ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+ᏥᏔᎦ ᎤᏩᏌ ᎤᏰᏘᏎᎴ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎪ ᎤᏣᎴᏍᏗ ᏗᏍᏙᏍᎩ ᎤᏫᏛᎮ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏣᏫᏛᎲ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏣᏫᏛᎲ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏣᏫᏛᎲ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+ᏥᏔᎦ ᎤᏩᏌ ᎤᏰᏘᏎᎴ.
+\end_layout
+
+\begin_layout Standard
+ᎣᏍᏓ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎪ ᎤᏩᏚᏁ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏣᏩᏚᏅ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏣᏩᏚᏅ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏣᏩᏚᏅ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+ᏥᏔᎦ ᎤᏩᏌ ᎤᏰᏘᏎᎴ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏣᎴᏍᏗ ᎠᏆᏚᏅ ᎠᎴ ᏃᏊ ᎦᏚ ᎠᎩᎭ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎠᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᎥ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᎥ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᎥ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎪ ᎠᎵᏍᏕᎵ ᎦᏚ ᎠᎩᎩᏍᏗ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎵᏍᏕᎵ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎵᏍᏕᎵ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎵᏍᏕᎵ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᏓᏣᏛᏁᎵ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏣᎴᏍᏗ ᎠᏆᏚᏅ ᎠᎴ ᏃᏊ ᎦᏚ ᎠᎩᎭ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎠᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᎥ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᎥ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᎥ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎪ ᎠᎵᏍᏕᎵ ᎦᏚ ᎠᎩᎩᏍᏗ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎵᏍᏕᎵ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎵᏍᏕᎵ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎵᏍᏕᎵ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᏓᏣᏛᏁᎵ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᎦᏚ ᏱᏓᏥᎩ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᎤᎩᏔ ᏱᏥᏩᏛᎲ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᏱᏥᏫᏒ ᎢᏣᏑᏰᏒ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᎤᏣᎴᏍᏗ ᏱᏥᏩᏟᏌᏅ ᎢᏣᏑᏰᏒ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᏗᏍᏙᏍᎩᎢ ᏱᏥᏫᏛᎲ ᎢᏣᏑᏰᏒ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᏗᏍᏙᏍᎩᎢ ᏱᏥᎩᏎᎾ ᎢᏣᏑᏰᏒ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᏕᎦᎵᏗ ᏱᏥᏍᏚᎢᏒ ᎢᏣᏑᏰᏒ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᎦᏚ ᏱᏥᏩᏚᏅ ᎢᏣᏑᏰᏒ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᎦᏚ ᏱᏓᏥᎩ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᎤᎩᏔ ᏱᏥᏩᏛᎲ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᏱᏥᏫᏒ ᎢᏣᏑᏰᏒ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᎤᏣᎴᏍᏗ ᏱᏥᏩᏟᏌᏅ ᎢᏣᏑᏰᏒ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᏗᏍᏙᏍᎩᎢ ᏱᏥᏫᏛᎲ ᎢᏣᏑᏰᏒ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᏗᏍᏙᏍᎩᎢ ᏱᏥᎩᏎᎾ ᎢᏣᏑᏰᏒ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᏕᎦᎵᏗ ᏱᏥᏍᏚᎢᏒ ᎢᏣᏑᏰᏒ.
+\end_layout
+
+\begin_layout Standard
+Ꮭ ᎦᏚ ᏱᏥᏩᏚᏅ ᎢᏣᏑᏰᏒ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᏃᏊ, Ꮭ ᏱᏓᏥᎩ.
+\end_layout
+
+\begin_layout Standard
+ᎠᏋᏌ ᏓᏥᎨᎵ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᏪᎾ, ᎯᎾᎵ ᎯᏏᏆ!
+\end_layout
+
+\begin_layout Standard
+ᏪᎾ!
+\end_layout
+
+\begin_layout Standard
+Ꭳ, ᏪᎾ, ᎯᎾᎵ ᎯᏪᏌ!
+\end_layout
+
+\begin_layout Standard
+ᏫᏍᏕᎾ!
+\end_layout
+
+\begin_layout Standard
+Ꭳ, ᏪᎾ, ᎯᎾᎵ ᎯᎧᏂᏈᏌ!
+\end_layout
+
+\begin_layout Standard
+ᏫᏤᎾ!
+\end_layout
+
+\begin_layout Standard
+ᏫᏤᎾ! ᏫᏤᎾ! ᏫᏤᎾ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎠᎴ ᏫᏤᏅᏎ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᏃᏊ, Ꮭ ᏱᏓᏥᎩ.
+\end_layout
+
+\begin_layout Standard
+ᎠᏋᏌ ᏓᏥᎨᎵ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᏪᎾ, ᎯᎾᎵ ᎯᏏᏆ!
+\end_layout
+
+\begin_layout Standard
+ᏪᎾ!
+\end_layout
+
+\begin_layout Standard
+Ꭳ, ᏪᎾ, ᎯᎾᎵ ᎯᏪᏌ!
+\end_layout
+
+\begin_layout Standard
+ᏫᏍᏕᎾ!
+\end_layout
+
+\begin_layout Standard
+Ꭳ, ᏪᎾ, ᎯᎾᎵ ᎯᎧᏂᏈᏌ!
+\end_layout
+
+\begin_layout Standard
+ᏫᏤᎾ!
+\end_layout
+
+\begin_layout Standard
+ᏫᏤᎾ! ᏫᏤᎾ! ᏫᏤᎾ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎠᎴ ᏫᏤᏅᏎ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+ᏂᎦᏓ ᎧᏃᎮᏗ
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᏌᏊ ᎢᏳᏩᎦᏘ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ ᎡᎮ.
+\end_layout
+
+\begin_layout Standard
+ᎠᏂᏦᎢ ᏧᎾᎵᎢ ᏧᏤᎵ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+ᏌᏊ ᎧᏂᏈᏌ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+ᏌᏊ ᏪᏌ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+ᏌᏊ ᏏᏆ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+ᏌᏊ ᎢᎦ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎤᎩᏔ ᎤᏩᏛᎮ.
+\end_layout
+
+\begin_layout Standard
+ᎤᏣᎴᏍᏗ ᎤᎩᏔ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᏗᏤᎾ, ᏗᏤᎾ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᏌᏊ ᎢᏳᏩᎦᏘ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ ᎡᎮ.
+\end_layout
+
+\begin_layout Standard
+ᎠᏂᏦᎢ ᏧᎾᎵᎢ ᏧᏤᎵ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+ᏌᏊ ᎧᏂᏈᏌ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+ᏌᏊ ᏪᏌ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+ᏌᏊ ᏏᏆ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+ᏌᏊ ᎢᎦ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎤᎩᏔ ᎤᏩᏛᎮ.
+\end_layout
+
+\begin_layout Standard
+ᎤᏣᎴᏍᏗ ᎤᎩᏔ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᏗᏤᎾ, ᏗᏤᎾ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏖᎾ, ᏏᏆ.
+ ᏖᎾ, ᏪᏌ.
+ ᏖᎾ, ᎧᏂᏈᏌ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎪᎱᏍᏗ ᏥᏩᏔ ᎢᏥᎪᏩᏔ.
+ ᎦᎪ ᏛᎵᏍᏕᎸᎯ ᎠᎩᏫᏍᏗ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎦᎾᎵ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎦᎾᎵ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎦᎾᎵ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎾᎯᏳ ᎠᏋᏌ ᏥᏫᏍᎦ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+ᎠᎴ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎤᏣᎴᏍᏗ ᎤᎩᏔ ᎤᏫᏎ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏖᎾ, ᏏᏆ.
+ ᏖᎾ, ᏪᏌ.
+ ᏖᎾ, ᎧᏂᏈᏌ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎪᎱᏍᏗ ᏥᏩᏔ ᎢᏥᎪᏩᏔ.
+ ᎦᎪ ᏛᎵᏍᏕᎸᎯ ᎠᎩᏫᏍᏗ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎦᎾᎵ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎦᎾᎵ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎦᎾᎵ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎾᎯᏳ ᎠᏋᏌ ᏥᏫᏍᎦ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+ᎠᎴ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎤᏣᎴᏍᏗ ᎤᎩᏔ ᎤᏫᏎ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎤᏛᏎ ᎠᎴ ᎤᏛᏎ ᎠᎴ ᎤᏛᏎ.
+\end_layout
+
+\begin_layout Standard
+ᎾᎯᏳ ᎤᏣᎴᏍᏗ ᎦᎪᏗ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+ᎤᏣᎴᏍᏗ ᎤᏂᎩᏔ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ ᎤᏣᎴᏍᏗ ᎢᏥᎪᏩᏔ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎪ ᏛᎵᏍᏕᎸᎯ ᎠᎩᏩᏟᏐᏗ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎦᎾᎵ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎦᎾᎵ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎦᎾᎵ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎤᏛᏎ ᎠᎴ ᎤᏛᏎ ᎠᎴ ᎤᏛᏎ.
+\end_layout
+
+\begin_layout Standard
+ᎾᎯᏳ ᎤᏣᎴᏍᏗ ᎦᎪᏗ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+ᎤᏣᎴᏍᏗ ᎤᏂᎩᏔ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ ᎤᏣᎴᏍᏗ ᎢᏥᎪᏩᏔ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎪ ᏛᎵᏍᏕᎸᎯ ᎠᎩᏩᏟᏐᏗ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎦᎾᎵ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎦᎾᎵ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎦᎾᎵ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎾᎯᏳ ᎠᏋᏌ ᏥᏟᏏ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+ᎠᎴ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎤᏣᎴᏍᏗ ᎤᏩᏟᏌᏁ.
+\end_layout
+
+\begin_layout Standard
+ᏕᎦᎵᏗᎯ ᎤᎵᏔᏁ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎪ ᏕᎦᎵᏗ ᏗᏍᏙᏍᎩᎢ ᏛᏫᏛᎯ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎦᎾᎵ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎦᎾᎵ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎦᎾᎵ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎾᎯᏳ ᎠᏋᏌ ᏥᏫᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+ᎠᎴ ᎤᏫᏛᎮ.
+\end_layout
+
+\begin_layout Standard
+ᏗᏍᏙᏍᎩ ᎤᏣᎴᏍᏗ ᎤᏍᏙᎡ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎾᎯᏳ ᎠᏋᏌ ᏥᏟᏏ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+ᎠᎴ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎤᏣᎴᏍᏗ ᎤᏩᏟᏌᏁ.
+\end_layout
+
+\begin_layout Standard
+ᏕᎦᎵᏗᎯ ᎤᎵᏔᏁ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎪ ᏕᎦᎵᏗ ᏗᏍᏙᏍᎩᎢ ᏛᏫᏛᎯ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎦᎾᎵ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎦᎾᎵ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎦᎾᎵ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎾᎯᏳ ᎠᏋᏌ ᏥᏫᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+ᎠᎴ ᎤᏫᏛᎮ.
+\end_layout
+
+\begin_layout Standard
+ᏗᏍᏙᏍᎩ ᎤᏣᎴᏍᏗ ᎤᏍᏙᎡ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎤᏍᏙᎡ ᎠᎴ ᎤᏍᏙᎡ ᎠᎴ ᎤᏍᏙᎡ.
+\end_layout
+
+\begin_layout Standard
+ᎾᎯᏳ ᎢᏌ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+ᏕᎦᎵᏗᎯ ᏗᏍᏙᏍᎩ ᎢᏌ ᎤᎵᏔᏁ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎪ ᎢᏌ ᎠᎩᏎᎦ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎦᎾᎵ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎦᎾᎵ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎦᎾᎵ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎾᎯᏳ ᎠᏋᏌ ᏥᎩᏎᎦ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+ᎠᎴ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᏗᏍᏙᏍᎩᎢ ᏭᏪᏅᏎ.
+\end_layout
+
+\begin_layout Standard
+ᎢᏌ ᎤᎩᏎᎾ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎤᏍᏙᎡ ᎠᎴ ᎤᏍᏙᎡ ᎠᎴ ᎤᏍᏙᎡ.
+\end_layout
+
+\begin_layout Standard
+ᎾᎯᏳ ᎢᏌ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+ᏕᎦᎵᏗᎯ ᏗᏍᏙᏍᎩ ᎢᏌ ᎤᎵᏔᏁ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎪ ᎢᏌ ᎠᎩᏎᎦ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎦᎾᎵ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎦᎾᎵ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎦᎾᎵ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎾᎯᏳ ᎠᏋᏌ ᏥᎩᏎᎦ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+ᎠᎴ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᏗᏍᏙᏍᎩᎢ ᏭᏪᏅᏎ.
+\end_layout
+
+\begin_layout Standard
+ᎢᏌ ᎤᎩᏎᎾ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏃᏊ, ᎦᏚ ᎢᏗᏩᏚᏅᎢ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎪ ᎦᏚ ᏣᏩᏘᏗ ᎠᎵᏍᏕᎵ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎾᎯᏳ ᎠᏋᏌ ᏥᏚᎲᏍᎦ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+ᎠᎴ ᏄᏛᏁᎴ.
+\end_layout
+
+\begin_layout Standard
+ᏃᏊ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎦᏚ ᎤᏩᏚᏁ ᎤᏣᎴᏍᏗ ᎢᏌ ᎤᏮᏔᏁ.
+\end_layout
+
+\begin_layout Standard
+ᎦᏍᎩᎸᎢ ᎤᏝᎲᏍᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮒ, ᎠᏆᏤᎵ ᎦᏚ, ᏏᏆ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᏃᏊ, ᎦᏚ ᎢᏗᏩᏚᏅᎢ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎪ ᎦᏚ ᏣᏩᏘᏗ ᎠᎵᏍᏕᎵ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᏱᏂᎦᏛᏁ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎾᎯᏳ ᎠᏋᏌ ᏥᏚᎲᏍᎦ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+ᎠᎴ ᏄᏛᏁᎴ.
+\end_layout
+
+\begin_layout Standard
+ᏃᏊ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎦᏚ ᎤᏩᏚᏁ ᎤᏣᎴᏍᏗ ᎢᏌ ᎤᏮᏔᏁ.
+\end_layout
+
+\begin_layout Standard
+ᎦᏍᎩᎸᎢ ᎤᏝᎲᏍᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮒ, ᎠᏆᏤᎵ ᎦᏚ, ᏏᏆ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮒ, ᏪᏌ!
+\end_layout
+
+\begin_layout Standard
+Ꮒ, ᎧᏂᏈᏌ!
+\end_layout
+
+\begin_layout Standard
+ᎦᎪ ᎠᎵᏍᏕᎵ ᎠᎩᎩᏍᏗ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎵᏍᏕᎵ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎵᏍᏕᎵ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎵᏍᏕᎵ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝ! Ꮭ ᏱᏣᎵᏍᏕᎵ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᏋᏌ ᏥᎩ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎠᎴ ᏄᏛᏁᎴ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ꮒ, ᏪᏌ!
+\end_layout
+
+\begin_layout Standard
+Ꮒ, ᎧᏂᏈᏌ!
+\end_layout
+
+\begin_layout Standard
+ᎦᎪ ᎠᎵᏍᏕᎵ ᎠᎩᎩᏍᏗ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎵᏍᏕᎵ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎵᏍᏕᎵ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎵᏍᏕᎵ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝ! Ꮭ ᏱᏣᎵᏍᏕᎵ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᏋᏌ ᏥᎩ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᎠᎴ ᏄᏛᏁᎴ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Creative Commons
+\end_layout
+
+\begin_layout Standard
+
+\size small
+This work is licensed under the 
+\noun on
+Creative Commons Attribution-Share Alike 3.0 United States License
+\noun default
+.
+ To view a copy of this license, visit 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://creativecommons.org/licenses/by-sa/3.0/us/
+\end_layout
+
+\end_inset
+
+ or send a letter to Creative Commons, 171 Second Street, Suite 300, San
+ Francisco, California, 94105, USA.
+\end_layout
+
+\begin_layout Subsection*
+In Summary:
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+The summary is not the license.
+ It is simply a handy reference for understanding the license and as such,
+ has no legal value.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size small
+You are free:
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+to Share — to copy, distribute, and transmit the work.
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+to Remix — to adapt the work.
+\end_layout
+
+\begin_layout Standard
+
+\size small
+Under the following conditions:
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+Attribution — You must attribute the work in the manner specified by the
+ author or licensor (but not in any way that suggests that they endorse
+ you or your use of the work).
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+Share Alike — If you alter, transform, or build upon this work, you may
+ distribute the resulting work only under the same or similar license to
+ this one.
+\end_layout
+
+\begin_layout Standard
+
+\size small
+With the understanding that:
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+Waiver — Any of the above conditions can be waived if you get permission
+ from the copyright holder.
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+Other Rights — In no way are any of the following rights affected by the
+ license:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\size small
+Your fair dealing or fair use rights;
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+Apart from the remix rights granted under this license, the author's moral
+ rights;
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+Rights other persons may have either in the work itself or in how the work
+ is used, such as publicity or privacy rights.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\size small
+Notice — For any reuse or distribution, you must make clear to others the
+ license terms of this work.
+ The best way to do this is with a link to 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://creativecommons.org/licenses/by-sa/3.0/us/
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{sloppy}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

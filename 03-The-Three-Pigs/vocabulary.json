@@ -1,0 +1,8 @@
+{
+    "entries_file": "vocabulary.txt",
+    "unmatched_file": "vocabulary-unmatched.txt",
+    "already_used": ["../02-The-Little-Red-Hen/used-vocabulary.txt"],
+    "vocab_template": "vocabulary-template.lyx",
+    "vocab_lyx": "vocabulary.lyx",
+    "source_file": "Na-Anijoi-Sigwa.lyx"
+}

@@ -1,0 +1,35 @@
+{
+	"ISBN_formatted": "ISBN: 978-1-310-77194-1",
+	"authors": [
+		"Michael Joyner"
+	],
+	"copyright": "Michael Joyner, All Rights Reserved. (CC BY 3.0 US)",
+	"coverImage": "artwork/paperbook/pngs/epub-cover.png",
+	"description": "The classic story of the Little Red Hen translated into the Cherokee Language. Dual language Cherokee and English. ᎧᏃᎮᏗ Ꮎ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ. ᏔᎵ ᏗᎦᏬᏂᎯᏍᏗ ᏣᎳᎩ ᎠᎴ ᎩᎵᏏ.",
+	"dest_epub": "epub-dual-language/Na-Usdi-Agigage-Jitaga-Agisi.epub",
+	"dest_epub_kindle": "epub-dual-language/Na-Usdi-Agigage-Jitaga-Agisi-Kindle.epub",
+	"image_tmp": "epub-dual-language/image-tmp",
+	"sourcelyx": "Na-Usdi-Agigage-Jitaga-Agisi-Dual Language.lyx",
+	"svg_mode": false,
+	"subjects": [
+		"Foreign Language Study, Native American Languages",
+		"FOR031000",
+		"Language Arts and Disciplines, Readers",
+		"LAN012000",
+		"Language Arts and Disciplines, Vocabulary",
+		"LAN021000",
+		"Fiction, General",
+		"FIC000000",
+		"Native American Languages",
+		"Cherokee",
+		"Cherokee Language",
+		"ᏣᎳᎩ",
+		"ᎦᏬᏂᎯᏍᏗ",
+		"ᎠᎪᎵᏰᏗ",
+		"ᏧᏬᎵᏗ ᏗᎪᏪᎵ",
+		"ᎤᏬᎵᏗ ᎪᏪᎵ",
+		"ᏗᎪᏪᎵ"
+	],
+	"title": "Ꮎ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ - ᏔᎵ ᏗᎦᏬᏂᎯᏍᏗ ᏣᎳᎩ ᎠᎴ ᎩᎵᏏ - The Little Red Hen - Dual Language Cherokee and English",
+	"url": "http://www.CherokeeLessons.com/"
+}

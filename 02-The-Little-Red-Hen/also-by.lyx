@@ -1,0 +1,174 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass book
+\begin_preamble
+\usepackage{multicol}
+\usepackage{wallpaper}
+\end_preamble
+\use_default_options false
+\begin_modules
+fixltx2e
+\end_modules
+\maintain_unincluded_children false
+\language american
+\language_package default
+\inputencoding utf8-plain
+\fontencoding global
+\font_roman FreeSerif
+\font_sans FreeSans
+\font_typewriter FreeMono
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics none
+\default_output_format pdf4
+\output_sync 1
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref true
+\pdf_title "Fables and Rhymes for Beginners"
+\pdf_author "Michael Joyner"
+\pdf_subject "Cherokee Language"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered true
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 2
+\pdf_breaklinks true
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\pdf_quoted_options "unicode=true,hypertexnames=false"
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 0.85in
+\topmargin 0.75in
+\rightmargin 0.75in
+\bottommargin 0.75in
+\secnumdepth -1
+\tocdepth 1
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle fancy
+\bullet 0 0 8 5
+\bullet 1 0 0 5
+\bullet 2 0 6 5
+\bullet 3 0 10 5
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict true
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Also By The Author
+\end_layout
+
+\begin_layout Section*
+Books and eBooks
+\end_layout
+
+\begin_layout Itemize
+Cherokee Language Lessons
+\end_layout
+
+\begin_layout Itemize
+Cherokee Language New Testament - Dual Language - Cherokee / English
+\end_layout
+
+\begin_layout Itemize
+Cherokee Lessons - Introductory Edition
+\end_layout
+
+\begin_layout Itemize
+Genesis or the First Book of Moses - Dual Language - Cherokee / English
+\end_layout
+
+\begin_layout Itemize
+Michael's Cherokee Funny Papers - Volume 1
+\end_layout
+
+\begin_layout Itemize
+Michael’s Cherokee Reader
+\end_layout
+
+\begin_layout Itemize
+Waya Dulasutla
+\end_layout
+
+\begin_layout Section*
+Desktop Computer Games
+\end_layout
+
+\begin_layout Itemize
+Cherokee Language Animals
+\end_layout
+
+\begin_layout Itemize
+Cherokee Syllabary
+\end_layout
+
+\begin_layout Itemize
+Esperanto Animals
+\end_layout
+
+\begin_layout Section*
+Android Apps
+\end_layout
+
+\begin_layout Itemize
+Cherokee Language Animals
+\end_layout
+
+\begin_layout Itemize
+Cherokee Syllabary
+\end_layout
+
+\begin_layout Itemize
+Esperanto Animals
+\end_layout
+
+\begin_layout Section*
+OUYA Apps
+\end_layout
+
+\begin_layout Itemize
+Cherokee Language Animals
+\end_layout
+
+\begin_layout Itemize
+Esperanto Animals
+\end_layout
+
+\end_body
+\end_document

@@ -1,0 +1,40 @@
+{
+	"ISBN_formatted": "ISBN: 978-1-310-77194-1",
+	"authors": 
+	[
+		"Michael Joyner"
+	],
+
+	"copyright": "Michael Joyner, All Rights Reserved. (CC BY 3.0 US)",
+	"coverImage": "artwork/paperbook/pngs/epub-cover.png",
+	"description": "The classic story of the Little Red Hen translated into the Cherokee Language. Cherokee Syllabary only. ᎧᏃᎮᏗ Ꮎ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ. ᏂᎦᏓ ᏣᎳᎩ ᎦᎣᎯᏍᏗ. ᎥᏝ ᎩᎵᏏ ᏱᎩ. Suitable for young native readers and students of the language.",
+	"dest_epub": "epub/Na-Usdi-Agigage-Jitaga-Agisi.epub",
+	"dest_epub_kindle": "epub/Na-Usdi-Agigage-Jitaga-Agisi-Kindle.epub",
+	"image_tmp" : "epub/image-tmp",
+	"sourcedir": "/home/mjoyner/Documents/ᏣᎳᎩ/Lessons/Action-Imitation-and-Fun-Series/02-The-Little-Red-Hen/",
+	"sourcelyx": "Na-Usdi-Agigage-Jitaga-Agisi.lyx",
+	"svg_mode": false,
+	"subjects": 
+	[
+		"Foreign Language Study, Native American Languages",
+		"FOR031000",
+		"Language Arts and Disciplines, Readers",
+		"LAN012000",
+		"Language Arts and Disciplines, Vocabulary",
+		"LAN021000",
+		"Fiction, General",
+		"FIC000000",
+		"Native American Languages",
+		"Cherokee",
+		"Cherokee Language",
+		"ᏣᎳᎩ",
+		"ᎦᏬᏂᎯᏍᏗ",
+		"ᎠᎪᎵᏰᏗ",
+		"ᏧᏬᎵᏗ ᏗᎪᏪᎵ",
+		"ᎤᏬᎵᏗ ᎪᏪᎵ",
+		"ᏗᎪᏪᎵ"
+	],
+
+	"title": "Na Usdi Agigage Jitaga Agisi - The Little Red Hen",
+	"url": "http://www.CherokeeLessons.com/"
+}
