@@ -1,85 +1,29 @@
 # Na-Anijoi-Sigwa.lyx
 # ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳ ㉑ ㉒ ㉓ ㉔ ㉕ ㉖ ㉗ ㉘ ㉙ ㉚ ㉛ ㉜ ㉝ ㉞ ㉟ ㊱ ㊲ ㊳ ㊴ ㊵ ㊶ ㊷ ㊸ ㊹ ㊺ ㊻ ㊼ ㊽ ㊾ ㊿
 Syllabary|Pronounce|Breakdown|Definition
+-ᎢᎦ|||
+-ᎡᎵ|||
 ᏗᏛᏓᏅᎢ|||
-ᏛᏲᏥ|||① It will break. It will be ruined. ② Idiom: He or she will be spoiled.
-ᎤᏬᎳᏕᏒᎢ|||
-ᎤᏦᏔᎲᎢ|||
 ᏯᏬᎳᏓᎩ|||
 ᏯᏦᏔ|||
-ᏣᏴᏍᏗ|||
-ᏣᏲ|||
-ᎬᏚᎢᏍᏗᎮ|||
-ᏛᏦᏔᎯ|||
-ᎤᏬᎳᏕᏎ|||
-ᎤᏦᏔᎮ|||
-ᎤᏲᏤ|||
-ᎤᏛᏁᎴ|||
-ᎤᎵᏍᏓᏁᎴ|||
-ᎤᏛᏁᎸᏅᎢ|||
-ᎤᎵᏍᏓᏴᏁ|||
-ᏣᏛᏁᎸᏅᎢ|||
-ᏣᏁᏍᎨᎮ|||
-ᏱᏯᏛᎦᏁ|||
-ᎡᎵᎠ|||
-ᏃᏊᎴ|||
-ᏗᏜ|||
-ᎤᏲᏍᏗ|||
-ᏓᏂᎪᎯ|||
-ᎤᏲᏨ|||
-ᎤᏪᏁᏎ|||
-ᎥᏝᏍᎪ|||
-ᏛᏂᎪᎯ|||
-ᏳᏲᏤ|||
 Ꭽ|||
-ᏱᏛᏲᏥ|||
-ᎤᏦᏔᎲ|||
-ᎤᏟ|||
-ᏥᎩᎩᏍᏗ|||
-ᎠᏆᏅᏖᏗ|||
-ᎠᏆᏓᏅᏖᏢᏍᏗ|||
-ᎠᏆᏅᏔ|||
-ᏓᎨᏅᏏ|||
-ᏓᏲᏍᏗᏬᏂᏏ|||
-ᏙᏱ|||
-ᎤᎵᏍᏓᏁᏗ|||
-ᎢᏯᏛᏁᏗ|||
-ᎤᏓᏅᏖᏗ|||
-ᏲᏍᏗᏬᏂᎯ|||
-ᏓᏥᎪᎯ|||
-ᏱᏂᏬᏂᎯ|||
-ᏏᏩ|||
-ᎬᏬᏂᏎᎵᎦ|||
-ᏱᏴᎭ|||
-ᎤᏓᏅᏖᏟᏌᏅᏎ|||
-ᎠᏆᏦᏔᎲ|||
-ᏱᎦᏦᏔᏍᎪ|||
-ᏳᏲᎪ|||
-ᎠᏆᎵᏍᏓᏴᏅ|||
-ᎠᏆᎵᏍᏓᏴᏗ|||
-ᏓᏲᏍᏗᏬᏂᏏᏌᏂ|||
+ᎠᎩᏲᏍᏔᏅᎩ|||
+ᎬᎩᏲᏍᏙᏗ|||
+ᏥᏒᏅᎩ|||
+ᏥᏒᎲᏍᏗ|||
 ᏥᎩᏍᏗ|||
-ᎢᏯᏛᏅᏗ|||
-ᎠᏆᏓᏅᏖᏗ|||
-ᎤᏓᏅᏖᏞ|||
-ᏏᏆᏃ|||
-ᏓᏥᎪᎯᏌᏂ|||
-ᏄᎾ|||
-ᎾᎥ|||
-ᏕᏥᎩᏍᎪ|||
 ᏓᏂᎩᏍᎪ|||
+ᏓᎨᏅᏏ|||
 ᎤᏪᏅᏍᏗ|||
 ᏓᏥᏲᏎᎵ|||
 ᏓᏰᏅᏏ|||
-ᏓᏥᏯᎵᏍᏓᏴᏂ|||
 ᎣᏏᏊᏧ|||
-Ꮘ|||
+ᏍᏈ|||
 ᏕᏣᎸᏉᏗ|||
 ᏓᎩᎸᏈᏗ|||
 ᏣᏅᏔᏍ|||
 ᏓᏁᏅᏏᏍ|||
-ᏄᎾᏍ|||
-ᏖᏅᏏ|||
+ᏖᏅᏏᏍ|||
 ᏓᎩᎸᏉᏙ|||
 ᎯᏩᏘᏍᎪ|||
 ᏥᏩᏘᏍᎪ|||
@@ -106,6 +50,7 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎪᎯᏴ|||
 ᎤᎿᎸᏤ|||
 ᏣᏛᏁ|||
+Ꮘ|||
 ᏍᎩᎩᏍᎪ|||
 ᏱᏍᎩᎩ|||
 ᏣᎬ|||
@@ -113,10 +58,13 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏣᏚᎵ|||
 ᏣᏦᏔᎲᎢ|||
 ᎤᏴᏍᏗ|||
+ᎤᏲᏍᏗ|||
 ᏍᎩᎩᏍᏗ|||
 ᏩᏯᎭ|||
 ᎢᏤ|||
+ᎢᏯᏛᏁᏗ|||
 ᏣᏓᏅᏖᏗ|||
+ᎠᏆᎵᏍᏓᏴᏗ|||
 ᏱᏥᏴᎭ|||
 ᎤᏄᎪᏍᏗ|||
 ᎤᏓᏅᏖᏢᎢ|||
@@ -145,6 +93,7 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏘᎸᏉᏗ|||
 ᎭᎵᏘ|||
 ᎯᎩ|||
+ᎤᏛᏁᎸᏅᎢ|||
 ᎤᎵᏘᏎ|||
 ᏧᏛᏁ|||
 ᎤᎨ|||
@@ -197,6 +146,7 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎠᎦᏐᏍᎬ|||
 ᏕᏡᎬ|||
 ᏚᎪᎮ|||
+ᏣᏛᏁᎸᏅᎢ|||
 ᏯᎩᎪᏩᏔ|||
 ᏯᎩᏂᏯ|||
 ᏯᎩᎦ|||
@@ -245,7 +195,6 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏱᏥᎷᎦ|||
 ᎠᏲ|||
 ᏫᏥᏄᎪᎢ|||
-ᎤᏲ|||
 ᎠᎷᎩ|||
 ᎤᏩᏂᏎ|||
 ᎤᏥ|||
@@ -255,6 +204,7 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏱᏓᏍᎩᏂᎩᏏ|||
 ᏳᏴᏢ|||
 ᎤᏬᎳᏕᏒ|||
+ᎤᏲᏨ|||
 ᏳᏲᏨ|||
 ᎢᏳᏩᎦᏘ|||
 ᏕᏥᏩᏛᎲᎢ|||
@@ -263,6 +213,8 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏣᏲᏨ|||
 ᏙᏛᎩᎯ|||
 ᎨᏐ|||
+ᎬᏚᎢᏍᏗᎮ|||
+ᏛᏦᏔᎯ|||
 ᏩᎭᏯᏃ|||
 ᎤᏴᏍᎩ|||
 ᎬᎩᏍᎨᏍᏗ|||
@@ -279,6 +231,7 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎣᏏᏧ|||
 ᎣᏏᏊ|||
 ᏂᎯᎾᎲ|||
+ᏄᎾᏍ|||
 ᏕᏣᎸᏉᏙ|||
 ᎢᏁᏅᏒᎢ|||
 ᎯᎳ|||
@@ -292,7 +245,7 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏤᏅᏎ|||
 ᎤᏟᏃ|||
 ᎢᏂᎩᏒᏒᎢ|||
-ᏱᎨᏎ|||
+ᏏᏩ|||
 ᎤᏓᎾᏩᏍᏔᏁ|||
 ᏗᎦᏛᏗᏃ|||
 ᏥᎩᏍᎨᏍᏗ|||
@@ -305,8 +258,8 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏩᏇᏅᏍᏗ|||
 ᎠᎩᎸᏉᏙ|||
 ᏓᏥᏴᎩᏗ|||
-ᎤᏲᏒ|||
 ᏓᏣᎪᎯ|||
+ᏏᏆᏃ|||
 ᎤᏟᏎ|||
 ᏓᏣᏴᎩᏗᏍ|||
 ᎤᏴᏢᎢ|||
@@ -325,7 +278,7 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎤᏬᏔᏁ|||
 ᎲᏂᏍᎦ|||
 ᎭᎵᏍᏓᏴᏗ|||
-ᎤᏲᏒᏃ|||
+ᎤᏲᏃ|||
 ᏧᏴᎩᏕ|||
 ᏧᎨ|||
 ᏳᏴᎩᏕ|||
@@ -339,6 +292,7 @@ Syllabary|Pronounce|Breakdown|Definition
 -Ꭲ|||Ꮣ- -Ꭲ → Will happen.
 -ᎤᎦ|-ú:ga||Let leave to do it.
 -ᎥᎭ|||Should or would.
+-ᎥᏌᏅᎢ||-v̌:sáhnv́:ɂi|Again did it.
 -ᎥᏍᏗ|-v́:sdi||To leave to do it.
 -ᎥᏒᎢ|-v́:sv̌:ɂi||Left to do it.
 -ᏍᎪ|||Is it?
@@ -354,9 +308,18 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎠᏂᎩᏒᏒᎭ||ᎠᏂ- ᎤᎩᏒᎢ -ᎥᏒᎢ -ᎥᎭ|They should or would leave to get it.
 ᎠᏂᏬᏂᏎᎭ||ᎠᏂ- ᎤᏬᏂᏒᎢ -ᎡᎭ|They are speaking to or for him or her.
 ᎠᏆᏁᏍᎨᏗ|||For me to build it.
+ᎠᏆᏅᏔ|||I know.
+ᎠᏆᏅᏖᏗ|||For me to think.
+ᎠᏆᏓᏅᏖᏗ|||For me to think or plan.
+ᎠᏆᏓᏅᏖᏢᏍᏗ|||For me to leave and go think.
+ᎠᏆᏦᏔᎲᎢ|||My blowing.
+ᎠᏆᏬᎳᏕᏒᎢ|||My breathing.
 ᎠᏍᎦᏯ|||A man.
 ᎠᏍᎦᏯᏃ|||And a man.
 ᎠᏓ|① ada ② a̋ɂda||① Wood. ② A young animal.
+ᎡᎵᎠ|||He or she thinks it is so.
+ᎡᎵᏊ ᏯᏦᏔ|||You might blow.
+ᎡᎵᏊ ᏯᏬᎳᏓᎩ|||You might breath.
 ᎡᏣᏛᎬᎦ|||Let you all hear him or her.
 ᎡᏥ|||Mother.
 ᎡᏥᏩᏛᎲᏏ||ᎡᏥ- ᎤᏩᏛᎲᎢ -Ꮟ|Let you all find it for him or her.
@@ -390,6 +353,9 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎤᎩᏍᏗ|||For him or her to get it.
 ᎤᎮ|||He or she had it.
 ᎤᎮᏍᏗ|||He or she will be having it.
+ᎤᎵᏍᏓᏁᎴ|||It happened.
+ᎤᎵᏍᏓᏁᏗ|||For it to happen to him, her, or it.
+ᎤᎷᎶᏨ|||His or her lacking. Idiom: He or she is crazy.
 ᎤᎷᎶᏨᎢ|||His or her lacking. Idiom: He or she is crazy.
 ᎤᎷᏤ|||He or she arrived.
 ᎤᎾᏚᎵᎭ|||They want it.
@@ -400,14 +366,25 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎤᏂᏩᏛᎲᏍᏗ|||For them to leave to find it.
 ᎤᏂᏬᏂᏒᎢ|||Their speaking.
 ᎤᏃᎴ|||Wind. Air. A storm. A tornado.
+ᎤᏒᏁ|||He or she devoured him, her, or it.
+ᎤᏓᏅᏖᏞ|||He or she thought.
+ᎤᏓᏅᏖᏢᏌᏅᏎ||ᎤᏓᏅᏖᏢᎢ -ᎥᏌᏅᎢ -ᎥᏒᎢ|He or she left in order to think again.
+ᎤᏟ|||Away from.
 ᎤᏟᏂᎩᏓ|||Strong. Powerful.
 ᎤᏟᏂᎩᏓᏧ|||Isn't it strong?
+ᎤᏦᏔᎮ|||He or she blew.
 ᎤᏩᏛᎲᎭᏍ||ᎤᏩᏛᎲᎢ -ᎥᎭ -ᏍᎪ|Should or would he or she find it?
 ᎤᏩᏛᎲᏍᏗ||ᎤᏩᏛᎲᎢ -ᎥᏍᏗ|For him or her to leave to find it.
 ᎤᏩᏛᎲᏎ||ᎤᏩᏛᎲᎢ -ᎥᏒᎢ|He or she left to find it.
 ᎤᏩᏛᎲᏒᎭᏍ||ᎤᏩᏛᎲᎢ -ᎥᏒᎢ -ᎥᎭ -ᏍᎪ|Should or would he or she leave to find it?
+ᎤᏬᎳᏕᏎ|||He or she breathed.
 ᎤᏬᏂᏒᎢ|||His or her speaking. His or her speech.
+ᎤᏲ|||Bad. Poor.
+ᎤᏲᎢ|||Bad. Poor.
+ᎤᏲᏍᏔᏁ|||He or she broke it.
+ᎤᏲᏤ|||① It broke. ② Idiom: He or she became spoiled.
 ᎥᏍᎩ|||① That. Those. ② He. She. It.
+ᎥᏝᏍᎪ|||Isn't it? Doesn't it?
 ᎦᎯᎪᏩᏔ|||Let you see them.
 ᎦᎯᏥ|||You, their mother.
 ᎦᎯᏩᏛᎲᏏ||ᎦᎯ- ᎤᏩᏛᎲᎢ -Ꮟ|Let you find it for them.
@@ -418,15 +395,22 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎦᏁᎴᏍᏗ|||He or she will be residing.
 ᎦᏁᏍᎨᎭ|||I am building it.
 ᎦᏃᎸᎥᏍᎨᏍᏗ|||It will be blowing.
+ᎦᏙᏃ|||And what?
 ᎦᏛᎩᎠ|||I hear it.
 ᎦᏣᏩᏛᏗ|||You can find it.
+ᎦᏣᏴᏍᏗ|||His or her ability to enter. He or she is able to enter.
 ᎦᏥᎪᏩᏘᎭ|||I see them.
 ᎦᏥᏯᏛᎩᎠ|||I hear them.
+ᎦᏦᏔᏍᎨᏍᏗ|||I will be blowing.
+ᎦᏬᎳᏕᏍᎨᏍᏗ|||I will be breathing.
 ᎦᏬᏂᏍᎪᎢ|||He or she speaks.
 ᎧᏁᏍᎦ|||Hay. Straw.
 ᎧᏁᏍᎦᏍ|||Is it hay or straw?
 ᎨᎦ|||I am going.
 ᎪᎯᏴᎢ|||Later. After a while. By and by.
+ᎬᏚᎢᏍᏔᏁᎭ||Ꭼ- ᎤᏚᎢᏍᏔᏅᎢ -ᎡᎭ|I promise you.
+ᎬᏩᏲᏍᏙᏗ|||His or her ability to break it.
+ᎬᏬᏂᏎᎵᎦ||Ꭼ- ᎤᏬᏂᏒᎢ -ᎡᎸᎢ -ᎢᎦ|I am coming to talk to you. I just came to talk to you.
 ᎬᏯᎵᎮᎵᏤᎭ||Ꭼ- ᎤᎵᎮᎵᏨᎢ -ᎡᎭ|I am thankful to you.
 ᎭᏁᏍᎨᎮᎷᎦ|||Let you go and build it for him or her.
 ᎭᏁᏍᎨᎲᎭ|||You should or would build it.
@@ -434,11 +418,15 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎯᏩᏛᎮᎷᎦ||Ꭿ- ᎤᏩᏛᎲᎢ -ᎡᎸᎢ -ᎤᎦ|Let you go and find it for him or her.
 ᎯᏬᏂᎯ|||Let you speak.
 ᎯᏯᏛᎬᎦ|||Let you hear him or her.
+ᎰᏩ|||① Ok. Alright. ② You're welcome.
+ᎾᎥ|||Near.
 ᎾᎩᎲᎾ|||I without having it.
 ᏂᎨᏒᎾ|||Without.
 ᏂᏥᎲᎾ|||You all are without having it.
 ᏃᎩᎲᎾ|||They and I are without having it.
+ᏃᏊᎴ|||And then.
 ᏄᎲᎾ|||He or she is without having it.
+ᏄᏍᏗ|nű:sdi||His, her, or its way.
 ᏅᏯ|||A rock. Rocks.
 ᏅᏯ ᎠᏛᏓᏅᎢ|||A brick.
 ᏅᏯ ᏗᏛᏓᏅᎢ|||Bricks.
@@ -451,12 +439,18 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏓᎩᎸᏉᏙᎢ|||I like them.
 ᏓᎬᏁᎵ|||I will give it to you.
 ᏓᎬᏕᎵ|||I will give it to you.
+ᏓᎬᏬᏂᏒᏌᏁᎸᏏ||Ꮣ- Ꭼ- ᎤᏬᏂᏒᎢ -ᎥᏌᏅᎢ -ᎡᎸᎢ -ᎥᏒᎢ -Ꭲ|I will go and talk again to him or her.
+ᏓᏂᎪᎯ|||You and I, we two will see.
+ᏓᏈᏌᏂ|||A turnip. Turnips.
 ᏓᏍᎩᏁᎵᏍ|||Will you give it to me?
 ᏓᏍᎩᏩᏛᎮᎵ||Ꮣ- ᎢᏍᎩ- ᎤᏩᏛᎲᎢ -ᎡᎸᎢ|We will find it for you.
 ᏓᏣᎯ|||You will have it.
 ᏓᏣᎾᎢ|||You will have it.
 ᏓᏤᏅᏏᏍ|||Will you all go?
 ᏓᏤᏅᏏᏍᎪ|||Will you all go?
+ᏓᏥᎪᎯ|||I will see him, her, or it.
+ᏓᏥᎪᎲᏌᏅᏏ||Ꮣ- Ꮵ- ᎤᎪᎲᎢ -ᎥᏌᏅᎢ -ᎥᏒᎢ|I will see him or her again.
+ᏓᏥᏁᏤᎸᏏ||Ꮣ- Ꮵ- ᎤᏁᏨᎢ -ᎡᎸᎢ -ᎥᏒᎢ|I will go and talk with him or her.
 ᏓᏥᏒᏂ|||I will devour.
 ᏓᏥᏩᏛᎯ|||I will find it.
 ᏓᏲᏤᏅᏏ|||You all will go.
@@ -464,6 +458,10 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏔᎵᏁᎢ|||Second.
 ᏔᏛᎬᎦ|||Let you hear them.
 ᏕᎦᏬᏂᏎᎭ||Ꮥ- Ꭶ- ᎤᏬᏂᏒᎢ -ᎡᎭ|He or she is talking to or for them.
+ᏕᏥᎩᏍᎪ|||I eat them.
+ᏗᏜ|||Towards. At.
+ᏘᏲᏍᏔᏂ|||You will break it.
+ᏙᏱ|||Outside.
 ᏚᎮ|||He or she had them.
 ᏚᎾᏠᏎ|||They met.
 ᏚᏁᏍᎨᎮ|||They built it.
@@ -471,10 +469,18 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏚᏬᏂᏎᎸᎢ||Ꮥ- ᎤᏬᏂᏒᎢ -ᎡᎸᎢ|His or her speaking to or for them.
 ᏛᏁᏅᏏ|||They will go.
 ᏛᏂᏩᏛᎯ|||They will find it.
+ᏛᏲᏥ|||① It will break. It will be ruined. ② Idiom: He or she will be spoiled.
+ᏣᎷᎶᏨ|||You lacking. Idiom: You are crazy.
 ᏣᎷᎶᏨᎢ|||Your lacking. Idiom: You are crazy.
+ᏣᏁᏍᎨᎮ|||You built it.
 ᏣᏁᏍᎨᏗ|||For you to build it.
+ᏣᏛᎦᏅᎭ|||You should or would hear it.
 ᏣᏥ|||Your mother.
+ᏣᏲ|||You are bad.
 ᏣᏲᏒ|||You are extra bad. You are doing extra poorly.
+ᏣᏴᏍᏗ|||For you to enter.
+ᏥᎩᎩᏍᏗ|||For me to get him or her.
+ᏥᏚᎢᏍᏗᎭ|||I promise.
 ᏥᏩᏛᎮᏗ||Ꮵ- ᎤᏩᏛᎲᎢ -ᎡᏗ|For me to find it for him or her.
 ᏥᏯᏁᏍᎨᎮᏗ||Ꮵ- ᎤᏁᏍᎨᎲᎢ -ᎡᏗ|For me to build it for him or her.
 ᏥᏯᏛᎩ|||I hear him or her.
@@ -491,7 +497,14 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏭᏁᏅᏍᏗ|||For them to go away.
 ᏭᏪᏅᏍᏗᏍ|||Is it for him or her to go?
 ᏭᏪᏅᏒᎭᏍ||Ꮻ- ᎤᏪᏅᏒᎢ -ᎥᎭ -ᏍᎪ|Should or would he or she go?
+ᏯᎩᏬᏂᏎᎵ||Ᏹ- ᎠᎩ- ᎤᏬᏂᏒᎢ -ᎡᎵ|Maybe he or she just talked to me.
+ᏱᎨᏎ|||Maybe it was being.
 ᏱᎨᏎᏍᏗ|||Maybe it will be.
+ᏱᎬᏬᏂᏎᎵ|||Maybe I just spoke to you.
+ᏱᏍᎩᏬᏂᏎᎵ|||Maybe you just spoke to me.
+ᏱᏘᏲᏍᏔᏂ|||Maybe you will break it.
+ᏱᏛᏲᏥ|||Maybe it will break. Idiom: Maybe he or she will become spoiled.
 ᏱᏥᎮᎭ||Ᏹ- ᎢᏥ- ᎤᎲᎢ -ᎡᎭ|Maybe he or she has it for you all.
 ᏱᏥᎷᎶᎦ|||I am not lacking.
 ᏳᎭ|||Maybe he or she has it.
+ᏳᏲᏤ|||Maybe it broke. Idiom: Maybe he or she became spoiled.
