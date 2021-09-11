@@ -1,118 +1,8 @@
 # Na-Anijoi-Sigwa.lyx
 # ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳ ㉑ ㉒ ㉓ ㉔ ㉕ ㉖ ㉗ ㉘ ㉙ ㉚ ㉛ ㉜ ㉝ ㉞ ㉟ ㊱ ㊲ ㊳ ㊴ ㊵ ㊶ ㊷ ㊸ ㊹ ㊺ ㊻ ㊼ ㊽ ㊾ ㊿
 Syllabary|Pronounce|Breakdown|Definition
-ᏯᏂᏩᏔ|||
-ᎢᏥᏁᏗ|||
-ᎢᏣᏠᏱᎦ|||
-ᎢᏨᏌ|||
-ᎢᏣᏓᏩᏛᏏ|||
-ᎡᏥᏩᏛᏏ|||
-ᏱᏤᎾᏍ|||
-ᎦᎯᏬᏂᎯ|||
-ᎠᏆᏓᎮᏗ|||
-ᎢᏣᏓᎮᏗ|||
-ᎢᏥᏩᏛᏗ|||
-ᏭᏁᏅᏍᏗ|||
-ᎢᏨᏥ|||
-ᎢᏍᎩᏩᏛᎮᏗ|||
-ᎢᏣᏓᏩᏛᎮᏗ|||
-ᎢᏤᏅᏍᏗ|||
-ᎣᏤᎦ|||
-ᎡᏥ|||
-ᎢᏤᎦᏍ|||
-ᏓᏣᎯ|||
-ᎠᏁᎦ|||
-ᎤᏂᏥᎢ|||
-ᎦᎵᏦᏕ|||
-ᏂᎲᎾ|||
-ᏄᏂᎲᎾ|||
-ᎤᏂᏩᏛᎲᏍᏗ|||
-ᏫᏥᏩᏔ|||
-ᏱᏍᎩᏩᏛᎮᎵ|||
-ᎢᏥᎩᏍᏗ|||
-ᎢᏣᏁᏍᎨᏗ|||
-ᏂᎩᎲᎾ|||
-ᎣᎦᏁᏍᎨᎮᎦ|||
-ᎣᏥᏁᎴᏍᏗ|||
-ᏓᏥᎯ|||
-ᎢᎬᏱᎢ|||
-ᏭᏩᏛᎲᏒ|||
-ᎠᏍᎦᏯ|||
-ᏚᏠᏎ|||
-ᏃᎩᎲᎾ|||
-ᏣᏲᏒ|||
-ᎣᎩᎩᏍᏗ|||
-ᎦᎵᏦᏕᏍ|||
-ᎠᎩᏥ|||
-ᏄᎲᎾ|||
-ᏥᏩᏛᎮᏗ|||
-ᎧᏁᏍᎦ|||
-ᎤᎮ|||
-ᎧᏁᏍᎦᏍ|||
-ᏱᏍᎩᎥᏏ|||
-ᏱᏍᏛᎥᏏ|||
-ᎤᏴᏍᏗ|||
-ᎦᏁᏍᎨᏍᎨᏍᏗ|||
-ᏓᎬᏁᎵ|||
-ᏩᏙ|||
-ᎦᏁᏍᎨ|||
-ᎤᏟᏂᎩᏓ|||
-ᏂᎨᏒᎾ|||
-ᏓᎦᏁᏍᎨᎯ|||
-ᎤᏛᏁᎸᏅᎢ|||
-ᎤᏁᏍᎨᎮ|||
-ᎤᏟᏂᎩᏓᏧ|||
-ᎠᏁᏍᎨᏍᎪ|||
-ᎪᎯᏴ|||
-ᏔᎵᏁ|||
-ᎤᎩᏍᏗ|||
-ᎠᎩᏩᏛᏗ|||
-ᎠᏆᏁᏍᎨᏗ|||
-ᎨᎦ|||
-ᎯᏩᏛᎱᎦ|||
-ᏣᏁᎸᎢ|||
-ᏣᏥ|||
-ᎭᏁᏍᎨᎱᎦ|||
-ᎠᏓ|||
-ᏚᏩᏰ|||
-ᎾᎩᎲᎾ|||
-ᎠᏴᏍ|||
-ᏍᎩᏁᎸᎢ|||
-ᎤᏲᏨ|||
-ᎠᎩᎸᏉᏙ|||
-ᎦᏁᏍᎨᎭ|||
-ᏱᎨᏎᏍᏗ|||
-ᏣᏛᏁᎸᏅᎢ|||
-ᎭᏁᏍᎨᏍᎪ|||
-ᏱᎦᏛᏁᎵᏍᎪ|||
-ᏦᎢᏁ|||
-ᏥᏯᏁᏍᎨᎮᏗ|||
-ᏅᏯ|||
 ᏗᏛᏓᏅᎢ|||
-ᏚᎮ|||
-ᏣᏁᏍᎨᏗ|||
-ᏱᏩᏔ|||
-ᎦᏁᎴᏍᏗ|||
-ᏓᏥᏩᏛᎮᏏ|||
-ᎤᏂᏬᏂ|||
-ᎦᏬᏂ|||
-ᎠᎵᎮᎵᎦ|||
-ᎤᎮᏍᏗ|||
-ᏚᏁᏍᎨᎮ|||
-ᏕᏍᎩᏁᎸᎢ|||
-ᏦᎢ|||
-ᏔᎵᏁᎢ|||
-ᏦᎢᏁᎢ|||
-ᎣᏣᎵᎮᎵᎦ|||
-ᏩᎭᏯ|||
-ᎤᎷᏤ|||
-ᏫᏥᏴᎭ|||
-ᎢᏣᏛᏁᏗ|||
-ᎤᏃᎴ|||
-ᏓᎦᏬᎳᏕᏏ|||
-ᏛᏦᏔᎯ|||
-ᎦᏃᎸᎥᏍᎨᏍᏗ|||
-ᎠᏲᎨᏍᏗ|||
+ᏛᏲᏥ|||① It will break. It will be ruined. ② Idiom: He or she will be spoiled.
 ᎤᏬᎳᏕᏒᎢ|||
 ᎤᏦᏔᎲᎢ|||
 ᏯᏬᎳᏓᎩ|||
@@ -120,21 +10,23 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏣᏴᏍᏗ|||
 ᏣᏲ|||
 ᎬᏚᎢᏍᏗᎮ|||
-ᏛᏲᏥ|||
+ᏛᏦᏔᎯ|||
 ᎤᏬᎳᏕᏎ|||
 ᎤᏦᏔᎮ|||
 ᎤᏲᏤ|||
 ᎤᏛᏁᎴ|||
 ᎤᎵᏍᏓᏁᎴ|||
+ᎤᏛᏁᎸᏅᎢ|||
 ᎤᎵᏍᏓᏴᏁ|||
+ᏣᏛᏁᎸᏅᎢ|||
 ᏣᏁᏍᎨᎮ|||
 ᏱᏯᏛᎦᏁ|||
 ᎡᎵᎠ|||
 ᏃᏊᎴ|||
 ᏗᏜ|||
-ᏓᎦᏦᏔᎯ|||
 ᎤᏲᏍᏗ|||
 ᏓᏂᎪᎯ|||
+ᎤᏲᏨ|||
 ᎤᏪᏁᏎ|||
 ᎥᏝᏍᎪ|||
 ᏛᏂᎪᎯ|||
@@ -206,10 +98,12 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎦᏛᏅᎢᏍᏓ|||
 ᏱᏁᎾ|||
 ᏱᎨᎾ|||
+ᏦᎢ|||
 ᏕᏥᎩ|||
 ᏕᎯᎩ|||
 ᏩᏇᏅᏒ|||
 ᎯᏍᎩ|||
+ᎪᎯᏴ|||
 ᎤᎿᎸᏤ|||
 ᏣᏛᏁ|||
 ᏍᎩᎩᏍᎪ|||
@@ -218,6 +112,7 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏍᏆᎵᏍᏓᏴᏗ|||
 ᏣᏚᎵ|||
 ᏣᏦᏔᎲᎢ|||
+ᎤᏴᏍᏗ|||
 ᏍᎩᎩᏍᏗ|||
 ᏩᏯᎭ|||
 ᎢᏤ|||
@@ -280,7 +175,6 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎠᏇᏅᏍᏗ|||
 ᎤᎸᏉᏙ|||
 ᎬᏯᏘᏅᏒᎢ|||
-ᎪᎯᏴᎢ|||
 ᏳᎦᏘᏕ|||
 ᎠᎾᏛᏁᎵᏍᎩ|||
 ᏚᎸᏉᏕ|||
@@ -365,7 +259,7 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎢᏳᏩᎦᏘ|||
 ᏕᏥᏩᏛᎲᎢ|||
 ᎢᏣᏁᏍᎨᎲᎢ|||
-ᏚᎾᏠᏎ|||
+ᏕᏍᎩᏁᎸᎢ|||
 ᏣᏲᏨ|||
 ᏙᏛᎩᎯ|||
 ᎨᏐ|||
@@ -409,6 +303,7 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎤᏴᏞᎾ|||
 ᏥᏴᎩᏗᏍᏗ|||
 ᏩᏇᏅᏍᏗ|||
+ᎠᎩᎸᏉᏙ|||
 ᏓᏥᏴᎩᏗ|||
 ᎤᏲᏒ|||
 ᏓᏣᎪᎯ|||
@@ -437,46 +332,166 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏳᎨ|||
 ᎤᏴᎩᏕ|||
 ᎣᏍᏓᏊ|||
--ᎡᎭ|-e:ha||Is doing for someone. Is doing towards someone.
+-ᎡᎦ|-é:ga||Is now going somewhere to do it.
+-ᎡᎭ|-e:ha||Is doing for someone. Is doing to someone.
+-ᎡᎸᎢ|-e:lv̌:ɂi||Did to or for.
+-ᎡᏗ|-éhdi||To do something for someone. To do something to someone.
+-Ꭲ|||Ꮣ- -Ꭲ → Will happen.
+-ᎤᎦ|-ú:ga||Let leave to do it.
 -ᎥᎭ|||Should or would.
 -ᎥᏍᏗ|-v́:sdi||To leave to do it.
 -ᎥᏒᎢ|-v́:sv̌:ɂi||Left to do it.
--Ꮟ|-x̀:si||Let be doing for… Let be doing at…
+-ᏍᎪ|||Is it?
+-Ꮟ|-x̀:si, ɂsi||Let be doing for… Let be doing towards…
+ᎠᎦᏁᏍᎨᎲᎢ|||Its assembly.
+ᎠᎩᏥ|||She, my mother.
+ᎠᎩᏩᏛᏗ|||For me to find it.
+ᎠᎵᎮᎵᎦ|||He or she is happy or thankful.
 ᎠᎵᏍᏓᏴᏗ|||Groceries or a meal.
 ᎠᎵᏍᏓᏴᏗᏍ|||Is it groceries or a meal?
 ᎠᎾᏛᎩᎠ|||They hear him, her, or it.
+ᎠᏁᎦ|||They are going.
 ᎠᏂᎩᏒᏒᎭ||ᎠᏂ- ᎤᎩᏒᎢ -ᎥᏒᎢ -ᎥᎭ|They should or would leave to get it.
 ᎠᏂᏬᏂᏎᎭ||ᎠᏂ- ᎤᏬᏂᏒᎢ -ᎡᎭ|They are speaking to or for him or her.
+ᎠᏆᏁᏍᎨᏗ|||For me to build it.
+ᎠᏍᎦᏯ|||A man.
+ᎠᏍᎦᏯᏃ|||And a man.
+ᎠᏓ|① ada ② a̋ɂda||① Wood. ② A young animal.
 ᎡᏣᏛᎬᎦ|||Let you all hear him or her.
+ᎡᏥ|||Mother.
+ᎡᏥᏩᏛᎲᏏ||ᎡᏥ- ᎤᏩᏛᎲᎢ -Ꮟ|Let you all find it for him or her.
 ᎡᏥᏬᏂᏏ||ᎡᏥ- ᎤᏬᏂᏒᎢ -Ꮟ|Let you all talk to or for him or her.
+ᎢᎬᏱᎢ|||① First. ② In front.
+ᎢᏍᎩᏩᏛᎮᏗ||ᎢᏍᎩ- ᎤᏩᏛᎲᎢ -ᎡᏗ|For you all to get it for me.
+ᎢᏍᎩᏩᏛᎲᏏ||ᎢᏍᎩ- ᎤᎩᏩᏛᎲᎢ -Ꮟ|Let you all find it for me.
+ᎢᏗᏁᎴᏍᏗ|||We all will be residing.
+ᎢᏣᎩᏍᏗ|||For you all to get it.
+ᎢᏣᏁᏍᎨᏗ|||For you all to build it.
 ᎢᏣᏍᏗ|||You all are little.
+ᎢᏣᏓᏩᏛᎲᏏ||ᎢᏥ- ᎠᏓ[Ꮣ]- ᎤᏩᏛᎲᎢ -Ꮟ|Let you all find it for yourselves.
 ᎢᏣᏛᎩᎠ|||① You all hear it. ② He or she hears you all.
 ᎢᏣᏛᎬᎦ|||Let you all hear it.
+ᎢᏣᏛᏁᏗ|||For you to do it.
+ᎢᏣᏠᏱᎦ|||Let you all cry.
+ᎢᏤᏅᏍᏗ|||For you all to go.
+ᎢᏥᎩᏍᏗ|||For you all to get it.
 ᎢᏥᏥ|||Your all's mother.
 ᎢᏥᏩᏔ|||Let you all find it.
+ᎢᏥᏩᏛᎱᎦ||ᎢᏥ- ᎤᏩᏛᎲᎢ -ᎤᎦ|Let you all leave to find it.
+ᎢᏥᏩᏛᎲᏍᏗ||ᎢᏥ- ᎤᏩᏛᎲᎢ -ᎥᏍᏗ|For you all to leave and get it.
+ᎢᏥᏩᏛᎲᏏ||ᎢᏥ- ᎤᏩᏛᎲᎢ -Ꮟ|Let you all leave and find it.
+ᎢᏥᏩᏛᏗ|||For you all to find it.
 ᎢᏥᏬᏂᏎᎭ||ᎢᏥ- ᎤᏬᏂᏒᎢ -ᎡᎭ|He or she is talking to or for you all.
+ᎢᏨᏥ|||I, your all's mother.
+ᎣᎦᏁᏍᎨᎮᎦ||ᎣᎩ- ᎤᏁᏍᎨᎲᎢ -ᎡᎦ|We are leaving to build it.
+ᎣᎩᎩᏍᏗ|||For them and me to get it.
+ᎣᏣᎵᎮᎵᎦ|||They and I are happy or thankful.
+ᎣᏤᎦ|||They and I are going.
+ᎤᎩᏍᏗ|||For him or her to get it.
+ᎤᎮ|||He or she had it.
+ᎤᎮᏍᏗ|||He or she will be having it.
+ᎤᎷᎶᏨᎢ|||His or her lacking. Idiom: He or she is crazy.
+ᎤᎷᏤ|||He or she arrived.
 ᎤᎾᏚᎵᎭ|||They want it.
+ᎤᎾᏛᏁ|||They said.
 ᎤᎾᏠᏱᎭ|||They are crying.
+ᎤᏁᏍᎨᎮ|||He or she built it.
 ᎤᏂᏥ|||Their mother.
+ᎤᏂᏩᏛᎲᏍᏗ|||For them to leave to find it.
 ᎤᏂᏬᏂᏒᎢ|||Their speaking.
+ᎤᏃᎴ|||Wind. Air. A storm. A tornado.
+ᎤᏟᏂᎩᏓ|||Strong. Powerful.
+ᎤᏟᏂᎩᏓᏧ|||Isn't it strong?
+ᎤᏩᏛᎲᎭᏍ||ᎤᏩᏛᎲᎢ -ᎥᎭ -ᏍᎪ|Should or would he or she find it?
 ᎤᏩᏛᎲᏍᏗ||ᎤᏩᏛᎲᎢ -ᎥᏍᏗ|For him or her to leave to find it.
+ᎤᏩᏛᎲᏎ||ᎤᏩᏛᎲᎢ -ᎥᏒᎢ|He or she left to find it.
+ᎤᏩᏛᎲᏒᎭᏍ||ᎤᏩᏛᎲᎢ -ᎥᏒᎢ -ᎥᎭ -ᏍᎪ|Should or would he or she leave to find it?
 ᎤᏬᏂᏒᎢ|||His or her speaking. His or her speech.
+ᎥᏍᎩ|||① That. Those. ② He. She. It.
 ᎦᎯᎪᏩᏔ|||Let you see them.
 ᎦᎯᏥ|||You, their mother.
+ᎦᎯᏩᏛᎲᏏ||ᎦᎯ- ᎤᏩᏛᎲᎢ -Ꮟ|Let you find it for them.
 ᎦᎯᏬᏂᏏ||ᎦᎯ- ᎤᏬᏂᏒᎢ -Ꮟ|Let you speak for or to them.
 ᎦᎯᏯᏛᎬᎦ|||Let you hear them.
+ᎦᎵᏦᏕ|||House.
+ᎦᎵᏦᏕᏍ|||Is it a house?
+ᎦᏁᎴᏍᏗ|||He or she will be residing.
+ᎦᏁᏍᎨᎭ|||I am building it.
+ᎦᏃᎸᎥᏍᎨᏍᏗ|||It will be blowing.
 ᎦᏛᎩᎠ|||I hear it.
+ᎦᏣᏩᏛᏗ|||You can find it.
 ᎦᏥᎪᏩᏘᎭ|||I see them.
 ᎦᏥᏯᏛᎩᎠ|||I hear them.
 ᎦᏬᏂᏍᎪᎢ|||He or she speaks.
+ᎧᏁᏍᎦ|||Hay. Straw.
+ᎧᏁᏍᎦᏍ|||Is it hay or straw?
+ᎨᎦ|||I am going.
+ᎪᎯᏴᎢ|||Later. After a while. By and by.
+ᎬᏯᎵᎮᎵᏤᎭ||Ꭼ- ᎤᎵᎮᎵᏨᎢ -ᎡᎭ|I am thankful to you.
+ᎭᏁᏍᎨᎮᎷᎦ|||Let you go and build it for him or her.
+ᎭᏁᏍᎨᎲᎭ|||You should or would build it.
 ᎭᏛᎬᎦ|||Let you hear it.
+ᎯᏩᏛᎮᎷᎦ||Ꭿ- ᎤᏩᏛᎲᎢ -ᎡᎸᎢ -ᎤᎦ|Let you go and find it for him or her.
 ᎯᏬᏂᎯ|||Let you speak.
 ᎯᏯᏛᎬᎦ|||Let you hear him or her.
+ᎾᎩᎲᎾ|||I without having it.
+ᏂᎨᏒᎾ|||Without.
+ᏂᏥᎲᎾ|||You all are without having it.
+ᏃᎩᎲᎾ|||They and I are without having it.
+ᏄᎲᎾ|||He or she is without having it.
+ᏅᏯ|||A rock. Rocks.
+ᏅᏯ ᎠᏛᏓᏅᎢ|||A brick.
+ᏅᏯ ᏗᏛᏓᏅᎢ|||Bricks.
+ᏍᎩᏁᎴᎸᎭ||ᏍᎩ- ᎤᏁᎸᎢ -ᎡᎸᎢ -ᎥᎭ|You should or would give it to me.
+ᏍᎩᏁᎸᎭ|||You should or would give it to me.
+ᏓᎦᏁᏍᎨᎯ|||I will build it.
+ᏓᎦᏦᏔᎯ|||I will blow.
+ᏓᎦᏬᎳᏕᏏ|||I will breathe.
+ᏓᎩᎯ|||We all will have it.
+ᏓᎩᎸᏉᏙᎢ|||I like them.
+ᏓᎬᏁᎵ|||I will give it to you.
+ᏓᎬᏕᎵ|||I will give it to you.
+ᏓᏍᎩᏁᎵᏍ|||Will you give it to me?
+ᏓᏍᎩᏩᏛᎮᎵ||Ꮣ- ᎢᏍᎩ- ᎤᏩᏛᎲᎢ -ᎡᎸᎢ|We will find it for you.
+ᏓᏣᎯ|||You will have it.
+ᏓᏣᎾᎢ|||You will have it.
+ᏓᏤᏅᏏᏍ|||Will you all go?
+ᏓᏤᏅᏏᏍᎪ|||Will you all go?
+ᏓᏥᏒᏂ|||I will devour.
+ᏓᏥᏩᏛᎯ|||I will find it.
+ᏓᏲᏤᏅᏏ|||You all will go.
+ᏔᎵᏁ|||Second.
+ᏔᎵᏁᎢ|||Second.
+ᏔᏛᎬᎦ|||Let you hear them.
 ᏕᎦᏬᏂᏎᎭ||Ꮥ- Ꭶ- ᎤᏬᏂᏒᎢ -ᎡᎭ|He or she is talking to or for them.
+ᏚᎮ|||He or she had them.
+ᏚᎾᏠᏎ|||They met.
+ᏚᏁᏍᎨᎮ|||They built it.
+ᏚᏩᏰ|||He or she had them.
+ᏚᏬᏂᏎᎸᎢ||Ꮥ- ᎤᏬᏂᏒᎢ -ᎡᎸᎢ|His or her speaking to or for them.
+ᏛᏁᏅᏏ|||They will go.
 ᏛᏂᏩᏛᎯ|||They will find it.
+ᏣᎷᎶᏨᎢ|||Your lacking. Idiom: You are crazy.
+ᏣᏁᏍᎨᏗ|||For you to build it.
+ᏣᏥ|||Your mother.
+ᏣᏲᏒ|||You are extra bad. You are doing extra poorly.
+ᏥᏩᏛᎮᏗ||Ꮵ- ᎤᏩᏛᎲᎢ -ᎡᏗ|For me to find it for him or her.
+ᏥᏯᏁᏍᎨᎮᏗ||Ꮵ- ᎤᏁᏍᎨᎲᎢ -ᎡᏗ|For me to build it for him or her.
 ᏥᏯᏛᎩ|||I hear him or her.
 ᏥᏯᏛᎩᎠ|||I hear him or her.
+ᏦᎢᏁ|||Third.
+ᏦᎢᏁᎢ|||Third.
 ᏧᎾᏍᏗ|||Little.
+ᏩᎭᏯ|||A wolf. Wolves.
+ᏩᏙ|||Thanks.
 ᏪᏥᏬᏂᏏ||Ꮻ- ᎡᏥ- ᎤᏬᏂᏒᎢ -Ꮟ|Let you all talk to him or her.
+ᏫᏍᎩᎥᏏ||Ꮻ- ᏍᎩ- ᎤᎥᏏ|Let you give it to me.
+ᏫᏥᏩᏔ|||Let you all go find it.
+ᏫᏥᏴᎭ|||Let me enter.
+ᏭᏁᏅᏍᏗ|||For them to go away.
 ᏭᏪᏅᏍᏗᏍ|||Is it for him or her to go?
+ᏭᏪᏅᏒᎭᏍ||Ꮻ- ᎤᏪᏅᏒᎢ -ᎥᎭ -ᏍᎪ|Should or would he or she go?
+ᏱᎨᏎᏍᏗ|||Maybe it will be.
+ᏱᏥᎮᎭ||Ᏹ- ᎢᏥ- ᎤᎲᎢ -ᎡᎭ|Maybe he or she has it for you all.
+ᏱᏥᎷᎶᎦ|||I am not lacking.
 ᏳᎭ|||Maybe he or she has it.
