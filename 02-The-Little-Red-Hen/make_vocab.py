@@ -188,7 +188,9 @@ def main() -> None:
             parts: list[str] = entry.strip().split("|")
             if len(parts) != 4:
                 continue
-            entry_term: str = parts[0]
+            (entry_term, _, _, definition) = parts
+            if definition.strip() == "*":
+                continue
             if entry_term in skip_entries:
                 continue
             if entry_term.startswith("-") and entry_term not in active_entry_breakdowns.keys():
@@ -221,6 +223,8 @@ def main() -> None:
             definition: str
             (term, pronounce, break_down, definition) = entries[key]
             if not definition.strip():
+                continue
+            if definition.strip() == "*":
                 continue
             if term in previous_entries:
                 continue

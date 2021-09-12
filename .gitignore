@@ -4,3 +4,16 @@
 src-cln.pdf
 images.raw/
 /*/epub*/bin/
+*.lyx~
+*-capsule.jar
+RCS/
+/*/epub*/*.epub
+/*/epub*/*.mobi
+/*/epub*/tmp/
+/*/reports/
+/*/used-vocabulary.txt
+/*/vocabulary-unmatched.txt
+/*/vocabulary.lyx
+/*/artwork/*/jpgs/
+/*/artwork/*/pngs/
+/*/artwork/*/pdfs/
