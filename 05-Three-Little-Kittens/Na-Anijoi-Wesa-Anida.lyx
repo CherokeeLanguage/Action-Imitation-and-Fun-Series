@@ -1,0 +1,6027 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass extbook
+\begin_preamble
+\usepackage{multicol}%
+\usepackage{wallpaper}%
+%
+\end_preamble
+\use_default_options false
+\begin_modules
+fixltx2e
+\end_modules
+\maintain_unincluded_children false
+\language american
+\language_package default
+\inputencoding utf8-plain
+\fontencoding global
+\font_roman FreeSerif
+\font_sans FreeSans
+\font_typewriter FreeMono
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics none
+\default_output_format pdf4
+\output_sync 1
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref true
+\pdf_title "Ꮎ ᎠᏂᏦᎢ ᏪᏌ ᎠᏂᏓ ᎠᎴ ᏥᏔᎦ ᎤᏍᏗ"
+\pdf_author "Michael Joyner"
+\pdf_subject "Cherokee Language"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered true
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 2
+\pdf_breaklinks true
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\pdf_quoted_options "unicode=true,hypertexnames=false"
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 0
+\branch smashwords
+\selected 0
+\filename_suffix 0
+\color #faf0e6
+\end_branch
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 0.7in
+\topmargin 0.7in
+\rightmargin 0.6in
+\bottommargin 0.7in
+\secnumdepth -1
+\tocdepth 1
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle fancy
+\bullet 0 0 8 5
+\bullet 1 0 0 5
+\bullet 2 0 6 5
+\bullet 3 0 10 5
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict true
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{sloppy}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+frontmatter{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Title
+Ꮎ ᎠᏂᏦᎢ ᏪᏌ ᎠᏂᏓ
+\begin_inset Newline newline
+\end_inset
+
+ᎠᎴ
+\begin_inset Newline newline
+\end_inset
+
+ᏥᏔᎦ ᎤᏍᏗ
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+The Three Kittens
+\begin_inset Newline newline
+\end_inset
+
+and
+\begin_inset Newline newline
+\end_inset
+
+Chicken Little
+\end_layout
+
+\begin_layout Author
+Michael W S Joyner
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ꮎ ᎠᏂᏦᎢ ᏪᏌ ᎠᏂᏓ ᎠᎴ ᏥᏔᎦ ᎤᏍᏗ
+\end_layout
+
+\begin_layout Standard
+The Three Kittens and Chicken Little
+\end_layout
+
+\begin_layout Standard
+\begin_inset Branch smashwords
+status collapsed
+
+\begin_layout Standard
+Published by Michael Joyner at Smashwords
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Copyright 2016, Michael Joyner
+\end_layout
+
+\begin_layout Standard
+ISBN: 978-1-329-93340-8
+\end_layout
+
+\begin_layout Standard
+This work is licensed under the 
+\noun on
+Creative Commons Attribution-Share Alike 3.0 United States License
+\noun default
+.
+\end_layout
+
+\begin_layout Standard
+$Revision: 1.40 $
+\end_layout
+
+\begin_layout Standard
+$Date: 2016/02/28 17:08:32 $ UTC
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+mainmatter{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+%{
+\backslash
+fontsize{18pt}{27pt}
+\backslash
+selectfont
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename jpgs-a/004.jpg
+	lyxscale 10
+	width 99text%
+	height 99theight%
+	groupId fullpage
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Ꮎ ᎠᏂᏦᎢ ᏪᏌ ᎠᏂᏓ
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{plain}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename jpgs-a/005.jpg
+	lyxscale 10
+	width 95col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏪᏌ ᎠᏂᏓ ᎦᎯᎪᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎠᏃᏍᏓ ᏪᏌ ᎠᏂᏓ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏌᏊ ᏪᏌ ᎠᏓ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏌᏊ, ᎠᏂᏔᎵ ᏪᏌ ᎠᏂᏓ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏌᏊ, ᎠᏂᏔᎵ, ᎠᏂᏦᎢ ᏪᏌ ᎠᏂᏓ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎣᏏᏊᏍ, ᎢᏥᏪᏌ ᎢᏥᏓ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎡᎵᏊᏍ ᏱᏂᏗᏍᎩᏪᏏ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꭳ, ᎥᎥ, ᎡᎵᏊ ᏱᏂᏨᏪᏏ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎻᏳ, ᎻᏳ, ᎻᏳ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎢᏍᎩᏯᏛᎬᎦᏍ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎻᏳ, ᎻᏳ, ᎻᏳ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎢᏨᏪᎵ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎻᏳ, ᎻᏳ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎣᏏᏊᏍ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎡᎵᏊᏍ ᏱᏂᏫ, ᎤᏍᏗ ᎠᎨᏳᏣ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎡᎵᏊᏍ ᏱᏂᏫ, ᎤᏍᏗ ᎠᏧᏣ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎡᎵᏊᏍ ᎯᎠ ᏱᏂᏫ, 
+\begin_inset Quotes eld
+\end_inset
+
+ᎻᏳ, ᎻᏳ, ᎻᏳ
+\begin_inset Quotes erd
+\end_inset
+
+?
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename jpgs-a/006.jpg
+	lyxscale 10
+	width 95col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꮒ, ᎤᏍᏗ ᎠᏧᏣ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꮒ, ᎤᏍᏗ ᎠᎨᏳᏣ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏗᎵᏰᏑᎶ ᏙᎩᎾᎠ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎠᎵᏰᏑᎶᏍ ᎥᏍᏊ ᏣᎾᎠ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏗᎵᏰᏑᎶᏍ ᎥᏍᏊ ᏕᏣᎾᎠ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏗᎵᏰᏑᎶᏍ ᏕᏣᎾᎠ, ᎤᏍᏗ ᎠᏧᏣ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏗᎵᏰᏑᎶᏍ ᏕᏣᎾᎠ, ᎤᏍᏗ ᎠᎨᏳᏣ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏙᎩᎸᏉᏗ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏕᏣᎸᏉᏗᏍ, ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏗᏣᏤᎵ ᏗᎵᏰᏑᎶ ᎢᏍᎩᎪᏩᏛᏓ, ᎤᏍᏗ ᎠᎨᏳᏣ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏗᏣᏤᎵ ᏗᎵᏰᏑᎶ ᎢᏍᎩᎪᏩᏛᏓ, ᎤᏍᏗ ᎠᏧᏣ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏙᎩᎸᏉᏗ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏗᏣᏤᎵ ᏗᎵᏰᏑᎶ ᎥᏍᏊ ᏙᎩᎸᏉᏗ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename jpgs-a/007.jpg
+	lyxscale 10
+	width 95col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏏᎵᎩ ᎬᏗ ᎨᎪᏢᏅᎢ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏗᏣᏤᎵᏍ ᏗᎵᏰᏑᎶ ᏏᎵᎩ ᎬᏗ ᎨᎪᏢᏅᎢ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏧᏁᎦ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏧᏁᎦᏍ ᏗᏣᏤᎵ ᏗᎵᏰᏑᎶ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏧᏁᎦ ᏏᎵᎩ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏧᏁᎦᏍ ᏏᎵᎩ ᏗᏣᏤᎵ ᏗᎵᏰᏑᎶ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏦᎦᏤᎵ ᏏᎵᎩ ᏗᎵᏰᏑᎶ ᏙᎩᎸᏉᏗ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏧᏓᏅᎦᎸᏓ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎥᏍᎩᎾ ᏧᏓᏅᎦᎸᏓ ᎨᏒ ᎣᏣᏁᏟᏗᏍᎪ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏧᎾᏅᎦᎸᏓᏍ ᏗᏣᏤᎵ ᏗᎵᏰᏑᎶ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏕᎭᏁᏟᏗᏍᎪᏍ ᏗᏣᏤᎵ ᏧᎾᏅᎦᎸᏓ ᎨᏒ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꮒ ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏙᏳᎯ ᏧᏓᏅᎦᎸᏓ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏧᎾᏅᎦᎸᏓ ᏧᏁᎦ ᏗᎵᏰᏑᎶ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏧᎾᏅᎦᎸᏓ ᏧᏁᎦ ᏏᎵᎩ ᏗᎵᏰᏑᎶ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏗᎵᏰᏑᎶ ᏧᏓᏅᎦᎸᏓ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎥᏍᏊ ᎠᏴ ᏧᎾᏓᏅᎦᎸᏓ ᏪᏌ ᎠᏂᏓ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏚᏓᏅᎦᎸᏓ ᎨᏒ ᏙᎩᎸᏉᏗ ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename jpgs-a/008.jpg
+	lyxscale 10
+	width 95col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎠᏆᏛᏅᎢ ᎢᏣᏛᎬᎦ, ᏗᏆᏤᎵ ᏧᎾᏍᏗ ᏪᏌ ᎠᏂᏓ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏗᏣᏤᎵ ᏗᎵᏰᏑᎶ ᏗᎦᏓᎭ ᏄᎾᎵ\SpecialChar \-
+ᏍᏓ\SpecialChar \-
+ᏁᎸᎾ ᎢᏣ\SpecialChar \-
+ᏁᏟ\SpecialChar \-
+ᏔᏅᎭ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᏓᏲᏣᏁᏟᏔᏂ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏄᏂᏪᏎ ᏪᏌ ᎠᏂᏓ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏍᎩᎾ ᏧᏓᏅᎦᎸᏓ ᎨᏎᏍᏗ ᏓᏲᏣᏁᏟᏔᏂ
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏗᎦᏓᎭ ᎤᎾᎵᏍᏓᏁᎰᏍ ᏗᏣᏤᎵ ᏗᎵᏰᏑᎶ, ᎤᏍᏗ ᎠᏧᏣ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏗᎦᏓᎭ ᎤᎾᎵᏍᏓᏁᎰᏍ ᏗᏣᏤᎵ ᏗᎵᏰᏑᎶ, ᎤᏍᏗ ᎠᎨᏳᏣ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏧᏓᏅᎦᎸᏓ ᎨᏎᏍᏗ ᎣᏣᏁᏟᏗᏍᎪ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏙᏨᎩᎶᏍᎪᏍ ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎥᎥ, ᏗᎦᏓᎭ ᎬᏓᏳᎾᎵᏍᏓᏁᎵ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏃᏊ ᏙᏓᏲᏨᎩᎶᎢ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎥᏍᎩᎾ ᏧᏓᏅᎦᎸᏓ ᏙᏓᏲᏨᎩᎶᎢ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏒᏙᏂᎯ ᏙᏓᏲᏨᎩᎶᎢ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename jpgs-a/046.jpg
+	lyxscale 10
+	width 95col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏗᎬᏩᏅᎩᎶᏍᏗᏍ ᏪᏌ ᎠᏂᏓ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꭳ, ᎥᎥ, ᏗᎬᏩᏅᎩᎶᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏦᎬᎩᎶᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏒᏙᏂᎯ ᏛᏂᎸᏂ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏗᎵᏰᏑᎶᎯ ᎣᏝ ᎠᏂᏝᎲᏍᎨᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎾᎯᏳ ᏙᏛᎾᏍᎪᎵᏰᎢᎶᎢ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏗᎵᏰᏑᎶᎯ ᎣᏝ ᎠᏂᏝᎲᏍᎨᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎾᎯᏳ ᏗᎵᏰᏑᎶ ᏙᏛᎾᎵᏢᏓᏂ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꮒ, ᏗᎵᏰᏑᎶ ᎤᏟᎧ ᏧᏁᎦ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏗᎵᏰᏑᎶ ᏧᏁᎦ ᎠᎴ ᏧᏓᏅᎦᎸᏓ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename jpgs-a/009.jpg
+	lyxscale 10
+	width 95col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎨᎦᏍᎪᎵᏰᎢᎶᎥᎢ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏃᏊ ᏗᎵᏰᏑᎶ ᏧᏓᏅᎦᎸᏓ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎨᎦᎵᏢᏓᏂᎶᎥᎢ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏃᏊ ᏗᎵᏰᏑᎶ ᏧᏁᎦ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎦᏙ ᏃᏊ ᏛᎾᏛᏁᎵ ᏪᏌ ᎠᏂᏓ?
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+Ꮧ
+\size largest
+ᎵᏰᏑᎶ ᏙᏛᏂᎧᏲᏔᏂ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏙᏛᎾᏛᏂ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎤᏂᎧᏲᎯᏍᏗ ᏙᏛᎾᏛᏂ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎠᎦᎵᏍᎬ ᏙᏛᎾᏛᏂ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꮒ, ᏗᎵᏰᏑᎶ ᏍᏕᏱᏓ ᎠᎾᏓᎠ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏃᏊ ᏛᏂᎧᏲᏏ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎠᎦᎵᏍᎬ ᎠᎾᏓᎡᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏍᏕᏱᏓᎢ ᎠᎾᏓᎡᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎠᎦᎵᏍᎬ ᏛᏂᎧᏲᏏ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏍᏕᏱᏓᎢ ᏛᏂᎧᏲᏏ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename jpgs-a/049.jpg
+	lyxscale 10
+	width 95col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎠᏂ ᏩᏘᏰᎵ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏩᏘᏰᎵ ᏥᏍᏆ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏩᏘᏰᎵ ᎡᎵᏊ ᏱᎦᏬᏂᎭ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏩᏘᏰᎵ ᎡᎵᏊ ᏱᎦᏃᏍᎦ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏩᏘᏰᎵ ᎤᏬᏂᎯᏍᏗ ᎤᎸᏉᏗ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏩᏘᏰᎵ ᎤᏃᏍᎩᏍᏗ ᎤᎸᏉᏗ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏩᏘᏰᎵ ᏪᏌ ᎠᏂᏓ ᏚᎪᎮ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏩᏘᏰᎵ ᏗᎵᏰᏑᎶ ᏚᎪᎮ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᏓᏥᏪᏢᏂ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᏓᏥᏪᏢᏂ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꭾ, Ꭾ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏗᎵᏰᏑᎶ ᏙᏓᏥᏃᏍᎩᏏ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏙᏓᎬᏍᎦᎸᏂ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꭾ, Ꭾ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏗᎩᏁᏍᏗ ᎦᏙ ᏓᎦᏛᏁᎵ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏪᏌ ᎠᏂᏓ ᏂᏓᎦᏥᏪᏎᎵ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏍᏆᏛᎬᎦ ᏂᎦᏥᏪᏒᎢ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎾᎯᏳ ᏗᎵᏰᏑᎶ ᏙᏓᏥᏁᏏ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎣᏏᏊᏍ ᎢᏥᏪᏌ ᎢᏥᏓ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᎣᏏ, ᏂᎯᎾ, ᏩᏘᏰᎵ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏕᎯᎪᏩᏘᎭᏍ ᏦᎦᏤᎵ ᏧᏁᎦ ᏗᎵᏰᏑᎶ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᎥ, ᏕᏥᎪᏩᏘᎭ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᏩᏘᏰᎵ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᏧᏓᏅᎦᎸᏓ ᎠᎴ ᏧᏁᎦ, Ꮎ ᏗᎵᏰᏑᎶ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏕᏨᎩᎶᏍᎬ ᏥᎪᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏍᏕᏱᏓᎢ ᏕᏣᏛᎥᏍᎬ ᏥᎪᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏏᎵᎩ ᎬᏗ ᎨᎪᏢᏁ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᎥ, ᏏᎵᎩ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏩᏘᏰᎵ ᎤᏰᏘᏎ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏙᎲ ᏣᏰᏘᏍᎦ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᏄᏂᏪᏎ ᏪᏌ ᎠᏂᏓ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᎦᎵᎡᎵᎦᏊ," ᏄᏪᏎ ᏩᏘᏰᎵ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+Ꭾ, Ꭾ, Ꭾ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎾᎯᏳ ᏩᏘᏰᎵ ᎤᏝᏫᏛᎮᎢ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+Ꮎ ᏥᏍᏆ ᎤᏬᎵᏗ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᏄᏂᏪᏎ ᏪᏌ ᎠᏂᏓ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᏩᏘᏰᎵ ᎤᏬᎵᏗ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏩᏘᏰᎵ ᎾᎥ, ᏞᏍᏗ ᏥᏤᎾ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꮎ ᏥᏍᏆ ᎤᏲᎢ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏗᎵᏰᏑᎶ ᏧᏃᏍᎩᏍᏗ ᎤᎸᏉᏗ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏗᎵᏰᏑᎶ ᏧᏩᏍᎦᎸᏗ ᎤᎸᏉᏗ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename jpgs-a/053.jpg
+	lyxscale 10
+	width 95col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎠᎴ ᏩᏘᏰᎵ ᏗᎵᏰᏑᎶ ᏚᏃᏍᎩᏎ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎦᏙ ᎥᏍᎩᎾ ᎬᏗ ᏙᏛᏛᏁᎵ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏗᎵᏰᏑᎶ ᏙᏓᎬᏍᎦᎸᏂ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎦᏌᎾᎵ ᏗᏜ ᎤᏝᏫᏛᎮ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꮒ, ᎤᎿ ᏚᏁ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎦᏌᎾᎵᎢ ᏚᏁ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꮭ ᏙᏛᏂᎪᎯ, Ꮎ ᏪᏌ ᎠᏂᏓ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꮭ ᎡᎵᏊ ᏱᏓᏂᏩᏔ, Ꮎ ᏪᏌ ᎠᏂᏓ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename jpgs-a/010.jpg
+	lyxscale 10
+	width 95col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎠᏂᏦᎢ ᏪᏌ ᎠᏂᏓ ᏘᎪᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꭳ, ᎭᏢ ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏍᏕᏱᏓᎢᏍ ᎠᎾᏓᎠ?
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏒᏙᏂᏍ ᎤᎾᏣᎠ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꭳ, Ꮭ, ᎥᏝ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꭳ, ᎡᏥ, ᎡᏥ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏙᎩᏲᎱᏏ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꭳ! Ꭳ! Ꭳ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎦᏙ? ᏗᏣᏤᎵ ᏗᎵᏰᏑᎶ ᏕᏥᏲᎱᏏ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꭳ, ᏂᎯ ᎢᏣᏍᏗ ᎢᏥᏪᏌ ᎢᏥᏓ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏪᏌ ᎠᏂᏓ ᎠᎾᏠᏱᎮ ᎤᎾᎴᏅᎮ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎻᏳ, ᎻᏳ, ᎻᏳ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꭳ, ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏙᎩᏲᎱᏏ!
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename jpgs-a/011.jpg
+	lyxscale 10
+	width 95col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꭳ, ᎢᏥᏲᎢ ᎢᏥᏪᏌ ᎢᏥᏓ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏂᎯ ᎢᏥᏲᎢ ᎢᏥᏪᏌ ᎢᏥᏓ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏪᏌ ᎠᏂᏓ ᎠᎾᏠᏱᎮ ᎤᎾᎴᏅᎮ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏕᏥᏲᎱᏏᏍ ᏗᏣᏤᎵ ᏗᎵᏰᏑᎶ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎢᏥᏲᎢ ᎢᏥᏪᏌ ᎢᏥᏓ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎥᎥ, ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏙᎩᏲᎱᏏ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏕᏨᎩᎶᏣ ᏥᎪᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏒᏙᏂᎯᏧ ᎤᎿ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎤᏂᎧᏲᎯᏍᏗ ᏕᏣᏛᎥᎦ ᏥᎪᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏍᏕᏱᏓᎢᏧ ᎤᎿ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏕᏣᏍᎪᎵᏰᎢᎶᏣ ᏥᎪᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏗᎵᏰᏑᎶᎯ ᎣᏝ ᏕᏥᏝᎲᎦ ᏥᎪᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏕᏣᎵᏟᏓ ᏥᎪᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎭᏢ ᏃᏊ ᏗᎵᏰᏑᎶ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎻᏳ, ᎻᏳ, ᎻᏳ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꮭ ᏲᎦᏅᏔ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꭳ! Ꭳ! Ꭳ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏙᎩᏲᎱᏏ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏦᎦᏤᎵ ᏧᏁᎦ ᏏᎵᎩ ᏗᎵᏰᏑᎶ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏦᎦᏤᎵ ᏧᏓᏅᎦᎸᏓ ᏧᏁᎦ ᏗᎵᏰᏑᎶ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏗᏣᏤᎵ ᏗᎵᏰᏑᎶ ᏕᏣᎵᏏᏅᏔᏅᎭ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏗᎦᏓᎭ ᏄᎾᎵᏍᏔᏅᎾ ᎢᏣᏛᏁᎸᎭ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏞᏍᏗ ᏥᏙᏥᏲᎱᏏ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏂᎯ ᎢᏥᏲ ᎢᏥᏪᏌ ᎢᏥᏓ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎤᏂᏲ ᏪᏌ ᎠᏂᏓ Ꮭ ᏱᎦᏥᎸᏉᏙ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎨᎵᏍᏘᎩ ᎥᏝ ᏱᏓᏥᎯ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꭳ! Ꭳ! Ꭳ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎻᏳ, ᎻᏳ, ᎻᏳ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏗᎨᎵᏍᏘᎩ ᏙᏥᎸᏉᏙ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎻᏳ, ᎻᏳ, ᎻᏳ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏝᏍᎪ ᎨᎵᏍᏘᎩ ᏱᏓᏲᎩᎯ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꭳ, ᎡᏥ, ᎡᏥ, ᎡᏥ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꮎ ᎤᏲᎢ ᏩᏘᏰᎵ ᏗᎵᏰᏑᎶ ᏚᏃᏍᎩᏎ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎦᏌᎾᎵ ᏗᏜ ᎤᏝᏫᏛᎮ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏩᏘᏰᎵ ᏥᏍᏆ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎤᏃᏍᎩᏍᏗ ᎤᎸᏉᏗ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎤᏩᏍᎦᎸᏗ ᎤᎸᏉᏗ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename jpgs-a/012.jpg
+	lyxscale 10
+	width 95col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎠᏂᏦᎢ ᎤᏍᏗ ᏪᏌ ᎠᏂᏓ,
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏧᎾᏤᎵ ᏗᎵᏰᏑᎶ ᏚᏂᏲᎱᏎᎴ,
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎠᎴ ᎠᎾᏠᏱᎮ ᎠᎾᎴᏅᎮ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꭳ, ᎡᏥ ᎡᏥ, ᎡᏆ ᎣᏥᏍᎦᎭ,
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏙᎩᏲᎱᏏ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎦᏙ, ᏗᏣᏤᎵ ᏗᎵᏰᏑᎶ ᏕᏥᏲᎱᏏ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏂᎯ ᎢᏥᏲᎢ ᎢᏥᏪᏌ ᎢᏥᏓ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎾᎯᏳ ᎨᎵᏍᏘᎩ Ꮭ ᏱᏙᏓᏥᎯ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename jpgs-a/013.jpg
+	lyxscale 10
+	width 95col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏙᏥᏯᎷᎦ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᎥ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏄᏂᏪᏎ ᏪᏌ ᎠᏂᏓ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᏙᏓᏲᎩᏯᎸᏏ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎭᏢ ᏦᎩᏯᎸᏍᏗ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎭᏢ ᏦᎩᏯᏍᏗ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏒᏙᏂᎯᏍ ᏙᎩᏯᎸᏒᎭ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏍᏕᏱᏓᎢᏍ ᏙᎩᏯᎸᏒᎭ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎥᏝ ᏒᏙᏂᎯ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎥᏝ ᏍᏕᏱᏓᎢ ᏯᎾᏓᎠ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꭳ, ᎭᏢ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎭᏢ ᏦᎩᏯᎸᏍᏗ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꮒ, ᎤᎿ ᏩᏘᏰᎵ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꮒ, ᎤᏰᏘᏍᎦ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎤᎿ ᏗᎵᏰᏑᎶ ᎤᏅᏔ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎤᏅᏔ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎤᏅᏔ!
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename jpgs-a/014.jpg
+	lyxscale 10
+	width 95col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏙᏥᏯᎷᎦ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᎠᏎ ᏦᎩᏩᏛᏗ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏦᎦᏤᎵ ᏧᏁᎦ ᏏᎵᎩ ᏗᎵᏰᏑᎶ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏒᏙᏂᎯᏍ ᏙᏓᏲᏥᏩᏛᎯ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎥᏝ ᎤᎿ ᏱᏙᏓᏲᏥᏩᏛᎯ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎥᏝ ᏒᏙᏂᎯ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏍᏕᏱᏓᎢᏍ ᏙᏓᏲᏥᏩᏛᎯ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎥᏝ ᏍᏕᏱᏓᎢ ᏱᏙᏓᏲᏥᏩᏛᎯ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎥᏝ ᏍᏕᏱᏓᎢ ᏯᎾᏓᎠ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎭᏢ? ᎭᏢ? ᎭᏢ?
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎯᎠ ᎦᏍᎩᎶᎢ ᏙᏥᏯᎷᎦ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎥᏍᎩᎾ ᎥᏝ ᎠᎭᏂ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꮎ ᎦᏍᎩᎶᎢ ᏙᏥᏯᎷᎦ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎥᏝ ᎤᎿ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎠᎩᏠᏒᏍᏗᎢ ᏙᏥᏯᎷᎦ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎠᎩᏠᏒᏍᏗᎢ ᎥᏝ ᎤᎿ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꭳ, ᎭᏢ ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎥᏝ ᏒᏙᏂᎯ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎥᏝ ᏍᏕᏱᏓᎢ ᏯᎾᏓᎠ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎥᏝ ᏗᎦᏍᎩᎶᎢ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎠᎩᏠᏒᏍᏗᎢ ᎥᏝ ᎤᎿ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename jpgs-a/015.jpg
+	lyxscale 10
+	width 95col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꮒ, ᎠᎭᏂ ᎧᏁᏌᎢ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏧᎸᏗᏍ ᎧᏁᏌᎢ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏕᏥᎸᏁᏍ ᎧᏁᏌᎢ?
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎥᏝ ᏱᏙᎩᎸᎥᎦ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎦᏙ ᎠᏛᏁᏗ ᎧᏁᏌᎢ ᎤᎾᏣᎠ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎤᏲᎢ ᏂᎨᏒᎾ ᏱᏙᏥᏯᎴᎨᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎧᏁᏌᎢ ᎡᎵᏊ ᎤᎾᏣᎠ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎠᏂ ᎦᏍᎩᎶ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎦᏍᎩᎶᎢᏍ ᏗᎵᏰᏑᎶ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏕᏥᎲᎦᏍ ᎦᏍᎩᎶᎢ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎥᏝ ᏱᏗᏥᎲᎦ ᎦᏍᎩᎶ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎠᏎᏃ ᏙᏓᏥᏯᎵ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎤᏲᎢ ᏂᎨᏒᎾ ᏱᏙᏥᏯᎴᎨᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎠᏂ ᏕᎦᎵᏗ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏕᎦᎵᏗᎯᏍ ᏗᎵᏰᏑᎶ?
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎤᏲᎢ ᏂᎨᏒᎾ ᏱᏙᏥᏯᎴᎨᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏕᎦᎵᏗᎯ ᏦᏥᏲᎦ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏗᎵᏰᏑᎶ ᎥᏝ ᎤᎿ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎠᏂ ᎠᏯᏔᎾᎸᎢ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎤᎾᎩᎳᏍ ᎠᏯᏔᎾᎸ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꭳ, ᎥᏝ, ᎢᏣᏍᏗ ᎢᏥᏪᏌ ᎢᏥᏓ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎦᏙ ᎠᏛᏁᏗ ᎠᏯᏔᎾᎸ ᎤᎾᎩᎳ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꭳ ᎤᏲᎢ, ᎤᏲᎢ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎻᏳ, ᎻᏳ, ᎻᏳ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎭᏢ ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎥᏝ ᏒᏙᏂᎢ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎥᏝ ᏍᏕᏱᏓᎢ ᏯᎾᏓᎠ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎥᏝ ᏗᎦᏍᎩᎶᎢ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎥᏝ ᎧᏁᏌᎢ ᏯᎾᏯᎠ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎥᏝ ᏕᎦᎵᏗ ᏯᎾᏯᎠ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎥᏝ ᎠᏯᏔᎾᎸᎢ ᏳᎾᎩᎳ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏂᏦᏥᏩᏛᎲᎾ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎻᏳ, ᎻᏳ, ᎻᏳ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꮒ, ᏩᏘᏰᎵ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꮎ ᎤᏲ ᏩᏘᏰᎵ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎤᏅᏔ! \SpecialChar \ldots{}
+ ᎤᏅᏔ!
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename jpgs-a/067.jpg
+	lyxscale 10
+	width 95col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎤᏂᏲ ᏧᎾᏍᏗ ᏪᏌ ᎠᏂᏓ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏂᏧᏂᏩᏛᎲᎾ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏅᏩᏓᎴ ᎢᎦ ᏡᎬᎢ ᎤᏂᎸᏎ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎦᏌᎾᎵ ᎢᎦᏘ ᎢᏳᏍᏗ ᏡᎬ ᎢᎦᏘ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎪᎱᏍᏗ ᎦᏌᎾᎵᎢ ᎤᏂᎪᎮ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎪᎱᏍᏗ ᏥᎪᏩᏘᎭ!
+\begin_inset Quotes erd
+\end_inset
+
+, ᏄᏪᏎ ᎤᏂᏥ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎪᎱᏍᏗ ᎣᏥᎪᏩᏘᎭ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᏄᏂᏪᏎ ᏪᏌ ᎠᏂᏓ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏙ ᎤᏍᏗ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᏄᏪᏎ ᎤᏂᏥ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏙ ᎤᏍᏗ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᏄᏂᏪᏎ ᏪᏌ ᎠᏂᏓ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎢᏗᎪᎱᎦ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename jpgs-a/016.jpg
+	lyxscale 10
+	width 95col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎠᎴ ᏪᏌ ᎠᏂᏓ ᏡᎬ ᎡᎳᏗ ᎤᏂᎸᏎ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎦᏌᎾᎵᎢ ᎦᏚ ᎤᏂᏯᎸᏎ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎦᏙ ᎤᏍᏗ ᎮᎵᎠ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎦᏙ ᎤᏍᏗ ᎤᏂᏩᏛᎮ ᎮᎵᎠ?
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename jpgs-a/017.jpg
+	lyxscale 10
+	width 95col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏧᎾᏤᎵ ᏗᎵᏰᏑᎶ ᏚᏂᏩᏛᎮ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꮎ ᏧᏁᎦ ᏏᎵᎩ ᏗᎵᏰᏑᎶ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꮎ ᏧᏓᏅᎦᎸᏓ ᏗᎵᏰᏑᎶ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꭳ! Ꭳ! Ꭳ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎻᏳ, ᎻᏳ, ᎻᏳ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏙᎩᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꭳ, ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏙᎩᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꮒ! ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏙᎩᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏥᏥ-ᏥᏥ-Ꮵ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎻᏳ, ᎻᏳ!
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎢᏦᏍᏓ ᎢᏥᏪᏌ ᎢᏥᏓ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏄᏪᏎ ᎤᏂᏥ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎠᏃᏍᏓ ᏧᎾᏍᏗ ᏪᏌ ᎠᏂᏓ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename jpgs-a/018.jpg
+	lyxscale 10
+	width 95col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏃᏊᏃ ᏪᏌ ᎠᏂᏓ
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏧᎾᏤᎵ ᏗᎵᏰᏑᎶ ᏥᏚᏂᏩᏛᎮ,
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎠᎾᏠᏱᎮ ᎠᎾᎴᏅᎮ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꭳ, ᎡᏥ ᎡᏥ,
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꮒ! Ꮒ! ᎠᏂ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏙᏥᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏗᏥᏤᎵ ᏗᎵᏰᏑᎶ ᏗᏣᎵᏰᏑᎸᎦ,
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏂᎯ ᎢᏦᏍᏓ ᎢᏣᏍᏗ ᎢᏥᏪᏌ ᎢᏥᏓ,
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎠᎴ ᎨᎵᏍᏘᎩ ᏓᏥᎯ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎻᏳ, ᎻᏳ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎠᎴ ᎨᎵᏍᏘᎩ ᏓᏥᎯ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename jpgs-a/019.jpg
+	lyxscale 10
+	width 95col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏪᏌ ᎠᏂᏓ ᎠᎩᏠᏒᏍᏗᎢ ᎦᎸᎳᏗ ᎤᏁᏅᏎ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏪᏌ ᎠᏂᏓ ᏧᎾᏤᎵ ᏗᎵᏰᏑᎶ ᏚᎾᎵᏰᏑᎳᏁ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏃᏊ, ᏙᏓᏲᏣᎬᏍᏉᎢ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏃᏊᏃ, ᏙᏓᏲᏣᎵᏔᏬᎢ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏃᏊᏃ, ᎠᎩᏠᏒᏍᏗᎢ ᎡᎳᏗ ᏓᏲᏤᏅᏏ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename jpgs-a/020.jpg
+	lyxscale 10
+	width 95col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏙᏥᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎨᎵᏍᏘᎩ ᏓᏲᎩᎯ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏃᏊ, ᎦᏍᎩᎶᎢ ᏓᏲᏣᎵᎪᏂ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏃᏊᏃ, ᏦᎦᏤᎵ ᏗᎦᏍᎩᎶᎯ ᏙᏓᏲᏦᏟ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꭳ, ᎨᎵᏍᏘᎩ ᎠᏂ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎯᎠ ᎨᎵᏍᏘᎩ ᎣᏍᏓ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꭳ, ᎯᎠ ᎨᎵᏍᏘᎩ ᎣᏏᏊ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏩᏘᏰᎵ ᎨᎵᏍᏘᎩ ᎥᏍᏊ ᎤᎪᎮ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎨᎵᏍᏘᎩ ᎢᏍᎩᎥᏏ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏄᏪᏎ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, Ꮭ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏄᏂᏪᏎ ᏪᏌ ᎠᏂᏓ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᏣᏲᎢ ᎯᏥᏍᏆ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏕᏣᏃᏍᎩᏒ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎦᏌᎾᎵᎢ ᏕᏣᏝᏅ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏙᎩᏯᎸᏒᎢ ᏣᎪᎲ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎢᏍᎩᏰᏘᏎᎸ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎨᎵᏍᏘᎩ ᏂᏣᎲᎾ ᎨᏎᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎥᏝ, ᎥᏝ.
+ ᎨᎵᏍᏘᎩ ᏂᏣᎲᎾ ᎨᏎᏍᏗ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+​
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename jpgs-a/021.jpg
+	lyxscale 10
+	width 99text%
+	height 99theight%
+	groupId fullpage
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+ᏥᏔᎦ ᎤᏍᏗ
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{plain}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename jpgs-a/022.jpg
+	lyxscale 10
+	width 95col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎯᎠ ᏥᏔᎦ ᎤᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏥᏔᎦ ᎤᏍᏗ ᎠᎩᏏ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏥᏔᎦ ᎤᏍᏗ ᎢᎾᎨᎢ ᎤᏪᏙᎴ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎫᎴ ᎤᏬᎰᏎ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎠᏍᎪᎵ ᎦᏚ ᎤᏬᎰᏎ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꮭ ᎫᎴ ᏳᎪᎮ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏙ ᎤᏍᏗ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᏄᏪᏎ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+Ꭷ, ᎦᏙ ᎤᏍᏗ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+Ꭷ ᏅᏓ, ᎦᏙ ᎤᏍᏗ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᏄᏪᏎ ᏥᏔᎦ ᎤᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+Ꭷ ᎤᏃᎴ, ᎦᏙ ᎤᏍᏗ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᏄᏪᏎ ᏥᏔᎦ ᎤᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+Ꭷ ᏡᎬ, ᎦᏙ ᎤᏍᏗ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᏄᏪᏎ ᏥᏔᎦ ᎤᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎯᏲᎦ ᎠᎴ ᎯᎪᏩᏔ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏅᏓ ᎠᏗᏍᎩ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎯᏲᎦ ᎠᎴ ᎯᎪᏩᏔ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏃᎴ ᎠᏗᏍᎩ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎯᏲᎦ ᎠᎴ ᎯᎪᏩᏔ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏡᎬ ᎠᏗᏍᎩ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᏝ ᏱᏥᎪᏩᏘᎭ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏄᏪᏎ ᏥᏔᎦ ᎤᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏙ ᎤᏍᏗ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꮭ ᏥᏔᎦ ᎤᏍᏗ ᎪᎱᏍᏗ ᏳᎪᎮ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏙ ᎤᏍᏗ ᎨᏎ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᏄᏪᏎ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏙ ᎤᏍᏗ ᎨᏎ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꭷ ᎤᏃᎴ, ᏍᎩᏃᎮᏏ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꭷ ᏅᏓ, ᏍᎩᏃᎮᏏ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꭷ ᏡᎬ, ᏍᎩᏃᎮᏏ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎢᏍᎩᏃᎮᏏ Ꮎ ᎪᎱᏍᏗ ᎨᏎ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎾᎯᏳ ᎤᏃᎴ ᎤᏰᏘᏍᎩ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏅᏓᏃ ᎤᏰᏘᏍᎩ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏡᎬᏃ ᎤᏰᏘᏍᎩ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎸᎶ ᎨᏒ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏃᎴ ᎠᏗᏍᎩ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎸᎶ ᎨᏒ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏅᏓ ᎠᏗᏍᎩ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎸᎶ ᎨᏒ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏡᎬ ᎠᏗᏍᎩ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎸᎶ ᎪᎰᏍᎦ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏃᎴ ᎠᏗᏍᎩ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎸᎶ ᎪᎰᏍᎦ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏅᏓ ᎠᏗᏍᎩ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎸᎶ ᎪᎰᏍᎦ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏡᎬ ᎠᏗᏍᎩ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ ᎯᎠ ᎤᏲ! ᎤᏲ ᎤᏲ ᎤᏲ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᏄᏪᏎ ᏥᏔᎦ ᎤᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᎬᏫᏳᎯ ᏓᏥᏃᎮᏞᎸᏏ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎠᎴ ᎤᎬᏫᏳᎯ ᎤᏃᎮᏞᏗ ᎤᏝᏫᏛᎮ ᏥᏔᎦ ᎤᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎠᏟᏎ ᎠᎴ ᎠᏟᏎ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎦᏃᎯᎵᏎ ᎠᎴ ᎦᏃᎯᎵᏎ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎯᎠ ᎤᏲ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏄᏪᏎ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᎬᏫᏳᎯ ᏓᎨᏅᏏ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎤᎬᏫᏳᎯ ᏓᎨᏅᏏ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎤᏃᎴ ᎧᏃᎮᏍᎬᎢ ᏓᏥᏃᎮᏞᎵ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏅᏓ ᎧᏃᎮᏍᎬᎢ ᏓᏥᏃᎮᏞᎵ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏡᎬ ᎧᏃᎮᏍᎬᎢ ᏓᏥᏃᎮᏞᎵ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎤᏃᎴ ᎠᏗᏍᎩ ᎨᏒ Ꮎ ᎦᎸᎶ ᎪᎰᏍᎦ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏅᏓ ᎠᏗᏍᎩ ᎨᏒ Ꮎ ᎦᎸᎶ ᎪᎰᏍᎦ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏡᎬ ᎠᏗᏍᎩ ᎨᏒ Ꮎ ᎦᎸᎶ ᎪᎰᏍᎦ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎤᎬᏫᏳᎯ ᏓᏥᏃᎮᏞᎵ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename jpgs-a/023.jpg
+	lyxscale 10
+	width 95col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎾᎯᏳ ᏥᏔᎦ ᎤᏍᏗ ᎠᎴ ᏥᏔᎦ ᎠᎩᏏ ᏚᎾᏠᏎ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᏏᎩᏏ ᎠᎩᏏ
+\begin_inset Quotes erd
+\end_inset
+
+ ᏚᏙᎥ ᏥᏔᎦ ᎠᎩᏏ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎭᏢ ᎮᎦ, ᏥᏔᎦ ᎤᏍᏗ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᏄᏪᏎ ᏏᎩᏏ ᎠᎩᏏ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎭᏢ ᎨᎦ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎦᏙ, ᎦᏙ, ᎦᏙ!
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎦᎸᎶ ᎪᎰᏍᎦ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎤᎬᏫᏳᎯ ᏥᏃᎮᏞᎴᎦ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏙ, ᎦᏙ, ᎦᏙ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᏄᏪᏎ ᏏᎩᏏ ᎠᎩᏏ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎪ ᏣᏃᎮᏞᎴ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏃᎴ ᎠᎩᏃᎮᏏ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏅᏓᏃ ᎠᎩᏃᎮᏏ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏡᎬᏃ ᎠᎩᏃᎮᏏ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎦᏙ, ᎦᏙ, ᎦᏙ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎢᎾᎵᎪᏅᎭ ᎠᎴ ᎢᏁᏅᏒᎭ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏄᏪᏎ ᏏᎩᏏ ᎠᎩᏏ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᎬᏫᏳᎯ ᏓᏂᏃᎮᏞᎸᏏ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎦᏙ, ᎦᏙ, ᎦᏙ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎠᎴ Ꮎ ᎠᏂᏔᎵ ᎤᎾᎵᏘᏎ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename jpgs-b/024.jpg
+	lyxscale 10
+	width 95col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎾᎯᏳ Ꮎ ᎠᏂᏔᎵ ᎠᎴ ᏥᏔᎦ ᎠᏨᏯ ᏓᎾᏠᏎ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᏨᏨᏯ ᎠᏨᏯ
+\begin_inset Quotes erd
+\end_inset
+
+ ᏚᏙᎥ ᏥᏔᎦ ᎠᏨᏯ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎭᏢ ᎮᎦ, ᏥᏔᎦ ᎤᏍᏗ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎭᏢ ᎮᎦ, ᏏᎩᏏ ᎠᎩᏏ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎭᏢ ᏍᏕᎦ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᏄᏪᏎ ᏨᏨᏯ ᎠᏨᏯ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎭᏢ ᎣᏍᏕᎦ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎦᏙ, ᎦᏙ, ᎦᏙ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎦᎸᎶ ᎪᎰᏍᎦ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎤᎬᏫᏳᎯ ᎣᏍᏗᏃᎮᏞᎴᎦ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏙ, ᎦᏙ, ᎦᏙ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᏄᏪᏎ ᏨᏨᏯ ᎠᏨᏯ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎪ ᏍᏗᏃᎮᏞᎴ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏃᎴ ᎣᎩᏂᏃᎮᏏ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏅᏓᏃ ᎣᎩᏂᏃᎮᏏ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏡᎬᏃ ᎣᎩᏂᏃᎮᏏ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎦᏙ, ᎦᏙ, ᎦᏙ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᏕᏓᎵᎪᏅᎭ ᎠᎴ ᎢᏕᏅᏒᎭ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏄᏪᏎ ᏨᏨᏯ ᎠᏨᏯ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏙ, ᎦᏙ, ᎦᏙ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎠᎴ Ꮎ ᎠᏂᏦᎢ ᎤᎾᎵᏘᏎ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename jpgs-b/025.jpg
+	lyxscale 10
+	width 99text%
+	height 99theight%
+	groupId fullpage
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎾᎯᏳ Ꮎ ᎠᏂᏦᎢ ᎠᎴ ᎧᏬᏄ ᏓᎾᏠᏎ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᏌᏬᏄ ᎧᏬᏄ
+\begin_inset Quotes erd
+\end_inset
+
+ ᏚᏙᎥ ᎧᏬᏄ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎭᏢ ᎮᎦ, ᏥᏔᎦ ᎤᏍᏗ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎭᏢ ᎮᎦ, ᏏᎩᏏ ᎠᎩᏏ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎭᏢ ᎮᎦ, ᏨᏨᏯ ᎠᏨᏯ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎭᏢ ᎢᏤᎦ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᏄᏪᏎ ᏌᏬᏄ ᎧᏬᏄ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎭᏢ ᎣᏤᎦ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎦᏙ, ᎦᏙ, ᎦᏙ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎦᎸᎶ ᎪᎰᏍᎦ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎤᎬᏫᏳᎯ ᎣᏥᏃᎮᏞᎴᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎾᎯᏳ Ꮎ ᏅᎩ ᎠᎴ ᏌᏌ ᏓᎾᏠᏎ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᏏᏏ ᏌᏌ
+\begin_inset Quotes erd
+\end_inset
+
+ ᏚᏙᎥ ᏌᏌ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎦᎸᎶ ᎪᎰᏍᎦ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎤᎬᏫᏳᎯ ᎣᏥᏃᎮᏞᎴᎦ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎦᎸᎶ ᎪᎰᏍᎦ ᎤᎬᏫᏳᎯ ᎯᎠ ᎣᏥᏃᎮᏞᎴᎦ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏙ, ᎦᏙ, ᎦᏙ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᏄᏪᏎ ᏏᏏ ᏌᏌ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎪ ᎢᏥᏃᎮᏞᎴ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏃᎴ ᎣᎩᏃᎮᏏ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏅᏓᏃ ᎣᎩᏃᎮᏏ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏡᎬᏃ ᎣᎩᏃᎮᏏ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎦᏙ, ᎦᏙ, ᎦᏙ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᏕᏓᎵᎪᏅᎭ ᎠᎴ ᎢᏕᏅᏒᎭ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏄᏪᏎ ᏏᏏ ᏌᏌ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏙ, ᎦᏙ, ᎦᏙ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎠᎴ Ꮎ ᎯᏍᎩ ᎤᎾᎵᏘᏎ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎾᎯᏳ Ꮎ ᎯᏍᎩ ᎠᎴ ᎬᎾ ᏓᎾᏠᏎ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎬᏌ ᎬᎾ
+\begin_inset Quotes erd
+\end_inset
+
+ ᏚᏙᎥ ᎬᎾ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎭᏢ ᎮᎦ, ᏥᏔᎦ ᎤᏍᏗ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎭᏢ ᎮᎦ, ᏏᎩᏏ ᎠᎩᏏ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎭᏢ ᎮᎦ ᏨᏨᏯ ᎠᏨᏯ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎭᏢ ᎮᎦ ᏌᏬᏄ ᎧᏬᏄ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎭᏢ ᎮᎦ ᏏᏏ ᏌᏌ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎭᏢ ᎢᏤᎦ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᏄᏪᏎ ᎬᏌ ᎬᎾ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎾᎯᏳ Ꮎ ᏑᏓᎵ ᎠᎴ ᎤᏲᏏᏍᎬᎢ ᏧᏟ ᏓᎾᏠᏎ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᏧᎳ ᏧᏟ
+\begin_inset Quotes erd
+\end_inset
+
+ ᏚᏙᎥ ᏧᏟ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎭᏢ ᎢᏤᎦ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᏄᏪᏎ ᏧᎳ ᏧᏟ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎭᏢ ᎣᏤᎦ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎦᏙ, ᎦᏙ, ᎦᏙ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎦᎸᎶ ᎪᎰᏍᎦ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎤᎬᏫᏳᎯ ᎣᏥᏃᎮᏞᎴᎦ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏙ, ᎦᏙ, ᎦᏙ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᏄᏪᏎ ᏧᎳ ᏧᏟ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎪ ᎢᏥᏃᎮᏞᎴ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎤᏃᎴ ᎣᎩᏃᎮᏏ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏅᏓᏃ ᎣᎩᏃᎮᏏ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏡᎬᏃ ᎣᎩᏃᎮᏏ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᏕᏓᎵᎪᏅᎭ ᎠᎴ ᎢᏕᏅᏒᎭ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏄᏪᏎ ᏧᎳ ᏧᏟ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎠᎴ Ꮎ ᎦᎵᏉᎩ ᎤᎾᎵᏘᏎ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎢᏓᎵᎪᎲᎦ ᎠᎴ ᎢᏕᎾ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏄᏪᏎ ᏧᎳ ᏧᏟ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᏄᏍᏗ ᎢᏨᎪᏛᏗᎭ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᎥ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏄᏪᏎ ᏥᏔᎦ ᎤᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᎥ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏄᏪᏎ ᏏᎩᏏ ᎠᎩᏏ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᎥ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏄᏪᏎ ᏨᏨᏯ ᎠᏨᏯ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᎥ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏄᏪᏎ ᏌᏬᏄ ᎧᏬᏄ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᎥ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏄᏪᏎ ᏏᏏ ᏌᏌ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᎥ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏄᏪᏎ ᎬᏌ ᎬᎾ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᏓᏓᎵᎪᏂ ᎠᎴ ᏓᏕᏅᏏ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏄᏍᏗ ᎢᏍᎩᎪᏩᏛᏓ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎠᎴ ᏥᏔᎦ ᎤᏍᏗ, ᏏᎩᏏ ᎠᎩᏏ, ᏨᏨᏯ ᎠᏨᏯ, ᏌᏬᏄ ᎧᏬᏄ, ᏏᏏ ᏌᏌ, ᎠᎴ ᎬᏌ ᎬᎾ ᏚᏘᏅᏎ ᏧᎳ ᏧᏟ ᎢᎾᎨᎢ ᎠᏰᎵ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename jpgs-a/024.jpg
+	lyxscale 10
+	width 95col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏧᎳ ᏧᏟ ᎤᏤᎵ ᎤᏍᏓᎦᎸᎢ ᎢᎾᎨᎢ ᎠᏰᎵ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꮎ ᎤᏍᏓᎦᎸ ᏧᏪᏅᏒᎢ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎤᏍᏓᎦᎸᎢ ᏚᏘᏅᏎ, ᏥᏔᎦ ᎤᏍᏗ ᎠᎴ ᏧᎾᎵ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ! Ꭳ! Ꭳ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᏍᏓᏯ ᏄᏂᏪᏎ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename jpgs-a/025.jpg
+	lyxscale 10
+	width 95col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Quotes eld
+\end_inset
+
+ᎭᏢ ᎤᎬᏫᏳᎯ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎤᏲᏏᎬᎢ ᏧᏟ ᎤᏰᏘᏎ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꭳ, ᎤᏲ ᎤᏬᎵᏗ ᏥᏔᎦ ᎤᏍᏗ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꭳ, ᎤᏲ ᎤᏬᎵᏗ ᏏᎩᏏ ᎠᎩᏏ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꭳ, ᎤᏲ ᎤᏬᎵᏗ ᏨᏨᏯ ᎠᏨᏯ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꭳ, ᎤᏲ ᎤᏬᎵᏗ ᏌᏬᏄ ᎧᏬᏄ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꭳ, ᎤᏲ ᎤᏬᎵᏗ ᏏᏏ ᏌᏌ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+Ꭳ, ᎤᏲ ᎤᏬᎵᏗ ᎬᏌ ᎬᎾ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎠᎴ ᎤᏲᎢ ᏧᏟ ᎤᏰᏘᏏᎶᎡ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+%}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Creative Commons
+\end_layout
+
+\begin_layout Standard
+
+\size small
+This work is licensed under the 
+\noun on
+Creative Commons Attribution-Share Alike 3.0 United States License
+\noun default
+.
+ To view a copy of this license, visit 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://creativecommons.org/licenses/by-sa/3.0/us/
+\end_layout
+
+\end_inset
+
+ or send a letter to Creative Commons, 171 Second Street, Suite 300, San
+ Francisco, California, 94105, USA.
+\end_layout
+
+\begin_layout Subsection*
+In Summary:
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+The summary is not the license.
+ It is simply a handy reference for understanding the license and as such,
+ has no legal value.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size small
+You are free:
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+to Share — to copy, distribute, and transmit the work.
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+to Remix — to adapt the work.
+\end_layout
+
+\begin_layout Standard
+
+\size small
+Under the following conditions:
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+Attribution — You must attribute the work in the manner specified by the
+ author or licensor (but not in any way that suggests that they endorse
+ you or your use of the work).
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+Share Alike — If you alter, transform, or build upon this work, you may
+ distribute the resulting work only under the same or similar license to
+ this one.
+\end_layout
+
+\begin_layout Standard
+
+\size small
+With the understanding that:
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+Waiver — Any of the above conditions can be waived if you get permission
+ from the copyright holder.
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+Other Rights — In no way are any of the following rights affected by the
+ license:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\size small
+Your fair dealing or fair use rights;
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+Apart from the remix rights granted under this license, the author's moral
+ rights;
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+Rights other persons may have either in the work itself or in how the work
+ is used, such as publicity or privacy rights.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\size small
+Notice — For any reuse or distribution, you must make clear to others the
+ license terms of this work.
+ The best way to do this is with a link to 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://creativecommons.org/licenses/by-sa/3.0/us/
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{sloppy}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

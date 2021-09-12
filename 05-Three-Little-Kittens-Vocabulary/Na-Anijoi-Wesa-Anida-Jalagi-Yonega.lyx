@@ -1,0 +1,9960 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass extbook
+\begin_preamble
+\usepackage{multicol}%
+\usepackage{wallpaper}%
+%
+\end_preamble
+\use_default_options false
+\begin_modules
+fixltx2e
+\end_modules
+\maintain_unincluded_children false
+\language american
+\language_package default
+\inputencoding utf8-plain
+\fontencoding global
+\font_roman FreeSerif
+\font_sans FreeSans
+\font_typewriter FreeMono
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics none
+\default_output_format pdf4
+\output_sync 1
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref true
+\pdf_title "Ꮎ ᎠᏂᏦᎢ ᏪᏌ ᎠᏂᏓ ᎠᎴ ᏥᏔᎦ ᎤᏍᏗ / ᏣᎳᎩ-ᏲᏁᎦ ᏗᏕᏠᏆᏍᏙᏗ"
+\pdf_author "Michael Joyner"
+\pdf_subject "Cherokee Language"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered true
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 2
+\pdf_breaklinks true
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\pdf_quoted_options "unicode=true,hypertexnames=false"
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 0
+\branch smashwords
+\selected 0
+\filename_suffix 0
+\color #faf0e6
+\end_branch
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 0.7in
+\topmargin 0.7in
+\rightmargin 0.6in
+\bottommargin 0.7in
+\secnumdepth -1
+\tocdepth 1
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle fancy
+\bullet 0 0 8 5
+\bullet 1 0 0 5
+\bullet 2 0 6 5
+\bullet 3 0 10 5
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict true
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{sloppy}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+frontmatter{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Title
+Ꮎ ᎠᏂᏦᎢ ᏪᏌ ᎠᏂᏓ ᎠᎴ ᏥᏔᎦ ᎤᏍᏗ
+\begin_inset Newline newline
+\end_inset
+
+ᏣᎳᎩ-ᏲᏁᎦ ᏗᏕᏠᏆᏍᏙᏗ
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+The Three Kittens and Chicken Little
+\begin_inset Newline newline
+\end_inset
+
+Cherokee-English Dictionary
+\end_layout
+
+\begin_layout Author
+Michael W S Joyner
+\end_layout
+
+\begin_layout Date
+Companion Vocabulary and Grammatical Forms
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ꮎ ᎠᏂᏦᎢ ᏪᏌ ᎠᏂᏓ ᎠᎴ ᏥᏔᎦ ᎤᏍᏗ / ᏣᎳᎩ-ᏲᏁᎦ ᏗᏕᏠᏆᏍᏙᏗ
+\end_layout
+
+\begin_layout Standard
+The Three Kittens and Chicken Little / Cherokee-English Dictionary
+\end_layout
+
+\begin_layout Standard
+\begin_inset Branch smashwords
+status collapsed
+
+\begin_layout Standard
+Published by Michael Joyner at Smashwords
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Copyright 2016, Michael Joyner
+\end_layout
+
+\begin_layout Standard
+ISBN: 978-1-329-93441-2
+\end_layout
+
+\begin_layout Standard
+This work is licensed under the 
+\noun on
+Creative Commons Attribution-Share Alike 3.0 United States License
+\noun default
+.
+\end_layout
+
+\begin_layout Standard
+$Revision: 1.14 $
+\end_layout
+
+\begin_layout Standard
+$Date: 2016/02/28 18:59:23 $ UTC
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+mainmatter{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Vocabulary
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{plain}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Ꭰ
+\end_layout
+
+\begin_layout Description
+ᎠᎢ [a³ɂi] (vi)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11ae7"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is walking.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎦᎢ [ga³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎠᎢᏒᎢ [a³ɂi²sv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎠᎢᏐᎢ [a³ɂi²so³ɂi]
+\end_layout
+
+\begin_layout Description
+-----
+\end_layout
+
+\begin_layout Description
+-----
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᎧᏲᏍᎦ [ạ²ka²hyo³sga] (vi) 
+\begin_inset Quotes eld
+\end_inset
+
+It is drying out.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏥᎧᏲᏍᎦ [jị²ka²hyo³sga]
+\end_layout
+
+\begin_layout Description
+ᎤᎧᏲᏒᎢ [u²ka²hyo³sv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎠᎧᏲᏍᎪᎢ [ạ²ka²hyo³sgo³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎯᎧᏲᎯ [hị²ka²hyo³hi]
+\end_layout
+
+\begin_layout Description
+ᎤᎧᏲᎯᏍᏗ [u²ka²hyo³hịsdi]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᎧᏲᏗᎭ [ạ²ka²hyọh³dị²ha] (vt) 
+\begin_inset Quotes eld
+\end_inset
+
+He is drying it out.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏥᎧᏲᏗᎭ [jị²ka²hyọh³dị²ha]
+\end_layout
+
+\begin_layout Description
+ᎤᎧᏲᏔᏅᎢ [u²ka²hyọh³tạnv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎠᎧᏲᏗᏍᎪᎢ [ạ²ka²hyọh³dị²sgo³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎯᎧᏲᏓ [hị²ka²hyọh³da]
+\end_layout
+
+\begin_layout Description
+ᎤᎧᏲᏙᏗ [u²ka²hyọh³doh²di]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᎦᎵᎭ [a¹ga³lị²ha] (vi)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11a69"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+It (the sun or moon) is shining.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+-----
+\end_layout
+
+\begin_layout Description
+ᎤᎦᎵᏒᎢ [u¹ga³li²sv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎠᎦᎵᏍᎪᎢ [a¹ga³li²sgo³ɂi]
+\end_layout
+
+\begin_layout Description
+ᏩᎦᎵᎯ [wạ¹ga³li²hi]
+\end_layout
+
+\begin_layout Description
+ᎤᎦᎵᎯᏍᏗ [u²ga²li²³hị³sdi]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᎨᏳᏣ [ạ²ge²hyu⁴ja] (n)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11a77"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Girl.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᏂᎨᏳᏣ [ạ²ni²ge²hyu⁴ja]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᎩᏏ [ạ²gi²³si] (n)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11a80"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Female.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᏂᎩᏏ [ạ²ni²gi²³si]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᎩᏠᏒᏍᏗᎢ [ạ²kị²hlọ³sv¹sdi⁴ɂi] (n)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11b02"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Steps.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏗᎩᏠᏒᏍᏗᎢ [di²kị²hlọ³sv¹sdi⁴ɂi]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᎪᏩᏘᎭ [a¹gowh²tị³ha] (vt)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11a89"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He sees him.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏥᎪᏩᏘᎭ,
+\begin_inset space ~
+\end_inset
+
+ᏥᎪᏩᏘᎭ [ji²gowh¹tị³ha, jị²gowh¹tị²ha]
+\end_layout
+
+\begin_layout Description
+ᎤᎪᎲᎢ [u¹go²hv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎠᎪᏩᏘᏍᎪᎢ [a¹gowh²ti²³sgọ³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎯᎪᏩᏔ,
+\begin_inset space ~
+\end_inset
+
+ᎯᎪᏩᏔ [hi²go¹wah²ta, hị²go²hwah²ta]
+\end_layout
+
+\begin_layout Description
+ᎤᎪᏩᏛᏗ [u²gowh²tvh³di]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᎪᏩᏛᏗᎭ [a¹gowh²tvh²dị³ha] (vt)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11a8b"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is showing it to him.; He is causing him to see it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏥᎪᏩᏛᏗᎭ [ji²gowh¹tvh²dị³ha]
+\end_layout
+
+\begin_layout Description
+ᎤᎪᏩᏛᏔᏅᎢ [u¹gowh²tvh²tạ²nv³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎠᎪᏩᏛᏗᏍᎪᎢ [a¹gowh²tvh²di²³sgọ³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎯᎪᏩᏛᏓ [hi²gowh¹tvh²da]
+\end_layout
+
+\begin_layout Description
+ᎤᎪᏩᏛᏙᏗ [u²gowh²tvh²doh³di]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᎬᏍᏉᎠ [a¹gv²sgwo³ɂa] (vi)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11a93"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is washing his face
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎦᎬᏍᏉᎠ [gạ²gv¹sgwo³ɂa]
+\end_layout
+
+\begin_layout Description
+ᎤᎬᏍᏉᎥᎢ [u¹gv²sgwo³ɂv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎠᎬᏍᏉᏍᎪᎢ [a¹gv²sgwo³sgo³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎭᎬᏍᏉᏣ [hạ²gv²sgwo²³ja]
+\end_layout
+
+\begin_layout Description
+ᎤᎬᏍᏉᏍᏗ [u²gv²sgwo¹sdi]
+\end_layout
+
+\end_deeper
+\begin_layout Section
+ᎠᎭᏂ
+\end_layout
+
+\begin_layout Description
+ᎠᎭᏂ,
+\begin_inset space ~
+\end_inset
+
+ᎠᏂ [ạ³hạ²ni, ạ³hni] (part)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11a97"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Here.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎠᎲᏍᎦ [a¹hṿ³sga] (vt) 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11aca"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is setting it down.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏥᎥᏍᎦ [jị²ɂṿ³sga]
+\end_layout
+
+\begin_layout Description
+ᎤᏅᎢ [u¹hnv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎠᎲᏍᎪᎢ [a¹hṿ²sgo³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎯᎲᎦ [hị²hv¹ga]
+\end_layout
+
+\begin_layout Description
+ᎤᏗ [u²hdi]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᎴ [ạ²le] (part)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11b2e"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+And.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎠᎴᏂᎭ [a¹le²nị³ha] (vi)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11b33"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is starting.; He is beginning.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎦᎴᏂᎠ [gạ²le²ni³ɂa]
+\end_layout
+
+\begin_layout Description
+ᎤᎴᏅᎲᎢ [u¹le²nv²hv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎠᎴᏂᏍᎪᎢ [a¹le²ni²³sgọ³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎭᎠᎾ [hạ²le²³na]
+\end_layout
+
+\begin_layout Description
+ᎤᎴᏅᏗ [u²lenh²di]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᎵᎮᎵᎦ [a¹li²he²³li³²ga] (vi) 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11b39"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is happy.; He is thankful.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎦᎵᎡᎵᎦ [gạ²lị²ɂe²³li³²ga]
+\end_layout
+
+\begin_layout Description
+ᎤᎵᎮᎵᏣᎢ [u¹li²he²³li³²jv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎠᎵᎮᎵᎪᎢ [a¹l²ihe²³li³²go³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎭᎵᎮᎵᎩ [hạ²li²he²li¹gi]
+\end_layout
+
+\begin_layout Description
+ᎤᎵᎮᎵᏍᏗ [u²li²he²lị³sdi]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᎵᏍᏕᎵᎭ [al¹sde²lị³ha] (vi)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11b48"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is helping.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎦᎵᏍᏕᎵᎭ [gạ²li¹sde²lị³ha]
+\end_layout
+
+\begin_layout Description
+ᎤᎵᏍᏕᎸᎲᎢ [ul¹sde²lv²hv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎠᎵᏍᏕᎵᏍᎪᎢ [al¹sde²li²³sgọ³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎭᎵᏍᏕᎳ [hal²sde²³la]
+\end_layout
+
+\begin_layout Description
+ᎤᎵᏍᏕᎸᏗ [ul²sdehl²di]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᎵᏔᏬᎠ [ahl¹tạ²wo³ɂa] (vt)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11ab3"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is combing his hair.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎦᎵᏔᏬᎠ [gạ²li¹tạ²wo³ɂa]
+\end_layout
+
+\begin_layout Description
+ᎤᎵᏔᏬᎥᎢ [uhl¹tạ²wo³ɂv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎠᎵᏔᏬᏍᎪᎢ [ahl¹tạ²wo³sgo³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎭᎵᏔᏬᏣ [hahl²tạ²wo²³ja]
+\end_layout
+
+\begin_layout Description
+ᎤᎵᏔᏬᏍᏗ [uhl²tạ²wo¹sdi]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᎵᏘᎠ [a¹lị²ti³ɂa] (vi)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11b3c"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is running away.; He is escaping.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎦᎵᏘᎠ [gạ²li¹ti³ɂa]
+\end_layout
+
+\begin_layout Description
+ᎤᎵᏘᏒᎢ [u¹lị²ti³sv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎠᎵᏘᏍᎪᎢ [a¹lị²ti³sgo³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎭᎵᏘ [hạ²lị²ti]
+\end_layout
+
+\begin_layout Description
+ᎤᎵᏘᏍᏗ [u²lị²ti¹sdi]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᎵᏟᎭ [a¹lị²dlị³ha] (vi)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11b34"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+It is boiling.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+-----
+\end_layout
+
+\begin_layout Description
+ᎤᎵᏢᎲᎢ [u¹lị²dlv²hv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎠᎵᏟᏍᎪᎢ [a¹lị²dli²³sgọ³ɂi]
+\end_layout
+
+\begin_layout Description
+ᏩᎵᏝ [wa¹lị²dla]
+\end_layout
+
+\begin_layout Description
+ᎤᎵᏟᏗ [u²lihl²di]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᎵᏟᏗᎭ [a¹lị²dlị³di²ha] (vt) 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11b34-1"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is boiling it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎦᎵᏟᏗᎭ [ga²lị²dlị³di²ha]
+\end_layout
+
+\begin_layout Description
+ᎤᎵᏢᏓᏅᎢ [u¹lị²dlv²dạ²nv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎠᎵᏟᏍᏗᏍᎪᎢ [a¹lị²dli²³sdi²sgọ³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎭᎵᏟᏓ [a¹lị²hlda]
+\end_layout
+
+\begin_layout Description
+ᎤᎵᏟᏙᏗ [u²lihl²do²di]
+\end_layout
+
+\end_deeper
+\begin_layout Section
+ᎠᎵᏰᏑᎶ
+\end_layout
+
+\begin_layout Description
+ᎠᎵᏰᏑᎶ [ạ²lị²ye¹su²lo] (n)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11b3d"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+A glove.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏗᎵᏰᏑᎶ [di²lị²ye¹su²lo]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᎾᎵᎪᎲᏍᎦ [a¹nạ²li³go²hṿ³sga] (vi)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11b66"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+They are getting together.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎣᏣᎵᎪᎲᏍᎦ [o¹jạ²li³go²hṿ³sga]
+\end_layout
+
+\begin_layout Description
+ᎤᎾᎵᎪᏅᎢ [u¹nạ²li³go²hnv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎠᎾᎵᎪᎲᏍᎪᎢ [a¹nạ²li³go²hṿ²sgo³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎢᏣᎵᎪᎲᎦ [i¹jạ²li¹go²hv¹ga]
+\end_layout
+
+\begin_layout Description
+ᎤᎾᎵᎪᏗ [u²nạ²li¹kdi]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᏁᎭ [a¹hnẹ²ha] (vt)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11aba"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is giving it to him.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏥᏁᎭ [ji¹nẹ²ha]
+\end_layout
+
+\begin_layout Description
+ᎤᏁᎸᎢ [u¹hne²³lv³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎠᏁᎰᎢ [a¹hne²³họ³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎯᎥᏏ [hị²ɂṿ²si]
+\end_layout
+
+\begin_layout Description
+ᎤᏁᏗ [u²hneh³di]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᏁᏟᏗᎭ [a³nehl²dị³ha] (vt)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11b68"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is attempting it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎦᏁᏟᏗᎭ [ga³nehl²dị³ha]
+\end_layout
+
+\begin_layout Description
+ᎤᏁᏟᏔᏅᎢ [u³nehl²tạ³nv³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎠᏁᏟᏗᏍᎪᎢ [a³nehl²di²³sgọ³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎭᏁᏟᏓ [ha¹nehl²da]
+\end_layout
+
+\begin_layout Description
+ᎤᏁᏟᏙᏗ [u¹nehl²³doh²di]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᏍᎦᎭ [a¹sga³²ha] (vi)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11b90"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is afraid.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏥᏍᎦᎭ [ji¹sga³²ha]
+\end_layout
+
+\begin_layout Description
+ᎤᏍᎦᎸᎢ [u¹sga³lv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎠᏍᎦᎰᎢ [a¹sga³ho³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎯᏍᎦᏯ [hị²sga²³ya]
+\end_layout
+
+\begin_layout Description
+ᎤᏍᎦᏍᏗ [u²sga¹sdi]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᏍᎪᎵ [ạ²sko⁴li] (n) 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11bb3"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+His head.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏗᏂᏍᎪᎵ [dị²nị²sgo⁴li]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᏍᎪᎵᏰᎠ [a¹sgo²li²³yẹ³ɂa] (vt)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11b9d"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is rubbing it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏥᏯᏍᎪᎵᏰᎠ,
+\begin_inset space ~
+\end_inset
+
+ᎦᏍᎪᎵᏰᎠ [ji²ya¹sgo²li²³yẹ³ɂa, ga¹sgo²li²³yẹ³ɂa]
+\end_layout
+
+\begin_layout Description
+ᎤᏍᎪᎵᏰᎥᎢ [u¹sgo²li²³yẹ³ɂv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎠᏍᎪᎵᏰᏍᎪᎢ [a¹sgo²li²³ye³²sgo³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎯᏯᏍᎪᎵᏯ,
+\begin_inset space ~
+\end_inset
+
+ᎭᏍᎪᎵᏯ [hi²ya¹sgo²li²³ya, ha²sgo²li²³ya]
+\end_layout
+
+\begin_layout Description
+ᎤᏍᎪᎵᏰᏗ [u²sgo²li²³ye³²di]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᏍᏕᎵᎭ [a¹sde²lị³ha] (vt)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11b7d"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is helping him.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏥᏍᏕᎵᎭ [ji¹sde²lị³ha]
+\end_layout
+
+\begin_layout Description
+ᎤᏍᏕᎸᎲᎢ [u¹sde²lv²hv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎠᏍᏕᎵᏍᎪᎢ [a¹sde²li²³sgọ³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎯᏍᏕᎳ [hi¹sde²³la]
+\end_layout
+
+\begin_layout Description
+ᎤᏍᏕᎸᏗ [u²sdehl²di]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᏓ [ạɂ⁴da] (n)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_119fb"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+A young animal (born in litter or hatched only).
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᏂᏓ [ạ²ni⁴da]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᏗᎭ [a¹dị²ha] (vt)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11a45"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is saying it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎦᏗᎠ [gạ²di³ɂa]
+\end_layout
+
+\begin_layout Description
+ᎤᏛᏅᎢ [u¹dv²hnv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎠᏗᏍᎪᎢ [a¹di²³sgọ³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎭᏓ [hạ²da]
+\end_layout
+
+\begin_layout Description
+ᎤᏘᏗ [u²tdi]
+\end_layout
+
+\end_deeper
+\begin_layout Section
+ᎠᏘᏂ
+\end_layout
+
+\begin_layout Description
+ᎠᏘᏂ [a¹tị³hni] (vt)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11bdf"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is leading him.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏥᏯᏘᏂ [ji²ya¹tị³hni]
+\end_layout
+
+\begin_layout Description
+ᎤᏘᏅᏒᎢ [u¹tị²hnv³sv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎠᏘᏁᎪᎢ [a¹tị²hne³go³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎯᏯᏘᏄᎦ [hi²ya¹tị²hnu¹ga]
+\end_layout
+
+\begin_layout Description
+ᎤᏘᏅᏍᏗ [u²tị²hnv¹sdi]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᏛᎩᎠ [a¹tv²gi³ɂa] (vt)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11bf3"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He hears it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏥᏯᏛᎩᎠ,
+\begin_inset space ~
+\end_inset
+
+ᎦᏛᎩᎠ [ji²ya¹tv²gi³ɂa, ga¹tv²gi³ɂa]
+\end_layout
+
+\begin_layout Description
+ᎤᏛᎦᏅᎢ [u¹tv²ga³²nv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎠᏛᎩᏍᎪᎢ [a¹tv²gi³sgo³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎯᏯᏛᎬᎦ,
+\begin_inset space ~
+\end_inset
+
+ᎭᏛᎬᎦ [hi²ya¹tv²gv¹ga, hạ²tv²gv¹ga]
+\end_layout
+
+\begin_layout Description
+ᎤᏛᎪᏗ [u²tv²³go³²di]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᏛᏁᎭ [a¹dv³nẹ²ha] (vt)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11a63"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He's doing it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎦᏛᏁᎭ [gạ²dv²nẹ²ha]
+\end_layout
+
+\begin_layout Description
+ᎤᏛᏁᎸᎢ [u¹dv³ne²lv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎠᏛᏁᎰᎢ [a¹dv³ne²ho³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎭᏛᎦ [hạ²dv¹ga]
+\end_layout
+
+\begin_layout Description
+ᎤᏛᏁᏗ [u²dvnh¹di]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᏝᎲᏍᎦ [a¹lhlạ²hṿ³sga] (vt)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11aa2"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is placing it on something.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏥᏝᎲᏍᎦ [ji¹hlạ²hṿ³sga]
+\end_layout
+
+\begin_layout Description
+ᎤᏝᏅᎢ [u¹hlạ²hnv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎠᏝᎲᏍᎪᎢ [a¹hlạ²hṿ³sgọ³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎯᏝᎲᎦ [hị²hlạ²hv¹ga]
+\end_layout
+
+\begin_layout Description
+ᎤᏠᏗ [u²hloh²di]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᏝᏫᏗᎭ [a¹hlạ²wi²dị³ha] (vi)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11aa3"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+It is flying away.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎦᏜᏫᏗᎭ [gạ²dlạ²wi²dị³ha]
+\end_layout
+
+\begin_layout Description
+ᎤᏝᏫᏛᎲᎢ [u²hlạ²wi²dv²hv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎠᏝᏫᏗᏍᎪᎢ [a¹hla²wi²di²³sgọ³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎭᏝᏫᏓ [hạ²hlạ²wi²³da]
+\end_layout
+
+\begin_layout Description
+ᎤᏝᏫᏘᏗ [u²hlạ²wi²tdi]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᏟ [a¹tli] (vi)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11be2"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is running.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎦᏗᏟ [gạ²di¹tli]
+\end_layout
+
+\begin_layout Description
+-----
+\end_layout
+
+\begin_layout Description
+ᎠᏟᏐᎢ [a¹tli³so³ɂi]
+\end_layout
+
+\begin_layout Description
+-----
+\end_layout
+
+\begin_layout Description
+-----
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᏠᏱᎭ [a¹dlo²hyị³ha] (vi)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11a5b"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is crying.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎦᏠᏱᎭ [gạ²dlo¹yị³ha]
+\end_layout
+
+\begin_layout Description
+ᎤᏠᎸᎢ [u¹dlo²hyị³lv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎠᏠᏱᎰᎢ [a¹dlo²hyị³họ³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎭᏠᏱᎦ [hạ²dloyh²ga]
+\end_layout
+
+\begin_layout Description
+ᎤᏠᏱᏍᏗ [u²dloy²sdi]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᏧᏣ [ạ²chu⁴ja] (n)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_119f8"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+A boy.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᏂᏧᏣ [ạ²ni²chu⁴ja]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᏨᏯ [ạ²chv²ya] (n)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_119f9"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Male.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᏂᏨᏯ [ạ²ni²chv²ya]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᏩᏘᎭ [a¹hwah²tị³ha] (vt)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11acb"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is finding it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏥᏩᏘᎭ [ji¹wah²tị³ha]
+\end_layout
+
+\begin_layout Description
+ᎤᏩᏛᎲᎢ [u¹hwah²tv²hv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎠᏩᏘᏍᎪᎢ [a¹hwah²ti²³sgọ³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎯᏩᏔ,
+\begin_inset space ~
+\end_inset
+
+ᎯᏩᏔ [hi¹wah²ta, hị²hwah²ta]
+\end_layout
+
+\begin_layout Description
+ᎤᏩᏛᏗ [u²hwah²tvh²di]
+\end_layout
+
+\end_deeper
+\begin_layout Section
+ᎠᏯᎴᎦ
+\end_layout
+
+\begin_layout Description
+ᎠᏯᎴᎦ [a¹hyạ²le³ga] (vt) 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11ada-2"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is hunting (going and looking) for it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏥᏯᎴᎦ [ji²yạ²le³ga]
+\end_layout
+
+\begin_layout Description
+ᎤᏯᎸᏒᎢ [u¹hyạ²lv³sv³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎠᏯᎴᎪᎢ [a¹hyạ²le³go³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎯᏯᎷᎦ [hi²yạ²lu³ga]
+\end_layout
+
+\begin_layout Description
+ᎤᏯᎸᏍᏗ [u¹hyạ²lv³sdi]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᏯᎵᏙᎭ [a¹hyạ²li²³do³²ha] (vt) 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11ada"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is looking for it all around.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏥᏯᎵᏙᎭ [ji²yạ²li²³do³²ha]
+\end_layout
+
+\begin_layout Description
+ᎤᏯᎵᏙᎸᎢ [u¹hyạ²li²³do³²lv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎠᏯᎵᏙᎰᎢ [a¹hyạ²li²³do³²ho³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎯᏯᎵᏓ [hi²yạ²li²³da]
+\end_layout
+
+\begin_layout Description
+ᎤᏯᎵᏓᏍᏗ [u¹hyạ²i²dạ²sdi]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᏯᏔᎾᎸᎢ [a¹hyah²ta²³na²³lv⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+A shelf.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏓᏯᏔᎾᎸᎢ [da¹hyah²ta²³na²³lv⁴ɂi]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᏰᎵ,
+\begin_inset space ~
+\end_inset
+
+ᎠᏰᏟ [ạ²ye⁴hli,
+\begin_inset space ~
+\end_inset
+
+ạ²ye⁴hli] (n) 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11bff"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Center.; Middle.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎠᏲᎭ [a¹hyọ³ha] (vt)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11ada-1"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is looking for it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏥᏲᎭ [ji²yọ³ha]
+\end_layout
+
+\begin_layout Description
+ᎤᏯᎸᎢ [u¹hyạ²lv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎠᏲᎰᎢ [a¹hyọ²ho³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎯᏲᎦ [hiyh¹ga]
+\end_layout
+
+\begin_layout Description
+ᎤᏯᏍᏗ [uy²sdi]
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Ꭱ
+\end_layout
+
+\begin_layout Description
+ᎡᎦ [e³ga] (vi)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11cfc"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is going.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎨᎦ [ge³ga]
+\end_layout
+
+\begin_layout Description
+ᎤᏪᏅᏒᎢ [u¹we²nv³sv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎡᎪᎢ [e³go³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎮᎾ [he¹na]
+\end_layout
+
+\begin_layout Description
+ᎤᏪᏅᏍᏗ [ụ²we²nv¹sdi]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎡᎳᏗ [e²lạ²di] (part)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11d05"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Down.; On foot.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎡᎵᎠ [e¹lị³a] (vt)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11d06"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He thinks so.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎨᎵᎠ [ge²lị³ɂa]
+\end_layout
+
+\begin_layout Description
+ᎤᏪᎵᏒᎢ [u¹we²li³²sv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎡᎵᏍᎪᎢ [e¹li³²sgo³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎮᎳ [he²³la]
+\end_layout
+
+\begin_layout Description
+ᎤᏪᎵᏍᏗ [ụ²we²li¹sdi]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎡᎵᏊ [e²li⁴gwu] (part)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11d07"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Enough.; It's possible.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎡᏙᎭ [e²do³ha] (vi) 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11cfb"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He's around.; He's here.; He's about.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎨᏙᎠ [ge²³do³²a]
+\end_layout
+
+\begin_layout Description
+ᎤᏪᏙᎸᎢ [u¹we²³do³²lv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎡᏙᎰᎢ [e¹do³ho³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎮᏓ [he²³da]
+\end_layout
+
+\begin_layout Description
+ᎤᏪᏓᏍᏗ [ụ²we²da¹sdi]
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Ꭲ
+\end_layout
+
+\begin_layout Description
+ᎢᎾᎨᎢ [i²³nạ³ge⁴ɂi] (n)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11ea4"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Woods.; Forest.; Wilderness.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Ꭳ
+\end_layout
+
+\begin_layout Description
+ᎣᏍᏓ [o⁴sda] (adj)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11f86"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Good.
+ ;Well.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎣᏏ [o²si³] (part)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11f88"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Fairly well.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎣᏏᏊ [o²si²³gwu] (part) 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11f8d"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+All right.; Just fine.; Just swell.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎣᏝ [o²hla] (n) 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11f80"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Soap.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Ꭴ
+\end_layout
+
+\begin_layout Description
+ᎤᎧᏲᏓ [u²ka²hyo⁴da] (adj)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_1207d"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Dry.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎤᏂᎧᎯᏲᏓ,
+\begin_inset space ~
+\end_inset
+
+ᏧᎧᏲᏓ [u²ni²kạ²hyo⁴da, ju²kạ²hyo⁴da]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎤᎩᎳ [u²kị²la] (vi) 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_id"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is upon it.; He is on a horse.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᏆᎩᎳ [a¹gwạ²kị²la]
+\end_layout
+
+\begin_layout Description
+ᎤᎩᎸᏅᎢ [u²kị²lv²nv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎤᎩᎶᎢ [u²kị²lo³ɂi]
+\end_layout
+
+\begin_layout Description
+ᏣᎩᎸᎥᎩ [tsa²kị²lṿ²ɂv²gi]
+\end_layout
+
+\begin_layout Description
+ᎤᎩᎸᏗ [u²kị²lv²di]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎤᎬᏫᏳᎯ [u²gv²wị²yu²hi] (n) 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_12041"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Chief.; King.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎤᏂᎬᏫᏳᎯ [u²ni²gv²wị²yu²hi]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎤᎭ [u²³ha] (vt)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_12042"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He has it (something solid).
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᎩᎭ [a¹gị²ha]
+\end_layout
+
+\begin_layout Description
+ᎤᎲᎢ [u¹hv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎤᎰᎢ [u¹ho³ɂi]
+\end_layout
+
+\begin_layout Description
+ᏣᎮᏍᏗ [jạ²he³sdi]
+\end_layout
+
+\begin_layout Description
+-----
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎤᎵᏍᏓᏁᎭ [ul¹sda³²hnẹ²ha] (vi)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_12099"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+It is happening to him.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᏆᎵᏍᏓᏁᎭ [a¹gwal²sda³²hnẹ²ha]
+\end_layout
+
+\begin_layout Description
+ᎤᎵᏍᏓᏁᎸᎢ [ul¹sda³²hne²lv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎤᎵᏍᏓᏁᎰᎢ [ul¹sda³²hne²ho³ɂi]
+\end_layout
+
+\begin_layout Description
+ᏣᎵᏍᏓᏏ [jal²sda¹si]
+\end_layout
+
+\begin_layout Description
+ᎤᎵᏍᏓᏁᏗ [ul²sda¹hneh³di]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎤᎵᏍᏓᏅᎢ [ul¹sda³²hnv²³ɂi] (vi) 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_12099-1"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Something happened.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᎾᎵᏍᏓᏅᎢ [a²nal¹sda³²hnv²³ɂi]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎤᎵᏏᏅᏗᎭ [ul²sinh²di²ha] (vt) 
+\begin_inset Quotes eld
+\end_inset
+
+To cause it be protected.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᏆᎵᏏᏅᏗᎭ [a¹gwal²sinh²di²ha]
+\end_layout
+
+\begin_layout Description
+ᎤᎵᏏᏅᏔᏅᎢ [ul²sinh²tạ²nv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎤᎵᏏᏅᏗᏍᎪᎢ [ul²sinh²di²sgo³ɂi]
+\end_layout
+
+\begin_layout Description
+ᏣᎵᏏᏅᏓ [jal²sinh²da]
+\end_layout
+
+\begin_layout Description
+ᎤᎵᏏᏅᏙᏗ [ul²sinh²dọ²di]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎤᎸᏉᏗ [u¹lv²³kwdi] (vi)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_120a4"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He likes it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏥᎸᏉᏗ,
+\begin_inset space ~
+\end_inset
+
+ᎠᎩᎸᏉᏗ [ji²lv²³gwo³²di, a¹gị²lv²³kwdi]
+\end_layout
+
+\begin_layout Description
+ᎤᎸᏉᏛᎢ [u¹lv²³kwdv³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎤᎸᏉᏙᎢ [u¹lv²³kwdo³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎯᎸᏉᏓ,
+\begin_inset space ~
+\end_inset
+
+ᎯᎸᏉᏓ [hi²lv²gwo¹da, hị²lv²³kwda]
+\end_layout
+
+\begin_layout Description
+ᎤᎸᏉᏙᏗ [u²lv²³kwdoh²di]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎤᎾᎠ [u¹nạ³ɂa] (vt)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_120a6"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He has it (something flexible).
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᎩᎾᎠ [a¹gị²nạ³a]
+\end_layout
+
+\begin_layout Description
+ᎤᎾᎥᎢ [u¹nạ³v²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎤᎾᎣᎢ [u¹nạ³o³ɂi]
+\end_layout
+
+\begin_layout Description
+ᏣᎾᎡᏍᏗ [jạ²nạ³e³sdi]
+\end_layout
+
+\begin_layout Description
+-----
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎤᎾᎵᎢ [u²na²li⁴ɂi] (n)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_120ab"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+His friend.; They are friends.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏧᎵᎢ [ju²li⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+His friends.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏧᎾᎵᎢ [ju²na²li⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Their friends.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Section
+ᎤᎿ
+\end_layout
+
+\begin_layout Description
+ᎤᎿ [u¹hna⁴] (part)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_1204e"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+There.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎤᏁᎦ [u²ne⁴ga] (adj)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_120ae"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+White.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎤᏂᏁᎦ,
+\begin_inset space ~
+\end_inset
+
+ᏧᏁᎦ [u²ni²ne⁴ga, ju²ne⁴ga]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎤᏃᎴ [u²no²le] (n)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_120bc"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Wind.; Air.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎤᏅᏔ [unh¹ta] (vt)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_120b8"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He knows it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᏆᏅᏔ [a¹gwanh²ta]
+\end_layout
+
+\begin_layout Description
+ᎤᏅᏛᎢ [unh¹tv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎤᏅᏙᎢ [unh¹to³ɂi]
+\end_layout
+
+\begin_layout Description
+ᏣᏅᏖᏍᏗ [janh²te³sdi]
+\end_layout
+
+\begin_layout Description
+-----
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎤᏍᏓᎦᎸᎢ [u¹sda³²gạ²lv⁴ɂi] (n)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_120c3"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+A cave.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏚᏍᏓᎦᎸᎢ [du¹sda³²gạ²lv⁴ɂi]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎤᏍᏗ [ụ²sdi⁴] (adj)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_120c7"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Little.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏧᎾᏍᏗ,
+\begin_inset space ~
+\end_inset
+
+ᏧᏍᏗ [jun²sdi, jụ²sdi]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎤᏓᏅᎦᎸᏓ [u²dạ²nv²gạ²lv⁴da] (adj)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_12000"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Clean.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏧᎾᏓᏅᎦᎸᏓ,
+\begin_inset space ~
+\end_inset
+
+ᏧᏓᏅᎦᎸᏓ [ju²nạ²dạ²nv²gạ²lv⁴da, ju²dạ²nv²gạ²lv⁴da]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎤᏣᎠ [u¹jạ³a] (vi)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_12070"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is inside it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᏆᏣᎠ [a¹gwạ²jạ³ɂa]
+\end_layout
+
+\begin_layout Description
+ᎤᏣᎥᎢ [u¹jạ³ɂv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎤᏣᎣᎢ [u¹jạ³ɂo³ɂi]
+\end_layout
+
+\begin_layout Description
+ᏣᏣᎡᏍᏗ [jạ²jạ³ɂe³sdi]
+\end_layout
+
+\begin_layout Description
+-----
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎤᏤᎵ [u²je²li] (part)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_12073"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+His.; Her.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎤᏥ [u²ji] (n)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_12076"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+His mother.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+ᎤᏬᎵᏗ
+\end_layout
+
+\begin_layout Description
+ᎤᏬᎵᏗ [ụ²wohl⁴di] (adj)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_1210f"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Funny.; Silly.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎤᏃᎵᏗ,
+\begin_inset space ~
+\end_inset
+
+ᏧᏬᎵᏗ [u²nohl⁴di, jụ²wohl⁴di]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎤᏬᏝ [u¹wo²³hla] (vi)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_1210d"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He's sitting.; He's at home.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᏉᏝ [a¹gwo²³hla]
+\end_layout
+
+\begin_layout Description
+ᎤᏬᏢᎢ [u¹wo²³hlv³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎤᏬᏠᎢ [u¹wo²³hlọ³ɂi]
+\end_layout
+
+\begin_layout Description
+ᏦᏞᏍᏗ [jo²³hle³²sdi]
+\end_layout
+
+\begin_layout Description
+-----
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎤᏰᏘᏍᎦ [u¹ye²tsga] (vi)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_12116"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He's laughing.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᎩᏰᏘᏍᎦ [a¹gị²ye²tsga]
+\end_layout
+
+\begin_layout Description
+ᎤᏰᏘᏒᎢ [u¹ye²tsv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎤᏰᏘᏍᎪᎢ [u¹ye²tsgo³ɂi]
+\end_layout
+
+\begin_layout Description
+ᏣᏰᏘᏌ [jạ²ye²³tsa]
+\end_layout
+
+\begin_layout Description
+ᎤᏰᏘᏍᏗ [u²ye²tsdi]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎤᏰᏘᏎᎭ [u¹ye²tse²ha] (vi)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_12116-1"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He's laughing at him.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᎩᏰᏘᏎᎭ [a¹gị²ye²tse²ha]
+\end_layout
+
+\begin_layout Description
+ᎤᏰᏘᏎᎸᎢ [u¹ye²tse²lv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎤᏰᏘᏎᎰᎢ [u¹ye²tse²ho³ɂi]
+\end_layout
+
+\begin_layout Description
+ᏣᏰᏘᏏ [jạ²ye¹tsi]
+\end_layout
+
+\begin_layout Description
+ᎤᏰᏘᏎᏗ [u²ye²tseh³di]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎤᏲᎢ [u²yo⁴ɂi] (adj)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_1211a"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Bad.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎤᏂᏲᎢ,
+\begin_inset space ~
+\end_inset
+
+ᏧᏲᎢ [u²ni²yo⁴ɂi, ju²yo⁴ɂi]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎤᏲᎱᏎᎭ [u¹yo²hu²³sẹ³ha] (vt)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_12118"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is losing it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᎩᏲᎱᏎᎭ [a¹gị²yo²hu²³sẹ³a]
+\end_layout
+
+\begin_layout Description
+ᎤᏲᎱᏎᎸᎢ [u¹yo²hu²³se³lv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎤᏲᎱᏎᎰᎢ [u¹yo²hu²³se³ho³ɂi]
+\end_layout
+
+\begin_layout Description
+ᏣᏲᎱᏏ [jạ²yo²hu²³si]
+\end_layout
+
+\begin_layout Description
+ᎤᏲᎱᏎᏗ [u²yo²hu²³seh³di]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎤᏲᏏᎭ [u¹yo³sị²ha] (vi)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_1211c"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is hungry.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᎩᏲᏏᎭ [a¹gị²yo³sị²ha]
+\end_layout
+
+\begin_layout Description
+ᎤᏲᏏᏍᎬᎢ [u¹yo³si²sgv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎤᏲᏏᏍᎪᎢ [u¹yo³si²sgo³ɂi]
+\end_layout
+
+\begin_layout Description
+ᏣᏲᏏᏌ [jạ²yo¹si²³sa]
+\end_layout
+
+\begin_layout Description
+ᎤᏲᏏᏐᏗ [u²yo¹si²³soh³di]
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Ꭵ
+\end_layout
+
+\begin_layout Description
+ᎥᏍᏊ,
+\begin_inset space ~
+\end_inset
+
+ᏍᏊ [v¹sgwu³, sgwu³] (part)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11fac"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Also.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Ꭷ
+\end_layout
+
+\begin_layout Description
+ᎧᏁᏌᎢ [kạ²ne¹sạ³ɂi] (n)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11f0b"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+A box.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏗᎧᏁᏌᎢ [dị²kạ²ne¹sạ³i]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎧᏃᎮᎭ [kạ²no²hẹ³ha] (vt)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11f15"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He's telling it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏥᏃᎮᎭ [ji¹no²hẹ³ha]
+\end_layout
+
+\begin_layout Description
+ᎤᏃᎮᏢᎢ [u¹hno²he²³hlv³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎧᏃᎮᏍᎪᎢ [kạ²no²he²³sgọ³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎯᏃᎲᎳ [hị²hno²hv²³la]
+\end_layout
+
+\begin_layout Description
+ᎤᏃᎮᏗ [u²hno²heh²di]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎧᏃᎮᏞᎭ [kạ²hno²he²³hle²ha] (vt)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11f15-1"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He's telling him.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏥᏃᎮᏞᎭ [ji¹hno²he²³hle²ha]
+\end_layout
+
+\begin_layout Description
+ᎤᏃᎮᏞᎸᎢ [u¹hno²he²³hle²lv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎧᏃᎮᏞᎰᎢ [kạ²hno²he²³hle²ho³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎯᏃᎮᏏ [hị²hno²he¹si]
+\end_layout
+
+\begin_layout Description
+ᎤᏃᎮᏞᏗ [u²hno²he²³hleh³di]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎧᏃᎮᏞᎴᎦ [kạ²hno²he²³hle²le³ga] (vt)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11f15-1-1"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He's departing to go tell him.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏥᏃᎮᏞᎴᎦ [ji¹hno²he²³hle²le³ga]
+\end_layout
+
+\begin_layout Description
+ᎤᏃᎮᏞᎸᏒᎢ [u¹hno²he²³hle²lv³sv³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎧᏃᎮᏞᎴᎪᎢ [kạ²hno²he²³hle²le³go³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎯᏃᎮᏞᎷᎦ [hị²hno²he¹hle²lu³ga]
+\end_layout
+
+\begin_layout Description
+ᎤᏃᎮᏞᎸᏍᏗ [u²hno²he²³hle³lv³sdi]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎧᏬᏄ [kạ²wo²³nu] (n)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11f22"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+A duck.
+ Ducks.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Ꭶ
+\end_layout
+
+\begin_layout Description
+ᎦᎴᎦ [gạɂ³le¹ga] (vt)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11d5f"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is climbing it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏥᎴᎦ [jịɂ³le¹ga]
+\end_layout
+
+\begin_layout Description
+ᎤᎸᏒᎢ [u¹lv³²sv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎦᎴᎪᎢ [gạɂ³le¹go³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎯᎷᎦ [hịɂ²lu¹ga]
+\end_layout
+
+\begin_layout Description
+ᎤᎸᏍᏗ [u²lv¹sdi]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎦᎵᏗᎭ [gahl²dị³ha] (vt)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11d3b"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is putting it into something.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏥᎶᏗᎭ [jị²lo¹dị³ha]
+\end_layout
+
+\begin_layout Description
+ᎤᎵᏔᏅᎢ [uhl¹tạ²nv³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎦᎵᏗᏍᎪᎢ [gahl²di²³sgọ³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎯᎵᏓ [hihl²da]
+\end_layout
+
+\begin_layout Description
+ᎤᎵᏙᏗ [uhl²doh³di]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎦᎸᎳᏗ [gạ²lv³lạ²di] (part)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11d80"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+High.; Upwards.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎦᎸᎶᎢ [gạ²lv²lo⁴ɂi] (n)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11d83"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Sky.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎦᎸᏍᎦ [gạ²lv³sga] (vt)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11d84"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He's putting it (something flexible) into something.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏥᎸᏍᎦ [jị²lv³sga]
+\end_layout
+
+\begin_layout Description
+ᎤᎸᏅᎢ [u¹lv³nv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎦᎸᏍᎪᎢ [gạ²lv³sgo³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎯᎸᎥᎦ [hị²lṿ²ɂv¹ga]
+\end_layout
+
+\begin_layout Description
+ᎤᎸᏗ [u²lv¹di]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎦᏁᎠ [gạ²ne³ɂa] (vt)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11d8d"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is getting it (something flexible).
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏥᏁᎠ,
+\begin_inset space ~
+\end_inset
+
+ᏥᏁᎠ [ji²ne³ɂa, jị²ne³ɂa]
+\end_layout
+
+\begin_layout Description
+ᎤᏁᏒᎢ [u¹ne²sv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎦᏁᏍᎪᎢ [gạ²ne³sgo³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎯᎾᎩ,
+\begin_inset space ~
+\end_inset
+
+ᎯᎾᎩ [hi²nạ²gi, hị²nạ²gi]
+\end_layout
+
+\begin_layout Description
+ᎤᏁᏍᏗ [u²ne¹sdi]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎦᏃᎯᎵ [gạ²no²hi²³li] (vi)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11db6"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+It is flying.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏥᏃᎢᎵ [jị²nọ²ɂi²³li]
+\end_layout
+
+\begin_layout Description
+-----
+\end_layout
+
+\begin_layout Description
+ᎦᏃᎯᎵᏐᎢ [gạ²no²hi²³li³²so³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎯᏃᎯᎵᏎᏍᏗ [hị²no²hi²³li³²se³sdi]
+\end_layout
+
+\begin_layout Description
+-----
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎦᏃᏍᎩᎠ [gạ²no²sgi³ɂa] (vt)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11dbb"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is stealing it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏥᏃᏍᎩᎠ [jị²no¹sgi³ɂa]
+\end_layout
+
+\begin_layout Description
+ᎤᏃᏍᎩᏒᎢ [u¹no²sgi³sv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎦᏃᏍᎩᏍᎪᎢ [gạ²no²sgi³sgo³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎯᏃᏍᎩ [hị²no²³sgi]
+\end_layout
+
+\begin_layout Description
+ᎤᏃᏍᎩᏍᏗ [u²no²sgi¹sdi]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎦᏌᎾᎵ [ga¹sạ²na²li] (n)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11dde"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+A roof.
+ Rooves.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎦᏍᎩᎶ [ga²sgị²lo] (n)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11de0"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+A chair.; A table.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏗᎦᏍᎩᎶ [dị²ga²sgị²lo]
+\end_layout
+
+\end_deeper
+\begin_layout Section
+ᎦᏓᎠ
+\end_layout
+
+\begin_layout Description
+ᎦᏓᎠ [gạ²dạ³ɂa] (vi)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11d14"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+It (something flexible) is hanging.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎦᏓᎠ [gạ²dạ³ɂa]
+\end_layout
+
+\begin_layout Description
+-----
+\end_layout
+
+\begin_layout Description
+ᎦᏓᎣᎢ [gạ²dạ³ɂo³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎭᏓᎡᏍᏗ [hạ²dạ³ɂe²sdi]
+\end_layout
+
+\begin_layout Description
+-----
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎦᏓᎭᎢ [ga²da²ha⁴ɂi] (adj)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11d18"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Dirty.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏗᎦᏓᎭᎢ [dị²ga²da²ha⁴ɂi]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎦᏕᎠ [gạ²de³ɂa] (vt) 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11d1b"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is removing it (something solid or flexible) from a hanging position.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎦᏕᎠ [gạ²de³ɂa]
+\end_layout
+
+\begin_layout Description
+ᎤᏕᏒᎢ [u¹de³sv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎦᏕᏍᎪᎢ [ga²de³sgo³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎭᏓᎩ [hạ²dạ²gi]
+\end_layout
+
+\begin_layout Description
+ᎤᏕᏍᏗ [u²de¹sdi]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎦᏛᎥᏍᎦ [gạ²dv³ɂṿ²sga] (vt)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11d31"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is hanging it (something flexible) up.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏥᏯᏛᎥᏍᎦ,
+\begin_inset space ~
+\end_inset
+
+ᎦᏛᎥᏍᎦ [ji²yạ²dv³ɂṿ²sga, gạ²dv³ɂṿ²sga]
+\end_layout
+
+\begin_layout Description
+ᎤᏛᏅᎢ [u¹dv³nv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎦᏛᎥᏍᎪᎢ [gạ²dv³ɂṿ²sgo³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎭᏛᎥᎦ [hạ²dṿ²ɂv¹ga]
+\end_layout
+
+\begin_layout Description
+ᎤᏛᏗ [u²dv¹di]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎦᏢᏍᎦ [gạ²hlṿ³sga] (vt)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11d48"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is putting it into a hole or a container.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏥᎸᏍᎦ [jịɂ²lṿ³sga]
+\end_layout
+
+\begin_layout Description
+ᎤᏝᏅᎢ [u¹hlạ²nv³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎦᏢᏍᎪᎢ [gạ²hlṿ³sgọ³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎯᏢᎦ [hị²hlv¹ga]
+\end_layout
+
+\begin_layout Description
+ᎤᎵᏗ [uhl²di]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎦᏪᏟᎭ [gạ²we³hlị²ha] (vi)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11df0"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is joking.; He is teasing.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏥᏪᏟᎭ [jị²we³hlị²ha]
+\end_layout
+
+\begin_layout Description
+ᎤᏪᏢᏅᎢ [u¹we³hlv²hnv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎦᏪᏟᏍᎪᎢ [gạ²we³hli²sgo³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎯᏪᏢᎾ [hị²we¹hlv²³na]
+\end_layout
+
+\begin_layout Description
+ᎤᏪᏢᏗ [u²we¹hlvh³di]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎦᏪᏢᏁᎭ [gạ²we³hlv²hne²ha] (vi)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11df0-1"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is playing a joke on him.; He is teasing him.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏥᏪᏢᏁᎭ [jị²we³hlv²hne²ha]
+\end_layout
+
+\begin_layout Description
+ᎤᏪᏢᏁᎸᎢ [u¹we³hlv²hne²lv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎦᏪᏢᏁᎰᎢ [gạ²we³hlv²hne²ho³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎯᏪᏢᏏ [hị²we¹hlv¹si]
+\end_layout
+
+\begin_layout Description
+ᎤᏪᏢᏁᏗ [u²we¹hlv²hneh³di]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎦᏬᏂᎭ [gạ²wo³nị²ha] (vi) 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11df6"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is speaking.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏥᏬᏂᎭ [jị²wo³nị²ha]
+\end_layout
+
+\begin_layout Description
+ᎤᏬᏂᏒᎢ [u¹wo³ni²sv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎦᏬᏂᏍᎪᎢ [gạ²wo³ni²sgo³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎯᏬᏂᎯ [hị²wo¹ni²³hi]
+\end_layout
+
+\begin_layout Description
+ᎤᏬᏂᎯᏍᏗ [u²wo¹ni²³hị³sdi]
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Ꭸ
+\end_layout
+
+\begin_layout Description
+ᎨᎵᏍᏘᎩ [ge²li⁴stgi] (n)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11e05"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+A pie.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏗᎨᎵᏍᏘᎩ [dị²ge²li⁴stgi]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎨᏡᎲᏍᎦ [ge²hlụ²hṿ³sga] (vi)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11e00"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is crying out.; He is yelling.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎨᎷᎲᏍᎦ [ge¹lụ²hṿ³sga]
+\end_layout
+
+\begin_layout Description
+ᎤᏪᏡᏅᎢ [u¹we²hlụ²hnv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎨᏡᎲᏍᎪᎢ [ge²hlụ²hṿ³sgọ³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎮᏡᎲᎦ [he²hlụ²hv¹ga]
+\end_layout
+
+\begin_layout Description
+ᎤᏪᏡᎲᏍᏗ [ụ²we²hlụ²hṿ³sdi]
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Ꭺ
+\end_layout
+
+\begin_layout Description
+ᎪᎰᏍᎦ [go²họ²sga] (vi) 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11e20"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+It (something solid or long) is falling.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎪᎣᏍᎦ [gọ²ɂọ²sga]
+\end_layout
+
+\begin_layout Description
+ᎤᏬᎰᏒᎢ [u¹wo²họ²sv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎪᎰᏍᎪᎢ [go²họ²sgo³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎰᎰᎯ [ho²họ²hi]
+\end_layout
+
+\begin_layout Description
+ᎤᏬᎰᎯᏍᏗ [ụ²wo²họ²hị²sdi]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎪᏢᏍᎦ [go¹hlv²sga] (vt)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11e1e"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is creating it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎪᏢᏍᎦ [go¹hlv²sga]
+\end_layout
+
+\begin_layout Description
+ᎤᏬᏢᏅᎢ [u¹wo²hlv²hnv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎪᏢᏍᎪᎢ [go²hlv²sgo³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎰᏢᎾ [ho²hlv²³na]
+\end_layout
+
+\begin_layout Description
+ᎤᏬᏢᏅᏗ [ụ²wo²hlvnh²di]
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Ꭻ
+\end_layout
+
+\begin_layout Description
+ᎫᎲᏍᎦ [gu²hṿ³sga] (vt)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11e41"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is putting it into water.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎫᎥᏍᎦ [gụ²ɂṿ³sga]
+\end_layout
+
+\begin_layout Description
+ᎤᏭᏅᎢ [u¹wu²hnv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎫᎲᏍᎪᎢ [gu²hṿ²sgo³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎱᎲᎦ [hu²hv¹ga]
+\end_layout
+
+\begin_layout Description
+ᎤᏭᏗ [ụ²wuh²di]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎫᎴ [gu²le] (n)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11e42"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+An acorn.
+ Acorns.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Ꭼ
+\end_layout
+
+\begin_layout Description
+ᎬᎾ [kv²na] (n) 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_120"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+A turkey.
+ Turkeys.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎬᏍᎦᎸᏍᎦ [gv²sgạ³lṿ³²sga] (vt)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11e5e"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is hiding it (something flexible).
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏥᏴᏍᎦᎸᏍᎦ,
+\begin_inset space ~
+\end_inset
+
+ᎬᏍᎦᎸᏍᎦ [ji²yv¹sgạ²lv³²sga, gv¹sgạ²lv³²sga]
+\end_layout
+
+\begin_layout Description
+ᎤᏩᏍᎦᎸᏅᎢ [u¹wa²sgạ²lv³²nv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᎬᏍᎦᎸᏍᎪᎢ [gv²sgạ²lv³²sgo³ɂ i]
+\end_layout
+
+\begin_layout Description
+ᎯᏴᏍᎦᎸᎥᎦ,
+\begin_inset space ~
+\end_inset
+
+ᎲᏍᎦᎸᎥᎦ [hi²yv¹sgạ²lṿ²ɂv¹ga, hv²sga²lṿ²ɂv¹ga]
+\end_layout
+
+\begin_layout Description
+ᎤᏩᏍᎦᎸᏗ [ụ²wa²sgạ²lv¹di]
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Ꮋ
+\end_layout
+
+\begin_layout Description
+ᎻᏳ [mi²yu²] (part) 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Mew.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Ꮒ
+\end_layout
+
+\begin_layout Description
+Ꮒ [ni] (part)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11f54"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Look!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏂᎦᎵᏍᏘᎭ [nị²gạ²lsti²ha] (vt) “He is becoming \SpecialChar \ldots{}
+”
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏂᎦᎵᏍᏘᎭ [nị²ga¹lsti²ha]
+\end_layout
+
+\begin_layout Description
+ᏄᎵᏍᏔᏅᎢ.
+ [nu¹lsta²nv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᏂᎦᎵᏍᏗᏍᎪᎢ.
+ [nị²gạ²lsdi²sgọ³ɂi ]
+\end_layout
+
+\begin_layout Description
+ᎿᎵᏍᏓᏏ [hnạ²lsda²si]
+\end_layout
+
+\begin_layout Description
+ᎢᏳᎵᏍᏙᏗ.
+ [ị²yu²lsdoh²di]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᏂᎦᏪᎠ [nị²gạ²wẹ²ɂa] (vi)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11f57"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is uttering it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏂᏥᏪᎠ [nị²jị²wẹ²ɂa]
+\end_layout
+
+\begin_layout Description
+ᏄᏪᏒᎢ [nu¹we¹sv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᏂᎦᏪᏍᎪᎢ [nị²gạ²we¹sgo³ɂi]
+\end_layout
+
+\begin_layout Description
+ᏂᏫ [hnị³wi]
+\end_layout
+
+\begin_layout Description
+ᎢᏳᏪᏍᏗ [ị²yu³we¹sdi]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᏂᎦᏪᏎᎭ [nị²gạ²we¹se²ha] (vi)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11f57-1"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is uttering for him.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏂᏥᏪᏎᎭ [nị²jị²we¹se²ha]
+\end_layout
+
+\begin_layout Description
+ᏄᏪᏎᎸᎢ [nu¹we¹se²lv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᏂᎦᏪᏎᎰᎢ [nị²gạ²we¹se²ho³ɂi]
+\end_layout
+
+\begin_layout Description
+ᏂᏪᏏ [hnị³we¹si]
+\end_layout
+
+\begin_layout Description
+ᎢᏳᏪᏎᏗ [ị²yu³we¹seh³di]
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Ꮓ
+\end_layout
+
+\begin_layout Description
+ᏃᏊ [no²³gwu] (part)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11f5d"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Now.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Ꮔ
+\end_layout
+
+\begin_layout Description
+ᏄᏍᏗ [nu⁴sdi] 
+\begin_inset Quotes eld
+\end_inset
+
+His, its way.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎾᏆᏍᏗ [na¹gwa⁴sdi]
+\end_layout
+
+\begin_layout Description
+-----
+\end_layout
+
+\begin_layout Description
+ᏄᏍᏙᎢ [nu⁴sdo²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᏂᏣᏍᏕᏍᏗ [nị²ja⁴sdesdi]
+\end_layout
+
+\begin_layout Description
+ᎢᏳᏍᏗ [ị²yu⁴sdi]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᏄᏓᎴᎢ [nu²³dạ³le⁴ɂi] (adj)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11f62"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Another.; Different.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Ꮕ
+\end_layout
+
+\begin_layout Description
+ᏅᏓ [nv²da] (n)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11f6a-1"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+The sun or moon.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏅᏩᏓᎴᎢ [nṿ²wa²³dạ³le⁴ɂi] (adj) 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11f62-1"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Again another.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Ꮜ
+\end_layout
+
+\begin_layout Description
+ᏌᏌ [sa²sa] (n)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11f96"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+A goose.
+ Geese.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏌᏊ [sa¹gwu⁴] (adj) 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11f91"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+One.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Ꮝ
+\end_layout
+
+\begin_layout Description
+ᏍᏓᏯ,
+\begin_inset space ~
+\end_inset
+
+ᏍᏓᏱ [sda⁴ya, sda⁴yi] (adj) 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11f97"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Hard.; Difficult.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏍᏕᏱᏓ [sde²yị³da] (n)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11f98"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Rope.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Ꮟ
+\end_layout
+
+\begin_layout Description
+ᏏᎵᎩ [sil²gi] (adj) 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11f91-1"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Silk.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Ꮢ
+\end_layout
+
+\begin_layout Description
+ᏒᏙᏂ [sv²do²ni] (n)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11fcc"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+A barrel.
+ Barrels.; A tub.
+ Tubs.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Ꮣ
+\end_layout
+
+\begin_layout Description
+ᏓᎵᏰᏑᎴᎠ [da¹lị²ye³²su²le³ɂa] (vt)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11c54"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is taking off his gloves.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏕᎦᎵᏰᏑᎴᎠ [de²gạ³lị³ye³²su²le³ɂa]
+\end_layout
+
+\begin_layout Description
+ᏚᎵᏰᏑᎴᏒᎢ [du¹lị²ye³²su²le³sv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᏓᎵᏰᏑᎴᏍᎪᎢ [da¹lị²ye³²su²le³sgo³ɂi]
+\end_layout
+
+\begin_layout Description
+ᏔᎵᏰᏑᎳᎩ [tạ²lị³ye¹su²lạ³gi]
+\end_layout
+
+\begin_layout Description
+ᏧᎵᏰᏑᎴᏍᏗ [ju²lị²ye¹su²³le³²sdi]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᏓᎵᏰᏑᎵᎠ [da¹lị²ye³²su²lị³ɂa] (vt)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11c55"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is putting his gloves on.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏕᎦᎵᏰᏑᎵᎠ [de²gạ³lị³ye³²su²lị³ɂa]
+\end_layout
+
+\begin_layout Description
+ᏚᎵᏰᏑᎳᏅᎢ [du¹lị²ye³²su²la³²nv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᏓᎵᏰᏑᎵᏍᎪᎢ [da¹lị²ye³²su²li³²sgo³ɂi]
+\end_layout
+
+\begin_layout Description
+ᏔᎵᏰᏑᎸᎦ [tạ²lị³ye¹su²lv³²ga]
+\end_layout
+
+\begin_layout Description
+ᏧᎵᏰᏑᎶᏗ [ju²lị²ye¹su²³lo³²di]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᏓᎾᏠᏍᎦ [da¹nạ²dlo²sga] (vt)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11c5c"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+They are meeting.; They are meeting someone.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏙᏣᏠᏍᎦ [do¹jạ²dlo²sga]
+\end_layout
+
+\begin_layout Description
+ᏚᎾᏠᏒᎢ [du¹nạ²dlo²sv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᏓᎾᏠᏍᎪᎢ [da¹nạ²dlo²sgo³ɂi]
+\end_layout
+
+\begin_layout Description
+ᏗᏣᏠᎯ [di¹jạ²dlo³hi]
+\end_layout
+
+\begin_layout Description
+ᏧᎾᏠᎯᏍᏗ [ju²nạ²dlo²hị²sdi]
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Ꮥ
+\end_layout
+
+\begin_layout Description
+ᏕᎦᎵᏗ [de³gahl²di] (n)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11c73"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+A bag.
+ Bags.; A sack.
+ Sacks.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Ꮤ
+\end_layout
+
+\begin_layout Description
+ᏔᎵ [tạɂ³li] (adj) 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11fd6"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Two.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᏂᏔᎵ [a¹ni²tạɂ³li]
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Ꮥ
+\end_layout
+
+\begin_layout Description
+ᏕᎬᎩᎶᎠ [de³kgi²lo³ɂa] (vt)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11c82"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is washing them (someting flexible).
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏕᎬᎩᎶᎠ [de²gv³²gi²lo³ɂa]
+\end_layout
+
+\begin_layout Description
+ᏚᎩᎶᎥᎢ [duh¹gi²lo³ɂv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᏕᎬᎩᎶᏍᎪᎢ [de³kgi²lo³sgo³ɂi]
+\end_layout
+
+\begin_layout Description
+ᏛᎯᎶᏣ [tvh²gi³lo²ja]
+\end_layout
+
+\begin_layout Description
+ᏧᎩᎶᏍᏗ [juh²gi²lo¹sdi]
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Ꮪ
+\end_layout
+
+\begin_layout Description
+ᏚᎵᏰᏑᎳ [du¹lị²ye³²su²la] (vt)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11cec"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is wearing gloves.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏓᏆᎵᏰᏑᎳ [da¹gwạ²lị²ye³²su²la]
+\end_layout
+
+\begin_layout Description
+ᏚᎵᏰᏑᎸᎢ [du¹lị²ye³²su²lv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᏚᎵᏰᏑᎶᎢ [du¹lị²ye³²su²lo³ɂi]
+\end_layout
+
+\begin_layout Description
+ᏔᎵᏰᏑᎸᎦ [tạ²lị³ye¹su²lv³²ga]
+\end_layout
+
+\begin_layout Description
+ᏧᎵᏰᏑᎶᏗ [ju²lị²ye¹su²³lo³²di]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᏚᏠᏍᎦ [du¹dlo²sga] (vt)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11ce2"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He is meeting him.; He is confronted with it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏓᏆᏠᏍᎦ [da¹gwạ²dlo²sga]
+\end_layout
+
+\begin_layout Description
+ᏚᏠᏒᎢ [du¹dlo²sv²³ɂi]
+\end_layout
+
+\begin_layout Description
+ᏚᏠᏍᎪᎢ [du¹dlo²sgo³ɂi]
+\end_layout
+
+\begin_layout Description
+ᏗᏣᏠᎯ [dị²jạ³dlo³hi]
+\end_layout
+
+\begin_layout Description
+ᏧᏠᎯᏍᏗ [ju²dlo²hị²sdi]
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Ꮭ
+\end_layout
+
+\begin_layout Description
+Ꮭ [hla] (part)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11e72"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+No.; Not.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Ꮱ
+\end_layout
+
+\begin_layout Description
+ᏡᎬᎢ [hlgv⁴ɂi] (n)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11e7d"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+A tree.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏕᏡᎬᎢ [dehl²³gv⁴ɂi]
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Ꮵ
+\end_layout
+
+\begin_layout Description
+ᏥᏔᎦ [jị²ta²³ga] (n)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11ec1"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+A chicken.
+ Chickens.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Ꮶ
+\end_layout
+
+\begin_layout Description
+ᏦᎢ [jọ²ɂi] (adj) 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11ec7"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Three.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᏂᏦᎢ [a¹ni²jọ²ɂi]
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Ꮷ
+\end_layout
+
+\begin_layout Description
+ᏧᎳ,
+\begin_inset space ~
+\end_inset
+
+ᏧᏟ [jụ²la, jụ²hli] (n) 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_1gc"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+A fox.
+ Foxes.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏧᏪᏅᏒᎢ [jụ²we³nv¹sv⁴ɂi] (n)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11eed"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+His home.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Ꮹ
+\end_layout
+
+\begin_layout Description
+ᏩᏘᏰᎵ [wa²tị²ye²li] (n) 
+\begin_inset Quotes eld
+\end_inset
+
+A magpie.; Magpies.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Ꮺ
+\end_layout
+
+\begin_layout Description
+ᏪᏌ [we²³sa] (n) 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_1213c"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+A cat.
+ Cats.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏪᏌ
+\begin_inset space ~
+\end_inset
+
+ᎠᏓ [we²³sa ạɂ⁴da] (n) 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+A kitten.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏪᏌ
+\begin_inset space ~
+\end_inset
+
+ᎠᏂᏓ [we²³sa ạ²niɂ⁴da] (n) 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Chapter
+Grammatical Forms
+\end_layout
+
+\begin_layout Section
+Able to \SpecialChar \ldots{}
+, Can \SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+Form 1 - Using Ꭶ + bound pronoun + 
+\noun on
+Deverbal
+\noun default
+ stem.
+\end_layout
+
+\begin_layout Standard
+To refer to someone's or something's ability to do something use one of
+ the following combined prefixes on the infinitive form.
+ These prefixes are a combination of 
+\begin_inset Quotes eld
+\end_inset
+
+ga-
+\begin_inset Quotes erd
+\end_inset
+
+ and an appropriate 
+\begin_inset Quotes eld
+\end_inset
+
+Set B
+\begin_inset Quotes erd
+\end_inset
+
+ bound pronoun.
+\end_layout
+
+\begin_layout Description
+ᎬᎩ- [gv²gị²-] 
+\begin_inset Quotes eld
+\end_inset
+
+I am able to \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎦᏣ- [ga²jạ²-] 
+\begin_inset Quotes eld
+\end_inset
+
+You are able to \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎬᏩ- [gv²hwa²-] 
+\begin_inset Quotes eld
+\end_inset
+
+He is able to \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎦᎩᏂ- [ga²gị²ni²-] 
+\begin_inset Quotes eld
+\end_inset
+
+You and I are able to \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎦᏲᎩᏂ- [gạ²yo²gị²ni²-] 
+\begin_inset Quotes eld
+\end_inset
+
+He and I are able to \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎦᏍᏗ- [ga²sdi²-] 
+\begin_inset Quotes eld
+\end_inset
+
+You two are able to \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎦᎩ- [ga²gị²-] 
+\begin_inset Quotes eld
+\end_inset
+
+You all and I are able to \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎦᏥ- [ga¹ji²-] 
+\begin_inset Quotes eld
+\end_inset
+
+You all are able to \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎦᏲᎩ- [gạ²yo²gi²-] 
+\begin_inset Quotes eld
+\end_inset
+
+They and I are able to \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎬᏩᏂ- [gv²wạ²ni²-] 
+\begin_inset Quotes eld
+\end_inset
+
+They are able to \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Form 2 - ᎡᎵᏊ + Ᏹ- + bound pronoun + immediate past stem.
+\end_layout
+
+\begin_layout Section
+Able to if \SpecialChar \ldots{}
+, Can if \SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+For conditional ability, take the 
+\noun on
+Immediate Tense
+\noun default
+ stem and add the prefix 
+\begin_inset Quotes eld
+\end_inset
+
+Ᏼ-
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Examples:
+\end_layout
+
+\begin_layout Itemize
+ᏴᏥᏁᎩ 
+\begin_inset Quotes eld
+\end_inset
+
+I can speak if \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+ᏴᎯᏁᎩ 
+\begin_inset Quotes eld
+\end_inset
+
+You can speak if \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+ᏴᎧᏁᎩ 
+\begin_inset Quotes eld
+\end_inset
+
+He/she can speak if \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+ᏴᏂᏁᎩ 
+\begin_inset Quotes eld
+\end_inset
+
+We (you one and I) can speak if \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Ᏼ + Ꭲ => Ᏼ
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏲᏍᏗᏁᎩ 
+\begin_inset Quotes eld
+\end_inset
+
+We (he/she and I) can speak if \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+ᏴᏍᏗᏁᎩ 
+\begin_inset Quotes eld
+\end_inset
+
+You two can speak if \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+ᏴᏗᏁᎩ 
+\begin_inset Quotes eld
+\end_inset
+
+We (you all and I) can speak if \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Ᏼ + Ꭲ => Ᏼ
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏲᏥᏁᎩ 
+\begin_inset Quotes eld
+\end_inset
+
+We (they and I) can speak if \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Ᏼ + Ꭳ => Ᏺ
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏴᏥᏁᎩ 
+\begin_inset Quotes eld
+\end_inset
+
+You all can speak if \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Ᏼ + Ꭲ => Ᏼ
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏴᎠᏂᏁᎩ 
+\begin_inset Quotes eld
+\end_inset
+
+They can speak if \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Ᏼ + Ꭰ => ᏴᎠ
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Going somewhere to \SpecialChar \ldots{}
+ (Andative) (Departing)
+\end_layout
+
+\begin_layout Standard
+To indicate that someone went 
+\emph on
+departing
+\emph default
+ from the point of view in order to do something.
+\end_layout
+
+\begin_layout Standard
+This ending can also be used to indicate doing it at intervals
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+These endings are only used for 
+\begin_inset Quotes eld
+\end_inset
+
+going
+\begin_inset Quotes erd
+\end_inset
+
+ to indicate change of location.
+ Do not use these suffixes for the English idiom 
+\begin_inset Quotes eld
+\end_inset
+
+going to
+\begin_inset Quotes erd
+\end_inset
+
+ which means 
+\begin_inset Quotes eld
+\end_inset
+
+will be
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Description
+-ᎡᎦ [-e³ga] 
+\begin_inset Quotes eld
+\end_inset
+
+is going somewhere to \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+-ᎥᏒᎢ [-v³sv³ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+went somewhere to \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+ - 
+\emph on
+Uses 
+\begin_inset Quotes eld
+\end_inset
+
+Set B
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Description
+-ᎡᎪᎢ [-e³go³ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+habitually goes somewhere to \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+-ᎤᎦ [-u³ga] 
+\begin_inset Quotes eld
+\end_inset
+
+let go somewhere to \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+-ᎥᏍᏗ [-v³sdi] 
+\begin_inset Quotes eld
+\end_inset
+
+to go somewhere to \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+ - 
+\emph on
+Uses 
+\begin_inset Quotes eld
+\end_inset
+
+Set B
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+Examples:
+\end_layout
+
+\begin_layout Itemize
+ᏄᏛᏁᎸᎢ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He did it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᎤᏪᏴ ᎾᏛᏁᎴᎦ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He is going to the creek to do it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\emph on
+Ꮒ + Ꭰ + ᎤᏛᏁᎸᎢ + ᎡᎦ.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+ᎤᎬᎢ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He ate something solid.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᎠᎨᎪᎢ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He habitually goes to eat something solid.
+\begin_inset Quotes erd
+\end_inset
+
+ or 
+\begin_inset Quotes eld
+\end_inset
+
+He habitually eats something solid at intervals.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\emph on
+Ꭰ + ᎤᎬᎢ + ᎡᎪᎢ.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+ᎤᎿ ᏚᏟᏆᏗᏅᏒᎢ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He turned it over there.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᎤᎿ ᏙᏓᏳᏟᏆᏗᏅᏎᏏ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He will go there to turn it over.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏅᏯ ᎤᎩᏒᎢ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He got a rock.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᏅᏯ ᎤᎩᏒᏒᎢ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He went to get a rock.
+\begin_inset Quotes erd
+\end_inset
+
+ or 
+\begin_inset Quotes eld
+\end_inset
+
+He got a rock at intervals.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\emph on
+ᎤᎩᏒᎢ + ᎥᏒᎢ.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+ᏩᏯ ᎤᎪᎲᎢ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He saw the wolf.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᏩᏯ ᎠᎪᎮᎾ².
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He just now went to see the wolf.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\emph on
+Ꭰ + ᎤᎪᎲᎢ + ᎡᎾ².
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+ᏧᏬᎵᏗ ᏗᎪᏪᎵ ᎤᎪᎵᏰᎥᎢ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He read the comic.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᏧᏬᎵᏗ ᏗᎪᏪᎵ ᎠᎪᎵᏰᎤᎦ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Let him go to read the comic.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\emph on
+Ꭰ + ᎤᎪᎵᏰᎥᎢ + ᎤᎦ.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+ᎤᏴᏢᎢ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He entered it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᏐᏈᎵ ᎤᏴᏍᏗ ᎠᏰᏞᎬᎢ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He was going to enter the horse barn.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\emph on
+Ꭰ + ᎤᏴᏢᎢ + ᎡᎬᎢ.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+ᏡᎬ ᎤᎸᏒᎢ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He climbed the tree.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᏡᎬ ᎤᎸᏒᏍᏗ ᎠᏆᏚᎵ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I want him to go climb the tree.
+\begin_inset Quotes erd
+\end_inset
+
+ or 
+\begin_inset Quotes eld
+\end_inset
+
+I want him to climb a tree periodically.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\emph on
+ᎤᎸᏒᎢ + ᎥᏍᏗ.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Section
+If it should (in the future) \SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+Add 
+\begin_inset Quotes eld
+\end_inset
+
+Ᏼ-
+\begin_inset Quotes erd
+\end_inset
+
+ to the 
+\noun on
+Ꮯompletive Future
+\noun default
+ form.
+\end_layout
+
+\begin_layout Standard
+Examples:
+\end_layout
+
+\begin_layout Itemize
+ᏓᏥᏁᏥ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I will speak \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᏴᏓᏥᏁᏥ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+If I should speak \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏘᏁᏥ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You will speak \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᏴᏘᏁᏥ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+If you should speak \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏓᎧᏁᏥ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He/she will speak \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᏴᏓᎧᏁᏥ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+If he/she should speak \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Subsection*
+Might be about to do.
+\end_layout
+
+\begin_layout Standard
+By adding both the prefix 
+\begin_inset Quotes eld
+\end_inset
+
+yị-
+\begin_inset Quotes erd
+\end_inset
+
+ and the word ᎡᎵᏊ [e²li⁴gwu] 
+\begin_inset Quotes eld
+\end_inset
+
+It's possible
+\begin_inset Quotes erd
+\end_inset
+
+ to the 
+\emph on
+Recent Past
+\emph default
+ form you create the new meaning of 
+\begin_inset Quotes eld
+\end_inset
+
+Might be about to
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\begin_inset Quotes eld
+\end_inset
+
+Could do.
+\begin_inset Quotes erd
+\end_inset
+
+, or 
+\begin_inset Quotes eld
+\end_inset
+
+May do.
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Examples:
+\end_layout
+
+\begin_layout Itemize
+ᏱᏥᎪᏩᏔ².
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm about to see it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᎡᎵᏊ ᏱᏥᎪᏩᏔ².
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I might see it.
+ I may see it.
+ I could see it.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+It's possible that I am about to see it.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏱᏣᏚᎳ².
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You are about to want it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᎡᎵᏊ ᏱᏣᏚᎳ².
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You might want it.
+ You may want it.
+ You could want it.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+It's possible that you are about to want it.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏱᏬᏂᎭ².
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You are about to speak.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᎡᎵᏊ ᏱᏬᏂᎭ².
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You might speak.
+ You may speak.
+ You could speak.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+It's possible that you are about to speak it.
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Needs to \SpecialChar \ldots{}
+, Must do \SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+If you take the Infinitive form and add a high falling tone on its rightmost
+ long vowel you imply a 
+\begin_inset Quotes eld
+\end_inset
+
+need to do
+\begin_inset Quotes erd
+\end_inset
+
+ something.
+ ☞ 
+\emph on
+Knowing exactly where to add this tone requires practice.
+ If you don't get it right, don't worry about it, context is usually enough.
+\end_layout
+
+\begin_layout Standard
+You can indicate that it is a 
+\begin_inset Quotes eld
+\end_inset
+
+must do
+\begin_inset Quotes erd
+\end_inset
+
+ instead of a 
+\begin_inset Quotes eld
+\end_inset
+
+need to do
+\begin_inset Quotes erd
+\end_inset
+
+ by adding the word ᎠᏎ 
+\begin_inset Quotes eld
+\end_inset
+
+a²se
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Examples:
+\end_layout
+
+\begin_layout Itemize
+ᎤᎪᏩᏛᏗ ᎤᏚᎵᎭ.
+ U²gowh²tvh³di u¹du²lị³ha.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He/she wants to see it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᎤᎪᏩᏛᏗ.
+ U³²gowh²tvh³di.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He/she needs to see it.
+\begin_inset Quotes erd
+\end_inset
+
+ - 
+\emph on
+Note the change in tones.
+\end_layout
+
+\begin_layout Itemize
+ᎠᏎ ᎤᎪᏩᏛᏗ.
+ A²se u³²gowh²tvh³di.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He/she must see it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+ᎠᏎ ᎤᎪᏩᏛᏗ ᏣᏅᏔ.
+ Ase ugowhtvhdi janhta.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You know he must see it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᎢᏳᏛᏅᏗ ᎤᏚᎵᎭ.
+ I²yu²dvnh¹di u¹du²lị³ha.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He/she wants to do it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᎢᏳᏛᏅᏗ.
+ I²yu³²dvnh¹di.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He/she needs to do it.
+\begin_inset Quotes erd
+\end_inset
+
+ - 
+\emph on
+Note the change in tones.
+\end_layout
+
+\begin_layout Itemize
+ᎢᏳᏛᏅᏗ ᎠᏆᏅᏔ.
+ I²yu³²dvnh¹di a¹gwanh²ta.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I know he needs to do it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+ᎠᏎ ᎢᏳᏛᏅᏗ.
+ Ase iyudvnhdi.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He/she must do it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+
+\emph on
+This form appears identical to the Facility and Infinitive forms when written.
+ Context is required to determine correct meaning.
+\end_layout
+
+\begin_layout Section
+Not able to \SpecialChar \ldots{}
+, Cannot \SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+For negative ability, take the 
+\noun on
+Immediate Tense
+\noun default
+ stem and add 
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ
+\begin_inset Quotes erd
+\end_inset
+
+ and use prefix 
+\begin_inset Quotes eld
+\end_inset
+
+ᏴᎦ-
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Note: ᏴᎦ combines with an ᎢᏥ to become ᏴᎨᏥ, combines other Ꭲ's to become
+ ᏴᎦ-, combines with an Ꭰ sound to become ᏴᎬ-, and combines with an Ꭴ sound
+ to become ᏴᎫ-.
+\end_layout
+
+\begin_layout Standard
+Examples:
+\end_layout
+
+\begin_layout Itemize
+Ꮭ ᏴᎦᏥᏁᎩ 
+\begin_inset Quotes eld
+\end_inset
+
+I cannot speak.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I cannot speak if \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Ꮭ ᏴᎦᎯᏁᎩ 
+\begin_inset Quotes eld
+\end_inset
+
+You cannot speak.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You cannot speak if \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Ꮭ ᏴᎬᏂᏁᎩ 
+\begin_inset Quotes eld
+\end_inset
+
+They cannot speak.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset Quotes eld
+\end_inset
+
+They cannot speak if \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+While 
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ
+\begin_inset Quotes erd
+\end_inset
+
+ is commonly used with this prefix combinaton, its use is not required.
+\end_layout
+
+\begin_layout Section
+On, In, Into \SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Description
+-Ꭿ [-⁴hị] 
+\begin_inset Quotes eld
+\end_inset
+
+On.
+ In.
+ Into.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+This ending allows you to indicate 
+\begin_inset Quotes eld
+\end_inset
+
+on or in
+\begin_inset Quotes erd
+\end_inset
+
+ for the word you modify.
+\end_layout
+
+\begin_layout Standard
+When added to a word that ends in 
+\begin_inset Quotes eld
+\end_inset
+
+-a
+\begin_inset Quotes erd
+\end_inset
+
+, the 
+\begin_inset Quotes eld
+\end_inset
+
+-a
+\begin_inset Quotes erd
+\end_inset
+
+ changes into an 
+\begin_inset Quotes eld
+\end_inset
+
+-o
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+☞
+\emph on
+ Make sure to always say the part before the final 
+\begin_inset Quotes eld
+\end_inset
+
+-hi
+\begin_inset Quotes erd
+\end_inset
+
+ with a high rising tone, even if you drop the final 
+\begin_inset Quotes eld
+\end_inset
+
+-hi
+\begin_inset Quotes erd
+\end_inset
+
+ as part of informal speech.
+\end_layout
+
+\begin_layout Standard
+☞
+\emph on
+ Depending on context, if you drop the final 
+\begin_inset Quotes eld
+\end_inset
+
+-hi
+\begin_inset Quotes erd
+\end_inset
+
+ some speakers might understand you as indicating 
+\begin_inset Quotes eld
+\end_inset
+
+Location.
+\begin_inset Quotes erd
+\end_inset
+
+ instead of 
+\begin_inset Quotes eld
+\end_inset
+
+On.
+\begin_inset Quotes erd
+\end_inset
+
+ or 
+\begin_inset Quotes eld
+\end_inset
+
+In.
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Examples:
+\end_layout
+
+\begin_layout Itemize
+ᎢᎦᏓ ᏅᏯ.
+ ᎫᎫ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Some rocks.
+ A bottle.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᎢᎦᏓ ᏅᏯ ᎫᎫ⁴Ꭿ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Some rocks in a bottle.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏩᏯ.
+ ᏌᏛᏗ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+A wolf.
+ A trap.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᏩᏯ ᏌᏛᏗ⁴Ꭿ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+A wolf in a trap.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᎠᏫ.
+ ᏅᏯ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+A deer.
+ A rock.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᎠᏫ ᏅᏲ⁴Ꭿ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+A deer in rocks.
+ A deer in a rocky place.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+In some cases the 
+\begin_inset Quotes eld
+\end_inset
+
+-hi
+\begin_inset Quotes erd
+\end_inset
+
+ ending is replaced with the location ending 
+\begin_inset Quotes eld
+\end_inset
+
+-i
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+ᎫᎫ.
+ ᎦᏍᎩᎶ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+A bottle.
+ A table.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᎫᎫ ᎦᏍᎩᎸ⁴Ꭲ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+A bottle on a table.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset Quotes eld
+\end_inset
+
+A bottle at the table's place.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Place Of, Location
+\end_layout
+
+\begin_layout Description
+-Ꭲ,
+\begin_inset space ~
+\end_inset
+
+-Ᏹ [-⁴ɂị, -⁴yị] 
+\begin_inset Quotes eld
+\end_inset
+
+Place of.
+ Location is usually found at.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+This ending allows you to create new words that indicate a place or location.
+\end_layout
+
+\begin_layout Standard
+When added to a word that ends in an 
+\begin_inset Quotes eld
+\end_inset
+
+-a
+\begin_inset Quotes erd
+\end_inset
+
+, the 
+\begin_inset Quotes eld
+\end_inset
+
+-a
+\begin_inset Quotes erd
+\end_inset
+
+ usually changes into an 
+\begin_inset Quotes eld
+\end_inset
+
+-v
+\begin_inset Quotes erd
+\end_inset
+
+ though there are a few words that the 
+\begin_inset Quotes eld
+\end_inset
+
+-a
+\begin_inset Quotes erd
+\end_inset
+
+ changes into an 
+\begin_inset Quotes eld
+\end_inset
+
+-o
+\begin_inset Quotes erd
+\end_inset
+
+ instead.
+ Unless otherwise instructed, you should change the 
+\begin_inset Quotes eld
+\end_inset
+
+-a
+\begin_inset Quotes erd
+\end_inset
+
+ into an 
+\begin_inset Quotes eld
+\end_inset
+
+-v
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+☞
+\emph on
+ Make sure to always say the part before the final 
+\begin_inset Quotes eld
+\end_inset
+
+-yi/-ɂi
+\begin_inset Quotes erd
+\end_inset
+
+ with a high rising tone, even if you drop the final 
+\begin_inset Quotes eld
+\end_inset
+
+-yi/-ɂi
+\begin_inset Quotes erd
+\end_inset
+
+ as part of informal speech.
+\end_layout
+
+\begin_layout Standard
+Examples:
+\end_layout
+
+\begin_layout Itemize
+ᏥᏍᏚ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Rabbit.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᏥᏍᏚ⁴Ꭲ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The Rabbit Place.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+The place where rabbits are found.
+ Could be a warren or a hutch.
+\end_layout
+
+\begin_layout Itemize
+ᏥᏍᏚ⁴Ᏹ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The Rabbit Place.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+ᏥᏍᏚ⁴.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The Rabbit Place.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+The final 
+\begin_inset Quotes eld
+\end_inset
+
+i
+\begin_inset Quotes erd
+\end_inset
+
+ may be dropped in informal speech under the condition that the final high
+ rising tone is maintained.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏗᎦᏚᎲᏍᎩ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+One who bakes them.
+ A baker.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᏗᎦᏚᎲᏍᎩ⁴Ꭲ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+A bakery.
+ Bakeries.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+ᏗᎦᏚᎲᏍᎩ⁴Ᏹ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+A bakery.
+ Bakeries.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+ᏗᎦᏚᎲᏍᎩ⁴.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+A bakery.
+ Bakeries.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Repeatedly (Repetitive) (Frequentative) 
+\end_layout
+
+\begin_layout Standard
+To indicate that something is being done 
+\begin_inset Quotes eld
+\end_inset
+
+over and over
+\begin_inset Quotes erd
+\end_inset
+
+ you take the 
+\noun on
+past tense
+\noun default
+ form and add one of the following special endings.
+ 
+\emph on
+These endings are only for 
+\begin_inset Quotes eld
+\end_inset
+
+over and over
+\begin_inset Quotes erd
+\end_inset
+
+, not 
+\begin_inset Quotes eld
+\end_inset
+
+again
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Description
+-ᎢᎶᎠ [-i²³lọ³ɂa] 
+\begin_inset Quotes eld
+\end_inset
+
+is \SpecialChar \ldots{}
+ over and over
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+-ᎢᎶᎥᎢ [-i²³lọ³v²³ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+did \SpecialChar \ldots{}
+ over and over
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+-ᎢᎶᏍᎪᎢ [-i²³lo³²sgo³ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+habitually \SpecialChar \ldots{}
+-ing over and over
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+-ᎢᎶᏣ [-i²lo²³ja] 
+\begin_inset Quotes eld
+\end_inset
+
+let \SpecialChar \ldots{}
+ over and over
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+-ᎢᎶᏍᏗ [-i²³lo³²sdi] 
+\begin_inset Quotes eld
+\end_inset
+
+to \SpecialChar \ldots{}
+ over and over
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Should \SpecialChar \ldots{}
+, Would \SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+This form may be used as a conditional future tense of the Indicative Mood
+ (
+\emph on
+would
+\emph default
+), or as a mild expression of the Imperative Mood (
+\emph on
+should
+\emph default
+).
+\end_layout
+
+\begin_layout Standard
+Take the 
+\noun on
+past tense
+\noun default
+ form and add 
+\begin_inset Quotes eld
+\end_inset
+
+-ᎥᎭ
+\begin_inset Quotes erd
+\end_inset
+
+.
+ 
+\emph on
+Uses 
+\begin_inset Quotes eld
+\end_inset
+
+Set A
+\begin_inset Quotes erd
+\end_inset
+
+ or 
+\begin_inset Quotes eld
+\end_inset
+
+Set B
+\begin_inset Quotes erd
+\end_inset
+
+ as parent verb.
+\end_layout
+
+\begin_layout Description
+ᏥᏁᏨᎭ 
+\begin_inset Quotes eld
+\end_inset
+
+I should or would speak
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎯᏁᏨᎭ 
+\begin_inset Quotes eld
+\end_inset
+
+You should or would speak
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎧᏁᏨᎭ 
+\begin_inset Quotes eld
+\end_inset
+
+He/she should or would speak
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Ꭷ, ᎯᎠᏉ ᏂᏪᏒᎭ.
+ (Ꮒ + Ꭿ + ᎤᏪᏒᎢ + ᎥᎭ)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ka, just this you should utter.
+\end_layout
+
+\begin_layout Itemize
+say, I pray thee.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᎯᎠ ᏄᏪᏎᎢ, ᎾᏍᏉ ᎨᎻᎵ ᏗᏣᏤᎵᎦ ᎠᎹ ᏓᎦᏥᏢᎡᎵ ᎬᏂ ᏓᎾᏗᏔᎰᏅᎭ.
+ (Ꮥ + ᎠᏂ + ᎤᏗᏔᎲᎢ + ᎣᏅ + ᎥᎭ)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+this uttered, just those camels really of yours, water I will draw for them
+ until they-drink-finishing-would
+\end_layout
+
+\begin_layout Itemize
+and saith, also for thy camels I draw till they have finished drinking
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᎥᏝ ᏰᎵᎦ ᎬᏂ ᏂᎦᏛ ᎠᏫ ᎠᏂᏟ\SpecialChar \-
+ᏌᏃᏅᎭ (ᎠᏂ + ᎤᏩᏟᏌᏅᎢ + ᎣᏅ + ᎥᎭ)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Not ᏰᎵᎦ until all deer they-gathering-it-finishing-would
+\end_layout
+
+\begin_layout Itemize
+We are not able, till that all the droves be gathered together
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᎠᎴ ᏣᏛᏛᏅᎭ, ᎯᎠ ᏂᎦᏪᏒᎭ, (Ꮳ + ᎤᏛᏛᏅᎢ + ᎥᎭ, Ꮒ + ᎤᏪᏒᎢ + ᎥᎭ)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+and he-should-be-asking-you, this he-should-be-saying,
+\end_layout
+
+\begin_layout Itemize
+and hath asked thee, saying,
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᎠᎴ ᏌᏉᏉ ᏴᏫ ᏂᏓᎵᏍᏔᏅᎭ (Ꮒ + Ꮥ + Ꭰ + ᎤᎵᏍᏔᏅ + ᎥᎭ)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+and just one people 
+\end_layout
+
+\begin_layout Itemize
+and have become one people
+\end_layout
+
+\end_deeper
+\begin_layout Section
+To \SpecialChar \ldots{}
+ For \SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+To indicate that something is being done to someone else or being done for
+ someone else, you take the 
+\noun on
+past tense
+\noun default
+ form and add one of the following special 
+\begin_inset Quotes eld
+\end_inset
+
+doing for
+\begin_inset Quotes erd
+\end_inset
+
+ endings.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+You should only use pronouns that indicate animate to animate relationships
+ when using this ending.
+\end_layout
+
+\begin_layout Description
+-ᎡᎭ [-e²ha] 
+\begin_inset Quotes eld
+\end_inset
+
+is doing for \SpecialChar \ldots{}
+ is doing to \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+-ᎡᎸᎢ [-e²lv²³ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+did for \SpecialChar \ldots{}
+ did to \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+-ᎡᎰᎢ [-e²ho³ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+habitually does for \SpecialChar \ldots{}
+ habitually does to \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+-Ꮟ [-¹si] 
+\begin_inset Quotes eld
+\end_inset
+
+let be doing for \SpecialChar \ldots{}
+ let be doing to \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+-ᎡᎵ [-e²li] 
+\begin_inset Quotes eld
+\end_inset
+
+just did for \SpecialChar \ldots{}
+ just doing to \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+-ᎡᏗ [-eh³di] 
+\begin_inset Quotes eld
+\end_inset
+
+to do for \SpecialChar \ldots{}
+ to do to \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+Examples:
+\end_layout
+
+\begin_layout Itemize
+ᏄᏛᏁᎸᎢ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He did it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᎾᏆᏛᏁᎴᎭ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He is doing it for me.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\emph on
+Ꮒ + ᎠᎩ + ᎤᏛᏁᎸᎢ + ᎡᎭ.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+ᏚᏟᏆᏗᏅᏒᎢ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He turned it over.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᏙᏓᏣᏟᏆᏗᏅᏎᎵ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He will turn it over for you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\emph on
+Ꮧ + Ꮣ + Ꮳ + ᎤᏟᏆᏗᏅᏒᎢ + ᎡᎵ.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+ᏅᏯ ᎤᎩᏒᎢ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He got a rock.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᏅᏯ ᏥᎩᏎᎸᎢ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I got a rock for him.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\emph on
+Ꮵ + ᎤᎩᏒᎢ + ᎡᎸᎢ.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Standard
+On some verbs one can add the prefix 
+\begin_inset Quotes eld
+\end_inset
+
+Ꮻ-
+\begin_inset Quotes erd
+\end_inset
+
+ to indicate 
+\begin_inset Quotes eld
+\end_inset
+
+to
+\begin_inset Quotes erd
+\end_inset
+
+ as in 
+\begin_inset Quotes eld
+\end_inset
+
+towards someone or at someone
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Example:
+\end_layout
+
+\begin_layout Itemize
+ᏕᎪᏪᎵᎠ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He is writing them.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᏕᎪᏪᎳᏁᎭ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He is writing them for him.
+\begin_inset Quotes erd
+\end_inset
+
+ - 
+\emph on
+ᏕᎪᏪᎳᏅᎢ + ᎡᎭ.
+ (Writing them on his behalf.)
+\end_layout
+
+\begin_layout Itemize
+ᏫᏗᎪᏪᎳᏁᎭ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He is writing them to him.
+\begin_inset Quotes erd
+\end_inset
+
+ - 
+\emph on
+Ꮻ + ᏕᎪᏪᎳᏅᎢ + ᎡᎭ.
+ (Writing them for him to send to him.)
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+These endings are also used to indicate 
+\begin_inset Quotes eld
+\end_inset
+
+something bad happening by an unspecified actor to people
+\begin_inset Quotes erd
+\end_inset
+
+ when used with verbs that indicate or could indicate something negative
+ happening.
+\end_layout
+
+\begin_layout Standard
+Example:
+\end_layout
+
+\begin_layout Itemize
+ᏓᏆᎴᎳ ᎤᏲᏤ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The car broke.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᏓᏆᎴᎳ ᎤᏲᏤᎴ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The car broke down on him.
+\begin_inset Quotes erd
+\end_inset
+
+ - 
+\emph on
+Literally: The car broke for him.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᎤᏲᏨᎢ + ᎡᎸᎢ.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Section*
+Without
+\end_layout
+
+\begin_layout Standard
+☞ The Ꮒ- prefix can be combined with the special suffix -ᎥᎾ (-v⁴nạ) on past
+ events to create a 
+\begin_inset Quotes eld
+\end_inset
+
+without
+\begin_inset Quotes erd
+\end_inset
+
+ meaning.
+\end_layout
+
+\begin_layout Itemize
+ᎤᏬᏂᏒᎢ.
+ “He/she spoke.”
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᏄᏬᏂᏒᎾ.
+ 
+\emph on
+(Ꮒ + ᎤᏬᏂᏒᎢ + ᎥᎾ.)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+Without him speaking it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏣᎳᎩ ᏄᏬᏂᏒᎾ ᎤᏬᏂᏎᎢ.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+He/she spoke without speaking Cherokee.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+ᎤᏚᎸᎲᎢ.
+ “He/she wanted him/her/it.”
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᏄᏚᎸᎲᎾ.
+ 
+\emph on
+(Ꮒ + ᎤᏚᎸᎲᎢ + ᎥᎾ.)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+He/she is without want of it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᎤᎨᎢ ᏄᏚᎸᎲᎾ.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+He/she ate it without wanting it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᎠᎩᎠ ᏄᏚᎸᎲᎾ.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+He/she is eating it without wanting it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+ᎤᏩᏚᏅᎢ.
+ “He/she baked it.”
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᎤᎨᎢ ᏄᏩᏚᏅᎾ.
+ 
+\emph on
+(Ꮒ + ᎤᏩᏛᏅᎢ + ᎥᎾ.)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+He/she ate it without baking it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Creative Commons
+\end_layout
+
+\begin_layout Standard
+
+\size small
+This work is licensed under the 
+\noun on
+Creative Commons Attribution-Share Alike 3.0 United States License
+\noun default
+.
+ To view a copy of this license, visit 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://creativecommons.org/licenses/by-sa/3.0/us/
+\end_layout
+
+\end_inset
+
+ or send a letter to Creative Commons, 171 Second Street, Suite 300, San
+ Francisco, California, 94105, USA.
+\end_layout
+
+\begin_layout Subsection*
+In Summary:
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+The summary is not the license.
+ It is simply a handy reference for understanding the license and as such,
+ has no legal value.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size small
+You are free:
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+to Share — to copy, distribute, and transmit the work.
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+to Remix — to adapt the work.
+\end_layout
+
+\begin_layout Standard
+
+\size small
+Under the following conditions:
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+Attribution — You must attribute the work in the manner specified by the
+ author or licensor (but not in any way that suggests that they endorse
+ you or your use of the work).
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+Share Alike — If you alter, transform, or build upon this work, you may
+ distribute the resulting work only under the same or similar license to
+ this one.
+\end_layout
+
+\begin_layout Standard
+
+\size small
+With the understanding that:
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+Waiver — Any of the above conditions can be waived if you get permission
+ from the copyright holder.
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+Other Rights — In no way are any of the following rights affected by the
+ license:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\size small
+Your fair dealing or fair use rights;
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+Apart from the remix rights granted under this license, the author's moral
+ rights;
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+Rights other persons may have either in the work itself or in how the work
+ is used, such as publicity or privacy rights.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\size small
+Notice — For any reuse or distribution, you must make clear to others the
+ license terms of this work.
+ The best way to do this is with a link to 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://creativecommons.org/licenses/by-sa/3.0/us/
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{sloppy}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

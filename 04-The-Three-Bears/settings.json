@@ -1,0 +1,40 @@
+{
+	"ISBN_formatted": "ISBN: 978-1-311-91185-8",
+	"authors": 
+	[
+		"Michael Joyner"
+	],
+
+	"copyright": "Michael Joyner, All Rights Reserved. (CC BY 3.0 US)",
+	"coverImage": "artwork/paperbook/pngs/epub-cover.png",
+	"description": "The classic story of the Three Bears translated into the Cherokee Language. Cherokee Syllabary only. Suitable for young native readers and students of the language. ᎧᏃᎮᏗ Ꮎ ᎠᏂᏦᎢ ᏲᎾ ᎠᎴ ᎤᏲᏒ ᎠᎨᏳᏣ. ᏂᎦᏓ ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ. ᎥᏝ ᎩᎵᏏ ᏱᎩ. ᏌᏊ ᎢᏳᏩᎦᏘ ᎠᏂᏦᎢ ᏲᎾ ᎠᏁᎮ . . . ",
+	"dest_epub": "epub/Na-Anijoi-Yona.epub",
+	"dest_epub_kindle": "epub/Na-Anijoi-Yona-Kindle.epub",
+	"image_tmp" : "epub/image-tmp",
+	"sourcedir": "/home/mjoyner/Documents/ᏣᎳᎩ/Lessons/Action-Imitation-and-Fun-Series/04-The-Three-Bears/",
+	"sourcelyx": "Na-Anijoi-Yona.lyx",
+	"svg_mode": false,
+	"subjects": 
+	[
+		"Foreign Language Study, Native American Languages",
+		"FOR031000",
+		"Language Arts and Disciplines, Readers",
+		"LAN012000",
+		"Language Arts and Disciplines, Vocabulary",
+		"LAN021000",
+		"Fiction, General",
+		"FIC000000",
+		"Native American Languages",
+		"Cherokee",
+		"Cherokee Language",
+		"ᏣᎳᎩ",
+		"ᎦᏬᏂᎯᏍᏗ",
+		"ᎠᎪᎵᏰᏗ",
+		"ᏧᏬᎵᏗ ᏗᎪᏪᎵ",
+		"ᎤᏬᎵᏗ ᎪᏪᎵ",
+		"ᏗᎪᏪᎵ"
+	],
+
+	"title": "Na Anijoi Yona - The Three Bears",
+	"url": "http://www.CherokeeLessons.com/"
+}

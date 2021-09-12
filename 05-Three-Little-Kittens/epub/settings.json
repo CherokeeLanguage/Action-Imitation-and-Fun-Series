@@ -1,0 +1,16 @@
+{
+  "ISBN_formatted" : "ISBN: 978-1-310-29777-9",
+  "authors" : [ "Michael Joyner" ],
+  "copyright" : "Michael Joyner, All Rights Reserved. (CC BY 3.0 US)",
+  "coverImage" : "artwork/paperbook/pngs/epub-cover.png",
+  "description" : "Ꮎ ᏔᎵ ᏗᎧᏃᎮᏗ ᎠᏂᏦᎢ ᏪᏌ ᎠᏂᏓ ᏧᎾᏤᎵ ᏗᎵᏰᏑᎶ ᏗᏂᏲᎱᏎᎯ ᎠᎴ ᏥᏔᎦ ᎤᏍᏗ (ᏏᎩᏏ ᎠᎩᏏ). ᏣᎳᎩᎭ ᎦᏬᏂᎯᏍᏗ. The two stories of the three kittens who lost their mittens and Chicken Little (Henney Penny). Cherokee language only.",
+  "dest_epub" : "epub/Na-Anijoi-Wesa-Anida.epub",
+  "dest_epub_kindle" : "epub/Na-Anijoi-Wesa-Anida-Kindle.epub",
+  "image_tmp" : "epub/image-tmp",
+  "sourcedir" : "./",
+  "sourcelyx" : "Na-Anijoi-Wesa-Anida.lyx",
+  "subjects" : [ "FOR031000", "Foreign Language Study, Native American Languages", "LAN012000", "Language Arts and Disciplines, Readers", "LAN021000", "Language Arts and Disciplines, Vocabulary", "FIC000000", "Fiction, General", "Native American Languages", "Cherokee", "Cherokee Language", "ᏣᎳᎩ", "ᎦᏬᏂᎯᏍᏗ", "ᎠᎪᎵᏰᏗ", "ᏧᏬᎵᏗ ᏗᎪᏪᎵ", "ᎤᏬᎵᏗ ᎪᏪᎵ", "ᏗᎪᏪᎵ" ],
+  "svg_mode" : false,
+  "title" : "Ꮎ ᎠᏂᏦᎢ ᏪᏌ ᎠᏂᏓ ᎠᎴ ᏥᏔᎦ ᎤᏍᏗ. The Three Kittens and Chicken Little.",
+  "url" : "http://www.CherokeeLessons.com/"
+}

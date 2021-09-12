@@ -1,0 +1,8 @@
+{
+    "unmatched_file": "vocabulary-unmatched.txt",
+    "already_used": ["../02-The-Little-Red-Hen/used-vocabulary.txt"],
+    "entries_file": "vocabulary.txt",
+    "vocab_template": "vocabulary-template.lyx",
+    "vocab_lyx": "vocabulary.lyx",
+    "source_file": "Gigage-Alsdulo-ale-Na-Galgwogi-Unaksojaneda-Anigina.lyx"
+}

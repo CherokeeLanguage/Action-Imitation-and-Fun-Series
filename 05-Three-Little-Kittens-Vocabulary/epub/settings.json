@@ -1,0 +1,16 @@
+{
+  "ISBN_formatted" : "ISBN: 978-1-311-62972-2",
+  "authors" : [ "Michael Joyner" ],
+  "copyright" : "Michael Joyner, All Rights Reserved. (CC BY 3.0 US)",
+  "coverImage" : "artwork/paperbook/pngs/epub-cover.png",
+  "description" : "ᎯᎠ ᏣᎳᎩ-ᏲᏁᎦ ᏗᏕᏠᏆᏍᏙᏗ Ꮎ ᎠᏂᏦᎢ ᏪᏌ ᎠᏂᏓ ᎠᎴ ᏥᏔᎦ ᎤᏍᏗ ᏣᎳᎩ ᎠᎪᎵᏰᏗ. ᏗᎧᏃᎮᏗ ᏂᎨᏒᎾ. ᏗᏕᏠᏆᏍᏙᏗᏊ. This is the Cheroke-English dictionary for The Three Kittens and Chicken Little Cherokee reader. This does not include the stories. This is only a dictionary.",
+  "dest_epub" : "epub/Na-Anijoi-Wesa-Anida-Jalagi-Yonega.epub",
+  "dest_epub_kindle" : "epub/Na-Anijoi-Wesa-Anida-Jalagi-Yonega-Kindle.epub",
+  "image_tmp" : "epub/image-tmp",
+  "sourcedir" : "./",
+  "sourcelyx" : "Na-Anijoi-Wesa-Anida-Jalagi-Yonega.lyx",
+  "subjects" : [ "FOR031000", "Foreign Language Study, Native American Languages", "LAN012000", "Language Arts and Disciplines, Readers", "LAN021000", "Language Arts and Disciplines, Vocabulary", "FIC000000", "Fiction, General", "Native American Languages", "Cherokee", "Cherokee Language", "ᏣᎳᎩ", "ᎦᏬᏂᎯᏍᏗ", "ᎠᎪᎵᏰᏗ", "ᏧᏬᎵᏗ ᏗᎪᏪᎵ", "ᎤᏬᎵᏗ ᎪᏪᎵ", "ᏗᎪᏪᎵ" ],
+  "svg_mode" : false,
+  "title" : "Ꮎ ᎠᏂᏦᎢ ᏪᏌ ᎠᏂᏓ ᎠᎴ ᏥᏔᎦ ᎤᏍᏗ / ᏣᎳᎩ-ᏲᏁᎦ ᏗᏕᏠᏆᏍᏙᏗ - The Three Kittens and Chicken Little / Cherokee-English Dictionary",
+  "url" : "http://www.CherokeeLessons.com/"
+}
