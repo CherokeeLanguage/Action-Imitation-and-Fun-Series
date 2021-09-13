@@ -1,7 +1,9 @@
-#LyX 2.1 created this file. For more info see http://www.lyx.org/
-\lyxformat 474
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
 \begin_document
 \begin_header
+\save_transient_properties true
+\origin unavailable
 \textclass book
 \begin_preamble
 \usepackage{multicol}%
@@ -17,16 +19,18 @@ fixltx2e
 \language_package default
 \inputencoding utf8-plain
 \fontencoding global
-\font_roman FreeSerif
-\font_sans FreeSans
-\font_typewriter FreeMono
-\font_math auto
+\font_roman "default" "FreeSerif"
+\font_sans "default" "FreeSans"
+\font_typewriter "default" "FreeMono"
+\font_math "auto" "auto"
 \font_default_family default
 \use_non_tex_fonts true
 \font_sc false
 \font_osf true
-\font_sf_scale 100
-\font_tt_scale 100
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
 \graphics none
 \default_output_format pdf4
 \output_sync 1
@@ -69,6 +73,7 @@ fixltx2e
 \suppress_date true
 \justification false
 \use_refstyle 0
+\use_minted 0
 \branch smashwords
 \selected 0
 \filename_suffix 0
@@ -88,7 +93,10 @@ fixltx2e
 \tocdepth 1
 \paragraph_separation indent
 \paragraph_indentation default
-\quotes_language english
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
 \papercolumns 1
 \papersides 2
 \paperpagestyle fancy
@@ -179,7 +187,7 @@ The Three Bears
 \end_layout
 
 \begin_layout Author
-Michael W S Joyner
+Michael Conrad
 \end_layout
 
 \begin_layout Standard
@@ -204,6 +212,22 @@ Michael W S Joyner
 \end_layout
 
 \begin_layout Standard
+\align center
+This work is licensed to you under the 
+\noun on
+Creative Commons Attribution-Share Alike 3.0 United States License
+\noun default
+.
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size small
+You are free to copy and share this work.
+\end_layout
+
+\begin_layout Standard
 \begin_inset VSpace vfill*
 \end_inset
 
@@ -219,7 +243,12 @@ The Three Bears
 \end_layout
 
 \begin_layout Standard
+Second Edition
+\end_layout
+
+\begin_layout Standard
 \begin_inset Branch smashwords
+inverted 0
 status collapsed
 
 \begin_layout Standard
@@ -232,27 +261,11 @@ Published by Michael Joyner at Smashwords
 \end_layout
 
 \begin_layout Standard
-Copyright 2015, Michael Joyner
+Copyright 2021, Michael Joyner
 \end_layout
 
 \begin_layout Standard
-ISBN: 978-1-329-35573-6
-\end_layout
-
-\begin_layout Standard
-This work is licensed under the 
-\noun on
-Creative Commons Attribution-Share Alike 3.0 United States License
-\noun default
-.
-\end_layout
-
-\begin_layout Standard
-$Revision: 1.18 $
-\end_layout
-
-\begin_layout Standard
-$Date: 2015/07/10 01:50:56 $ UTC
+ISBN: 978-0-000-00000-0
 \end_layout
 
 \begin_layout Standard
@@ -339,12 +352,13 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
+\align center
 
 \size huge
 \begin_inset Graphics
 	filename src.xcf/jpgs/005.jpg
 	lyxscale 10
-	width 99col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -434,12 +448,13 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
+\align center
 
 \size huge
 \begin_inset Graphics
 	filename src.xcf/jpgs/006.jpg
 	lyxscale 10
-	width 99col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -601,12 +616,13 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
+\align center
 
 \size huge
 \begin_inset Graphics
 	filename src.xcf/jpgs/007.jpg
 	lyxscale 10
-	width 99col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -691,12 +707,13 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
+\align center
 
 \size huge
 \begin_inset Graphics
 	filename src.xcf/jpgs/008.jpg
 	lyxscale 10
-	width 99col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -774,12 +791,13 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
+\align center
 
 \size huge
 \begin_inset Graphics
 	filename src.xcf/jpgs/009.jpg
 	lyxscale 10
-	width 99col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -887,12 +905,13 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
+\align center
 
 \size huge
 \begin_inset Graphics
 	filename src.xcf/jpgs/010.jpg
 	lyxscale 10
-	width 99col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -1033,12 +1052,13 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
+\align center
 
 \size huge
 \begin_inset Graphics
 	filename src.xcf/jpgs/011.jpg
 	lyxscale 10
-	width 99col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -1116,12 +1136,13 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
+\align center
 
 \size huge
 \begin_inset Graphics
 	filename src.xcf/jpgs/012.jpg
 	lyxscale 10
-	width 99col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -1250,12 +1271,13 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
+\align center
 
 \size huge
 \begin_inset Graphics
 	filename src.xcf/jpgs/013.jpg
 	lyxscale 10
-	width 99col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -1488,12 +1510,13 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
+\align center
 
 \size huge
 \begin_inset Graphics
 	filename src.xcf/jpgs/014.jpg
 	lyxscale 10
-	width 99col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -1605,12 +1628,13 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
+\align center
 
 \size huge
 \begin_inset Graphics
 	filename src.xcf/jpgs/015.jpg
 	lyxscale 10
-	width 99col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -1729,12 +1753,13 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
+\align center
 
 \size huge
 \begin_inset Graphics
 	filename src.xcf/jpgs/016.jpg
 	lyxscale 10
-	width 99col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -1946,12 +1971,13 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
+\align center
 
 \size huge
 \begin_inset Graphics
 	filename src.xcf/jpgs/017.jpg
 	lyxscale 10
-	width 99col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -2199,12 +2225,13 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
+\align center
 
 \size huge
 \begin_inset Graphics
 	filename src.xcf/jpgs/018.jpg
 	lyxscale 10
-	width 99col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -2509,12 +2536,13 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
+\align center
 
 \size huge
 \begin_inset Graphics
 	filename src.xcf/jpgs/019.jpg
 	lyxscale 10
-	width 99col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -2745,12 +2773,13 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
+\align center
 
 \size huge
 \begin_inset Graphics
 	filename src.xcf/jpgs/020.jpg
 	lyxscale 10
-	width 99col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -2906,12 +2935,13 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
+\align center
 
 \size huge
 \begin_inset Graphics
 	filename src.xcf/jpgs/021.jpg
 	lyxscale 10
-	width 99col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -3142,12 +3172,13 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
+\align center
 
 \size huge
 \begin_inset Graphics
 	filename src.xcf/jpgs/022.jpg
 	lyxscale 10
-	width 99col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -3264,12 +3295,13 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
+\align center
 
 \size huge
 \begin_inset Graphics
 	filename src.xcf/jpgs/023.jpg
 	lyxscale 10
-	width 99col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -3367,12 +3399,13 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
+\align center
 
 \size huge
 \begin_inset Graphics
 	filename src.xcf/jpgs/024.jpg
 	lyxscale 10
-	width 99col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -4582,6 +4615,12 @@ Waiver — Any of the above conditions can be waived if you get permission
 \size small
 Other Rights — In no way are any of the following rights affected by the
  license:
+\size default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper

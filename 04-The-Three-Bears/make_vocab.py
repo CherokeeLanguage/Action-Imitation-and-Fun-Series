@@ -17,7 +17,7 @@ class Config:
     unmatched_file: str = "vocabulary-unmatched.txt"
     vocab_template: str = "vocabulary-template.lyx"
     vocab_lyx: str = "vocabulary.lyx"
-    source_file: str = "Gigage-Alsdulo-ale-Na-Galgwogi-Unaksojaneda-Anigina.txt"
+    source_file: str = "Na-Anijoi-Yona.lyx"
 
     def load(self):
         if not os.path.isfile("vocabulary.json"):

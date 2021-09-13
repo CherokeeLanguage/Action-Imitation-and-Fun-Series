@@ -1,0 +1,8 @@
+{
+    "already_used": ["../02-The-Little-Red-Hen/used-vocabulary.txt", "../03-The-Three-Pigs/used-vocabulary.txt"],
+    "entries_file": "vocabulary.txt",
+    "unmatched_file": "vocabulary-unmatched.txt",
+    "vocab_template": "vocabulary-template.lyx",
+    "vocab_lyx": "vocabulary.lyx",
+    "source_file": "Na-Anijoi-Yona.lyx"
+}

@@ -1,0 +1,4645 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass book
+\begin_preamble
+\usepackage{multicol}%
+\usepackage{wallpaper}%
+%
+\end_preamble
+\use_default_options false
+\begin_modules
+fixltx2e
+\end_modules
+\maintain_unincluded_children false
+\language american
+\language_package default
+\inputencoding utf8-plain
+\fontencoding global
+\font_roman FreeSerif
+\font_sans FreeSans
+\font_typewriter FreeMono
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics none
+\default_output_format pdf4
+\output_sync 1
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref true
+\pdf_title "Ꮎ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ"
+\pdf_author "Michael Joyner"
+\pdf_subject "Cherokee Language"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered true
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 2
+\pdf_breaklinks true
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\pdf_quoted_options "unicode=true,hypertexnames=false"
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification false
+\use_refstyle 0
+\branch smashwords
+\selected 0
+\filename_suffix 0
+\color #faf0e6
+\end_branch
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 0.7in
+\topmargin 0.7in
+\rightmargin 0.6in
+\bottommargin 0.7in
+\secnumdepth -1
+\tocdepth 1
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle fancy
+\bullet 0 0 8 5
+\bullet 1 0 0 5
+\bullet 2 0 6 5
+\bullet 3 0 10 5
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict true
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{sloppy}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+frontmatter{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Title
+Ꮎ ᎠᏂᏦᎢ ᏲᎾ
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+The Three Bears
+\end_layout
+
+\begin_layout Author
+Michael W S Joyner
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ꮎ ᎠᏂᏦᎢ ᏲᎾ
+\end_layout
+
+\begin_layout Standard
+The Three Bears
+\end_layout
+
+\begin_layout Standard
+\begin_inset Branch smashwords
+status collapsed
+
+\begin_layout Standard
+Published by Michael Joyner at Smashwords
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Copyright 2015, Michael Joyner
+\end_layout
+
+\begin_layout Standard
+ISBN: 978-1-329-35573-6
+\end_layout
+
+\begin_layout Standard
+This work is licensed under the 
+\noun on
+Creative Commons Attribution-Share Alike 3.0 United States License
+\noun default
+.
+\end_layout
+
+\begin_layout Standard
+$Revision: 1.18 $
+\end_layout
+
+\begin_layout Standard
+$Date: 2015/07/10 01:50:56 $ UTC
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{plain}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+mainmatter{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Ꮎ ᎠᏂᏦᎢ ᏲᎾ
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size huge
+\begin_inset Graphics
+	filename src.xcf/jpgs/004.jpg
+	lyxscale 10
+	width 80col%
+	groupId fullpage
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Graphics
+	filename src.xcf/jpgs/005.jpg
+	lyxscale 10
+	width 99col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏲᎾ ᎦᎯᎪᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎡᎵᏊᏍ ᏲᎾ ᏯᏁᏓ? ᎡᎵᏊ ᏲᎾ ᏯᏁᏓ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꮒ, ᏲᎾ ᎡᏙᎭ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏲᎾ ᎬᏩᏂᎪᏩᏛᏗ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎢᎾᎨᎢ ᎠᏁᎰ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎢᎾᎨᎢ ᎡᎰ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎢᎾᎨᎢ ᏲᎾ ᎯᎪᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎢᎾᎨᎢ ᏲᎾ ᎦᎯᎪᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏲᎾᏍ ᎢᎾᎨᎢ ᎤᏂᎸᏉᏙ?
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎥᎥ, ᏲᎾ ᎢᎾᎨᎢ ᎤᏂᎸᏉᏙ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎦᏙᎲ ᏲᎾ ᎢᎾᎨᎢ ᎤᏂᎸᏉᏙ?
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏲᎾ ᎢᎾᎨᎢ ᎤᏁᏓᏍᏗ ᎤᏂᎸᏉᏙ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Graphics
+	filename src.xcf/jpgs/006.jpg
+	lyxscale 10
+	width 99col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎦᏙᎲ ᏲᎾ ᎠᏁᎰ ᎢᎾᎨᎢ?
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏲᎾ ᎠᏁᎰ ᎢᎾᎨᎢ ᎤᏂᎸᏉᏙ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꮒ, ᎤᎾᏤᎵ ᎤᏂᏴᏍᏗ ᎢᎾᎨᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏂᏴᏍᏗ ᏲᎾ ᎠᏁᎰ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏌᏊ ᏲᎾ ᏥᎪᏩᏘ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏂᏔᎵ ᏲᎾ ᎦᏥᎪᏩᏘ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏂᏦᎢ ᏲᎾ ᎢᎾᎨᎢ ᎦᏥᎪᏩᏘ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏌᏊ ᏲᎾ ᎢᎾᎨᎢ ᎡᏙᎰ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏂᏔᎵ ᏲᎾ ᎢᎾᎨᎢ ᎠᏁᏙᎰ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏂᏦᎢ ᏲᎾ ᎢᎾᎨᎢ ᎠᏁᏙᎰ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏌᏊ ᏲᎾ ᎤᏴᏍᏗ ᎡᎰ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏂᏔᎵ ᏲᎾ ᎤᏂᏴᏍᏗ ᎠᏁᎰ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏂᏦᎢ ᏲᎾ ᎤᏂᏴᏍᏗ ᎠᏁᎰ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏲᎾ ᎢᎾᎨᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏌᏊ ᏲᎾ ᎢᎾᎨᎢ ᏥᎪᏩᏘ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏂᏔᎵ ᏲᎾ ᎢᎾᎨᎢ ᎦᏥᎪᏩᏘ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏂᏦᎢ ᏲᎾ ᎢᎾᎨᎢ ᎦᏥᎪᏩᏘ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏕᏡᎬ ᎢᎾᎨᎢ ᏕᏥᎪᏩᏘ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏌᏊ ᏡᎬ, ᏔᎵ ᏕᏡᎬ, ᏦᎢ ᏕᏡᎬ ᎢᎾᎨᎢ ᏕᏥᎪᏩᏘ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏲᎾᏍ ᏕᏡᎬ ᏚᏂᎸᏉᏙ?
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏲᎾ ᏕᏡᎬ ᏚᏂᎸᏉᏙ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏕᏡᎬ ᏲᎾ ᏓᏂᎴᎪ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎦᏙᎲ ᏲᎾ ᏕᏡᎬ ᏓᏂᎴᎪ?
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏲᎾ ᏕᏡᎬ ᏓᏂᎴᎪ ᎤᏂᎸᏉᏙ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Graphics
+	filename src.xcf/jpgs/007.jpg
+	lyxscale 10
+	width 99col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᎭᏂ ᎤᏍᏗ ᎠᎨᏳᏣ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳ ᎤᏁᎦ ᎢᏳᏍᏗ ᎤᏍᏘᎬᎢ.
+ ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᏚᏙᎠ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏙᎯᏧ, ᎠᏕᎳ ᎤᏍᏘᎬᎢ?
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎤᎴᎾᏞ ᎤᎿ ᎢᎾᎨᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꮒ, ᎤᎴᎾᏢᎢ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏲᏨ ᎠᏕᎳ ᎤᏍᏘᎬᎢ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏕᏡᎬ ᎠᏰᏟ ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎤᎴᎾᎯᎭ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎢᎾᎨᎢ ᎦᎷᎩ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏲᎾ ᎤᏂᏤᎵ ᎤᏂᏴᏍᏗ ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎦᎷᎩ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ, ᎠᏕᎳ ᎤᏍᏘᎬᎢ, ᎤᎴᎾᏢᎢ ᎠᏕᎳ ᎤᏍᏘᎬᎢ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꭳ, ᎠᏕᎳ ᎤᏍᏘᎬᎢ, ᏣᎴᎾᎯᎭ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Graphics
+	filename src.xcf/jpgs/008.jpg
+	lyxscale 10
+	width 99col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎤᏤᎵ ᎤᏴᏍᏗ ᎤᏟ ᎤᎵᏘᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎢᎾᎨᎢ ᎠᏰᏟ ᎤᎵᏘᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏃᏊ ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎢᎾᎨᎢ ᎠᏰᏟ ᎤᎴᎾᎯᎭ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꭳ ᎠᏕᎳ ᎤᏍᏘᎬᎢ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎦᏙᎲ ᎤᏤᎵ ᎤᏴᏍᏗ ᎤᏟ ᎤᎵᏘᏎ?
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᏲᎾ ᎤᏂᏴᏍᏗ ᎤᎷᏤ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꭳ ᎠᏕᎳ ᎤᏍᏘᎬᎢ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏣᏴᏍᏗ ᎤᏟ ᏣᎵᏘᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏣᎴᎾᎦ, ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎢᎾᎨᎢ ᎠᏰᏟ ᏣᎴᎾᎦ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Graphics
+	filename src.xcf/jpgs/009.jpg
+	lyxscale 10
+	width 99col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎢᎾᎨᎢ ᎠᏰᏟ ᏭᏪᏅᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎤᏴᏍᏗ ᎤᏟ ᏭᏪᏅᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎦᎵᏦᏕ ᎢᎾᎨᎢ ᎠᏰᏟ ᏭᏪᏅᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎤᏩᏂᎴ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏌᏊ, ᏔᎵ, ᏦᎢ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎦᎶᎯᏍᏗᎢ ᏚᏩᏂᎴ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏌᏊ, ᏔᎵ, ᏦᎢ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎦᎶᎯᏍᏗᎢ ᏚᏩᏂᎴ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏚᏩᏂᎸᎢ, ᏚᏩᏂᎸᎢ, ᏚᏩᏂᎸᎢ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎦᎶᎯᏍᏗᎢ ᎤᏴᏍᏗ ᎤᏁᏟᏔᏁ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꮭ ᎦᎶᎯᏍᏗᎢ ᏯᎩᏍᏚᏁ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎦᎵᏦᏕ ᎤᏴᏞ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꮭ ᏲᎾ ᏱᏚᏃᏞ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏲᎾ ᏙᏱ ᎠᏁᏙᎮ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꮭ ᏌᏊ ᏲᎾ ᏳᏬᏞ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Graphics
+	filename src.xcf/jpgs/010.jpg
+	lyxscale 10
+	width 99col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎯᎠ ᎦᎵᏦᏕ ᎠᎩᎸᏉᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎦᏍᎩᎶ ᎤᎪᎮ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎯᎠ ᎦᏍᎩᎶ ᎠᎩᎸᏉᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏔᎵ ᏗᎦᏍᎩᎶ ᏚᎪᎮ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏔᎵ ᏗᎦᏍᎩᎶ ᏓᎩᎸᏉᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏦᎢ ᏗᎦᏍᎩᎶ ᏚᎪᎮ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏦᎢ ᏗᎦᏍᎩᎶ ᏓᎩᎸᏉᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏔᎾ ᎦᏍᎩᎶ ᎠᎩᎸᏉᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏲᏟᎨ ᎤᏔᎾ ᎦᏍᎩᎶ ᎠᎩᎸᏉᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏍᏗ ᎦᏍᎩᎶ ᎠᎩᎸᏉᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎯᎠ ᎦᏍᎩᎶ ᎡᏆ ᎤᏔᎾ.
+ ᎯᎠ ᎦᏍᎩᎶ ᎦᏲᏟᎨ ᎤᏔᎦ ᎯᎠ ᎦᏍᎩᎶ ᎤᏍᏗᎧ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Graphics
+	filename src.xcf/jpgs/011.jpg
+	lyxscale 10
+	width 99col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏔᎾᏍ ᎦᏍᎩᎶ ᎤᏤᎵ ᎡᏆ ᎤᏔᎾ ᏲᎾ?
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎥᎥ, ᎡᏆ ᎤᏔᎾ ᏲᎾ ᎤᏔᎾ ᎦᏍᎩᎶ ᎤᏤᎵ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎦᏲᏟᎨᏍ ᎤᏔᎾ ᎦᏍᎩᎶ ᎤᏤᎵ ᎦᏲᏟᎨ ᎤᏔᎾ ᏲᎾ?
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎥᎥ, ᎦᏲᏟᎨ ᎤᏔᎾ ᏲᎾ ᎦᏲᏟᎨ ᎤᏔᎾ ᎦᏍᎩᎶ ᎤᏤᎵ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏍᏗᎧᏍ ᎦᏍᎩᎶ ᎤᏤᎵ ᏭᏍᏗᎬ ᏲᎾ?
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎥᎥ, ᏭᏍᏗᎬ ᏲᎾ ᎤᏍᏗᎧ ᎦᏍᎩᎶ ᎤᏤᎵ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏲᎾ ᏗᎦᏍᎩᎸᎢ ᏚᏃᏠ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎡᏆ ᎤᏔᎾ ᏲᎾ ᎤᏃᏠ ᎤᏔᎾ ᎦᏍᎩᎸᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎦᏲᏟᎨ ᎤᏔᎾ ᏲᎾ ᎤᏃᏠ ᎦᏲᏟᎨ ᎤᏔᎾ ᎦᏍᎩᎸᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏭᏍᏗᎬ ᏲᎾ ᎤᏃᏠ ᎤᏍᏗᎧ ᎦᏍᎩᎸᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Graphics
+	filename src.xcf/jpgs/012.jpg
+	lyxscale 10
+	width 99col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏔᎾ ᎦᏍᎩᎸᎢ ᎠᏉᏞᏍᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏔᎾ ᎦᏍᎩᎸᎢ ᎤᏉᏞ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏲᏟᎨ ᎤᏔᎾ ᎦᏍᎩᎸᎢ ᎠᏉᏞᏍᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎦᏲᏟᎨ ᎤᏔᎾ ᎦᏍᎩᎸᎢ ᎤᏉᏞ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏍᏗᎧ ᎦᏍᎩᎸᎢ ᎠᏉᏞᏍᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏔᎾ ᎦᏍᎩᎶ ᏍᏓᏯᏒ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏲᏟᎨ ᎦᏍᎩᎶ ᏩᏂᎨᏒ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎾᎯᏳ ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎤᏬᏞ ᎤᏍᏗᎧ ᎦᏍᎩᎸᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ! ᎤᏍᏗᎧ ᎦᏍᎩᎶ ᎠᎩᎸᏉᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏍᏗᎧ ᎦᏍᎩᎶ ᏍᏓᏯᏒ ᏂᎨᏒᎾ.
+ ᎤᏍᏗᎧ ᎦᏍᎩᎶ ᏩᏂᎨᏒ ᏂᎨᏒᎾ.
+ ᎤᏍᏗᎧ ᎦᏍᎩᎶ ᎣᏍᏓᏊ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Graphics
+	filename src.xcf/jpgs/013.jpg
+	lyxscale 10
+	width 99col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎤᏬᏞ ᎠᎴ ᎤᏬᏞ ᎤᏍᏗᎧ ᎦᏍᎩᎸᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏲᏨᎢ, ᎤᏲᏨᎢ, ᎤᏲᏨᎢ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏍᏗᎧ ᎦᏍᎩᎶ ᎤᏲᏤ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏲᏨᎢ, ᎤᏲᏨᎢ, ᎤᏲᏨᎢ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎡᎳᏗ ᏗᏜ ᏭᏪᏅᏎ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎡᎳᏗ ᏗᏜ ᏭᏪᏅᏎ ᎦᏍᎩᎶ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ! Ꭳ! Ꭳ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᎤᏍᏗᎧ ᎦᏍᎩᎶ ᏯᎩᎸᏉᏗ.
+ Ꭳ! Ꭳ! Ꭳ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎩᎳᏊ ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎤᏲᏏᏍᎨ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᏥᏈᏍᏗ ᎠᎩᏲᏏᎭ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᎩᏍᏗ ᎠᎩᏲᏏ.
+ ᎠᎩᏍᏗ ᎠᏆᏚᎵ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏗᎩᏍᏗᏍ ᎠᎭᏂ ᎤᏴᏍᏗ? Ꭳ ᎥᎥ, ᏲᎾ ᏗᎩᏍᏗ ᎠᏎ ᏚᏂᎰ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎭᏢ ᏗᎩᏍᏗ? ᎡᎵᏊᏍ ᏕᏥᏩᏔ?
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏙᏛᎩᏲᎯ.
+ ᏙᏓᏥᏩᏛᎯ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏗᎩᏍᏗ ᎠᎭᏂ ᎠᏆᏅᏔ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏗᎩᏍᏗ ᎠᎭᏂ ᎤᏴᏍᏗ ᎠᏆᏅᏔ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎭᏢ ᏗᎩᏍᏗ?
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎪ ᎠᏁᎰ ᎯᎠ ᎤᏴᏍᏗ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏍᎩᎶ ᏥᎪᏩᏘᎭ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏗᎩᏍᏗᏍ ᎦᏍᎩᎸᎢ?
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏗᎩᏍᏗ ᎠᎭᏂ ᎠᏆᏅᏔ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏂᏦᎢ ᏲᎾ ᎠᏁᎰ ᎯᎠ ᎤᏂᏴᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏂᏦᎢ ᏲᎾ ᏗᎩᏍᏗ ᎠᏎ ᏧᏂᎩᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎭᏢ ᎠᏂᏦᎢ ᏲᎾ?
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎭᏢ ᏧᎾᏤᎵ ᏗᎩᏍᏗ?
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꭳ, ᎠᎭᏂ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎯᎠ ᎤᏂᏴᏍᏗ ᎤᏂᏤᎵ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᎭᏂ ᎤᏂᏤᎵ ᎦᏍᎩᎶ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᎴ Ꮒ! ᎠᎭᏂ ᏧᏂᏤᎵ ᏗᎩᏍᏗ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Graphics
+	filename src.xcf/jpgs/014.jpg
+	lyxscale 10
+	width 99col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎦᏍᎩᎶ ᏗᏜ ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᏭᏪᏅᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᏦᎢ ᏗᏟᏍᏙᏗ ᏚᎪᎮ ᎦᏍᎩᎸᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏌᏊ ᎠᏟᏍᏙᏗ ᎡᏆ ᎤᏔᎾ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏐᎢ ᎠᏟᏍᏙᏗ ᎦᏲᏟᎨ ᎤᏔᎾ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏐᎢ ᎠᏟᏍᏙᏗ ᎤᏍᏗᎧ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏗᏟᏍᏙᏗᎯ ᎤᏅᏗ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏅᏗ ᎠᎩᎸᏉᏗ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎡᏆ ᎤᏔᎾ ᎠᏟᏍᏙᏗᎢ ᎤᏅᏗ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎦᏲᏟᎨ ᎤᏔᎾ ᎠᏟᏍᏙᏗᎢ ᎤᏅᏗ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏍᏗᎧ ᎠᏟᏍᏙᏗᎢ ᎤᏅᏗ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎡᏆ ᎤᏔᎾ ᎠᏟᏍᏙᏗᎢ ᏫᎦᏲᏢᎢ ᎤᏅᏗ ᏓᎦᏗᏔᎯ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏲᏟᎨ ᎤᏔᎾ ᎠᏟᏍᏙᏗᎢ ᏫᎦᏲᏢᎢ ᎤᏅᏗ ᏓᎦᏗᏔᎯ.
+ ᎤᏍᏗᎧ ᎠᏟᏍᏙᏗᎢ ᏫᎦᏲᏢᎢ ᎤᏅᏗ ᏓᎦᏗᏔᎯ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Graphics
+	filename src.xcf/jpgs/015.jpg
+	lyxscale 10
+	width 99col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏔᎾ ᎠᏟᏍᏙᏗᎢ ᎤᏅᏗ ᏫᎦᏲᏢᎢ ᎤᏗᏔᎮ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏔᎾ ᎠᏟᏍᏙᏗᎢ ᎤᏅᏗ ᏭᎪᏛ ᎤᏗᏞᎦ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ! Ꭳ! ᏭᎪᏛ ᎤᏗᏞᎦ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎤᏅᏗ ᏫᎦᏲᏢᎢ ᎤᏗᏔᎮ ᎦᏲᏟᎨ ᎤᏔᎾ ᎠᏟᏍᏙᏗᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏅᏗ ᏭᎪᏛ ᎤᏴᏞ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᎤᏴᏜ ᎤᏅᏗ ᏯᎩᎸᏉᏙ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏍᏗᎧ ᎠᏟᏍᏙᏗᎢ ᎤᏅᏗ ᏫᎦᏲᏢᎢ ᎤᏗᏔᎮ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏅᏗ ᎤᏍᏗᎧ ᎠᏟᏍᏙᏗᎢ ᎣᏍᏓᏊ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎤᏗᏔᎯᏌᏁ ᎤᏍᏗᎧ ᎠᏟᏍᏙᏗᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎤᏗᏔᎯᏌᏁ ᎠᎴ ᎤᏗᏔᎯᏌᏁ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᏙᏳ ᎠᎩᏲᏏᏌ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Graphics
+	filename src.xcf/jpgs/016.jpg
+	lyxscale 10
+	width 99col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᏚᏯᏪᏤ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎢᎾᎨᎢ ᎤᏪᏓᏍᏗ ᎢᏳᏍᏗ ᏚᏯᏪᏤ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎦᏢᏅᏗᎢ ᏭᏪᏅᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᎿ ᏦᎢ ᏗᎦᏂᏟ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏌᏊ ᎦᏂᏟ ᎡᏆ ᎤᏔᎾ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏐᎢ ᎦᏂᏟ ᎦᏲᏟᎬᎢ ᎤᏔᎾ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏐᎢ ᎦᏂᏟ ᎤᏍᏗᎧ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏃᏊᎴ ᎡᏆ ᎤᏔᎾ ᎦᏅᎨ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᎤᏔᎾ ᎦᏂᏟ ᏍᏓᏯᏒ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏃᏊᎴ ᎦᏲᏟᎬᎢ ᎤᏔᎾ ᎦᏂᏟ ᎦᏅᎨ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᎦᏲᏟᎬᎢ ᎤᏔᎾ ᎦᏂᏟ ᏩᏂᎨᏒ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎾᎯᏳ ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎤᏍᏗᎧ ᎦᏂᏟ ᎦᏅᎨ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᎤᏍᏗᎧ ᎦᏂᏟ ᎣᏍᏓᏊ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏍᏗᎧ ᎦᏂᏟ ᎠᎩᎸᏉᏙ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᏙᏳ ᏙᏳ ᏚᏯᏪᏤ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏙᏳ ᏚᏯᏪᏤ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꭳ, ᏚᏯᏪᏨᎢ — ᏚᏯᏪᏨᎢ — ᏚᏯᏪᏨᎢ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏢᏁ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏍᏗᎧ ᎦᏂᏟ ᎤᏢᏁ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏍᏗᎧ ᎦᏂᏟ ᎨᏎ.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎯᎠ ᎦᏂᏟ ᎣᏍᏓᏊ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏍᏓᏯᏒ ᏂᎨᏒᎾ.
+ ᏩᏂᎨᏒ ᏂᎨᏒᎾ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎾᎯᏳ ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎤᏢᏁ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏚᏯᏪᏨᎢ, ᏚᏯᏪᏨᎢ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꭳ, ᏥᏈᏍᏗ ᏥᏚᏯᏪᏤ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Graphics
+	filename src.xcf/jpgs/017.jpg
+	lyxscale 10
+	width 99col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎦᏟᎮ ᎠᎴ ᎦᏟᎮ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏍᏗᎧ ᎦᏂᏟ ᎤᎿ ᎦᏟᎮ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏥᎦᏟᎮ ᏃᏊᎴ ᏲᎾ ᎤᏂᏴᏍᏗ ᎤᏂᎷᏤ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏥᎦᏟᎮ ᏃᏊᎴ ᏲᎾ ᎤᏂᏴᏍᏗ ᎤᏂᏴᏞ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꭳ ᎠᏕᎳ ᎤᏍᏘᎬᎢ! ᎠᏕᎳ ᎤᏍᏘᎬᎢ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏲᎾ ᎦᎶᎯᏍᏗᎢ ᎠᏁᏙᎭ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏲᎾ ᎤᏂᏴᏍᏗ ᎠᏁᏙᎭ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎡᎵᏊ ᏲᎾ ᏂᎯ ᏱᎨᏣᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꭳ, ᎯᏰᎩ, ᎯᏰᎩ, ᎠᏕᎳ ᎤᏍᏘᎬᎢ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꭳ ᎠᏕᎳ ᎤᏍᏘᎬᎢ, ᎭᎵᏘ, ᎭᎵᏘ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏲᎾ ᎤᏂᏴᏍᏗ ᎠᏂᏴᎭ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏲᎾ ᎦᎯᏯᏛᎬᎦ, ᎠᏕᎳ ᎤᏍᏘᎬᎢ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎦᎯᏯᏛᎩᏍ?
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎦᏟᎮ Ꮟ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏲᎾ ᎦᎶᎯᏍᏗᎢ ᎠᏁᏓ Ꮭ ᏱᏓᏯᏛᎬᎦ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏲᎾ ᎤᏂᏴᏍᏗ ᎠᏂᏴᎭ Ꮭ ᏱᏓᏯᏛᎬᎦ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏂᏤᎵ ᏗᎦᏍᎩᎶ ᏗᏜ ᎠᏁᎾ Ꮭ ᏱᏓᏯᏛᎬᎦ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏂᏤᎵ ᏗᏟᏍᏙᏗ ᏗᏜ ᎠᏁᎾ Ꮭ ᏱᏓᏯᏛᎬᎦ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏂᏤᎵ ᏗᎦᏂᏟ ᏗᏜ ᎠᏁᎾ Ꮭ ᏱᏓᏯᏛᎬᎦ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏂᏦᎢ ᏲᎾ ᎤᏂᏴᏍᏗ ᎠᏂᏴᎭ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎦᎶᎯᏍᏗᎢ ᎤᎵᏍᏚᎢᏓ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎯᏍᏚᎲᎦᏍ ᎦᎶᎯᏍᏗᎢ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏟᏂᎩᏓ ᎤᏛᏁ ᎡᏆ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᎥ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏩᏂᎨ ᎤᏛᏁ ᎦᏲᏟᎨ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎶᎯᏍᏗᎢ ᏥᏍᏚᎲᎦ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᏎᏃ ᎦᎶᎯᏍᏗᎢ ᎤᎵᏍᏚᎢᏓ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏟᏂᎩᏓ ᎤᏛᏁ ᎡᏆ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎩᎶ ᎢᎩᏴᏍᏗ ᎠᏴᎭ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ ᎥᎥ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏩᏂᎨ ᎤᏛᏁ ᎦᏲᏟᎨ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ ᎥᎥ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎡᏝᏪ ᎤᏛᏁ ᏭᏍᏗᎬ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎩᎶ ᎢᎩᏴᏍᏗ ᎡᏙᎭ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Graphics
+	filename src.xcf/jpgs/018.jpg
+	lyxscale 10
+	width 99col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏲᎾ ᎦᎶᎯᏍᏗᎢ ᎤᏂᏴᏞ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏲᎾ ᎧᏅᏑᎸᎢ ᎤᏂᎦᏖᏃᎴ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏲᎾ ᏭᏍᏗᎬ ᎦᏍᎩᎶ ᎤᏂᎪᎮ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꮒ! Ꮒ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꮒ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏟᏂᎩᏓ ᎤᏛᏁ ᎡᏆ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꮒ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᏩᏂᎨ ᎤᏛᏁ ᎦᏲᏟᎨ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꮒ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎡᏝᏪ ᎤᏛᏁ ᏭᏍᏗᎬ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎩᎶ ᎢᎩᏴᏍᏗ ᎡᏙᎭ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏟᏂᎩᏓ ᎤᏛᏁ ᎡᏆ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᎥ, ᎩᎶ ᎢᎩᏴᏍᏗ ᎡᏙᎭ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏩᏂᎨ ᎤᏛᏁ ᎦᏲᏟᎨ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎥᎥ, ᎥᎥ, ᎩᎶ ᎢᎩᏴᏍᏗ ᎡᏙᎭ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎡᏝᏪ ᎤᏛᏁ ᏭᏍᏗᎬ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎩᎶ ᎠᏆᏤᎵ ᎦᏍᎩᎶ ᎤᏬᏢ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏟᏂᎩᏓ ᎤᏛᏁ ᎡᎦ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎩᎶ ᎠᏆᏤᎵ ᎦᏍᎩᎶ ᎤᏬᏢ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏩᏂᎨ ᎤᏛᏁ ᎦᏲᏟᎨ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎩᎶ ᎠᏆᏤᎵ ᎦᏍᎩᎶ ᎤᏬᏢ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎡᏝᏪ ᎤᏛᏁ ᏭᏍᏗᎬ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꮒ, Ꮒ, Ꮒ! ᎩᎶ ᎠᏆᏤᎵ ᎦᏍᎩᎶ ᎤᏲᏍᏔᏅ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏃᏍᎩᏍᎩ ᎢᎩᏴᏍᏗ ᎡᏙᎭ ᎠᏆᏅᏔ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏟᏂᎩᏓ ᎤᏛᏁ ᎡᏆ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏃᏍᎩᏍᎩ ᎢᎩᏴᏍᏗ ᎡᏙᎭ ᎠᏆᏅᏔ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏩᏂᎨ ᎤᏛᏁ ᎦᏲᏟᎨ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏃᏍᎩᏍᎩ ᎢᎩᏴᏍᏗ ᎡᏙᎭ ᎠᏆᏅᏔ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎡᏝᏪ ᎤᏛᏁ ᏭᏍᏗᎬ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎦᎪ ᎦᏃᏍᎩᏍᎩ?
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎭᏢ ᎦᏃᏍᎩᏍᎩ?
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏲᏒ ᎤᏲᏒ ᎦᏃᏍᎩᏍᎩ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏟᏂᎩᏓ ᎤᏛᏁ ᎡᏆ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏲᏒ ᎤᏲᏒ ᎦᏃᏍᎩᏍᎩ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᏩᏂᎨ ᎤᏛᏁ ᎦᏲᏟᎨ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏲᏒ ᎤᏲᏒ ᎦᏃᏍᎩᏍᎩ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎡᏝᏪ ᎤᏛᏁ ᏭᏍᏗᎬ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎥᏍᎩᎾ ᏫᏗᏩᏛᎱᎦ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎭᏢ ᎥᏍᎩᎾ?
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏓᏗᎪᎯ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏪᎾ, ᎡᏆ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏪᎾ, ᎦᏲᏟᎨ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏪᎾ, ᏭᏍᏗᎬ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Graphics
+	filename src.xcf/jpgs/019.jpg
+	lyxscale 10
+	width 99col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᎩᏲᏏᎭ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏟᏂᎩᏓ ᎤᏛᏁ ᎡᏆ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᎩᏲᏏᎭ ᏍᏊ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏩᏂᎨ ᎤᏛᏁ ᎦᏲᏟᎨ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᎩᏲᏏᎭ ᏍᏊ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎡᏝᏪ ᎤᏛᏁ ᏭᏍᏗᎬ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏃᏊᎴ ᏲᎾ ᎦᏍᎩᎶ ᏭᏁᏅᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏅᏗ ᎤᎾᏗᏔᏍᏗ ᎤᎾᎴᏅᎮ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎩᎶ ᎦᏲᏟ ᎠᏆᏤᎵ ᎤᏅᏗ ᎠᏗᏔ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏟᏂᎩᏓ ᎤᏛᏁ ᎡᏆ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎩᎶ ᎦᏲᏟ ᎠᏆᏤᎵ ᎤᏅᏗ ᎠᏗᏔ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏩᏂᎨ ᎤᏛᏁ ᎦᏲᏟᎨ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎩᎶ ᎦᏲᏟ ᎠᏆᏤᎵ ᎤᏅᏗ ᎠᏗᏔ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎡᏝᏪ ᎤᏛᏁ ᏭᏍᏗᎬ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎩᎶ ᏂᎦᏓ ᎠᏆᏤᎵ ᎤᏅᏗ ᎠᏗᏔ.
+ Ꭳ! Ꭳ! Ꭳ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎡᏝᏪ ᎤᏛᏁ ᏭᏍᏗᎬ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᏆᏤᎵ ᎤᏅᏗ! Ꭳ ᎠᏆᏤᎵ ᎤᏅᏗ! ᎩᎶ ᎠᏆᏤᎵ ᎤᏅᏗ ᎠᏗᏔ! ᎩᎶ ᏂᎦᏓ ᎠᏆᏤᎵ ᎤᏅᏗ ᎠᏗᏔ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꭳ ᎠᏕᎳ ᎤᏍᏘᎬᎢ, ᎯᏰᎩ, ᎯᏰᎩ, ᎯᏰᎩ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏲᎾ ᎤᎿ ᏩᏁᎦ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏲᎾ ᎦᏃᏍᎩᏍᎩ ᎤᎩᏎᎦ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎯᏃᏍᎩᏍᎩ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏱᎨᏣᎦ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎭᏛᏓᏍᏓ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏲᎾᏍ ᎦᎯᏯᏛᎩ?
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎦᎯᏯᏛᎩᏧ?
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎨᏣᎩᏎᎦ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎭᏛᏓᏍᏓ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎦᎯᏯᏛᎩᏍ ᏲᎾ ᎤᎿ ᎠᏁᎦ?
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎯᏃᏍᎩᏍᎩ ᎨᏣᎩᏎᎦ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏂᏦᎢ ᏲᎾ ᎨᏣᎩᏎᎦ, ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏱᎨᏣᎦ, ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎯᏰᎩ, ᎯᏰᎩ, ᎠᏕᎳ ᎤᏍᏘᎬᎢ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꭳ, ᎯᏰᎩ, ᎯᏰᎩ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Graphics
+	filename src.xcf/jpgs/020.jpg
+	lyxscale 10
+	width 99col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎦᏚ ᏗᏜ ᎠᎩᏠᏒᏍᏗ ᏭᏁᏅᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏂᎿᎸᏤ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏌᏊ ᎤᎿᎸᏨᎢ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏂᏔᎵ ᎤᏂᎿᎸᏨᎢ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏂᏦᎢ ᎤᏂᎿᎸᏨᎢ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏃᏊ ᎦᏃᏍᎩᏍᎩ ᏱᏥᏩᏔ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏟᏂᎩᏓ ᎤᏛᏁ ᎡᏆ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏃᏊ ᎦᏃᏍᎩᏍᎩ ᏱᏥᏩᏔ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏩᏂᎨ ᎤᏛᏁ ᎦᏲᏟᎨ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏃᏊ ᎦᏃᏍᎩᏍᎩ ᏱᏥᏩᏔ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎡᏝᏪ ᎤᏛᏁ ᏭᏍᏗᎬ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꮎ ᎤᏲᏒ ᎦᏃᏍᎩᏍᎩ ᎦᏚ ᏗᏜ ᎠᎩᏠᏒᏍᏗ ᎤᎿ ᎡᏙᎭ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏟᏂᎩᏓ ᎤᏛᏁ ᎡᏆ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꮎ ᎤᏲᏒ ᎦᏃᏍᎩᏍᎩ ᎦᏚ ᏗᏜ ᎠᎩᏠᏒᏍᏗ ᎤᎿ ᎡᏙᎭ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏩᏂᎨ ᎤᏛᏁ ᎦᏲᏟᎨ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꮎ ᎤᏲᏒ ᎦᏃᏍᎩᏍᎩ ᎦᏚ ᏗᏜ ᎠᎩᏠᏒᏍᏗ ᎤᎿ ᎡᏙᎭ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎡᏝᏪ ᎤᏛᏁ ᏭᏍᏗᎬ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏂᏦᎢ ᎤᏂᎿᎸᏨᎢ ᏲᎾ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏌᏊ ᎤᏍᏗ ᎦᏃᏍᎩᏍᎩ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎯᏰᎩ, ᏣᏍᏗ ᎯᏃᏍᎩᏍᎩ, ᎯᏰᎩ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏲᎾ ᎤᎿ ᎠᏁᎦ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎯᏰᎩ, ᎠᏕᎳ ᎤᏍᏘᎬ, ᎯᏰᎩ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Graphics
+	filename src.xcf/jpgs/021.jpg
+	lyxscale 10
+	width 99col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎡᏆ ᎤᏔᎾ ᏲᎾ ᎤᏤᎵ ᎧᏅᏑᎸ ᏭᏁᏅᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎩᎶ ᎦᏂᏟ ᎦᏅᎨ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏟᏂᎩᏓ ᎡᏆ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎾᎯᏳ ᎦᏲᏟᎨ ᎤᏔᎾ ᏲᎾ ᎤᏤᎵ ᎧᏅᏑᎸ ᏭᏁᏅᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎩᎶ ᎦᏂᏟ ᎦᏅᎨ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏩᏂᎨ ᎦᏲᏟᎨ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎾᎯᏳ ᏭᏍᏗᎬ ᏲᎾ ᎤᏤᎵ ᎧᏅᏑᎸ ᏭᏁᏅᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎩᎶ ᎦᏂᏟ ᎦᏅᎨ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎡᏝᏪ ᏭᏍᏗᎬ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᎴ Ꮒ! ᎥᏍᎩᎾ ᎠᎭᏂ! ᎠᎭᏂ ᎦᏃᏍᎩᏍᎩ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ! Ꭳ! Ꭳ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏟᏂᎩᏓ ᎤᏛᏁ ᎡᏆ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ! Ꭳ! Ꭳ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᏩᏂᎨ ᎤᏛᏁ ᎦᏲᏟᎨ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ! Ꭳ! Ꭳ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎡᏝᏪ ᎤᏛᏁ ᏭᏍᏗᎬ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏰᎶᎢᏍᏗ ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎤᏰᏤ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꭳ! Ꭳ! Ꭳ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏭᏍᏗᎬ ᏲᎾ ᎢᎦᏪᏍᏗ ᎤᏛᎦᏁ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꭳ! Ꭳ! Ꭳ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎡᏆ ᎤᏔᎾ ᏲᎾ ᎢᎦᏪᏍᏗ ᎤᏛᎦᏁ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꭳ! Ꭳ! Ꭳ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꭳ, ᏲᎾ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꭳ, ᏲᎾ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏂᏦᎢ ᏲᎾ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎡᎵᏊᏍ ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᏯᎾᎵᏍᏓᏴᎦ?
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎭᎵᏘ, ᎠᏕᎳ ᎤᏍᏘᎬᎢ, ᎭᎵᏘ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏲᎾ ᎤᏂᎿᎸᎦ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎡᏆ ᎤᏔᎾ ᏲᎾ ᎤᏲᏒ ᎡᏆ ᏂᎦᏪ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏭᏍᏗᎬ ᏲᎾ ᎤᏲᏒ ᎡᏝᏪ ᏂᎦᏪ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏲᏒ ᎡᏆ ᎢᎦᏪᏍᏗ.
+ ᎤᏲᏒ ᎡᏆ ᎢᎦᏪᏍᏗ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏲᏒ ᎡᏝᏪ ᎢᎦᏪᏍᏗ.
+ ᎤᏲᏒ ᎡᏝᏪ ᎢᎦᏪᏍᏗ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꭳ, ᎭᎵᏘ, ᎭᎵᏘ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Graphics
+	filename src.xcf/jpgs/022.jpg
+	lyxscale 10
+	width 99col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏰᏤᏍ ᎠᏕᎳ ᎤᏍᏘᎬᎢ?
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꭳ ᎥᎥ, ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎤᏰᏤ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎠᏂᏦᎢ ᏲᎾ ᏚᎪᎮ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎦᏂᏟ ᎤᏟ ᏚᎵᏔᏗᏅᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ Ꮒ, Ꮒ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏟᏂᎩᏓ ᎤᏛᏁ ᎡᏆ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ Ꮒ, Ꮒ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᏩᏂᎨ ᎤᏛᏁ ᎦᏲᏟᎨ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ Ꮒ, Ꮒ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎡᏝᏪ ᎤᏛᏁ ᏭᏍᏗᎬ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏔᏟᏔᏚᎦ, ᏔᏟᏔᏚᎦ, ᎠᏕᎳ ᎤᏍᏘᎬᎢ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏙᏱ ᏗᏜ ᏦᎳᏂ ᎯᎦᏛᎴᎯ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏲᎾ ᎤᏂᎾᎸᎭ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏙᏳ ᏙᏳ ᎤᏂᎾᎸᏒᎢ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏔᏟᏔᏚᎦ, ᎾᎯᏳ, ᏔᏟᏔᏚᎦ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏙᏱ ᏗᏜ ᏦᎳᏂ ᎯᎦᏛᎴᎯ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Graphics
+	filename src.xcf/jpgs/023.jpg
+	lyxscale 10
+	width 99col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ! Ꭳ! Ꭳ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏪᏡᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꭳ, ᏥᏈᏍᏗ ᏗᎨᏡᎲᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎦᏂᏟ ᎤᏟ ᏚᎵᏔᏅᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏦᎳᏂ ᏗᏜ ᎤᎵᏘᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏔᏟᏔᏚᎦ, ᎠᏕᎳ ᎤᏍᏘᎬᎢ, ᏔᏟᏔᏚᎦ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏦᎳᏂ ᎯᎦᏛᎴᎯ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ! Ꭳ! Ꭳ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏪᏡᏁ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᏚᎵᏔᏅᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏦᎳᏂ ᎤᎦᏛᎴᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎾᎯᏳ ᎤᎵᏘᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏟᏎ ᎠᎴ ᎠᏟᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Graphics
+	filename src.xcf/jpgs/024.jpg
+	lyxscale 10
+	width 99col%
+	groupId 90C
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏦᎳᏂ ᏗᏜ ᏲᎾ ᎤᏟᏍᏓ ᏭᏁᏅᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏦᎳᏂ ᏙᏱ ᎤᏂᎦᏖᏃᎴ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏍᏗ ᎠᎨᏳᏣ ᎤᎾᎦᏙᏍᏔᏁ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏧᏟᏎ ᎠᎴ ᏧᏟᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏍᏗᏊ ᎠᎨᏳᏣ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏟᏂᎩᏓ ᎤᏛᏁ ᎡᏆ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏍᏗᏊ ᎠᎨᏳᏣ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏩᏂᎨ ᎤᏛᏁ ᎦᏲᏟᎨ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏍᏗᏊ ᎠᎨᏳᏣ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎡᏝᏪ ᎤᏛᏁ ᏭᏍᏗᎬ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎢᎾᎨᎢ ᎤᏟ ᎠᏟᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏤᎵ ᎤᏴᏍᏗ ᎠᏟᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᎢᎸᎯᏳ ᎤᏴᏍᏗ ᎤᏟ ᎦᎵᏘᏍᎨᏍᏗ.
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꮭ ᎢᎸᎯᏳ ᎢᎾᎨᎢ ᎤᎿ ᎦᎵᏘᏍᎨᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꭳ, Ꮎ ᎡᏆ ᎤᏔᎾ ᏲᎾ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꭳ, Ꮎ ᎦᏲᏟᎨ ᎤᏔᎾ ᏲᎾ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꭳ, Ꮎ ᏭᏍᏗᎬ ᏲᎾ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+ᏂᎦᏓ ᎧᏃᎮᏗ
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏌᏊ ᎢᏳᏩᎦᏘ ᎠᏂᏦᎢ ᏲᎾ ᎢᎾᎨᎢ ᎠᏁᎮ.
+ ᎦᎵᏦᏕ ᎠᏁᎮ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏌᏊ ᎢᎦ ᎠᏂᏦᎢ ᏙᏱ ᎤᏁᏙᎴ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳ ᎢᏍᏘᎬᎢ ᎢᎾᎨᎢ ᏗᏜ ᏭᏪᏅᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏲᎾ ᎤᎾᏤᎵ ᎤᏂᏴᏍᏗ ᎤᎪᎮ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᎥᏍᎩᎾ ᎣᏍᏓ ᎤᏴᏍᏗ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᏧᏛᏁ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏴᏍᏗ ᏗᏜ ᏭᏪᏅᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏩᏂᎴ ᎦᎶᎯᏍᏗᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꮭ ᎩᎶ ᎤᎿ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎪ ᎠᏁᎰ ᎦᎵᏦᏕ?
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎤᎵᏘᏎ ᎤᏤᎵ ᎤᏴᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎢᎾᎨᎢ ᎤᎿ ᎤᎴᎾᏞ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎤᏴᏍᏗ ᎤᏴᏞ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎵᏦᏕ ᎠᎩᎸᏉᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏦᎢ ᏗᎦᏍᎩᎶ ᏕᏥᎪᏩᏘ.
+ ᏗᎦᏍᎩᎶ ᎠᏉᏞᏍᏗ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳᏃ ᎤᏍᏘᎬᎢ ᎤᏔᎾ ᎦᏍᎩᎶ ᎤᏬᏞ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳᏃ ᎤᏍᏘᎬᎢ ᎦᏲᏟᎨ ᎤᏔᎾ ᎦᏍᎩᎶ ᎤᏬᏞ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳᏃ ᎤᏍᏗᎧ ᎦᏍᎩᎶ ᎤᏬᏞ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏔᎾ ᎦᏍᎩᎶ ᏍᏓᏯᏒ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏲᏟᎨ ᎤᏔᎾ ᎦᏍᎩᎶ ᏩᏂᎨᏒ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏍᏗᎧ ᎦᏍᎩᎶ ᎣᏍᏓᏊ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳᏃ ᎤᏬᏞ ᎠᎴ ᎤᏬᏞ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏎᏃ ᎦᏍᎩᎶ ᎠᏲᎨ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏲᎨ, ᎠᏲᎨ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏍᏗᎧ ᎦᏍᎩᎶ ᎤᏬᎰᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎤᏬᎰᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏃᏊ ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎤᏲᏏᏍᎨ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᎵᏍᏓᏴᏗᏍ ᎠᎭᏂ? ᎡᏆ ᎠᎩᏲᏏ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎦᏍᎩᎸᎢ ᏗᏟᏍᏙᏗ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏦᎢ ᏗᏟᏍᏙᏗ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏗᏟᏍᏙᏗᎯ ᎤᏅᏗ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎦᏍᎩᎶ ᏭᏪᏅᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏗᏟᏍᏙᏗᎯ ᏚᎦᏙᏍᏔᏁ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏔᎾ ᎠᏟᏍᏙᏗ ᎦᏲᏟᏊ ᎤᏅᏗ ᎤᏗᏔᎮ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎦᏲᏟᎨ ᎤᏔᎾ ᎠᏟᏍᏙᏗ ᎦᏲᏟᏊ ᎤᏅᏗ ᎤᏗᏔᎮ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏍᏗᎧ ᎠᏟᏍᏙᏗ ᎦᏲᏟᏊ ᎤᏅᏗ ᎤᏗᏔᎮ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏅᏗ ᎤᏔᎾ ᎠᏟᏍᏙᏗ ᏭᎪᏛ ᎤᏗᏞᎦ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏧᏛᏁ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏅᏗ ᎦᏲᏟᎨ ᎤᏔᎾ ᎠᏟᏍᏙᏗ ᏭᎪᏛ ᎤᏴᏜ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏧᏛᏁ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏅᏗ ᎤᏍᏗᎧ ᎠᏟᏍᏙᏗ ᎣᏍᏓᏊ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏧᏛᏁ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏗᏔᏍᎨ ᎠᎴ ᎠᏗᏔᏍᎨ ᎠᎴ ᎤᏒᏁ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, ᏥᏈᏍᏗ ᎠᎩᏲᏍᎬ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᏧᏛᏁ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᏚᏯᏪᏤ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏂᏟ ᏱᏥᏩᏔ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏧᏛᏁ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᏓᎩᏯᏪᎦ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎦᏂᏟᎯᎢ ᏭᏪᏅᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᎿ ᏦᎢ ᎦᏂᏟ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏔᎾ ᎦᏂᏟ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎦᏲᏟᎨ ᎤᏔᎾ ᎦᏂᏟ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏍᏗᎧ ᎦᏂᏟ ᎨᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎤᏔᎾ ᎦᏂᏟ ᎦᏅᎨ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎾᎯᏳ ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎦᏲᏟᎨ ᎤᏔᎾ ᎦᏂᏟ ᎦᏅᎨ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎾᎯᏳ ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎤᏍᏗᎧ ᎦᏂᏟ ᎦᏅᎨ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏔᎾ ᎦᏂᏟ ᏍᏓᏯᏒ ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏧᏛᏁ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏲᏟᎨ ᎤᏔᎾ ᎦᏂᏟ ᏩᏂᎨᏒ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏧᏛᏁ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏍᏗᎧ ᎦᏂᏟ ᎣᏍᏓᏊ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏧᏛᏁ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳᏃ ᎤᏍᏘᎬᎢ ᎤᏢᏁ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏍᏗ ᎦᏂᏟ ᏥᎦᏟᎮ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏥᎦᏟᎮ ᎠᎴ ᏥᎦᏟᎮ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎪᎯᏓ ᏥᎦᏟᎮ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎾᎯᏳ ᏲᎾ ᎤᏂᎷᏤ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꮭ ᏱᏚᏛᎦᏁ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎭᎵᏘ, ᎠᏕᎳ ᎤᏍᏘᎬᎢ, ᎭᎵᏘ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏲᎾ ᎠᏂᎷᎩ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏂᎯ ᏱᎨᏣᎵᏍᏓᏴᎲᎦ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏎᏃ ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎦᏟᎮ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꮭ ᏱᏚᏛᎦᏁ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎩᎶ ᎠᎭᏂ ᎢᎩᏴᏍᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏁᎫᏥᏓ ᎤᏛᏁ ᎡᏆ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎩᎶ ᎠᎭᏂ ᎢᎩᏴᏍᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏩᏂᎨ ᎤᏛᏁ ᎦᏲᏟᎨ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎩᎶ ᎠᎭᏂ ᎢᎩᏴᏍᏗ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎡᏝᏪ ᎤᏛᏁ ᏭᏍᏗᎬ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏲᎾ ᎦᎵᏦᏕ ᎤᏂᏴᏞ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏦᎢ ᏗᎦᏍᎩᎶ ᏚᎾᎦᏙᏍᏔᏁ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎩᎶ ᎠᏆᏤᎵ ᎦᏍᎩᎶ ᎤᏬᏢ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏁᎫᏥᏓ ᎤᏛᏁ ᎡᏆ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎩᎶ ᎠᏆᏤᎵ ᎦᏍᎩᎶ ᎤᏬᏢ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏩᏂᎨ ᎤᏛᏁ ᎦᏲᏟᎨ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎩᎶ ᎠᏆᏤᎵ ᎦᏍᎩᎶ ᎤᏬᏢ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎡᏝᏪ ᎤᏛᏁ ᏭᏍᏗᎬ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ! Ꭳ! ᎩᎶ ᎤᏲᏍᏔᏅ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᎩᏲᏏ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏁᎫᏥᏓ ᎤᏛᏁ ᎡᏆ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᎩᏲᏏ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏩᏂᎨ ᎤᏛᏁ ᎦᏲᏟᎨ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᎩᏲᏏ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎡᏝᏪ ᎤᏛᏁ ᏭᏍᏗᎬ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎩᎶ ᎦᏲᏟ ᎠᏆᏤᎵ ᎤᏅᏗ ᎤᏗᏔᎲ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏁᎫᏥᏓ ᎤᏛᏁ ᎡᏆ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎩᎶ ᎦᏲᏟ ᎠᏆᏤᎵ ᎤᏅᏗ ᎤᏗᏔᎲ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏩᏂᎨ ᎤᏛᏁ ᎦᏲᏟᎨ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎩᎶ ᎠᏆᏤᎵ ᎤᏅᏗ ᎤᏗᏔᎲ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎡᏝᏪ ᎤᏛᏁ ᏭᏍᏗᎬ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎩᎶ ᎤᏅᏗ ᎤᏒᏅ! Ꭳ! Ꭳ! Ꭳ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏲᎾ ᎤᏂᎾᎸᏤ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꮎ ᎦᏃᏍᎩᏍᎩ ᏱᏗᏩᏔ.
+ ᎢᏕᎾ, ᎢᏕᎾ, ᎦᏃᏍᎩᏍᎩ ᏱᏗᏩᏔ.
+ Ꮎ ᎦᏃᏍᎩᏍᎩ ᎦᏚ ᏗᏜ ᎠᎩᏠᏒᏍᏗᎢ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏁᎫᏥᏓ ᎤᏛᏁ ᎡᏆ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꮎ ᎦᏃᏍᎩᏍᎩ ᎦᏚ ᏗᏜ ᎠᎩᏠᏒᏍᏗᎢ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏩᏂᎨ ᎤᏛᏁ ᎦᏲᏟᎨ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꮎ ᎦᏃᏍᎩᏍᎩ ᎦᏚ ᏗᏜ ᎠᎩᏠᏒᏍᏗᎢ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎡᏝᏪ ᎤᏛᏁ ᏭᏍᏗᎬ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᎾᏟᎯᎢ ᏭᏁᏅᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎩᎶ ᎠᏆᏤᎵ ᎦᏂᏟ ᎦᏅᎬ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏁᎫᏥᏓ ᎤᏛᏁ ᎡᏆ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎩᎶ ᎠᏆᏤᎵ ᎦᏂᏟ ᎦᏅᎬ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏩᏂᎨ ᎤᏛᏁ ᎦᏲᏟᎨ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎩᎶ ᎠᏆᏤᎵ ᎦᏂᏟ ᎦᏅᎬ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎡᏝᏪ ᎤᏛᏁ ᏭᏍᏗᎬ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꮒ, Ꮒ! ᎠᎭᏂ ᎥᏍᎩᎾ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏰᎶᎢᏍᏗ ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎤᏰᏤ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏲᎾ ᏚᎪᎮ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ! Ꭳ! Ꭳ!
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏪᏡᏁ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎡᏆ ᎤᏔᎾ ᏲᎾ ᎤᏤᎵ ᎤᏁᎫᏥᎠ ᎢᎦᏪᏍᏗ ᏧᏛᎦᏁ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏭᏍᏗᎬ ᏲᎾ ᎤᏤᎵ ᎡᏝᏪ ᎢᎦᏪᏍᏗ ᏧᏛᎦᏁ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎦᏂᏟ ᎤᏟ ᏚᎵᏔᏗᏅᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏦᎳᏂ ᏗᏜ ᎤᎵᏘᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏚᎵᏔᏗᏅᏒᎢ ᏧᎦᏛᎴᏎ ᏦᎳᏂ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᎵᏘᏎ ᎠᎴ ᎠᏟᏎ ᎠᎴ ᎠᏟᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎢᎾᎨᎢ ᎤᏟ ᎤᎵᏘᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏲᎾ ᏦᎳᏂ ᎤᎾᎦᏔᏁ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏍᏗ ᎠᎨᏳᏣ ᎤᎾᎦᏙᏍᏔᏁ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏍᏗᏊ ᎠᎨᏳᏣ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏁᎫᏥᏓ ᎤᏛᏁ ᎡᏆ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏍᏗᏊ ᎠᎨᏳᏣ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᏩᏂᎨ ᎤᏛᏁ ᎦᏲᏟᎨ ᎤᏔᎾ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏍᏗᏊ ᎠᎨᏳᏣ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎡᏝᏪ ᎤᏛᏁ ᏭᏍᏗᎬ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎠᏟᏎ ᎠᎴ ᎠᏟᏎ ᎾᎯᏳ ᎤᏤᎵ ᎤᏴᏍᏗ ᎤᎷᏤ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ! Ꭳ! Ꮭ ᎢᎸᎯᏳ ᎤᏴᏍᏗ ᎤᏟ ᏱᎦᎵᏘᏍᎨᏍᏗ ᏍᏊ,
+\begin_inset Quotes erd
+\end_inset
+
+ ᎤᏛᏁ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Quotes eld
+\end_inset
+
+Ꭳ, Ꮭ ᎢᎸᎯᏳ, Ꮭ ᎢᎸᎯᏳ, Ꮭ ᎢᎸᎯᏳ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Creative Commons
+\end_layout
+
+\begin_layout Standard
+
+\size small
+This work is licensed under the 
+\noun on
+Creative Commons Attribution-Share Alike 3.0 United States License
+\noun default
+.
+ To view a copy of this license, visit 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://creativecommons.org/licenses/by-sa/3.0/us/
+\end_layout
+
+\end_inset
+
+ or send a letter to Creative Commons, 171 Second Street, Suite 300, San
+ Francisco, California, 94105, USA.
+\end_layout
+
+\begin_layout Subsection*
+In Summary:
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+The summary is not the license.
+ It is simply a handy reference for understanding the license and as such,
+ has no legal value.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size small
+You are free:
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+to Share — to copy, distribute, and transmit the work.
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+to Remix — to adapt the work.
+\end_layout
+
+\begin_layout Standard
+
+\size small
+Under the following conditions:
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+Attribution — You must attribute the work in the manner specified by the
+ author or licensor (but not in any way that suggests that they endorse
+ you or your use of the work).
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+Share Alike — If you alter, transform, or build upon this work, you may
+ distribute the resulting work only under the same or similar license to
+ this one.
+\end_layout
+
+\begin_layout Standard
+
+\size small
+With the understanding that:
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+Waiver — Any of the above conditions can be waived if you get permission
+ from the copyright holder.
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+Other Rights — In no way are any of the following rights affected by the
+ license:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\size small
+Your fair dealing or fair use rights;
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+Apart from the remix rights granted under this license, the author's moral
+ rights;
+\end_layout
+
+\begin_layout Itemize
+
+\size small
+Rights other persons may have either in the work itself or in how the work
+ is used, such as publicity or privacy rights.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\size small
+Notice — For any reuse or distribution, you must make clear to others the
+ license terms of this work.
+ The best way to do this is with a link to 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://creativecommons.org/licenses/by-sa/3.0/us/
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{sloppy}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
