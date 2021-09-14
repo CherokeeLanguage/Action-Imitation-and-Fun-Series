@@ -412,6 +412,7 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏛᏫᏛᎯ|||He or she will take it somewhere.
 Ꮭ|||No. Not.
 Ꮭ ᎢᎸᎯᏳ|||Ever.
+Ꮭ ᏱᏂᎦᏛᏁᎭ|||I am not doing it.
 Ꮭ ᏱᏘᏯᎵᏃᎮᏔᏂ|||I will not talk to him or her.
 ᏞᏍᏗ|||Do not.
 ᏞᏍᏗ ᏥᎯᏯᎵᏃᎮᏓ|||Do not speak to him or her.

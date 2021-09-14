@@ -1,243 +1,6 @@
 # Na-Anijoi-Sigwa.lyx
 # ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳ ㉑ ㉒ ㉓ ㉔ ㉕ ㉖ ㉗ ㉘ ㉙ ㉚ ㉛ ㉜ ㉝ ㉞ ㉟ ㊱ ㊲ ㊳ ㊴ ㊵ ㊶ ㊷ ㊸ ㊹ ㊺ ㊻ ㊼ ㊽ ㊾ ㊿
 Syllabary|Pronounce|Breakdown|Definition
-ᎬᏫᏛᎲᎭ|||I should or would take you somewhere.
-ᏍᎩᎩᏍᎪ|||
-ᏱᏍᎩᎩ|||
-ᏣᎬ|||
-ᏍᏆᎵᏍᏓᏴᏗ|||
-ᏣᏚᎵ|||
-Ꮘ|||
-ᏣᏦᏔᎲᎢ|||
-ᎤᏴᏍᏗ|||
-ᎤᏲᏍᏗ|||
-ᏍᎩᎩᏍᏗ|||
-ᏩᏯᎭ|||
-ᎢᏤ|||
-ᎢᏯᏛᏁᏗ|||
-ᏣᏓᏅᏖᏗ|||
-ᎠᏆᎵᏍᏓᏴᏗ|||
-ᏱᏥᏴᎭ|||
-ᎤᏄᎪᏍᏗ|||
-ᎤᏓᏅᏖᏢᎢ|||
-ᏫᎦᏓᏅᏛᎳ|||
-ᎤᎷᏥᏌᏁ|||
-ᎣᏏᏊᏍ|||
-ᏗᎦᏛᏗᏍ|||
-ᎦᎯᎸᏉᏙ|||
-ᏗᎦᏛᏗ|||
-ᎦᏥᎸᏉᏙ|||
-ᏡᎬ|||
-ᏱᏫᏁᎾ|||
-ᏓᏥᎷᏥ|||
-ᏓᎦᏛᏅᎢᏍᏔᏂ|||
-ᏱᎬᎦᏘᏯ|||
-ᏅᎩ|||
-ᏧᎪᎮ|||
-ᎠᎩᎷᏨ|||
-ᎤᎿᎸᏨᎢ|||
-ᏂᎭᏛᎦᏍ|||
-ᎠᏇᏅᏒ|||
-ᎤᏆ|||
-ᎤᏗᏅᏎᎴ|||
-ᎤᏗᏅᏎ|||
-ᎢᎾ|||
-ᎯᎩᏑᎦ|||
-ᏘᎸᏉᏗ|||
-ᎭᎵᏘ|||
-ᎯᎩ|||
-ᎤᏛᏁᎸᏅᎢ|||
-ᎤᎵᏘᏎ|||
-ᏧᏛᏁ|||
-ᎤᎨ|||
-ᎢᏴ|||
-ᎡᎳᏗ|||
-ᏧᎸᏎ|||
-ᏳᎪᎮ|||
-ᎦᏣᏄᎵ|||
-ᏩᏆᎵᏘᏍᏗ|||
-ᏓᎦᎵᏘᏏ|||
-ᏱᏍᎩᏂᏯ|||
-ᏱᎦᎵᏘ|||
-ᎾᎯᏳᏊ|||
-ᎤᎪᎮ|||
-ᎯᎪᏩᏘ|||
-ᏱᎬᏂᏯ|||
-ᎤᏴᏞ|||
-ᎠᏟᏎ|||
-ᏳᏂᏴᎮ|||
-ᎤᏃᎴᏃ|||
-ᏓᏳᏲᏥ|||
-ᎡᎵᏊᏃ|||
-ᏱᏲᎩ|||
-ᏙᎯᏧ|||
-ᎠᎾᏛᏁᎵᏍᎩᎢ|||
-ᎩᏁᏅᏒᎢ|||
-ᎩᏂᏅᏒᎢ|||
-ᎤᎸᏉᏙ|||
-ᎬᏯᏘᏅᏒᎢ|||
-ᏳᎦᏘᏕ|||
-ᎠᎾᏛᏁᎵᏍᎩ|||
-ᏚᎸᏉᏕ|||
-ᏧᏩᎨᏫᏎ|||
-ᎩᎳᏊ|||
-ᎠᏆᎵᏘᏍᏗ|||
-ᎦᏚᏏ|||
-ᏒᏙᏂ|||
-ᏓᎦᏣᏂ|||
-ᎠᎩᎩᏍᎨᏍᏗ|||
-ᏓᏥᏂᏴᎯ|||
-ᎤᏣᏁ|||
-ᎤᏟᏍᏓ|||
-ᏒᏙᏂᏍ|||
-ᎭᏣᎥᎦ|||
-ᏥᎪᏩᏘ|||
-ᎦᏣᎥᏍᎦ|||
-ᏥᎪᎲ|||
-ᎧᎾᎷᏍᎬ|||
-ᎠᎦᏐᏍᎬ|||
-ᏕᏡᎬ|||
-ᏚᎪᎮ|||
-ᏣᏛᏁᎸᏅᎢ|||
-ᏯᎩᎪᏩᏔ|||
-ᏯᎩᏂᏯ|||
-ᏯᎩᎦ|||
-ᎤᏗᏆᎸᏕᏯᏍᏗ|||
-ᎤᏓᎴᏅᎮ|||
-ᏱᏍᎩᎪᏩᏔ|||
-ᎠᏆᏗᏅᏗᏍᎩᏍ|||
-ᎦᏓᏅᏖᎭ|||
-ᎤᏲᏏᏍᎬᎢ|||
-ᎠᎩᏲᏏ|||
-ᎤᏪᏅᏏᏌᏁ|||
-ᏙᏳ|||
-ᎠᎱᏣᏬᎳᏛᎢ|||
-ᏓᏥᎸᏏ|||
-ᏱᎦᎷᎦ|||
-ᏍᏆᏛᎬᎦᏍ|||
-ᏱᏂᏔᏛᏁᎵ|||
-ᏂᎦᏛᏁᎮᏍᏗ|||
-ᏓᏥᏴᏟ|||
-ᏓᎬᏴᎩᏗ|||
-ᏓᎬᎩ|||
-ᏓᎪᏔᏂ|||
-ᏔᎪᏂ|||
-ᏱᏓᎦᎪᏂ|||
-ᎪᏛᏍᎦ|||
-ᎠᏓᏪᎳᎩ|||
-ᎠᏥᎳ|||
-ᎭᏓᏪᎳᎦ|||
-ᏩᎭᏯᏍ|||
-ᏓᎦᎷᏥ|||
-ᎦᎴᎦ|||
-ᎠᏓᏪᎳᎩᏍᎩ|||
-ᎯᏯᎪᎲᏍᏓ|||
-ᎤᎪᏗ|||
-ᎰᏛᎦ|||
-ᎦᎷᎭ|||
-ᏫᎨᎦ|||
-ᏓᏍᎩᏂᏴᎯᏍ|||
-ᏱᏓᏣᏂᏴᎯ|||
-Ꮀ|||
-ᏍᎩᎪᏩᏘᎭᏍ|||
-ᏥᎷᎩ|||
-ᏥᏴᎩ|||
-ᎤᏪᏡᏁ|||
-ᏱᎦᏄᎪᎢ|||
-ᏱᏥᎷᎦ|||
-ᎠᏲ|||
-ᏫᏥᏄᎪᎢ|||
-ᎠᎷᎩ|||
-ᎤᏩᏂᏎ|||
-ᎤᏥ|||
-ᏗᎵᏍᏓᏴᏗ|||
-ᎩᏂᎭ|||
-ᎩᎾᏤᎵ|||
-ᏱᏓᏍᎩᏂᎩᏏ|||
-ᏳᏴᏢ|||
-ᎤᏬᎳᏕᏒ|||
-ᎤᏲᏨ|||
-ᏳᏲᏨ|||
-ᎢᏳᏩᎦᏘ|||
-ᏕᏥᏩᏛᎲᎢ|||
-ᎢᏣᏁᏍᎨᎲᎢ|||
-ᏕᏍᎩᏁᎸᎢ|||
-ᏣᏲᏨ|||
-ᏙᏛᎩᎯ|||
-ᎨᏐ|||
-ᎬᏚᎢᏍᏗᎮ|||
-ᏛᏦᏔᎯ|||
-ᏩᎭᏯᏃ|||
-ᎤᏴᏍᎩ|||
-ᎬᎩᏍᎨᏍᏗ|||
-ᏍᎩᎾ|||
-ᏨᏰᏍᏗ|||
-ᏥᏴᏢᎢ|||
-ᏅᏯᏍ|||
-ᎠᏆᏚᎵᏍᎪ|||
-ᏦᎢᏁᏃ|||
-ᎤᏬᎳᏕᏎᏃ|||
-ᎤᎾᎸᏤ|||
-ᎤᏓᏅᏖᏢᏎ|||
-ᎢᏯᏓᏁᏗ|||
-ᎣᏏᏧ|||
-ᎣᏏᏊ|||
-ᏂᎯᎾᎲ|||
-ᏄᎾᏍ|||
-ᏕᏣᎸᏉᏙ|||
-ᎢᏁᏅᏒᎢ|||
-ᎯᎳ|||
-ᎠᏟᎢᎵᏒ|||
-ᏘᎷᏥ|||
-ᎢᏳᏩᏂᎸᎢ|||
-ᎭᏛᏅᎢᏍᏗᎭ|||
-ᎦᏛᏅᎢᏍᏗᎭ|||
-ᏚᎭ|||
-ᏕᎯᎦ|||
-ᏩᏇᏅᏒ|||
-ᏤᏅᏎ|||
-ᎤᏟᏃ|||
-ᎢᏂᎩᏒᏒᎢ|||
-ᏏᏩ|||
-ᎤᏓᎾᏩᏍᏔᏁ|||
-ᏗᎦᏛᏗᏃ|||
-ᏥᎩᏍᎨᏍᏗ|||
-ᏭᏗᏅᏎ|||
-ᎤᎨᎲᏒᏎ|||
-ᎤᎷᏎ|||
-ᎭᏟᏎᏍᏗ|||
-ᎤᏴᏞᎾ|||
-ᏥᏴᎩᏗᏍᏗ|||
-ᏩᏇᏅᏍᏗ|||
-ᎠᎩᎸᏉᏙ|||
-ᏓᏥᏴᎩᏗ|||
-ᏓᏣᎪᎯ|||
-ᏏᏆᏃ|||
-ᎤᏟᏎ|||
-ᏓᏣᏴᎩᏗᏍ|||
-ᎤᏴᏢᎢ|||
-ᎧᎾᎷᏍᎬᎢ|||
-ᎠᎦᏐᏍᎬᎢ|||
-ᎡᎨ|||
-ᎠᏯᏄᎵ|||
-ᏧᏪᏅᏒᎢ|||
-ᏳᏅᏖ|||
-ᎬᏴᎩᏗᏍᎨᏍᏗ|||
-ᏥᎴᎨᏍᏗ|||
-ᎠᎪᎲᏍᎨᏍᏗ|||
-ᎬᎮᏍᏗ|||
-ᎠᏴᎩ|||
-ᏯᎵᏘ|||
-ᎤᏬᏔᏁ|||
-ᎲᏂᏍᎦ|||
-ᎭᎵᏍᏓᏴᏗ|||
-ᎤᏲᏃ|||
-ᏧᏴᎩᏕ|||
-ᏧᎨ|||
-ᏳᏴᎩᏕ|||
-ᏳᎨ|||
-ᎤᏴᎩᏕ|||
-ᎣᏍᏓᏊ|||
 -ᎡᎦ|-é:ga||Is now going somewhere to do it.
 -ᎡᎭ|-e:ha||Is doing for someone. Is doing to someone.
 -ᎡᎵ|-e:lī||Just now did for someone. Just now did towards someone.
@@ -254,40 +17,78 @@ Syllabary|Pronounce|Breakdown|Definition
 -ᏍᎪ|||Is it?
 -Ꮟ|-x̀:si, ɂsi||Let be doing for… Let be doing towards…
 ᎠᎦᏁᏍᎨᎲᎢ|||Its assembly.
+ᎠᎦᏐᏍᎬᎢ|||Downhill.
+ᎠᎩᎷᏨᎢ|||My arriving.
+ᎠᎩᎷᏨᎩ|||I arrived.
+ᎠᎩᎸᏉᏗ|||① I like it. ② He or she likes me.
+ᎠᎩᎸᏉᏛᎭ|||I should or would like it.
+ᎠᎩᎸᏍᏗ|||For me to climb.
+ᎠᎩᏂᏴᎲᎭ|||He or she should or would catch me.
+ᎠᎩᏒᎲᏍᏗ|||For me to devour.
+ᎠᎩᏒᏅᎭ|||He or she should or would devour me.
 ᎠᎩᏥ|||She, my mother.
 ᎠᎩᏩᏛᏗ|||For me to find it.
 ᎠᎩᏲᏍᏔᏅᎩ|||I broke it.
+ᎠᎩᏲᏏᎭ|||I am hungry.
+ᎠᎱᏣᏬᎳᏛᎢ|||A chimney.
 ᎠᎵᎮᎵᎦ|||He or she is happy or thankful.
 ᎠᎵᏍᏓᏴᏗ|||Groceries or a meal.
 ᎠᎵᏍᏓᏴᏗᏍ|||Is it groceries or a meal?
 ᎠᎾᏛᎩᎠ|||They hear him, her, or it.
+ᎠᎾᏛᏁᎵᏍᎩ||ᎠᏂ- ᎠᏛᏁᎵᏍᎪᎢ -Ꭲ|They who act silly, such as clowns.
+ᎠᎾᏛᏁᎵᏍᎩᎢ||ᎠᏂ- ᎠᏛᏁᎵᏍᎪᎢ -Ꭲ -Ꭲ|A place where they act silly, such as a circus.
 ᎠᏁᎦ|||They are going.
 ᎠᏂᎩᏒᏒᎭ||ᎠᏂ- ᎤᎩᏒᎢ -ᎥᏒᎢ -ᎥᎭ|They should or would leave to get it.
 ᎠᏂᏬᏂᏎᎭ||ᎠᏂ- ᎤᏬᏂᏒᎢ -ᎡᎭ|They are speaking to or for him or her.
+ᎠᏆᎵᏍᏓᏴᏗ|||For me to eat a meal.
+ᎠᏆᎵᏘᏍᏗ|||For me to run away.
 ᎠᏆᏁᏍᎨᏗ|||For me to build it.
 ᎠᏆᏅᏔ|||I know.
 ᎠᏆᏅᏖᏗ|||For me to think.
 ᎠᏆᏓᏅᏖᏗ|||For me to think or plan.
 ᎠᏆᏓᏅᏖᏢᏍᏗ|||For me to leave and go think.
+ᎠᏆᏚᎵᎭ|||① I want it. ② He or she wants me.
+ᎠᏆᏛᏅᎢᏍᏔᏅᎩ|||I have prepared.
+ᎠᏆᏜᏅᏓᏕᎭ|||I have time.
+ᎠᏆᏢᏔᏍᎨᏍᏗᏍ|||Will he, she, or it be catching up with me?
 ᎠᏆᏦᏔᎲᎢ|||My blowing.
 ᎠᏆᏬᎳᏕᏒᎢ|||My breathing.
 ᎠᏇᏅᏍᏗ|||For me to go.
+ᎠᏇᏅᏒᎩ|||I went.
 ᎠᏍᎦᏯ|||A man.
 ᎠᏍᎦᏯᏃ|||And a man.
+ᎠᏍᏛᎢ|||Edge of. End of.
+ᎠᏎ ᏥᏒᎲᏍᏗ|||I must devour him or her.
 ᎠᏓ|① ada ② a̋ɂda||① Wood. ② A young animal.
+ᎠᏓᏪᎳᎩᎠ|||It's burning.
+ᎠᏗᏆᎸᏕᏲᎮ|||He, she, or it was rolling, spinning, etc.
+ᎠᏟᎢᎵᏒ|||*
+ᎠᏟᏎ|||He or she was running.
+ᎠᏥᎳ|||Fire.
+ᎠᏯᏄᎵ|||Fast.
+ᎠᏯᏄᎵᎨ|||Faster.
+ᎠᏲ|||Ouch.
+ᎠᏴᎩ|||He or she is a prisoner. He or she is a captive.
+ᎡᎳᏗ|||① Down. ② On foot.
 ᎡᎵᎠ|||He or she thinks it is so.
 ᎡᎵᏊ ᏯᏦᏔ|||You might blow.
 ᎡᎵᏊ ᏯᏬᎳᏓᎩ|||You might breath.
 ᎡᎵᏊ ᏱᏁᎾ|||It's possible you and I will go.
+ᎡᎵᏊᏃ|||And it is possible.
+ᎡᏙᎭ|||He or she is walking about.
 ᎡᏣᏛᎬᎦ|||Let you all hear him or her.
 ᎡᏥ|||Mother.
 ᎡᏥᏩᏛᎲᏏ||ᎡᏥ- ᎤᏩᏛᎲᎢ -Ꮟ|Let you all find it for him or her.
 ᎡᏥᏬᏂᏏ||ᎡᏥ- ᎤᏬᏂᏒᎢ -Ꮟ|Let you all talk to or for him or her.
 ᎢᎬᏱᎢ|||① First. ② In front.
+ᎢᎾ|||Far.
+ᎢᏁᏅᏒᎭ|||You and I should or would go.
+ᎢᏁᏅᏒᎭᏍ|||Should or would you and I go?
 ᎢᏍᎩᏩᏛᎮᏗ||ᎢᏍᎩ- ᎤᏩᏛᎲᎢ -ᎡᏗ|For you all to get it for me.
 ᎢᏍᎩᏩᏛᎲᏏ||ᎢᏍᎩ- ᎤᎩᏩᏛᎲᎢ -Ꮟ|Let you all find it for me.
 ᎢᏗᏁᎴᏍᏗ|||We all will be residing.
 ᎢᏣᎩᏍᏗ|||For you all to get it.
+ᎢᏣᏁᏍᎨᎲᏒᎢ||ᎢᏥ- ᎤᏁᏍᎨᎲᎢ -ᎥᏒᎢ|Let you all leave and build it.
 ᎢᏣᏁᏍᎨᏗ|||For you all to build it.
 ᎢᏣᏍᏗ|||You all are little.
 ᎢᏣᏓᏩᏛᎲᏏ||ᎢᏥ- ᎠᏓ[Ꮣ]- ᎤᏩᏛᎲᎢ -Ꮟ|Let you all find it for yourselves.
@@ -295,6 +96,7 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎢᏣᏛᎬᎦ|||Let you all hear it.
 ᎢᏣᏛᏁᏗ|||For you to do it.
 ᎢᏣᏠᏱᎦ|||Let you all cry.
+ᎢᏤ|||New.
 ᎢᏤᏅᏍᏗ|||For you all to go.
 ᎢᏥᎩᏍᏗ|||For you all to get it.
 ᎢᏥᏥ|||Your all's mother.
@@ -305,106 +107,216 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎢᏥᏩᏛᏗ|||For you all to find it.
 ᎢᏥᏬᏂᏎᎭ||ᎢᏥ- ᎤᏬᏂᏒᎢ -ᎡᎭ|He or she is talking to or for you all.
 ᎢᏨᏥ|||I, your all's mother.
+ᎢᏯᏆᏛᏁᏗ|||For me to do it.
+ᎢᏳᏩᎪᏘ|||Time. Times.
 ᎣᎦᏁᏍᎨᎮᎦ||ᎣᎩ- ᎤᏁᏍᎨᎲᎢ -ᎡᎦ|We are leaving to build it.
 ᎣᎩᎩᏍᏗ|||For them and me to get it.
+ᎣᏍᏓᏊ|||Just good. Just well. Fine.
+ᎣᏏᏊ|||It is just fine.
+ᎣᏏᏊᏍ|||Are things well?
 ᎣᏏᏊᏧ|||Aren't things well?
+ᎣᏏᏧ|||Isn't it well?
 ᎣᏣᎵᎮᎵᎦ|||They and I are happy or thankful.
 ᎣᏤᎦ|||They and I are going.
+ᎤᎦᏛᎴᏎ|||He or she went through it.
+ᎤᎨ|||He or she ate it.
 ᎤᎩᏍᏗ|||For him or her to get it.
+ᎤᎪᎮ|||He or she saw him, her, or it.
+ᎤᎪᏗ|① ù:gô:di ② ǔ:gò:di||① More. ② Much.
 ᎤᎮ|||He or she had it.
 ᎤᎮᏍᏗ|||He or she will be having it.
 ᎤᎵᏍᏓᏁᎴ|||It happened.
 ᎤᎵᏍᏓᏁᏗ|||For it to happen to him, her, or it.
+ᎤᎵᏘᏎ|||He or she ran away.
 ᎤᎷᎶᏨ|||His or her lacking. Idiom: He or she is crazy.
 ᎤᎷᎶᏨᎢ|||His or her lacking. Idiom: He or she is crazy.
+ᎤᎷᏎ|||He or she climbed.
 ᎤᎷᏤ|||He or she arrived.
+ᎤᎷᏤᎴ||ᎤᎷᏨᎢ -ᎡᎸᎢ|He or she came for him or her.
+ᎤᎷᏨᏌᏁ|||He or she arrived again.
+ᎤᎸᏎ|||He or she climbed.
+ᎤᎸᏒᎢ|||His or her climbing.
 ᎤᎾᏚᎵᎭ|||They want it.
 ᎤᎾᏛᏁ|||They said.
 ᎤᎾᏠᏱᎭ|||They are crying.
+ᎤᎿᎸᏎ|||He or she was angry.
 ᎤᎿᎸᏤ|||He or she became angry.
+ᎤᎿᎸᏨᎢ|||His or her being angry.
+ᎤᎿᏃ|||And there.
 ᎤᏁᏍᎨᎮ|||He or she built it.
 ᎤᏂᏥ|||Their mother.
 ᎤᏂᏩᏛᎲᏍᏗ|||For them to leave to find it.
 ᎤᏂᏬᏂᏒᎢ|||Their speaking.
+ᎤᏂᏴᎮ|||He or she caught him, her, or it.
 ᎤᏃᎴ|||Wind. Air. A storm. A tornado.
+ᎤᏃᎴᏃ|||And a wind.
+ᎤᏄᎪᏨᎭ||ᎤᏄᎪᏨᎢ -ᎥᎭ|He or she should or would exit.
 ᎤᏒᏁ|||He or she devoured him, her, or it.
+ᎤᏓᎴᏅᎮ|||He, she, or it began.
+ᎤᏓᎾᏩᏍᏔᏁ|||He or she took off running.
 ᎤᏓᏅᏖᏞ|||He or she thought.
 ᎤᏓᏅᏖᏢᏌᏅᏎ||ᎤᏓᏅᏖᏢᎢ -ᎥᏌᏅᎢ -ᎥᏒᎢ|He or she left in order to think again.
+ᎤᏓᏅᏖᏢᏎ||ᎤᏓᏅᏖᏢᎢ -ᎥᏒᎢ|He or she left in order to think.
+ᎤᏗᏅᏎ|||He or she threw it.
+ᎤᏗᏅᏎᎴ||ᎤᏗᏅᏒᎢ -ᎡᎸᎢ|He or she threw it to him or her.
+ᎤᏗᏆᎸᏕᏯᏍᏗ|||For him, her, or it to roll or spin.
 ᎤᏛᏛᏁ|||He or she asked.
 ᎤᏟ|||Away from.
 ᎤᏟᏂᎩᏓ|||Strong. Powerful.
 ᎤᏟᏂᎩᏓᏧ|||Isn't it strong?
+ᎤᏟᏍᏓ|||Quickly.
+ᎤᏟᏎ|||He or she was running.
+ᎤᏣᏁ|||He or she got into it. (A box. A car. Etc.)
+ᎤᏥ|||His or her mother.
 ᎤᏦᏔᎮ|||He or she blew.
+ᎤᏦᏔᎲᎢ|||His or her blowing.
+ᎤᏩᎨᏫᏎ|||He or she forgot him, her, or it.
+ᎤᏩᏂᏎ|||He, she, or it cooked.
 ᎤᏩᏛᎲᎭᏍ||ᎤᏩᏛᎲᎢ -ᎥᎭ -ᏍᎪ|Should or would he or she find it?
 ᎤᏩᏛᎲᏍᏗ||ᎤᏩᏛᎲᎢ -ᎥᏍᏗ|For him or her to leave to find it.
 ᎤᏩᏛᎲᏎ||ᎤᏩᏛᎲᎢ -ᎥᏒᎢ|He or she left to find it.
 ᎤᏩᏛᎲᏒᎭᏍ||ᎤᏩᏛᎲᎢ -ᎥᏒᎢ -ᎥᎭ -ᏍᎪ|Should or would he or she leave to find it?
+ᎤᏩᏦᏔᎲᎢ|||His or her blowing.
 ᎤᏪᏅᏍᏗ|||For him or her to go.
+ᎤᏪᏅᏎᎴ||ᎤᏪᏅᏒᎢ -ᎡᎸᎢ|He or she went to him or her.
+ᎤᏪᏅᏒᏌᏁ||ᎤᏪᏅᏒᎢ -ᎥᏌᏅᎢ|He or she went again.
+ᎤᏪᏡᏁ|||He or she hollered, screamed, yelled, etc.
 ᎤᏬᎳᏕᏎ|||He or she breathed.
 ᎤᏬᏂᏒᎢ|||His or her speaking. His or her speech.
+ᎤᏬᏔᏁ|||He or she built a fire.
+ᎤᏮᏔᏁ|||He or she put into the fire.
 ᎤᏲ|||Bad. Poor.
 ᎤᏲᎢ|||Bad. Poor.
 ᎤᏲᏍᏔᏁ|||He or she broke it.
+ᎤᏲᏏᏍᎬᎢ|||His or her being hungry.
+ᎤᏲᏒ|||He or she is awful.
+ᎤᏲᏒᏃ|||And the awful.
 ᎤᏲᏤ|||① It broke. ② Idiom: He or she became spoiled.
+ᎤᏴᏞ|||He or she entered.
+ᎤᏴᏟᎴ||ᎤᏴᏢᎢ -ᎢᎸᎢ|He or she came and entered.
 ᎥᏍᎩ|||① That. Those. ② He. She. It.
 ᎥᏝᏍᎪ|||Isn't it? Doesn't it?
 ᎦᎯᎪᏩᏔ|||Let you see them.
+ᎦᎯᎸᏉᏗ|||You like them.
 ᎦᎯᏥ|||You, their mother.
 ᎦᎯᏩᏛᎲᏏ||ᎦᎯ- ᎤᏩᏛᎲᎢ -Ꮟ|Let you find it for them.
 ᎦᎯᏬᏂᏏ||ᎦᎯ- ᎤᏬᏂᏒᎢ -Ꮟ|Let you speak for or to them.
 ᎦᎯᏯᏛᎬᎦ|||Let you hear them.
+ᎦᎵᏘᏒᎭ|||I should or would run away.
 ᎦᎵᏦᏕ|||House.
 ᎦᎵᏦᏕᏍ|||Is it a house?
+ᎦᎷᎦ|||He or she is arriving.
+ᎦᎸᎳᏗ|||High.
+ᎦᎸᎳᏗᏜ|||Above.
 ᎦᏁᎴᏍᏗ|||He or she will be residing.
 ᎦᏁᏍᎨᎭ|||I am building it.
 ᎦᏃᎸᎥᏍᎨᏍᏗ|||It will be blowing.
+ᎦᏍᎩᎩᏍᏗ|||Your ability to get me.
 ᎦᏙᏃ|||And what?
+ᎦᏙᏍᎩᏂ|||But what? Idiom: I wonder what?
+ᎦᏚᏏ|||A hill.
 ᎦᏛᎩᎠ|||I hear it.
 ᎦᏛᏅᎢᏍᏓ|||I am just now ready.
+ᎦᏣᏁᏍᎨᏗ|||You can build it.
 ᎦᏣᏩᏛᏗ|||You can find it.
 ᎦᏣᏴᏍᏗ|||His or her ability to enter. He or she is able to enter.
 ᎦᏥᎪᏩᏘᎭ|||I see them.
+ᎦᏥᎸᏉᏗ|||I like them.
 ᎦᏥᏯᏛᎩᎠ|||I hear them.
 ᎦᏦᏔᏍᎨᏍᏗ|||I will be blowing.
 ᎦᏬᎳᏕᏍᎨᏍᏗ|||I will be breathing.
 ᎦᏬᏂᏍᎪᎢ|||He or she speaks.
+ᎧᎾᎷᏍᎬᎢ|||Uphill.
 ᎧᏁᏍᎦ|||Hay. Straw.
 ᎧᏁᏍᎦᏍ|||Is it hay or straw?
 ᎨᎦ|||I am going.
+ᎩᎳᏊ|||Pretty soon.
+ᎩᎾᏤᎵ|||Your and my.
+ᎩᏂᎭ|||You and I have.
 ᎪᎯᏴ|||Later. After a while. By and by.
 ᎪᎯᏴᎢ|||Later. After a while. By and by.
+ᎪᏛᏍᎦ|||I am building a fire.
+ᎬᎩᎸᏍᏗ|||I can climb.
+ᎬᎩᏄᎪᏍᏗ|||I can exit.
 ᎬᎩᏲᏍᏙᏗ|||I can break it.
+ᎬᎩᏴᏍᏗ|||I am able to enter.
+ᎬᎷᏤᎸᎩ||Ꭼ-ᎤᎷᏨᎢ-ᎡᎸᎢ|I arrived for you.
+ᎬᎷᏤᎸᎭ||Ꭼ- ᎤᎷᏨᎢ -ᎡᎸᎢ -ᎥᎭ|I should or would arrive for you.
 ᎬᏚᎢᏍᏔᏁᎭ||Ꭼ- ᎤᏚᎢᏍᏔᏅᎢ -ᎡᎭ|I promise you.
+ᎬᏩᎸᏍᏗ|||He or she can climb.
+ᎬᏩᏂᏱᏗ|||He or she can catch him, her, or it.
+ᎬᏩᏄᎪᏍᏗ|||He or she can exit.
+ᎬᏩᏒᎲᏍᏗ|||He or she can devour him, her, or it.
 ᎬᏩᏲᏍᏙᏗ|||His or her ability to break it.
+ᎬᏩᏴᏍᏗ|||He or she can break it.
+ᎬᏫᏛᎲᎭ|||I should or would take you somewhere.
 ᎬᏬᏂᏎᎵᎦ||Ꭼ- ᎤᏬᏂᏒᎢ -ᎡᎸᎢ -ᎢᎦ|I am coming to talk to you. I just came to talk to you.
 ᎬᏯᎵᎮᎵᏤᎭ||Ꭼ- ᎤᎵᎮᎵᏨᎢ -ᎡᎭ|I am thankful to you.
+ᎬᏯᏲᏍᏙᏗ|||Your ability to break it.
 Ꭽ|||*
+ᎭᎵᏘ|||Let you run away.
 ᎭᏁᏍᎨᎮᎷᎦ|||Let you go and build it for him or her.
 ᎭᏁᏍᎨᎲᎭ|||You should or would build it.
+ᎭᏓᎵᏏᏅᏓ|||Save yourself.
+ᎭᏓᏪᎳᎦ|||Let you burn.
 ᎭᏛᎬᎦ|||Let you hear it.
 ᎭᏛᏅᎢᏍᏓ|||① Let you get ready. ② You are just now ready.
 ᎭᏛᏅᎢᏍᏓᏍ|||Are you just now ready?
+ᎭᏣᎥᎦ|||Let you get into it. (A box. A car. Etc.)
+ᎯᎩ|||Let you get it.
+ᎯᎩᏑᎦ||Ꭿ- ᎤᎩᏒᎢ -ᎤᎦ|Let you leave and get it.
+ᎯᎳ|||*
+ᎯᎳ ᎠᏟᎢᎵᏒ|||What time?
 ᎯᏍᎩ|||Five.
+ᎯᏒᏁ|||You devoured him or her.
 ᎯᏩᏛᎮᎷᎦ||Ꭿ- ᎤᏩᏛᎲᎢ -ᎡᎸᎢ -ᎤᎦ|Let you go and find it for him or her.
 ᎯᏬᏂᎯ|||Let you speak.
 ᎯᏯᏛᎬᎦ|||Let you hear him or her.
+Ꮀ|||*
+ᎰᏛᎦ|||Let you build a fire.
 ᎰᏩ|||① Ok. Alright. ② You're welcome.
 ᎾᎥ|||Near.
 ᎾᎩᎲᎾ|||I without having it.
+ᎾᎯᏳᏊ|||Just then. Only then.
 ᏂᎨᏒᎾ|||Without.
+ᏂᎯᎾᎲ|||But, what about you?
+ᏂᏔᎵᏍᏔᏂ|||You will become.
+ᏂᏣᏛᏁᎴᏍ|||Did you do it?
 ᏂᏥᎲᎾ|||You all are without having it.
 ᏃᎩᎲᎾ|||They and I are without having it.
 ᏃᏊᎴ|||And then.
 ᏄᎲᎾ|||He or she is without having it.
 ᏄᏍᏗ|nű:sdi||His, her, or its way.
+ᏅᎩ|||Four.
 ᏅᏯ|||A rock. Rocks.
 ᏅᏯ ᎠᏛᏓᏅᎢ|||A brick.
 ᏅᏯ ᏗᏛᏓᏅᎢ|||Bricks.
+ᏅᏯᏍ|||Is it a rock?
+ᏅᏯᏍ ᏗᏛᏓᏅᎢ|||Is it bricks?
+ᏍᎩᎪᎲᎭ|||He or she should or would see me.
+ᏍᎩᎪᏩᏘᎭᏍ|||Do you see me?
+ᏍᎩᎷᏤᎸᎭ|||You should or would arrive for me.
 ᏍᎩᏁᎴᎸᎭ||ᏍᎩ- ᎤᏁᎸᎢ -ᎡᎸᎢ -ᎥᎭ|You should or would give it to me.
+ᏍᎩᏁᎸᎢ|||Let you give them to me.
 ᏍᎩᏁᎸᎭ|||You should or would give it to me.
+ᏍᎩᏁᎸᎭᏍ|||Should or would you give it to me?
+ᏍᎩᏒᎲᏍᏗ|||For you to devour me.
+ᏍᎩᏒᏅᎭ|||You would devour me.
+ᏍᎩᏒᏅᎭ ᏱᏍᎩᎩ|||You would devour me if you get me.
+ᏍᏆᏛᎩᎠᏍ|||Are you hearing me?
 ᏍᏈ|||*
+ᏍᏓᏯ|||Hard. Difficult.
+ᏍᏓᏱ|||Hard. Difficult.
+ᏏᏆᏃ|||And the pig.
 ᏑᏓᎵ|||Six.
+ᏒᏙᏂ|||A barrel.
+ᏒᏙᏂᏍ|||Is it a barrel?
+ᏓᎦᎵᏘᏏ||Ꮣ- Ꮵ- ᎤᎵᏘᏒᎢ|I will run away.
+ᏓᎦᎷᏥ|||He or she will arrive.
+ᏓᎦᎷᏥᏍ|||Will he or she arrive?
 ᏓᎦᏁᏍᎨᎯ|||I will build it.
+ᏓᎦᏛᏅᎢᏍᏔᏂ|||I will prepare.
+ᏓᎦᏣᏂ|||I will get into it. (A box. A car. Etc.)
 ᏓᎦᏦᏔᎯ|||I will blow.
 ᏓᎦᏬᎳᏕᏏ|||I will breathe.
 ᏓᎨᏅᏏ|||I will go.
@@ -412,11 +324,18 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏓᎩᎭ|||I have them.
 ᏓᎩᎯ|||We all will have it.
 ᏓᎩᎸᏈᏗ|||I am liking them.
+ᏓᎩᎸᏉᏗ|||I like them.
 ᏓᎩᎸᏉᏙ|||I like them.
 ᏓᎩᎸᏉᏙᎢ|||I like them.
+ᏓᎪᏓᏂ|||I will build a fire.
+ᏓᎪᏔᏂ|||He or she will build a fire.
+ᏓᎬᎩᏏ|||I will get you.
 ᏓᎬᎪᎯ|||I will see you.
 ᏓᎬᎷᏤᎵ||Ꮣ- Ꭼ- ᎤᎷᏨᎢ -ᎡᎸᎢ|I will come for you.
 ᏓᎬᏁᎵ|||I will give it to you.
+ᏓᎬᏂᏍᏔᏁ|||I will cook you.
+ᏓᎬᏂᏴᎯ|||I will catch you.
+ᏓᎬᏒᏂ|||I will devour you.
 ᏓᎬᏕᎵ|||I will give it to you.
 ᏓᎬᏫᏛᎯ|||I will take you somewhere.
 ᏓᎬᏬᏂᏒᏌᏁᎸᏏ||Ꮣ- Ꭼ- ᎤᏬᏂᏒᎢ -ᎥᏌᏅᎢ -ᎡᎸᎢ -ᎥᏒᎢ -Ꭲ|I will go and talk again to him or her.
@@ -425,10 +344,12 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏓᏂᎩᏍᎪ|||They eat them.
 ᏓᏂᎪᎯ|||You and I, we two will see.
 ᏓᏈᏌᏂ|||A turnip. Turnips.
+ᏓᏈᏌᏂᏍ|||Is it pears?
 ᏓᏍᎩᎩᎵᏍ||Ꮣ- ᏍᎩ- ᎤᎩᏒᎢ -ᎢᎸᎢ -ᏍᎪ|Will you come to get me?
 ᏓᏍᎩᏁᎵᏍ|||Will you give it to me?
 ᏓᏍᎩᏩᏛᎮᎵ||Ꮣ- ᎢᏍᎩ- ᎤᏩᏛᎲᎢ -ᎡᎸᎢ|We will find it for you.
 ᏓᏍᎩᏫᏛᎯᏍ|||Will you take me somewhere?
+ᏓᏣᎪᎯ|||① I will see it. ② He or she will see me.
 ᏓᏣᎯ|||You will have it.
 ᏓᏣᎾᎢ|||You will have it.
 ᏓᏤᏅᏏᏍ|||Will you all go?
@@ -436,84 +357,151 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏓᏥᎩᏏ|||I will get him or her.
 ᏓᏥᎪᎯ|||I will see him, her, or it.
 ᏓᏥᎪᎲᏌᏅᏏ||Ꮣ- Ꮵ- ᎤᎪᎲᎢ -ᎥᏌᏅᎢ -ᎥᏒᎢ|I will see him or her again.
+ᏓᏥᎷᏥ|||I will arrive.
+ᏓᏥᎸᏏ|||I will climb.
 ᏓᏥᏁᏤᎸᏏ||Ꮣ- Ꮵ- ᎤᏁᏨᎢ -ᎡᎸᎢ -ᎥᏒᎢ|I will go and talk with him or her.
-ᏓᏥᏒᏂ|||I will devour.
+ᏓᏥᏂᏴᎯ|||I will catch him, her, or it.
+ᏓᏥᏒᏂ|||I will devour him, her, or it.
 ᏓᏥᏩᏛᎯ|||I will find it.
+ᏓᏥᏯᎪᎲᏍᏔᏂ|||I will burn him or her.
+ᏓᏥᏲᎢᏍᏔᏂ|||I will break it.
 ᏓᏥᏲᏎᎵ|||I will ask him or her.
+ᏓᏥᏴᏟ|||I will enter.
 ᏓᏰᏅᏏ|||He or she will go.
 ᏓᏲᏤᏅᏏ|||You all will go.
+ᏔᎪᏂ|||You will burn.
 ᏔᎵᏁ|||Second.
 ᏔᎵᏁᎢ|||Second.
 ᏔᏛᎬᎦ|||Let you hear them.
 ᏕᎦᏬᏂᏎᎭ||Ꮥ- Ꭶ- ᎤᏬᏂᏒᎢ -ᎡᎭ|He or she is talking to or for them.
 ᏕᎯᏩᏘᏍᎪ|||You usually find them.
+ᏕᏂᎩᏒᏒᎭ||ᏕᏂ- ᎤᎩᏒᎢ -ᎥᏒᎢ -ᎥᎭ|You and I should go and get them.
+ᏕᏡᎬ|||Trees.
+ᏕᏣᎩᏎ|||You got them.
 ᏕᏣᎸᏉᏗ|||You are liking them.
 ᏕᏥᎩᏍᎪ|||I eat them.
 ᏕᏥᏩᏘᏍᎪ|||I usually find them.
+ᏕᏥᏩᏛᎲᏒᎢ||Ꮥ- ᎢᏥ- ᎤᏩᏛᎲᎢ -ᎥᏒᎢ|Let you all leave and find it.
 ᏖᏅᏏᏍ|||Will you go?
+ᏗᎦᏛᏗ|||Pears.
+ᏗᎦᏛᏗᏃ|||And pears.
+ᏗᎦᏛᏗᏍ|||Is it pears?
 ᏗᎩᎩᏍᏗ|① digigì:sdi ② dì:gigì:sdi||① For me to get or eat them. ② For us all to get or eat them.
 ᏗᏛᏓᏅᎢ|||*
 ᏗᏜ|||Towards. At.
+ᏘᎸᏉᏗ|||You will like it.
 ᏘᏲᏍᏔᏂ|||You will break it.
+ᏙᎯᏧ|||Aren't things peaceful?
 ᏙᏱ|||Outside.
+ᏙᏳ|||Really. Very.
+ᏚᎪᎮ|||He or she looked at them.
 ᏚᎮ|||He or she had them.
+ᏚᎸᏉᏕ|||He or she liked them.
 ᏚᎾᏠᏎ|||They met.
 ᏚᏁᏍᎨᎮ|||They built it.
 ᏚᏩᏰ|||He or she had them.
 ᏚᏬᏂᏎᎸᎢ||Ꮥ- ᎤᏬᏂᏒᎢ -ᎡᎸᎢ|His or her speaking to or for them.
+ᏛᎩᎪᎯ|||He or she will see me.
 ᏛᎩᎸᏉᏗ|||I will like it.
+ᏛᎩᏂᏴᎯᏍ|||Will he or she catch me?
 ᏛᏁᏅᏏ|||They will go.
 ᏛᏂᏩᏛᎯ|||They will find it.
 ᏛᏲᏥ|||① It will break. It will be ruined. ② Idiom: He or she will be spoiled.
+Ꮭ ᏯᏯᎡᏍᏗ|||He or she was not inside.
 Ꮭ ᏱᎨᎦ|||I'm not going.
+Ꮭ ᏱᎨᎩᏂᏂᏴᎯ|||They will not catch you and I.
+Ꮭ ᏱᎬᎦᏘᏯ|||I'm not waiting.
+Ꮭ ᏱᏂᏔᏛᏁᎵ|||You will not do it.
+Ꮭ ᏱᏍᎩᏒᎮ|||You will not devour me.
+Ꮭ ᏱᏓᎦᎪᏂ|||I will not burn.
+Ꮭ ᏱᏓᎯᏲᎢᏍᏔᏂ|||You will not break it.
+Ꮭ ᏱᏓᏣᏂᏴᎯ|||He or she will not catch you.
+Ꮭ ᏱᏥᎪᏘᎭ|||I don't see him, her, or it.
+Ꮭ ᏳᎦᏘᏕ|||He or she did not wait on him, her, or it.
+Ꮭ ᏳᎪᎮ|||He or she didn't see him, her, or it.
+Ꮭ ᏳᏂᏴᎮ|||He or she did not catch him, her, or it.
+Ꮭ ᏳᏅᏖ|||He or she didn't know.
+Ꮭ ᏳᏲᏍᏔᏁ|||He or she did not break it.
 ᏞᎩ||hle:kí|Soon.
+ᏡᎬ|||A tree.
 ᏣᎷᎶᏨ|||You lacking. Idiom: You are crazy.
 ᏣᎷᎶᏨᎢ|||Your lacking. Idiom: You are crazy.
+ᏣᎸᏉᏛᎭ|||You should or would like it.
 ᏣᏁᏍᎨᎮ|||You built it.
 ᏣᏁᏍᎨᏗ|||For you to build it.
 ᏣᏅᏔᏍ|||Do you know?
 ᏣᏛᎦᏅᎭ|||You should or would hear it.
+ᏣᏛᏅᎢᏍᏔᏁᏍ|||Are you prepared?
 ᏣᏛᏅᎩ|||You said.
 ᏣᏥ|||Your mother.
+ᏣᏦᏔᎲᎢ|||Your blowing.
 ᏣᏲ|||You are bad.
 ᏣᏲᏒ|||You are extra bad. You are doing extra poorly.
 ᏣᏴᏍᏗ|||For you to enter.
+ᏤᏅᏎ|||You went.
 ᏥᎩᎩᏍᏗ|||For me to get him or her.
+ᏥᎩᏍᎨᏍᏗ|||I will be getting him, her, or it.
 ᏥᎩᏍᏗ|||For me to get him or her.
-ᏥᏒᎲᏍᏗ|||I will devour him or her.
+ᏥᎷᎦ|||I am arriving.
+ᏥᏂᏱᏗ|||For me to catch him or her.
+ᏥᏒᎲᏍᏗ|||*
 ᏥᏒᏅᎩ|||I devoured him or her.
 ᏥᏚᎢᏍᏗᎭ|||I promise.
 ᏥᏩᏛᎮᏗ||Ꮵ- ᎤᏩᏛᎲᎢ -ᎡᏗ|For me to find it for him or her.
 ᏥᏯᏁᏍᎨᎮᏗ||Ꮵ- ᎤᏁᏍᎨᎲᎢ -ᎡᏗ|For me to build it for him or her.
 ᏥᏯᏛᎩ|||I hear him or her.
 ᏥᏯᏛᎩᎠ|||I hear him or her.
+ᏥᏴᎩ|||I am a prisoner. I am a captive.
 ᏦᎢ|||Three.
 ᏦᎢᏁ|||Third.
 ᏦᎢᏁᎢ|||Third.
+ᏦᎢᏁᏃ|||And the third.
 ᏧᎾᏍᏗ|||Little.
+ᏧᏪᏅᏒᎢ|||His or her home.
+ᏨᏰᏍᏗ|||You will be having it.
 ᏩᎭᏯ|||A wolf. Wolves.
+ᏩᎭᏯᏃ|||And the wolf.
 ᏩᏇᏅᏒᎩ|||I went away.
 ᏩᏙ|||Thanks.
 ᏪᏥᏬᏂᏏ||Ꮻ- ᎡᏥ- ᎤᏬᏂᏒᎢ -Ꮟ|Let you all talk to him or her.
+ᏫᎦᏓᏅᏛᎳ|||Let me think.
 ᏫᏍᎩᎥᏏ|||Let you give it to me.
 ᏫᏤᏅᏍᏗᏍ|||Is it for you to go?
+ᏫᏥᏄᎪᎢ|||Let me exit.
 ᏫᏥᏩᏔ|||Let you all go find it.
 ᏫᏥᏴᎭ|||Let me enter.
 ᏭᏁᏅᏍᏗ|||For them to go away.
+ᏭᏗᏅᏎ|||He or she threw it.
 ᏭᏪᏅᏍᏗᏍ|||Is it for him or her to go?
 ᏭᏪᏅᏒᎭᏍ||Ꮻ- ᎤᏪᏅᏒᎢ -ᎥᎭ -ᏍᎪ|Should or would he or she go?
 ᏯᎩᏬᏂᏎᎵ||Ᏹ- ᎠᎩ- ᎤᏬᏂᏒᎢ -ᎡᎵ|Maybe he or she just talked to me.
 ᏯᏦᏔ|||*
 ᏯᏬᎳᏓᎩ|||*
+ᏯᏯᎡᏍᏗ|||*
 ᏱᎨᎦ|||*
+ᏱᎨᎩᏂᏂᏴᎯ|||*
 ᏱᎨᏎ|||Maybe it was being.
 ᏱᎨᏎᏍᏗ|||Maybe it will be.
+ᏱᎬᎦᏘᏯ|||*
 ᏱᎬᏬᏂᏎᎵ|||Maybe I just spoke to you.
 ᏱᏁᎾ|||*
+ᏱᏂᏔᏛᏁᎵ|||*
+ᏱᏍᎩᎩ|||Maybe you get me.
+ᏱᏍᎩᏂᏯ|||Maybe you just caught me.
+ᏱᏍᎩᏒᎮ|||*
 ᏱᏍᎩᏬᏂᏎᎵ|||Maybe you just spoke to me.
+ᏱᏓᎦᎪᏂ|||*
+ᏱᏓᎯᏲᎢᏍᏔᏂ|||*
+ᏱᏓᏣᏂᏴᎯ|||*
 ᏱᏘᏲᏍᏔᏂ|||Maybe you will break it.
 ᏱᏛᏲᏥ|||Maybe it will break. Idiom: Maybe he or she will become spoiled.
+ᏱᏥᎪᏘᎭ|||*
 ᏱᏥᎮᎭ||Ᏹ- ᎢᏥ- ᎤᎲᎢ -ᎡᎭ|Maybe he or she has it for you all.
 ᏱᏥᎷᎶᎦ|||I am not lacking.
+ᏳᎦᏘᏕ|||*
+ᏳᎪᎮ|||*
 ᏳᎭ|||Maybe he or she has it.
+ᏳᏂᏴᎮ|||*
+ᏳᏅᏖ|||*
+ᏳᏲᏍᏔᏁ|||*
 ᏳᏲᏤ|||Maybe it broke. Idiom: Maybe he or she became spoiled.

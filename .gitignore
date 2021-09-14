@@ -17,3 +17,6 @@ RCS/
 /*/artwork/*/jpgs/
 /*/artwork/*/pngs/
 /*/artwork/*/pdfs/
+images.raw.?/
+counter.txt
+files.txt
