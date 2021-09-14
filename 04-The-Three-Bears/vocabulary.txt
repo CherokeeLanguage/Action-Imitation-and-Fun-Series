@@ -1,42 +1,6 @@
 # Na-Anijoi-Yona.lyx
 # ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳ ㉑ ㉒ ㉓ ㉔ ㉕ ㉖ ㉗ ㉘ ㉙ ㉚ ㉛ ㉜ ㉝ ㉞ ㉟ ㊱ ㊲ ㊳ ㊴ ㊵ ㊶ ㊷ ㊸ ㊹ ㊺ ㊻ ㊼ ㊽ ㊾ ㊿
 Syllabary|Pronounce|Breakdown|Definition
-ᏲᎾ|||
-ᏯᏁᏓ|||
-ᎬᏩᏂᎪᏩᏛᏗ|||
-ᎢᎾᎨᎢ|||
-ᎠᏁᎰ|||
-ᎡᎰ|||
-ᏲᎾᏍ|||
-ᎤᏂᎸᏉᏙ|||
-ᎤᏁᏓᏍᏗ|||
-ᎤᎾᏤᎵ|||
-ᎤᏂᏴᏍᏗ|||
-ᏥᎪᏩᏘ|||
-ᎠᏂᏔᎵ|||
-ᎦᏥᎪᏩᏘ|||
-ᎡᏙᎰ|||
-ᎠᏁᏙᎰ|||
-ᎤᏴᏍᏗ|||
-ᏕᏥᎪᏩᏘ|||
-ᏔᎵ|||
-ᏚᏂᎸᏉᏙ|||
-ᏓᏂᎴᎪ|||
-ᎠᎨᏳᏣ|||
-ᎠᏕᎳ|||
-ᎤᏁᎦ|||
-ᎤᏍᏘᎬᎢ|||
-ᏚᏙᎠ|||
-ᎤᎴᎾᏞ|||
-ᎤᎴᎾᏢᎢ|||
-ᎤᏲᏨ|||
-ᎠᏰᏟ|||
-ᎤᎴᎾᎯᎭ|||
-ᎦᎷᎩ|||
-ᎤᏂᏤᎵ|||
-ᏣᎴᎾᎯᎭ|||
-ᏣᎵᏘᏎ|||
-ᏣᎴᎾᎦ|||
 ᎤᏩᏂᎴ|||
 ᎦᎶᎯᏍᏗᎢ|||
 ᏚᏩᏂᎴ|||
@@ -77,6 +41,7 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏙᏓᏥᏩᏛᎯ|||
 ᏧᏂᎩᏍᏗ|||
 ᏧᎾᏤᎵ|||
+ᎤᏂᏤᎵ|||
 ᏧᏂᏤᎵ|||
 ᏗᏟᏍᏙᏗ|||
 ᎠᏟᏍᏙᏗ|||
@@ -107,7 +72,6 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏥᎦᏟᎮ|||
 ᎤᏂᎷᏤ|||
 ᎤᏂᏴᏞ|||
-ᎠᏁᏙᎭ|||
 ᏱᎨᏣᏩᏔ|||
 ᎯᏰᎩ|||
 ᎠᏂᏴᎭ|||
@@ -205,3 +169,38 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏧᎦᏛᎴᏎ|||
 ᎤᎾᎦᏔᏁ|||
 ᏱᎦᎵᏘᏍᎨᏍᏗ|||
+-Ꮸ|-jv̋||Very.
+ᎠᎨᏳᏣ|||A girl.
+ᎠᏁᎭ|||They live.
+ᎠᏁᎰ|||They reside. They live.
+ᎠᏁᏙᎭ|||They are walking about.
+ᎠᏂᏔᎵ|||Two.
+ᎠᏕᎳ|||Money.
+ᎠᏰᏟ|||① Center. Middle. ② Half of. ③ A half dollar.
+ᎡᎭ|||He or she lives.
+ᎢᎾᎨ|||A forest. Wilderness.
+ᎢᎾᎨᎢ|||A forest. Wilderness.
+ᎤᎴᎾᏞ|||He or she lost their way.
+ᎤᎴᎾᏢᎢ|||His or her being lost.
+ᎤᎾᏤᎵ|||Their.
+ᎤᏁᎦ|||White.
+ᎤᏁᏓᏍᏗ|||For them to walk about.
+ᎤᏂᎸᏉᏗ|||They like it.
+ᎤᏍᏘᎬᎢ|||His or her head of hair.
+ᎤᏲᏨ||ᎤᏲᎢ -Ꮸ|Poor. Very bad.
+ᎦᏥᎪᏩᏘ|||I see them.
+ᎬᏩᏁᏓᏍᏗ|||They can walk about.
+ᎬᏩᏁᏓᏍᏗᏍ|||Can they walk about?
+ᎬᏩᏂᎪᏩᏛᏗ|||They can see.
+ᏓᏂᎴᎪ|||They climb them.
+ᏔᎵ|||Two.
+ᏕᏥᎪᏩᏘ|||I see them.
+ᏗᏤᏅᏒ|||Your home.
+ᏚᏂᎸᏉᏗ|||They like them.
+ᏚᏙᎠ|||He or she is called.
+ᏣᎴᎾᏞ|||You lost your way.
+ᏣᎵᏘᏎ|||You ran away.
+ᏥᎪᏩᏘ|||I see him, her, or it.
+ᏧᏪᏅᏒ|||His or her home.
+ᏲᎾ|||A bear. Bears.
+ᏲᎾᏍ|||*

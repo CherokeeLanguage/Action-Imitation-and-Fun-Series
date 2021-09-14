@@ -292,6 +292,94 @@ LatexCommand tableofcontents
 \end_layout
 
 \begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size giant
+Ꮎ ᎠᏂᏦᎢ ᏲᎾ
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size huge
+\begin_inset Graphics
+	filename src.xcf/jpgs/004.jpg
+	lyxscale 10
+	width 90col%
+	groupId fullpage
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset ERT
 status collapsed
 
@@ -332,33 +420,9 @@ mainmatter{}
 
 \size huge
 \begin_inset Graphics
-	filename src.xcf/jpgs/004.jpg
-	lyxscale 10
-	width 80col%
-	groupId fullpage
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\size huge
-\begin_inset Newpage cleardoublepage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\align center
-
-\size huge
-\begin_inset Graphics
 	filename src.xcf/jpgs/005.jpg
 	lyxscale 10
-	width 80col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -375,7 +439,13 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎡᎵᏊᏍ ᏲᎾ ᏯᏁᏓ? ᎡᎵᏊ ᏲᎾ ᏯᏁᏓ.
+ᎬᏩᏁᏓᏍᏗᏍ ᏲᎾ?
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏲᎾ ᎬᏩᏁᏓᏍᏗ.
 \end_layout
 
 \begin_layout Standard
@@ -393,13 +463,13 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎢᎾᎨᎢ ᎠᏁᎰ ᏲᎾ.
+ᎢᎾᎨᎢ ᎠᏁᎭ ᏲᎾ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᎢᎾᎨᎢ ᎡᎰ ᏲᎾ.
+ᎢᎾᎨᎢ ᎡᎭ ᏲᎾ.
 \end_layout
 
 \begin_layout Standard
@@ -417,25 +487,25 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏲᎾᏍ ᎢᎾᎨᎢ ᎤᏂᎸᏉᏙ?
+ᏲᎾᏍ ᎢᎾᎨ ᎤᏂᎸᏉᏗ?
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᎥᎥ, ᏲᎾ ᎢᎾᎨᎢ ᎤᏂᎸᏉᏙ.
+ᎥᎥ, ᏲᎾ ᎢᎾᎨ ᎤᏂᎸᏉᏗ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᎦᏙᎲ ᏲᎾ ᎢᎾᎨᎢ ᎤᏂᎸᏉᏙ?
+ᎦᏙᎲ ᏲᎾ ᎢᎾᎨ ᎤᏂᎸᏉᏗ?
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᏲᎾ ᎢᎾᎨᎢ ᎤᏁᏓᏍᏗ ᎤᏂᎸᏉᏙ.
+ᏲᎾ ᎢᎾᎨ ᎤᏁᏓᏍᏗ ᎤᏂᎸᏉᏗ.
 \end_layout
 
 \begin_layout Standard
@@ -454,7 +524,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.xcf/jpgs/006.jpg
 	lyxscale 10
-	width 80col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -465,25 +535,25 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎦᏙᎲ ᏲᎾ ᎠᏁᎰ ᎢᎾᎨᎢ?
+ᎦᏙᎲ ᏲᎾ ᎢᎾᎨ ᎠᏁᎭ?
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᏲᎾ ᎠᏁᎰ ᎢᎾᎨᎢ ᎤᏂᎸᏉᏙ.
+ᏲᎾ ᎢᎾᎨ ᎠᏁᎰ ᎤᏂᎸᏉᏗ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-Ꮒ, ᎤᎾᏤᎵ ᎤᏂᏴᏍᏗ ᎢᎾᎨᎢ.
+Ꮒ, ᎤᎾᏤᎵ ᎦᎵᏦᏕ ᎢᎾᎨᎢ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᎤᏂᏴᏍᏗ ᏲᎾ ᎠᏁᎰ.
+ᎦᎵᏦᏕ ᏲᎾ ᎠᏁᎭ.
 \end_layout
 
 \begin_layout Standard
@@ -507,37 +577,37 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏌᏊ ᏲᎾ ᎢᎾᎨᎢ ᎡᏙᎰ.
+ᏌᏊ ᏲᎾ ᎢᎾᎨ ᎡᏙᎭ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᎠᏂᏔᎵ ᏲᎾ ᎢᎾᎨᎢ ᎠᏁᏙᎰ.
+ᎠᏂᏔᎵ ᏲᎾ ᎢᎾᎨ ᎠᏁᏙᎭ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᎠᏂᏦᎢ ᏲᎾ ᎢᎾᎨᎢ ᎠᏁᏙᎰ.
+ᎠᏂᏦᎢ ᏲᎾ ᎢᎾᎨ ᎠᏁᏙᎭ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᏌᏊ ᏲᎾ ᎤᏴᏍᏗ ᎡᎰ.
+ᏌᏊ ᏲᎾ ᎦᎵᏦᏕ ᎡᎭ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᎠᏂᏔᎵ ᏲᎾ ᎤᏂᏴᏍᏗ ᎠᏁᎰ.
+ᎠᏂᏔᎵ ᏲᎾ ᎦᎵᏦᏕ ᎠᏁᎭ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᎠᏂᏦᎢ ᏲᎾ ᎤᏂᏴᏍᏗ ᎠᏁᎰ.
+ᎠᏂᏦᎢ ᏲᎾ ᎦᎵᏦᏕ ᎠᏁᎭ.
 \end_layout
 
 \begin_layout Standard
@@ -549,43 +619,43 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏌᏊ ᏲᎾ ᎢᎾᎨᎢ ᏥᎪᏩᏘ.
+ᏌᏊ ᏲᎾ ᎢᎾᎨ ᏥᎪᏩᏘ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᎠᏂᏔᎵ ᏲᎾ ᎢᎾᎨᎢ ᎦᏥᎪᏩᏘ.
+ᎠᏂᏔᎵ ᏲᎾ ᎢᎾᎨ ᎦᏥᎪᏩᏘ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᎠᏂᏦᎢ ᏲᎾ ᎢᎾᎨᎢ ᎦᏥᎪᏩᏘ.
+ᎠᏂᏦᎢ ᏲᎾ ᎢᎾᎨ ᎦᏥᎪᏩᏘ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᏕᏡᎬ ᎢᎾᎨᎢ ᏕᏥᎪᏩᏘ.
+ᏕᏡᎬ ᎢᎾᎨ ᏕᏥᎪᏩᏘ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᏌᏊ ᏡᎬ, ᏔᎵ ᏕᏡᎬ, ᏦᎢ ᏕᏡᎬ ᎢᎾᎨᎢ ᏕᏥᎪᏩᏘ.
+ᏌᏊ ᏡᎬ, ᏔᎵ ᏕᏡᎬ, ᏦᎢ ᏕᏡᎬ ᎢᎾᎨ ᏕᏥᎪᏩᏘ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᏲᎾᏍ ᏕᏡᎬ ᏚᏂᎸᏉᏙ?
+ᏲᎾᏍ ᏕᏡᎬ ᏚᏂᎸᏉᏗ?
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᏲᎾ ᏕᏡᎬ ᏚᏂᎸᏉᏙ.
+ᏲᎾ ᏕᏡᎬ ᏚᏂᎸᏉᏗ.
 \end_layout
 
 \begin_layout Standard
@@ -603,7 +673,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏲᎾ ᏕᏡᎬ ᏓᏂᎴᎪ ᎤᏂᎸᏉᏙ.
+ᏲᎾ ᏕᏡᎬ ᏓᏂᎴᎪ ᎤᏂᎸᏉᏗ.
 \end_layout
 
 \begin_layout Standard
@@ -622,7 +692,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.xcf/jpgs/007.jpg
 	lyxscale 10
-	width 80col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -658,7 +728,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-Ꮒ, ᎤᎴᎾᏢᎢ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+ᎯᎪᏩᏔ Ꮎ ᎤᎴᎾᏢᎢ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
 \end_layout
 
 \begin_layout Standard
@@ -670,19 +740,19 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏕᏡᎬ ᎠᏰᏟ ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎤᎴᎾᎯᎭ.
+ᏕᏡᎬ ᎠᏰᏟ ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎤᎴᎾᏢᎢ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎢᎾᎨᎢ ᎦᎷᎩ.
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎢᎾᎨ ᎤᎷᏤ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᏲᎾ ᎤᏂᏤᎵ ᎤᏂᏴᏍᏗ ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎦᎷᎩ.
+ᏲᎾ ᎤᎾᏤᎵ ᎦᎵᏦᏕ ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎤᎷᏤ.
 \end_layout
 
 \begin_layout Standard
@@ -694,7 +764,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-Ꭳ, ᎠᏕᎳ ᎤᏍᏘᎬᎢ, ᏣᎴᎾᎯᎭ.
+Ꭳ, ᎠᏕᎳ ᎤᏍᏘᎬᎢ, ᏣᎴᎾᏞ.
 \end_layout
 
 \begin_layout Standard
@@ -713,7 +783,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.xcf/jpgs/008.jpg
 	lyxscale 10
-	width 80col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -724,37 +794,19 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎤᏤᎵ ᎤᏴᏍᏗ ᎤᏟ ᎤᎵᏘᏎ.
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᏧᏪᏅᏒ ᎤᏟ ᎤᎵᏘᏎ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎢᎾᎨᎢ ᎠᏰᏟ ᎤᎵᏘᏎ.
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎢᎾᎨ ᎠᏰᏟ ᎤᎵᏘᏎ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᏃᏊ ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎢᎾᎨᎢ ᎠᏰᏟ ᎤᎴᎾᎯᎭ.
-\end_layout
-
-\begin_layout Standard
-
-\size huge
-Ꭳ ᎠᏕᎳ ᎤᏍᏘᎬᎢ!
-\end_layout
-
-\begin_layout Standard
-
-\size huge
-ᎦᏙᎲ ᎤᏤᎵ ᎤᏴᏍᏗ ᎤᏟ ᎤᎵᏘᏎ?
-\end_layout
-
-\begin_layout Standard
-
-\size huge
-ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᏲᎾ ᎤᏂᏴᏍᏗ ᎤᎷᏤ.
+ᏃᏊ ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎢᎾᎨ ᎠᏰᏟ ᎤᎴᎾᏞ.
 \end_layout
 
 \begin_layout Standard
@@ -766,19 +818,37 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏣᏴᏍᏗ ᎤᏟ ᏣᎵᏘᏎ.
+ᎦᏙᎲ ᏗᏤᏅᏒ ᎤᏟ ᏣᎵᏘᏎ?
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᏣᎴᎾᎦ, ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᏲᎾ ᎦᎵᏦᏕ ᎤᎷᏤ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᎢᎾᎨᎢ ᎠᏰᏟ ᏣᎴᎾᎦ.
+Ꭳ ᎠᏕᎳ ᎤᏍᏘᎬᎢ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏗᏤᏅᏒ ᎤᏟ ᏣᎵᏘᏎ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏣᎴᎾᏞ, ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎢᎾᎨ ᎠᏰᏟ ᏣᎴᎾᏞ.
 \end_layout
 
 \begin_layout Standard
@@ -797,7 +867,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.xcf/jpgs/009.jpg
 	lyxscale 10
-	width 80col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -808,13 +878,13 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎢᎾᎨᎢ ᎠᏰᏟ ᏭᏪᏅᏎ.
+xᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎢᎾᎨ ᎠᏰᏟ ᏭᏪᏅᏎ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎤᏴᏍᏗ ᎤᏟ ᏭᏪᏅᏎ.
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎦᎵᏦᏕ ᎤᏟ ᏭᏪᏅᏎ.
 \end_layout
 
 \begin_layout Standard
@@ -862,7 +932,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎦᎶᎯᏍᏗᎢ ᎤᏴᏍᏗ ᎤᏁᏟᏔᏁ.
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎦᎶᎯᏍᏗᎢ ᎦᎵᏦᏕ ᎤᏁᏟᏔᏁ.
 \end_layout
 
 \begin_layout Standard
@@ -911,7 +981,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.xcf/jpgs/010.jpg
 	lyxscale 10
-	width 80col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -1058,7 +1128,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.xcf/jpgs/011.jpg
 	lyxscale 10
-	width 80col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -1142,7 +1212,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.xcf/jpgs/012.jpg
 	lyxscale 10
-	width 80col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -1277,7 +1347,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.xcf/jpgs/013.jpg
 	lyxscale 10
-	width 80col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -1380,7 +1450,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏗᎩᏍᏗᏍ ᎠᎭᏂ ᎤᏴᏍᏗ? Ꭳ ᎥᎥ, ᏲᎾ ᏗᎩᏍᏗ ᎠᏎ ᏚᏂᎰ.
+ᏗᎩᏍᏗᏍ ᎠᎭᏂ ᎦᎵᏦᏕ? Ꭳ ᎥᎥ, ᏲᎾ ᏗᎩᏍᏗ ᎠᏎ ᏚᏂᎰ.
 \end_layout
 
 \begin_layout Standard
@@ -1405,7 +1475,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏗᎩᏍᏗ ᎠᎭᏂ ᎤᏴᏍᏗ ᎠᏆᏅᏔ.
+ᏗᎩᏍᏗ ᎠᎭᏂ ᎦᎵᏦᏕ ᎠᏆᏅᏔ.
 \end_layout
 
 \begin_layout Standard
@@ -1420,7 +1490,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᎦᎪ ᎠᏁᎰ ᎯᎠ ᎤᏴᏍᏗ?
+ᎦᎪ ᎠᏁᎰ ᎯᎠ ᎦᎵᏦᏕ?
 \begin_inset Quotes erd
 \end_inset
 
@@ -1451,7 +1521,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎠᏂᏦᎢ ᏲᎾ ᎠᏁᎰ ᎯᎠ ᎤᏂᏴᏍᏗ.
+ᎠᏂᏦᎢ ᏲᎾ ᎠᏁᎰ ᎯᎠ ᎦᎵᏦᏕ.
 \end_layout
 
 \begin_layout Standard
@@ -1481,7 +1551,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎯᎠ ᎤᏂᏴᏍᏗ ᎤᏂᏤᎵ.
+ᎯᎠ ᎦᎵᏦᏕ ᎤᏂᏤᎵ.
 \end_layout
 
 \begin_layout Standard
@@ -1516,7 +1586,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.xcf/jpgs/014.jpg
 	lyxscale 10
-	width 80col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -1634,7 +1704,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.xcf/jpgs/015.jpg
 	lyxscale 10
-	width 80col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -1759,7 +1829,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.xcf/jpgs/016.jpg
 	lyxscale 10
-	width 80col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -1977,7 +2047,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.xcf/jpgs/017.jpg
 	lyxscale 10
-	width 80col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -2000,13 +2070,13 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏥᎦᏟᎮ ᏃᏊᎴ ᏲᎾ ᎤᏂᏴᏍᏗ ᎤᏂᎷᏤ.
+ᏥᎦᏟᎮ ᏃᏊᎴ ᏲᎾ ᎦᎵᏦᏕ ᎤᏂᎷᏤ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᏥᎦᏟᎮ ᏃᏊᎴ ᏲᎾ ᎤᏂᏴᏍᏗ ᎤᏂᏴᏞ.
+ᏥᎦᏟᎮ ᏃᏊᎴ ᏲᎾ ᎦᎵᏦᏕ ᎤᏂᏴᏞ.
 \end_layout
 
 \begin_layout Standard
@@ -2024,7 +2094,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏲᎾ ᎤᏂᏴᏍᏗ ᎠᏁᏙᎭ.
+ᏲᎾ ᎦᎵᏦᏕ ᎠᏁᏙᎭ.
 \end_layout
 
 \begin_layout Standard
@@ -2048,7 +2118,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏲᎾ ᎤᏂᏴᏍᏗ ᎠᏂᏴᎭ.
+ᏲᎾ ᎦᎵᏦᏕ ᎠᏂᏴᎭ.
 \end_layout
 
 \begin_layout Standard
@@ -2078,7 +2148,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏲᎾ ᎤᏂᏴᏍᏗ ᎠᏂᏴᎭ Ꮭ ᏱᏓᏯᏛᎬᎦ.
+ᏲᎾ ᎦᎵᏦᏕ ᎠᏂᏴᎭ Ꮭ ᏱᏓᏯᏛᎬᎦ.
 \end_layout
 
 \begin_layout Standard
@@ -2102,7 +2172,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎠᏂᏦᎢ ᏲᎾ ᎤᏂᏴᏍᏗ ᎠᏂᏴᎭ.
+ᎠᏂᏦᎢ ᏲᎾ ᎦᎵᏦᏕ ᎠᏂᏴᎭ.
 \end_layout
 
 \begin_layout Standard
@@ -2231,7 +2301,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.xcf/jpgs/018.jpg
 	lyxscale 10
-	width 80col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -2542,7 +2612,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.xcf/jpgs/019.jpg
 	lyxscale 10
-	width 80col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -2779,7 +2849,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.xcf/jpgs/020.jpg
 	lyxscale 10
-	width 80col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -2941,7 +3011,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.xcf/jpgs/021.jpg
 	lyxscale 10
-	width 80col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -3178,7 +3248,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.xcf/jpgs/022.jpg
 	lyxscale 10
-	width 80col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -3301,7 +3371,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.xcf/jpgs/023.jpg
 	lyxscale 10
-	width 80col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -3405,7 +3475,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.xcf/jpgs/024.jpg
 	lyxscale 10
-	width 80col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -3485,7 +3555,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎤᏤᎵ ᎤᏴᏍᏗ ᎠᏟᏎ.
+ᎤᏤᎵ ᎦᎵᏦᏕ ᎠᏟᏎ.
 \end_layout
 
 \begin_layout Standard
@@ -3494,7 +3564,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-Ꮭ ᎢᎸᎯᏳ ᎤᏴᏍᏗ ᎤᏟ ᎦᎵᏘᏍᎨᏍᏗ.
+Ꮭ ᎢᎸᎯᏳ ᎦᎵᏦᏕ ᎤᏟ ᎦᎵᏘᏍᎨᏍᏗ.
 \begin_inset Quotes erd
 \end_inset
 
@@ -3567,7 +3637,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏲᎾ ᎤᎾᏤᎵ ᎤᏂᏴᏍᏗ ᎤᎪᎮ.
+ᏲᎾ ᎤᎾᏤᎵ ᎦᎵᏦᏕ ᎤᎪᎮ.
 \end_layout
 
 \begin_layout Standard
@@ -3576,7 +3646,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-Ꭳ, ᎥᏍᎩᎾ ᎣᏍᏓ ᎤᏴᏍᏗ!
+Ꭳ, ᎥᏍᎩᎾ ᎣᏍᏓ ᎦᎵᏦᏕ!
 \begin_inset Quotes erd
 \end_inset
 
@@ -3586,7 +3656,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎤᏴᏍᏗ ᏗᏜ ᏭᏪᏅᏎ.
+ᎦᎵᏦᏕ ᏗᏜ ᏭᏪᏅᏎ.
 \end_layout
 
 \begin_layout Standard
@@ -3617,7 +3687,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎤᎵᏘᏎ ᎤᏤᎵ ᎤᏴᏍᏗ.
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎤᎵᏘᏎ ᎤᏤᎵ ᎦᎵᏦᏕ.
 \end_layout
 
 \begin_layout Standard
@@ -3629,7 +3699,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎤᏴᏍᏗ ᎤᏴᏞ.
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎦᎵᏦᏕ ᎤᏴᏞ.
 \end_layout
 
 \begin_layout Standard
@@ -4476,7 +4546,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎠᏟᏎ ᎠᎴ ᎠᏟᏎ ᎾᎯᏳ ᎤᏤᎵ ᎤᏴᏍᏗ ᎤᎷᏤ.
+ᎠᏕᎳ ᎤᏍᏘᎬᎢ ᎠᏟᏎ ᎠᎴ ᎠᏟᏎ ᎾᎯᏳ ᎤᏤᎵ ᎦᎵᏦᏕ ᎤᎷᏤ.
 \end_layout
 
 \begin_layout Standard
@@ -4485,7 +4555,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-Ꭳ! Ꭳ! Ꮭ ᎢᎸᎯᏳ ᎤᏴᏍᏗ ᎤᏟ ᏱᎦᎵᏘᏍᎨᏍᏗ ᏍᏊ,
+Ꭳ! Ꭳ! Ꮭ ᎢᎸᎯᏳ ᎦᎵᏦᏕ ᎤᏟ ᏱᎦᎵᏘᏍᎨᏍᏗ ᏍᏊ,
 \begin_inset Quotes erd
 \end_inset
 
