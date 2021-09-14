@@ -296,6 +296,65 @@ LatexCommand tableofcontents
 \end_layout
 
 \begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size giant
+ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset ERT
 status collapsed
 
@@ -336,7 +395,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.jpg/003.jpg
 	lyxscale 10
-	width 90col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -394,7 +453,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.jpg/004.jpg
 	lyxscale 10
-	width 90col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -525,7 +584,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.jpg/005.jpg
 	lyxscale 10
-	width 90col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -620,7 +679,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.jpg/006.jpg
 	lyxscale 10
-	width 90col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -708,7 +767,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.jpg/007.jpg
 	lyxscale 10
-	width 90col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -838,7 +897,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.jpg/008.jpg
 	lyxscale 10
-	width 90col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -944,7 +1003,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.jpg/009.jpg
 	lyxscale 10
-	width 90col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -1120,7 +1179,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.jpg/010.jpg
 	lyxscale 10
-	width 90col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -1220,7 +1279,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.jpg/011.jpg
 	lyxscale 10
-	width 90col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -1345,7 +1404,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.jpg/012.jpg
 	lyxscale 10
-	width 90col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -1367,7 +1426,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.jpg/013.jpg
 	lyxscale 10
-	width 90col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -1563,7 +1622,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.jpg/014.jpg
 	lyxscale 10
-	width 90col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -1794,7 +1853,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.jpg/015.jpg
 	lyxscale 10
-	width 90col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -1968,7 +2027,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.jpg/016.jpg
 	lyxscale 10
-	width 90col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -2759,7 +2818,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.jpg/017.jpg
 	lyxscale 10
-	width 90col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -2836,7 +2895,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.jpg/018.jpg
 	lyxscale 10
-	width 90col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -3048,7 +3107,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.jpg/019.jpg
 	lyxscale 10
-	width 90col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -3262,7 +3321,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.jpg/020.jpg
 	lyxscale 10
-	width 90col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -3456,7 +3515,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.jpg/021.jpg
 	lyxscale 10
-	width 90col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -3563,7 +3622,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.jpg/022.jpg
 	lyxscale 10
-	width 90col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -3696,7 +3755,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.jpg/023.jpg
 	lyxscale 10
-	width 90col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -4033,7 +4092,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.jpg/024.jpg
 	lyxscale 10
-	width 90col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -4933,7 +4992,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.jpg/025.jpg
 	lyxscale 10
-	width 90col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -5091,7 +5150,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.jpg/026.jpg
 	lyxscale 10
-	width 90col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -5239,7 +5298,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.jpg/027.jpg
 	lyxscale 10
-	width 90col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -5403,7 +5462,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.jpg/028.jpg
 	lyxscale 10
-	width 90col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -5625,7 +5684,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.jpg/029.jpg
 	lyxscale 10
-	width 90col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -5774,7 +5833,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.jpg/030.jpg
 	lyxscale 10
-	width 90col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -5904,7 +5963,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.jpg/031.jpg
 	lyxscale 10
-	width 90col%
+	width 80col%
 	groupId 90C
 
 \end_inset
@@ -6086,7 +6145,7 @@ mainmatter{}
 \begin_inset Graphics
 	filename src.jpg/032.jpg
 	lyxscale 10
-	width 90col%
+	width 80col%
 	groupId 90C
 
 \end_inset

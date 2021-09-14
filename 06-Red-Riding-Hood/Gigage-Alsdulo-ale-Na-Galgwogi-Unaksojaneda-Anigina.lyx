@@ -286,22 +286,6 @@ LatexCommand tableofcontents
 \end_layout
 
 \begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-mainmatter{}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 
 \lang english
 \begin_inset ERT
@@ -398,10 +382,6 @@ height "1pt"
 
 \end_layout
 
-\begin_layout Chapter
-ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ
-\end_layout
-
 \begin_layout Standard
 \begin_inset ERT
 status collapsed
@@ -416,6 +396,26 @@ pagestyle{plain}
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+mainmatter{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ
 \end_layout
 
 \begin_layout Standard

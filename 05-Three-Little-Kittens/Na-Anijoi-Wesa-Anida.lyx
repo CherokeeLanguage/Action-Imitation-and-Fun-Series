@@ -1,7 +1,9 @@
-#LyX 2.1 created this file. For more info see http://www.lyx.org/
-\lyxformat 474
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
 \begin_document
 \begin_header
+\save_transient_properties true
+\origin unavailable
 \textclass extbook
 \begin_preamble
 \usepackage{multicol}%
@@ -17,16 +19,18 @@ fixltx2e
 \language_package default
 \inputencoding utf8-plain
 \fontencoding global
-\font_roman FreeSerif
-\font_sans FreeSans
-\font_typewriter FreeMono
-\font_math auto
+\font_roman "default" "FreeSerif"
+\font_sans "default" "FreeSans"
+\font_typewriter "default" "FreeMono"
+\font_math "auto" "auto"
 \font_default_family default
 \use_non_tex_fonts true
 \font_sc false
 \font_osf true
-\font_sf_scale 100
-\font_tt_scale 100
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
 \graphics none
 \default_output_format pdf4
 \output_sync 1
@@ -69,6 +73,7 @@ fixltx2e
 \suppress_date true
 \justification true
 \use_refstyle 0
+\use_minted 0
 \branch smashwords
 \selected 0
 \filename_suffix 0
@@ -88,7 +93,10 @@ fixltx2e
 \tocdepth 1
 \paragraph_separation indent
 \paragraph_indentation default
-\quotes_language english
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
 \papercolumns 1
 \papersides 2
 \paperpagestyle fancy
@@ -220,6 +228,14 @@ Michael W S Joyner
 \end_layout
 
 \begin_layout Standard
+This work is licensed to you under the 
+\noun on
+Creative Commons Attribution-Share Alike 3.0 United States License
+\noun default
+.
+\end_layout
+
+\begin_layout Standard
 \begin_inset VSpace vfill*
 \end_inset
 
@@ -236,6 +252,7 @@ The Three Kittens and Chicken Little
 
 \begin_layout Standard
 \begin_inset Branch smashwords
+inverted 0
 status collapsed
 
 \begin_layout Standard
@@ -253,22 +270,6 @@ Copyright 2016, Michael Joyner
 
 \begin_layout Standard
 ISBN: 978-1-329-93340-8
-\end_layout
-
-\begin_layout Standard
-This work is licensed under the 
-\noun on
-Creative Commons Attribution-Share Alike 3.0 United States License
-\noun default
-.
-\end_layout
-
-\begin_layout Standard
-$Revision: 1.40 $
-\end_layout
-
-\begin_layout Standard
-$Date: 2016/02/28 17:08:32 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -295,6 +296,8 @@ LatexCommand tableofcontents
 \end_layout
 
 \begin_layout Standard
+
+\lang english
 \begin_inset ERT
 status collapsed
 
@@ -302,7 +305,7 @@ status collapsed
 
 
 \backslash
-mainmatter{}
+pagestyle{empty}
 \end_layout
 
 \end_inset
@@ -311,17 +314,26 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
-\begin_inset ERT
-status open
+\begin_inset VSpace vfill*
+\end_inset
 
-\begin_layout Plain Layout
 
-%{
-\backslash
-fontsize{18pt}{27pt}
-\backslash
-selectfont
 \end_layout
+
+\begin_layout Standard
+\align center
+
+\size giant
+Ꮎ ᎠᏂᏦᎢ ᏪᏌ ᎠᏂᏓ
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "1pt"
 
 \end_inset
 
@@ -329,7 +341,14 @@ selectfont
 \end_layout
 
 \begin_layout Standard
-\begin_inset space ~
+\align center
+
+\size giant
+ᏥᏔᎦ ᎤᏍᏗ
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
 \end_inset
 
 
@@ -343,12 +362,18 @@ selectfont
 \end_layout
 
 \begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \align center
 \begin_inset Graphics
 	filename jpgs-a/004.jpg
 	lyxscale 10
-	width 99text%
-	height 99theight%
+	width 90text%
 	groupId fullpage
 
 \end_inset
@@ -356,8 +381,11 @@ selectfont
 
 \end_layout
 
-\begin_layout Chapter
-Ꮎ ᎠᏂᏦᎢ ᏪᏌ ᎠᏂᏓ
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -377,11 +405,31 @@ pagestyle{plain}
 \end_layout
 
 \begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+mainmatter{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Ꮎ ᎠᏂᏦᎢ ᏪᏌ ᎠᏂᏓ
+\end_layout
+
+\begin_layout Standard
 \align center
 \begin_inset Graphics
 	filename jpgs-a/005.jpg
 	lyxscale 10
-	width 95col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -556,7 +604,7 @@ pagestyle{plain}
 \begin_inset Graphics
 	filename jpgs-a/006.jpg
 	lyxscale 10
-	width 95col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -681,6 +729,10 @@ pagestyle{plain}
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -688,7 +740,7 @@ pagestyle{plain}
 \begin_inset Graphics
 	filename jpgs-a/007.jpg
 	lyxscale 10
-	width 95col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -855,6 +907,10 @@ pagestyle{plain}
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -862,7 +918,7 @@ pagestyle{plain}
 \begin_inset Graphics
 	filename jpgs-a/008.jpg
 	lyxscale 10
-	width 95col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -888,10 +944,10 @@ pagestyle{plain}
 \paragraph_spacing onehalf
 
 \size largest
-ᏗᏣᏤᎵ ᏗᎵᏰᏑᎶ ᏗᎦᏓᎭ ᏄᎾᎵ\SpecialChar \-
-ᏍᏓ\SpecialChar \-
-ᏁᎸᎾ ᎢᏣ\SpecialChar \-
-ᏁᏟ\SpecialChar \-
+ᏗᏣᏤᎵ ᏗᎵᏰᏑᎶ ᏗᎦᏓᎭ ᏄᎾᎵ\SpecialChar softhyphen
+ᏍᏓ\SpecialChar softhyphen
+ᏁᎸᎾ ᎢᏣ\SpecialChar softhyphen
+ᏁᏟ\SpecialChar softhyphen
 ᏔᏅᎭ.
 \end_layout
 
@@ -1012,6 +1068,10 @@ pagestyle{plain}
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1019,7 +1079,7 @@ pagestyle{plain}
 \begin_inset Graphics
 	filename jpgs-a/046.jpg
 	lyxscale 10
-	width 95col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -1116,6 +1176,10 @@ pagestyle{plain}
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1123,7 +1187,7 @@ pagestyle{plain}
 \begin_inset Graphics
 	filename jpgs-a/009.jpg
 	lyxscale 10
-	width 95col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -1276,6 +1340,10 @@ pagestyle{plain}
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1283,7 +1351,7 @@ pagestyle{plain}
 \begin_inset Graphics
 	filename jpgs-a/049.jpg
 	lyxscale 10
-	width 95col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -1719,6 +1787,10 @@ pagestyle{plain}
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1726,7 +1798,7 @@ pagestyle{plain}
 \begin_inset Graphics
 	filename jpgs-a/053.jpg
 	lyxscale 10
-	width 95col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -1809,6 +1881,10 @@ pagestyle{plain}
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1816,7 +1892,7 @@ pagestyle{plain}
 \begin_inset Graphics
 	filename jpgs-a/010.jpg
 	lyxscale 10
-	width 95col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -1955,7 +2031,7 @@ pagestyle{plain}
 \begin_inset Graphics
 	filename jpgs-a/011.jpg
 	lyxscale 10
-	width 95col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -2290,6 +2366,10 @@ pagestyle{plain}
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -2297,7 +2377,7 @@ pagestyle{plain}
 \begin_inset Graphics
 	filename jpgs-a/012.jpg
 	lyxscale 10
-	width 95col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -2380,6 +2460,10 @@ pagestyle{plain}
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -2387,7 +2471,7 @@ pagestyle{plain}
 \begin_inset Graphics
 	filename jpgs-a/013.jpg
 	lyxscale 10
-	width 95col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -2561,7 +2645,7 @@ pagestyle{plain}
 \begin_inset Graphics
 	filename jpgs-a/014.jpg
 	lyxscale 10
-	width 95col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -2763,6 +2847,10 @@ pagestyle{plain}
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -2770,7 +2858,7 @@ pagestyle{plain}
 \begin_inset Graphics
 	filename jpgs-a/015.jpg
 	lyxscale 10
-	width 95col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -3097,7 +3185,7 @@ pagestyle{plain}
 \paragraph_spacing onehalf
 
 \size largest
-ᎤᏅᏔ! \SpecialChar \ldots{}
+ᎤᏅᏔ! \SpecialChar ldots
  ᎤᏅᏔ!
 \end_layout
 
@@ -3113,7 +3201,7 @@ pagestyle{plain}
 \begin_inset Graphics
 	filename jpgs-a/067.jpg
 	lyxscale 10
-	width 95col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -3252,6 +3340,10 @@ pagestyle{plain}
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -3259,7 +3351,7 @@ pagestyle{plain}
 \begin_inset Graphics
 	filename jpgs-a/016.jpg
 	lyxscale 10
-	width 95col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -3314,6 +3406,10 @@ pagestyle{plain}
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -3321,7 +3417,7 @@ pagestyle{plain}
 \begin_inset Graphics
 	filename jpgs-a/017.jpg
 	lyxscale 10
-	width 95col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -3460,6 +3556,10 @@ pagestyle{plain}
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -3467,7 +3567,7 @@ pagestyle{plain}
 \begin_inset Graphics
 	filename jpgs-a/018.jpg
 	lyxscale 10
-	width 95col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -3571,6 +3671,10 @@ pagestyle{plain}
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -3578,7 +3682,7 @@ pagestyle{plain}
 \begin_inset Graphics
 	filename jpgs-a/019.jpg
 	lyxscale 10
-	width 95col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -3640,6 +3744,10 @@ pagestyle{plain}
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -3647,7 +3755,7 @@ pagestyle{plain}
 \begin_inset Graphics
 	filename jpgs-a/020.jpg
 	lyxscale 10
-	width 95col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -3869,6 +3977,10 @@ pagestyle{empty}
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -3876,8 +3988,7 @@ pagestyle{empty}
 \begin_inset Graphics
 	filename jpgs-a/021.jpg
 	lyxscale 10
-	width 99text%
-	height 99theight%
+	width 90text%
 	groupId fullpage
 
 \end_inset
@@ -3903,6 +4014,10 @@ pagestyle{plain}
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -3910,7 +4025,7 @@ pagestyle{plain}
 \begin_inset Graphics
 	filename jpgs-a/022.jpg
 	lyxscale 10
-	width 95col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -4504,6 +4619,10 @@ pagestyle{plain}
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -4511,7 +4630,7 @@ pagestyle{plain}
 \begin_inset Graphics
 	filename jpgs-a/023.jpg
 	lyxscale 10
-	width 95col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -4730,6 +4849,10 @@ pagestyle{plain}
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -4737,7 +4860,7 @@ pagestyle{plain}
 \begin_inset Graphics
 	filename jpgs-b/024.jpg
 	lyxscale 10
-	width 95col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -4967,6 +5090,10 @@ pagestyle{plain}
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -4974,8 +5101,7 @@ pagestyle{plain}
 \begin_inset Graphics
 	filename jpgs-b/025.jpg
 	lyxscale 10
-	width 99text%
-	height 99theight%
+	width 90text%
 	groupId fullpage
 
 \end_inset
@@ -5674,6 +5800,10 @@ pagestyle{plain}
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -5681,7 +5811,7 @@ pagestyle{plain}
 \begin_inset Graphics
 	filename jpgs-a/024.jpg
 	lyxscale 10
-	width 95col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -5743,6 +5873,10 @@ pagestyle{plain}
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -5750,7 +5884,7 @@ pagestyle{plain}
 \begin_inset Graphics
 	filename jpgs-a/025.jpg
 	lyxscale 10
-	width 95col%
+	width 90col%
 	groupId 90C
 
 \end_inset
@@ -5851,7 +5985,7 @@ pagestyle{plain}
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -5964,6 +6098,12 @@ Waiver — Any of the above conditions can be waived if you get permission
 \size small
 Other Rights — In no way are any of the following rights affected by the
  license:
+\size default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
