@@ -183,6 +183,7 @@ def main() -> None:
     shutil.copy(f"{entries_file}.tmp", entries_file)
 
     # Output updated used entries file.
+    used_count: int = 0
     with open(f"used-{entries_file}", "w") as w:
         for entry in entries_text:
             parts: list[str] = entry.strip().split("|")
@@ -197,6 +198,8 @@ def main() -> None:
                 continue
             w.write(entry.strip())
             w.write("\n")
+            used_count += 1
+    print(f"Wrote {used_count:,} entries to used-{entries_file}.")
 
     counter: int = 0
     section: str = ""
