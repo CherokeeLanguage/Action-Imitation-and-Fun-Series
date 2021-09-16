@@ -1,22 +1,11 @@
 # Na-Anijoi-Yona.lyx
 # ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳ ㉑ ㉒ ㉓ ㉔ ㉕ ㉖ ㉗ ㉘ ㉙ ㉚ ㉛ ㉜ ㉝ ㉞ ㉟ ㊱ ㊲ ㊳ ㊴ ㊵ ㊶ ㊷ ㊸ ㊹ ㊺ ㊻ ㊼ ㊽ ㊾ ㊿
 Syllabary|Pronounce|Breakdown|Definition
-ᎡᏙ|||
-ᎠᎾᏟᎯᎢ|||
-ᎦᏅᎬ|||
-ᎠᏰᎶᎢᏍᏗ|||
-ᎤᏁᎫᏥᎠ|||
-ᎢᎦᏪᏍᏗ|||
-ᏧᏛᎦᏁ|||
-ᏚᎵᏔᏗᏅᏒᎢ|||
-ᏧᎦᏛᎴᏎ|||
-ᎤᎾᎦᏔᏁ|||
-ᏱᎦᎵᏘᏍᎨᏍᏗ|||
 -ᎡᎭ|-e:ha||Is doing for someone. Is doing towards someone.
 -Ꭲ|||*
 -ᎢᎶᎥᎢ|-ǐ:lóv̌:ɂi||Did it over and over.
 -ᎥᎭ|-v:ha||Should do it. Would do it.
--ᏍᎪ|||*
+-ᏍᎪ|||Yes or no?
 -Ꮸ|-jv̋||Very.
 ᎠᎨᏳᏣ|||A girl.
 ᎠᎩᏍᏚᏅᎩ|||I closed it.
@@ -48,11 +37,11 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎠᏥᏞ||ᎠᏥ- ᎤᏢᎢ|It was poured.
 ᎠᏨᏯ|||Male.
 ᎠᏯ|||He or she is inside.
-ᎠᏯᎥᎢ|||His or her being inside.
+ᎠᏯᎥ|||His or her being inside.
 ᎠᏰᏟ|||① Center. Middle. ② Half of. ③ A half dollar.
 ᎠᏲᎨ|||It was breaking.
 ᎡᎭ|||He or she lives.
-ᎡᎵᏊ ᏱᎨᏣᏩᏔ|||It's possible they might find you.
+ᎡᎵᏊ ᏱᎨᏣᏩᏔ|||They might find you.
 ᎡᎵᏊ ᏱᏕᏥᏩᏔ|||I may find them.
 ᎡᏗᏩᏛᎲᎭ|||All of us should or would find him or her.
 ᎡᏝᏪ|||Quiet.
@@ -62,10 +51,12 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎢᎾᎨᎢ|||A forest. Wilderness.
 ᎢᏕᎾ|||Let us all go.
 ᎣᎦᏤᎵ|||Our.
+ᎤᎦᏛᎴᏒᎢ|||His or her going through it.
 ᎤᎴᎾᏞ|||He or she lost their way.
 ᎤᎴᎾᏢᎢ|||His or her being lost.
 ᎤᎴᏅᎮ|||It started. It began.
 ᎤᎵᏍᏚᎢᏓ|||Open.
+ᎤᎾᎦᏔᏁ|||They peeked through.
 ᎤᎾᎦᏙᏍᏔᏁ|||They looked at him, her, or it.
 ᎤᎾᎴᏅᎮ|||They started. They began.
 ᎤᎾᏓᎾᏩᏍᏔᏁ|||They took of running.
@@ -149,6 +140,7 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎮᎾ|||Go.
 ᎯᏃᏍᎩᏍᎩ|||You are a thief.
 ᎯᏰᎩ|||Wake up.
+ᎾᎯᏳᏃ|||And then.
 ᏄᏪᏒᎢ|||His or her utterance.
 ᏍᏓᏯᏒ|||Extra hard.
 Ꮟ|||Wait. Yet. Still.
@@ -158,7 +150,6 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏓᎩᏏ|||① Terrapin turtle. ② A padlock. ③ A door knob.
 ᏓᎩᏯᏪᎦ|||I am tired.
 ᏓᏂᎴᎪ|||They climb them.
-ᏓᏇᏅᏒ|||My home.
 ᏓᏉᏢᎭ|||I should or would sit.
 ᏓᏗᎪᎯ|||All of us will see.
 ᏓᏰᏗᏩᏛᎯ|||All of us will find him or her.
@@ -170,6 +161,7 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏗᎦᏍᎩᎸᎢ|||On the chairs or tables.
 ᏗᎩᏍᏗ|||Foods.
 ᏗᎩᏍᏗᏍ|||*
+ᏗᏇᏅᏒ|||My home.
 ᏗᏟᏍᏙᏗ|||Containers for liquids.
 ᏗᏤᏅᏒ|||Your home.
 ᏙᏓᏥᏩᏛᎯ|||I will find them.
