@@ -203,7 +203,7 @@ Chicken Little
 \end_layout
 
 \begin_layout Author
-Michael Conrad
+Michael W S Joyner
 \end_layout
 
 \begin_layout Standard
@@ -228,19 +228,11 @@ Michael Conrad
 \end_layout
 
 \begin_layout Standard
-\align center
 This work is licensed to you under the 
 \noun on
 Creative Commons Attribution-Share Alike 3.0 United States License
 \noun default
 .
-\end_layout
-
-\begin_layout Standard
-\align center
-
-\size small
-You are free to copy and share this work.
 \end_layout
 
 \begin_layout Standard
@@ -259,10 +251,6 @@ The Three Kittens and Chicken Little
 \end_layout
 
 \begin_layout Standard
-Second Edition
-\end_layout
-
-\begin_layout Standard
 \begin_inset Branch smashwords
 inverted 0
 status collapsed
@@ -277,11 +265,11 @@ Published by Michael Joyner at Smashwords
 \end_layout
 
 \begin_layout Standard
-Copyright 2021, Michael Conrad
+Copyright 2016, Michael Joyner
 \end_layout
 
 \begin_layout Standard
-ISBN: 978-0-000-00000-0
+ISBN: 978-1-329-93340-8
 \end_layout
 
 \begin_layout Standard
@@ -741,6 +729,10 @@ mainmatter{}
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -915,6 +907,10 @@ mainmatter{}
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1072,6 +1068,10 @@ mainmatter{}
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1173,6 +1173,10 @@ mainmatter{}
 
 \begin_layout Standard
 \begin_inset Newpage clearpage
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -1333,6 +1337,10 @@ mainmatter{}
 
 \begin_layout Standard
 \begin_inset Newpage clearpage
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -1779,6 +1787,10 @@ mainmatter{}
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1866,6 +1878,10 @@ mainmatter{}
 
 \begin_layout Standard
 \begin_inset Newpage clearpage
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -2350,6 +2366,10 @@ mainmatter{}
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -2437,6 +2457,10 @@ mainmatter{}
 
 \begin_layout Standard
 \begin_inset Newpage clearpage
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -2820,6 +2844,10 @@ mainmatter{}
 
 \begin_layout Standard
 \begin_inset Newpage clearpage
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -3312,6 +3340,10 @@ mainmatter{}
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -3371,6 +3403,10 @@ mainmatter{}
 
 \begin_layout Standard
 \begin_inset Newpage clearpage
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -3520,6 +3556,10 @@ mainmatter{}
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -3631,6 +3671,10 @@ mainmatter{}
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -3697,6 +3741,10 @@ mainmatter{}
 
 \begin_layout Standard
 \begin_inset Newpage clearpage
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -3929,6 +3977,10 @@ pagestyle{empty}
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -3959,6 +4011,10 @@ status collapsed
 pagestyle{plain}
 \end_layout
 
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -4563,6 +4619,10 @@ pagestyle{plain}
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -4786,6 +4846,10 @@ pagestyle{plain}
 
 \begin_layout Standard
 \begin_inset Newpage clearpage
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -5023,6 +5087,10 @@ pagestyle{plain}
 
 \begin_layout Standard
 \begin_inset Newpage clearpage
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -5732,6 +5800,10 @@ pagestyle{plain}
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -5798,6 +5870,10 @@ pagestyle{plain}
 
 \begin_layout Standard
 \begin_inset Newpage clearpage
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -5907,6 +5983,20 @@ pagestyle{plain}
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+%}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Chapter
 Creative Commons
 \end_layout
@@ -6008,6 +6098,12 @@ Waiver — Any of the above conditions can be waived if you get permission
 \size small
 Other Rights — In no way are any of the following rights affected by the
  license:
+\size default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
