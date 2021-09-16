@@ -10,7 +10,6 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎠᎨᏳᏣ|||A girl.
 ᎠᎩᏍᏚᏅᎩ|||I closed it.
 ᎠᎩᏠᏒᏍᏗ|||Stairs.
-ᎠᎩᏠᏒᏍᏗᎢ|||Stairs.
 ᎠᎩᏲᏍᎬᎩ|||I was being hungry.
 ᎠᎩᏲᏏ|||I'm hungry.
 ᎠᎩᏲᏏᏌ|||I was hungry a little while ago.
@@ -28,7 +27,6 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎠᏂᏯᎠ|||They are inside.
 ᎠᏂᏴᎯᎭ|||They are entering.
 ᎠᏆᏔᏛᎩ|||I knew it.
-ᎠᏆᏚᎵ|||① I want it. ② He or she wants me.
 ᎠᏉᏞᏍᏗ|||I will be sitting.
 ᎠᏕᎳ|||Money.
 ᎠᏕᎳᏃ|||*
@@ -101,7 +99,6 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎤᏪᏙᎸᎭ|||He or she should or would be about.
 ᎤᏪᏡᏂᎶᎡ||ᎤᏪᏡᏅᎢ -ᎢᎶᎥᎢ|He or she screamed over and over.
 ᎤᏪᏡᏂᎶᎥ||ᎤᏪᏡᏅᎢ -ᎢᎶᎥᎢ|His or her screaming over and over.
-ᎤᏬᎰᏎ|||It fell.
 ᎤᏬᏞ|||① He or she sat. ② He or she was home.
 ᎤᏰᎶᎢᏍᏗ|||Suddenly.
 ᎤᏰᏤ|||He or she woke up.
@@ -158,7 +155,6 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏕᏥᎪᏩᏘ|||I see them.
 ᏗᎦᏂᏟ|||Beds.
 ᏗᎦᏍᎩᎶ|||① Chairs. ② Tables.
-ᏗᎦᏍᎩᎸᎢ|||On the chairs or tables.
 ᏗᎩᏍᏗ|||Foods.
 ᏗᎩᏍᏗᏍ|||*
 ᏗᏇᏅᏒ|||My home.
@@ -175,7 +171,6 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏚᏙᎠ|||He or she is called.
 ᏚᏯᏪᏤ|||He or she was tired.
 ᏚᏯᏪᏨᎢ|||His or her being tired.
-ᏛᏂᏒᏂᏍ|||Will they devour him, her, or it?
 Ꮭ ᏯᎩᎸᏉᏗ|||① I don't like it. ② He or she doesn't like me.
 Ꮭ ᏱᏓᎦᎵᏘᏒᏌᏂ|||I will not run away or escape again.
 Ꮭ ᏱᏚᏃᏞ|||① They weren't sitting. ② They weren't home.
