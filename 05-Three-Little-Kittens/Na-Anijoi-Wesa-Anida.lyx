@@ -170,10 +170,6 @@ pagestyle{empty}
 \begin_inset Newline newline
 \end_inset
 
-ᎠᎴ
-\begin_inset Newline newline
-\end_inset
-
 ᏥᏔᎦ ᎤᏍᏗ
 \begin_inset Newline newline
 \end_inset
@@ -192,10 +188,6 @@ height "1pt"
 \end_inset
 
 The Three Kittens
-\begin_inset Newline newline
-\end_inset
-
-and
 \begin_inset Newline newline
 \end_inset
 
@@ -251,11 +243,11 @@ You are free to copy and share this work.
 \end_layout
 
 \begin_layout Standard
-Ꮎ ᎠᏂᏦᎢ ᏪᏌ ᎠᏂᏓ ᎠᎴ ᏥᏔᎦ ᎤᏍᏗ
+Ꮎ ᎠᏂᏦᎢ ᏪᏌ ᎠᏂᏓ - ᏥᏔᎦ ᎤᏍᏗ
 \end_layout
 
 \begin_layout Standard
-The Three Kittens and Chicken Little
+The Three Kittens - Chicken Little
 \end_layout
 
 \begin_layout Standard
@@ -443,13 +435,6 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \paragraph_spacing onehalf
 
 \size largest
@@ -485,45 +470,24 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
+\paragraph_spacing onehalf
 
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage clearpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
+\size largest
+ᎣᏏᏊᏍ, ᏪᏌ ᎠᏂᏓ?
 \end_layout
 
 \begin_layout Standard
 \paragraph_spacing onehalf
 
 \size largest
-ᎣᏏᏊᏍ, ᎢᏥᏪᏌ ᎢᏥᏓ?
+ᎡᎵᏊᏍ ᏱᏂᏍᎩᏪᏎᎵ?
 \end_layout
 
 \begin_layout Standard
 \paragraph_spacing onehalf
 
 \size largest
-ᎡᎵᏊᏍ ᏱᏂᏗᏍᎩᏪᏏ?
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing onehalf
-
-\size largest
-Ꭳ, ᎥᎥ, ᎡᎵᏊ ᏱᏂᏨᏪᏏ.
+Ꭳ, ᎥᎥ, ᎡᎵᏊ ᏱᏂᏨᏪᏎᎵ.
 \end_layout
 
 \begin_layout Standard
@@ -551,7 +515,7 @@ mainmatter{}
 \begin_inset Quotes erd
 \end_inset
 
- ᎢᏨᏪᎵ.
+ ᎢᏨᏪᏎᎵ.
 \end_layout
 
 \begin_layout Standard
@@ -619,13 +583,6 @@ mainmatter{}
 
 \begin_layout Standard
 \begin_inset Newpage clearpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
 \end_inset
 
 
@@ -723,13 +680,6 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset Newpage clearpage
 \end_inset
 
@@ -744,13 +694,6 @@ mainmatter{}
 	width 90col%
 	groupId 90C
 
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
 \end_inset
 
 
@@ -806,21 +749,7 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset Newpage clearpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
 \end_inset
 
 
@@ -897,13 +826,6 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset Newpage clearpage
 \end_inset
 
@@ -918,13 +840,6 @@ mainmatter{}
 	width 90col%
 	groupId 90C
 
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
 \end_inset
 
 
@@ -946,27 +861,6 @@ mainmatter{}
 ᏁᎸᎾ ᎢᏣ\SpecialChar softhyphen
 ᏁᏟ\SpecialChar softhyphen
 ᏔᏅᎭ.
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage clearpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -1054,13 +948,6 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset Newpage clearpage
 \end_inset
 
@@ -1075,13 +962,6 @@ mainmatter{}
 	width 90col%
 	groupId 90C
 
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
 \end_inset
 
 
@@ -1158,13 +1038,6 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset Newpage clearpage
 \end_inset
 
@@ -1179,13 +1052,6 @@ mainmatter{}
 	width 90col%
 	groupId 90C
 
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
 \end_inset
 
 
@@ -1227,31 +1093,10 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage clearpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \paragraph_spacing onehalf
-Ꮧ
+
 \size largest
-ᎵᏰᏑᎶ ᏙᏛᏂᎧᏲᏔᏂ.
+ᏗᎵᏰᏑᎶ ᏙᏛᏂᎧᏲᏔᏂ.
 \end_layout
 
 \begin_layout Standard
@@ -1318,13 +1163,6 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset Newpage clearpage
 \end_inset
 
@@ -1339,13 +1177,6 @@ mainmatter{}
 	width 90col%
 	groupId 90C
 
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
 \end_inset
 
 
@@ -1391,27 +1222,6 @@ mainmatter{}
 
 \size largest
 ᏩᏘᏰᎵ ᎤᏃᏍᎩᏍᏗ ᎤᎸᏉᏗ.
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage clearpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -1513,21 +1323,7 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset Newpage clearpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
 \end_inset
 
 
@@ -1540,7 +1336,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᎣᏏᏊᏍ ᎢᏥᏪᏌ ᎢᏥᏓ?
+ᎣᏏᏊᏍ ᏪᏌ ᎠᏂᏓ?
 \begin_inset Quotes erd
 \end_inset
 
@@ -1636,27 +1432,6 @@ mainmatter{}
 
 \size largest
 ᏩᏘᏰᎵ ᎤᏰᏘᏎ.
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage clearpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -1761,13 +1536,6 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset Newpage clearpage
 \end_inset
 
@@ -1782,13 +1550,6 @@ mainmatter{}
 	width 90col%
 	groupId 90C
 
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
 \end_inset
 
 
@@ -1851,13 +1612,6 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset Newpage clearpage
 \end_inset
 
@@ -1872,13 +1626,6 @@ mainmatter{}
 	width 90col%
 	groupId 90C
 
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
 \end_inset
 
 
@@ -1903,27 +1650,6 @@ mainmatter{}
 
 \size largest
 ᏍᏕᏱᏓᎢᏍ ᎠᎾᏓᎠ?
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage clearpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -2024,13 +1750,6 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \paragraph_spacing onehalf
 
 \size largest
@@ -2105,27 +1824,6 @@ mainmatter{}
 
 \size largest
 ᏕᏣᏍᎪᎵᏰᎢᎶᏣ ᏥᎪᏩᏔ.
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage clearpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -2227,27 +1925,6 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage clearpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \paragraph_spacing onehalf
 
 \size largest
@@ -2332,13 +2009,6 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset Newpage clearpage
 \end_inset
 
@@ -2353,13 +2023,6 @@ mainmatter{}
 	width 90col%
 	groupId 90C
 
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
 \end_inset
 
 
@@ -2422,13 +2085,6 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset Newpage clearpage
 \end_inset
 
@@ -2443,13 +2099,6 @@ mainmatter{}
 	width 90col%
 	groupId 90C
 
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
 \end_inset
 
 
@@ -2492,27 +2141,6 @@ mainmatter{}
 \size largest
 ᎭᏢ ᏦᎩᏯᎸᏍᏗ?
 \begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage clearpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
 \end_inset
 
 
@@ -2630,13 +2258,6 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \paragraph_spacing onehalf
 
 \size largest
@@ -2704,27 +2325,6 @@ mainmatter{}
 
 \size largest
 ᎭᏢ? ᎭᏢ? ᎭᏢ?
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage clearpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -2805,13 +2405,6 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset Newpage clearpage
 \end_inset
 
@@ -2826,13 +2419,6 @@ mainmatter{}
 	width 90col%
 	groupId 90C
 
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
 \end_inset
 
 
@@ -2857,27 +2443,6 @@ mainmatter{}
 
 \size largest
 ᏕᏥᎸᏁᏍ ᎧᏁᏌᎢ?
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage clearpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -2962,27 +2527,6 @@ mainmatter{}
 
 \size largest
 ᏕᎦᎵᏗᎯᏍ ᏗᎵᏰᏑᎶ?
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage clearpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -3077,27 +2621,6 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage clearpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \paragraph_spacing onehalf
 
 \size largest
@@ -3176,13 +2699,6 @@ mainmatter{}
 
 \begin_layout Standard
 \begin_inset Newpage clearpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
 \end_inset
 
 
@@ -3294,13 +2810,6 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset Newpage clearpage
 \end_inset
 
@@ -3315,13 +2824,6 @@ mainmatter{}
 	width 90col%
 	groupId 90C
 
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
 \end_inset
 
 
@@ -3356,13 +2858,6 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset Newpage clearpage
 \end_inset
 
@@ -3377,13 +2872,6 @@ mainmatter{}
 	width 90col%
 	groupId 90C
 
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
 \end_inset
 
 
@@ -3460,27 +2948,6 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage clearpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \paragraph_spacing onehalf
 
 \size largest
@@ -3502,13 +2969,6 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset Newpage clearpage
 \end_inset
 
@@ -3523,13 +2983,6 @@ mainmatter{}
 	width 90col%
 	groupId 90C
 
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
 \end_inset
 
 
@@ -3613,13 +3066,6 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset Newpage clearpage
 \end_inset
 
@@ -3634,13 +3080,6 @@ mainmatter{}
 	width 90col%
 	groupId 90C
 
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
 \end_inset
 
 
@@ -3682,13 +3121,6 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset Newpage clearpage
 \end_inset
 
@@ -3703,13 +3135,6 @@ mainmatter{}
 	width 90col%
 	groupId 90C
 
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
 \end_inset
 
 
@@ -3755,27 +3180,6 @@ mainmatter{}
 
 \size largest
 ᎯᎠ ᎨᎵᏍᏘᎩ ᎣᏍᏓ.
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage clearpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -3872,13 +3276,6 @@ mainmatter{}
 ᎥᏝ, ᎥᏝ.
  ᎨᎵᏍᏘᎩ ᏂᏣᎲᎾ ᎨᏎᏍᏗ.
 \begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
 \end_inset
 
 
@@ -4011,13 +3408,6 @@ pagestyle{plain}
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \paragraph_spacing onehalf
 
 \size largest
@@ -4050,27 +3440,6 @@ pagestyle{plain}
 
 \size largest
 ᎠᏍᎪᎵ ᎦᏚ ᎤᏬᎰᏎ.
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage clearpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -4221,21 +3590,7 @@ pagestyle{plain}
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset Newpage clearpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
 \end_inset
 
 
@@ -4368,21 +3723,7 @@ pagestyle{plain}
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset Newpage clearpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
 \end_inset
 
 
@@ -4494,27 +3835,6 @@ pagestyle{plain}
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage clearpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \paragraph_spacing onehalf
 
 \size largest
@@ -4585,13 +3905,6 @@ pagestyle{plain}
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset Newpage clearpage
 \end_inset
 
@@ -4606,13 +3919,6 @@ pagestyle{plain}
 	width 90col%
 	groupId 90C
 
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
 \end_inset
 
 
@@ -4668,27 +3974,6 @@ pagestyle{plain}
 
 \size largest
 ᎦᏙ, ᎦᏙ, ᎦᏙ!
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage clearpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -4811,13 +4096,6 @@ pagestyle{plain}
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset Newpage clearpage
 \end_inset
 
@@ -4832,13 +4110,6 @@ pagestyle{plain}
 	width 90col%
 	groupId 90C
 
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
 \end_inset
 
 
@@ -4891,27 +4162,6 @@ pagestyle{plain}
 \end_inset
 
  ᏄᏪᏎ ᏨᏨᏯ ᎠᏨᏯ.
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage clearpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -5048,7 +4298,14 @@ pagestyle{plain}
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space ~
 \end_inset
 
 
@@ -5056,6 +4313,29 @@ pagestyle{plain}
 
 \begin_layout Standard
 \begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
 \end_inset
 
 
@@ -5075,6 +4355,13 @@ pagestyle{plain}
 \end_layout
 
 \begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset Newpage clearpage
 \end_inset
 
@@ -5082,7 +4369,16 @@ pagestyle{plain}
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{plain}
+\end_layout
+
 \end_inset
 
 
@@ -5173,27 +4469,6 @@ pagestyle{plain}
 
 \size largest
 ᎤᎬᏫᏳᎯ ᎣᏥᏃᎮᏞᎴᎦ.
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage clearpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -5341,21 +4616,7 @@ pagestyle{plain}
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset Newpage clearpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
 \end_inset
 
 
@@ -5429,27 +4690,6 @@ pagestyle{plain}
 \end_inset
 
  ᏄᏪᏎ ᎬᏌ ᎬᎾ.
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage clearpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -5593,21 +4833,7 @@ pagestyle{plain}
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset Newpage clearpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
 \end_inset
 
 
@@ -5754,13 +4980,6 @@ pagestyle{plain}
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset Newpage clearpage
 \end_inset
 
@@ -5775,13 +4994,6 @@ pagestyle{plain}
 	width 90col%
 	groupId 90C
 
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
 \end_inset
 
 
@@ -5823,13 +5035,6 @@ pagestyle{plain}
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset Newpage clearpage
 \end_inset
 
@@ -5844,13 +5049,6 @@ pagestyle{plain}
 	width 90col%
 	groupId 90C
 
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
 \end_inset
 
 
@@ -5924,13 +5122,6 @@ pagestyle{plain}
 
 \size largest
 ᎠᎴ ᎤᏲᎢ ᏧᏟ ᎤᏰᏘᏏᎶᎡ.
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
