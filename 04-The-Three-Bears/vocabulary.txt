@@ -1,206 +1,219 @@
 # Na-Anijoi-Yona.lyx
 # ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳ ㉑ ㉒ ㉓ ㉔ ㉕ ㉖ ㉗ ㉘ ㉙ ㉚ ㉛ ㉜ ㉝ ㉞ ㉟ ㊱ ㊲ ㊳ ㊴ ㊵ ㊶ ㊷ ㊸ ㊹ ㊺ ㊻ ㊼ ㊽ ㊾ ㊿
 Syllabary|Pronounce|Breakdown|Definition
-ᎤᏩᏂᎴ|||
-ᎦᎶᎯᏍᏗᎢ|||
-ᏚᏩᏂᎴ|||
-ᏚᏩᏂᎸᎢ|||
-ᎤᏁᏟᏔᏁ|||
-ᏯᎩᏍᏚᏁ|||
-ᏱᏚᏃᏞ|||
-ᎠᏁᏙᎮ|||
-ᏳᏬᏞ|||
-ᎦᏍᎩᎶ|||
-ᏗᎦᏍᎩᎶ|||
-ᎤᏔᎾ|||
-ᎦᏲᏟᎨ|||
-ᎤᏔᎦ|||
-ᎤᏍᏗᎧ|||
-ᎤᏔᎾᏍ|||
-ᎦᏲᏟᎨᏍ|||
-ᎤᏍᏗᎧᏍ|||
-ᏭᏍᏗᎬ|||
-ᏗᎦᏍᎩᎸᎢ|||
-ᏚᏃᏠ|||
-ᎤᏃᏠ|||
-ᎠᏉᏞᏍᏗ|||
-ᎤᏉᏞ|||
-ᏍᏓᏯᏒ|||
-ᏩᏂᎨᏒ|||
-ᎤᏬᏞ|||
-ᎤᏲᏨᎢ|||
-ᏯᎩᎸᏉᏗ|||
-ᎤᏲᏏᏍᎨ|||
-ᎠᎩᏲᏏ|||
-ᎠᏆᏚᎵ|||
-ᏗᎩᏍᏗᏍ|||
-ᏗᎩᏍᏗ|||
-ᏚᏂᎰ|||
-ᏕᏥᏩᏔ|||
-ᏙᏛᎩᏲᎯ|||
-ᏙᏓᏥᏩᏛᎯ|||
-ᏧᏂᎩᏍᏗ|||
-ᏧᎾᏤᎵ|||
-ᎤᏂᏤᎵ|||
-ᏧᏂᏤᎵ|||
-ᏗᏟᏍᏙᏗ|||
-ᎠᏟᏍᏙᏗ|||
-ᏐᎢ|||
-ᏗᏟᏍᏙᏗᎯ|||
-ᎤᏅᏗ|||
-ᎠᏟᏍᏙᏗᎢ|||
-ᏫᎦᏲᏢᎢ|||
-ᏓᎦᏗᏔᎯ|||
-ᎤᏗᏔᎮ|||
-ᎤᏗᏞᎦ|||
-ᎤᏴᏜ|||
-ᏯᎩᎸᏉᏙ|||
-ᎤᏗᏔᎯᏌᏁ|||
-ᎠᎩᏲᏏᏌ|||
-ᏚᏯᏪᏤ|||
-ᎤᏪᏓᏍᏗ|||
-ᎦᏢᏅᏗᎢ|||
-ᏗᎦᏂᏟ|||
-ᎦᏂᏟ|||
-ᎦᏲᏟᎬᎢ|||
-ᎦᏅᎨ|||
-ᎠᎩᎸᏉᏙ|||
-ᏚᏯᏪᏨᎢ|||
-ᎤᏢᏁ|||
-ᏥᏚᏯᏪᏤ|||
-ᎦᏟᎮ|||
-ᏥᎦᏟᎮ|||
-ᎤᏂᎷᏤ|||
-ᎤᏂᏴᏞ|||
-ᏱᎨᏣᏩᏔ|||
-ᎯᏰᎩ|||
-ᎠᏂᏴᎭ|||
-ᎦᎯᏯᏛᎩᏍ|||
-Ꮟ|||
-ᎠᏁᏓ|||
-ᏱᏓᏯᏛᎬᎦ|||
-ᎠᏁᎾ|||
-ᎤᎵᏍᏚᎢᏓ|||
-ᎯᏍᏚᎲᎦᏍ|||
-ᏩᏂᎨ|||
-ᏥᏍᏚᎲᎦ|||
-ᎢᎩᏴᏍᏗ|||
-ᎠᏴᎭ|||
-ᎡᏝᏪ|||
-ᎧᏅᏑᎸᎢ|||
-ᎤᏂᎦᏖᏃᎴ|||
-ᎤᏂᎪᎮ|||
-ᎤᏬᏢ|||
-ᎤᏲᏍᏔᏅ|||
-ᎦᏃᏍᎩᏍᎩ|||
-ᏫᏗᏩᏛᎱᎦ|||
-ᏓᏗᎪᎯ|||
-ᎤᎾᏗᏔᏍᏗ|||
-ᎤᎾᎴᏅᎮ|||
-ᎦᏲᏟ|||
-ᎠᏗᏔ|||
-ᏩᏁᎦ|||
-ᎤᎩᏎᎦ|||
-ᎯᏃᏍᎩᏍᎩ|||
-ᏱᎨᏣᎦ|||
-ᎭᏛᏓᏍᏓ|||
-ᎦᎯᏯᏛᎩ|||
-ᎦᎯᏯᏛᎩᏧ|||
-ᎨᏣᎩᏎᎦ|||
-ᎠᎩᏠᏒᏍᏗ|||
-ᎤᏂᎿᎸᏤ|||
-ᎤᏂᎿᎸᏨᎢ|||
-ᏱᏥᏩᏔ|||
-ᎤᏍᏘᎬ|||
-ᎧᏅᏑᎸ|||
-ᎤᏰᎶᎢᏍᏗ|||
-ᎤᏰᏤ|||
-ᎢᎦᏪᏍᏗ|||
-ᎤᏛᎦᏁ|||
-ᏯᎾᎵᏍᏓᏴᎦ|||
-ᎤᏂᎿᎸᎦ|||
-ᏂᎦᏪ|||
-ᎤᏰᏤᏍ|||
-ᏚᎵᏔᏗᏅᏎ|||
-ᏔᏟᏔᏚᎦ|||
-ᏦᎳᏂ|||
-ᎯᎦᏛᎴᎯ|||
-ᎤᏂᎾᎸᎭ|||
-ᎤᏂᎾᎸᏒᎢ|||
-ᏗᎨᏡᎲᏍᏗ|||
-ᏚᎵᏔᏅᏎ|||
-ᎤᎾᎦᏙᏍᏔᏁ|||
-ᏧᏟᏎ|||
-ᎤᏍᏗᏊ|||
-ᎢᎸᎯᏳ|||
-ᎦᎵᏘᏍᎨᏍᏗ|||
-ᎢᏳᏩᎦᏘ|||
-ᎠᏁᎮ|||
-ᎤᏁᏙᎴ|||
-ᎢᏍᏘᎬᎢ|||
-ᏧᏛᏁ|||
-ᎠᏕᎳᏃ|||
-ᎠᏲᎨ|||
-ᎤᏬᎰᏎ|||
-ᏚᎦᏙᏍᏔᏁ|||
-ᎦᏲᏟᏊ|||
-ᎠᏗᏔᏍᎨ|||
-ᎠᎩᏲᏍᎬ|||
-ᏓᎩᏯᏪᎦ|||
-ᎦᏂᏟᎯᎢ|||
-ᎪᎯᏓ|||
-ᏱᏚᏛᎦᏁ|||
-ᎠᏂᎷᎩ|||
-ᏱᎨᏣᎵᏍᏓᏴᎲᎦ|||
-ᎤᏁᎫᏥᏓ|||
-ᏚᎾᎦᏙᏍᏔᏁ|||
-ᎤᏗᏔᎲ|||
-ᎤᏒᏅ|||
-ᎤᏂᎾᎸᏤ|||
-ᏱᏗᏩᏔ|||
-ᎢᏕᎾ|||
-ᎠᎩᏠᏒᏍᏗᎢ|||
+ᎡᏙ|||
 ᎠᎾᏟᎯᎢ|||
 ᎦᏅᎬ|||
 ᎠᏰᎶᎢᏍᏗ|||
 ᎤᏁᎫᏥᎠ|||
+ᎢᎦᏪᏍᏗ|||
 ᏧᏛᎦᏁ|||
 ᏚᎵᏔᏗᏅᏒᎢ|||
 ᏧᎦᏛᎴᏎ|||
 ᎤᎾᎦᏔᏁ|||
 ᏱᎦᎵᏘᏍᎨᏍᏗ|||
+-ᎡᎭ|-e:ha||Is doing for someone. Is doing towards someone.
+-Ꭲ|||*
+-ᎢᎶᎥᎢ|-ǐ:lóv̌:ɂi||Did it over and over.
+-ᎥᎭ|-v:ha||Should do it. Would do it.
+-ᏍᎪ|||*
 -Ꮸ|-jv̋||Very.
 ᎠᎨᏳᏣ|||A girl.
+ᎠᎩᏍᏚᏅᎩ|||I closed it.
+ᎠᎩᏠᏒᏍᏗ|||Stairs.
+ᎠᎩᏠᏒᏍᏗᎢ|||Stairs.
+ᎠᎩᏲᏍᎬᎩ|||I was being hungry.
+ᎠᎩᏲᏏ|||I'm hungry.
+ᎠᎩᏲᏏᏌ|||I was hungry a little while ago.
 ᎠᏁᎭ|||They live.
+ᎠᏁᎮ|||They resided.
 ᎠᏁᎰ|||They reside. They live.
 ᎠᏁᏙᎭ|||They are walking about.
+ᎠᏁᏙᎮ|||They were walking about.
+ᎠᏂᎷᎦ|||They are arriving.
+ᎠᏂᎷᏤᎭ||ᎠᏂ- ᎤᎷᏨᎢ -ᎡᎭ|They are arriving for him, her, or it.
+ᎠᏂᏍᏚᎢᎠ|||They are opening it.
+ᎠᏂᏒᏅᎭᏍ||ᎠᏂ- ᎤᏒᏅᎢ -ᎥᎭ -ᏍᎪ|Should or would they devour him, her, or it?
 ᎠᏂᏔᎵ|||Two.
+ᎠᏂᏟᎯᏱ|||Place where they sleep.
+ᎠᏂᏯᎠ|||They are inside.
+ᎠᏂᏴᎯᎭ|||They are entering.
+ᎠᏆᏔᏛᎩ|||I knew it.
+ᎠᏆᏚᎵ|||① I want it. ② He or she wants me.
+ᎠᏉᏞᏍᏗ|||I will be sitting.
 ᎠᏕᎳ|||Money.
+ᎠᏕᎳᏃ|||*
+ᎠᏗᏔᏍᎨ|||He or she was drinking it.
+ᎠᏟᏍᏙᏗ|||A container for a liquid.
+ᎠᏥᏞ||ᎠᏥ- ᎤᏢᎢ|It was poured.
+ᎠᏨᏯ|||Male.
+ᎠᏯ|||He or she is inside.
+ᎠᏯᎥᎢ|||His or her being inside.
 ᎠᏰᏟ|||① Center. Middle. ② Half of. ③ A half dollar.
+ᎠᏲᎨ|||It was breaking.
 ᎡᎭ|||He or she lives.
+ᎡᎵᏊ ᏱᎨᏣᏩᏔ|||It's possible they might find you.
+ᎡᎵᏊ ᏱᏕᏥᏩᏔ|||I may find them.
+ᎡᏗᏩᏛᎲᎭ|||All of us should or would find him or her.
+ᎡᏝᏪ|||Quiet.
+ᎢᎪᎯᏓ|ǐ:gó:hi̋:da||① Until. ② A length of time.
+ᎢᎸᎯᏳ|||Ever.
 ᎢᎾᎨ|||A forest. Wilderness.
 ᎢᎾᎨᎢ|||A forest. Wilderness.
+ᎢᏕᎾ|||Let us all go.
+ᎣᎦᏤᎵ|||Our.
 ᎤᎴᎾᏞ|||He or she lost their way.
 ᎤᎴᎾᏢᎢ|||His or her being lost.
+ᎤᎴᏅᎮ|||It started. It began.
+ᎤᎵᏍᏚᎢᏓ|||Open.
+ᎤᎾᎦᏙᏍᏔᏁ|||They looked at him, her, or it.
+ᎤᎾᎴᏅᎮ|||They started. They began.
+ᎤᎾᏓᎾᏩᏍᏔᏁ|||They took of running.
+ᎤᎾᏗᏔᏍᏗ|||For them to drink.
 ᎤᎾᏤᎵ|||Their.
+ᎤᎿᎸᏒ|||His or her being angry.
 ᎤᏁᎦ|||White.
 ᎤᏁᏓᏍᏗ|||For them to walk about.
+ᎤᏁᏙᎴ|||They were walking about.
+ᎤᏁᏟᏔᏁ|||He or she tried.
+ᎤᏁᏥ|||Their offspring.
+ᎤᏂᎦᏖᏃᎴ|||They looked around.
+ᎤᏂᎪᎮ|||They saw him, her, or it.
+ᎤᏂᎷᏤ|||They arrived.
+ᎤᏂᎷᏨᎢ|||Their arrival.
 ᎤᏂᎸᏉᏗ|||They like it.
+ᎤᏂᎿᎸᎭ|||They are angry.
+ᎤᏂᎿᎸᏎ|||They were angry.
+ᎤᏂᎿᎸᏒ|||Their being angry.
+ᎤᏂᏍᏚᎢᏒ|||Their opening it.
+ᎤᏂᏪᏅᏒ|||Their going.
+ᎤᏂᏴᏞ|||They entered.
+ᎤᏂᏴᏢ|||Their entering.
+ᎤᏃᏠ|||He or she sits.
+ᎤᏅᏗ|||Milk.
+ᎤᏍᏗᎧ|||Smaller.
+ᎤᏍᏗᎧᏍ|||*
+ᎤᏍᏗᏊ|||Just a little.
+ᎤᏍᏘᎬ|||*
 ᎤᏍᏘᎬᎢ|||His or her head of hair.
+ᎤᏍᏚᎢᏍᏗ|||For him or her to open it.
+ᎤᏔᎾ|||Big. Large.
+ᎤᏔᎾᏍ|||*
+ᎤᏗᏔᎮ|||He or she drank.
+ᎤᏗᏔᎯᏌᏁ|||He or she drank.
+ᎤᏗᏔᎯᏌᏅ|||His or her drinking.
+ᎤᏗᏞᎦ|||Hot.
+ᎤᏛᎦᏁ|||He or she heard him, her, or it.
+ᎤᏢᏁ|||He or she fell asleep.
+ᎤᏩᏂᎴ|||① He or she hit him, her, or it. ② He or she knocked.
+ᎤᏪᏙᎸ|||His or her walking.
+ᎤᏪᏙᎸᎭ|||He or she should or would be about.
+ᎤᏪᏡᏂᎶᎡ||ᎤᏪᏡᏅᎢ -ᎢᎶᎥᎢ|He or she screamed over and over.
+ᎤᏪᏡᏂᎶᎥ||ᎤᏪᏡᏅᎢ -ᎢᎶᎥᎢ|His or her screaming over and over.
+ᎤᏬᎰᏎ|||It fell.
+ᎤᏬᏞ|||① He or she sat. ② He or she was home.
+ᎤᏰᎶᎢᏍᏗ|||Suddenly.
+ᎤᏰᏤ|||He or she woke up.
+ᎤᏰᏤᏍ|||*
+ᎤᏲᏍᏔᏅᎩ|||He or she broke it.
+ᎤᏲᏍᏗ|||For it to break.
+ᎤᏲᏏᏍᎨ|||He or she was becoming hungry.
+ᎤᏲᏏᏐᏗ|||For him or her to be hungry.
 ᎤᏲᏨ||ᎤᏲᎢ -Ꮸ|Poor. Very bad.
+ᎤᏲᏨᎢ|||His, her, or its breaking.
+ᎤᏴᏜ|||Cold.
+ᎤᏴᏢᎢ|||His or her entering.
+ᎦᎯᏯᏛᎩ|||You hear them.
+ᎦᎯᏯᏛᎩᏍ|||Do you hear them?
+ᎦᎯᏯᏛᎩᏧ|||*
+ᎦᎶᎯᏍᏗ|||A door. A doorway.
+ᎦᎶᎯᏍᏗᎢ|||A door.
+ᎦᏂᏟ|||A bed.
+ᎦᏃᏍᎩᏍᎩ|||A thief.
+ᎦᏅᎨ|||He or she was laying down.
+ᎦᏍᎩᎶ|||① A chair. ② A table.
+ᎦᏍᎩᎸ|||On the table. On the chair.
+ᎦᏟᎮ|||He or she slept.
 ᎦᏥᎪᏩᏘ|||I see them.
+ᎦᏲᏟ|gà:yő:hli||A small amount.
+ᎦᏲᏟᏊ|||Just a small amount.
+ᎧᏅᏑᎸ|||*
+ᎧᏅᏑᎸᎢ|||A room.
+ᎨᏣᎷᏤᎭ||ᎨᏣ- ᎤᎷᏨᎢ -ᎡᎭ|They are arriving for you.
+ᎪᎯᏓ|go:hi̋:da||A long time.
 ᎬᏩᏁᏓᏍᏗ|||They can walk about.
 ᎬᏩᏁᏓᏍᏗᏍ|||Can they walk about?
 ᎬᏩᏂᎪᏩᏛᏗ|||They can see.
+ᎭᏛᎩᏍ|||Don't you hear it?
+ᎭᏛᏓᏍᏓ|||Listen.
+ᎮᎾ|||Go.
+ᎯᏃᏍᎩᏍᎩ|||You are a thief.
+ᎯᏰᎩ|||Wake up.
+ᏄᏪᏒᎢ|||His or her utterance.
+ᏍᏓᏯᏒ|||Extra hard.
+Ꮟ|||Wait. Yet. Still.
+ᏐᎢ|||Another.
+ᏓᎦᏗᏔᎯ|||I will drink it.
+ᏓᎨᏣᏒᏂ|||They will devour you.
+ᏓᎩᏏ|||① Terrapin turtle. ② A padlock. ③ A door knob.
+ᏓᎩᏯᏪᎦ|||I am tired.
 ᏓᏂᎴᎪ|||They climb them.
+ᏓᏇᏅᏒ|||My home.
+ᏓᏉᏢᎭ|||I should or would sit.
+ᏓᏗᎪᎯ|||All of us will see.
+ᏓᏰᏗᏩᏛᎯ|||All of us will find him or her.
 ᏔᎵ|||Two.
+ᏔᏟᏔᏚᎦ|táhltadù:ga||Jump.
 ᏕᏥᎪᏩᏘ|||I see them.
+ᏗᎦᏂᏟ|||Beds.
+ᏗᎦᏍᎩᎶ|||① Chairs. ② Tables.
+ᏗᎦᏍᎩᎸᎢ|||On the chairs or tables.
+ᏗᎩᏍᏗ|||Foods.
+ᏗᎩᏍᏗᏍ|||*
+ᏗᏟᏍᏙᏗ|||Containers for liquids.
 ᏗᏤᏅᏒ|||Your home.
+ᏙᏓᏥᏩᏛᎯ|||I will find them.
+ᏙᏛᎩᏯᎵ|||I will look for them.
+ᏚᎦᏙᏍᏔᏁ|||He or she looked at them.
+ᏚᎵᏔᏗᏅᏎ|||He or she jumped.
+ᏚᎾᎦᏙᏍᏔᏁ|||They looked at them.
+ᏚᏂᎮᏍᏛᎭ|||They should or would have them.
 ᏚᏂᎸᏉᏗ|||They like them.
+ᏚᏃᏠ|||They sit.
 ᏚᏙᎠ|||He or she is called.
+ᏚᏯᏪᏤ|||He or she was tired.
+ᏚᏯᏪᏨᎢ|||His or her being tired.
+ᏛᏂᏒᏂᏍ|||Will they devour him, her, or it?
+Ꮭ ᏯᎩᎸᏉᏗ|||① I don't like it. ② He or she doesn't like me.
+Ꮭ ᏱᏓᎦᎵᏘᏒᏌᏂ|||I will not run away or escape again.
+Ꮭ ᏱᏚᏃᏞ|||① They weren't sitting. ② They weren't home.
+Ꮭ ᏱᏚᏛᎦᏁ|||He or she didn't hear them.
+Ꮭ ᏳᏛᎦᏁ|||He or she did not hear it.
+Ꮭ ᏳᏬᏞ|||① He wasn't sitting. ② He wasn't home.
 ᏣᎴᎾᏞ|||You lost your way.
 ᏣᎵᏘᏎ|||You ran away.
+ᏣᏍᏚᏁᏧ|||Didn't you close it?
 ᏥᎪᏩᏘ|||I see him, her, or it.
+ᏥᏩᏛᎲᎭ|||I should or would find it.
+ᏦᎳᏂ|||A window.
+ᏧᎾᏤᎵ|||Their things.
 ᏧᏪᏅᏒ|||His or her home.
+ᏩᏂᎨ|||Soft.
+ᏩᏂᎨᏒ|||Extra soft.
+ᏫᎦᏲᏢᎢ|||Most small quantity.
+ᏫᏍᏓᏴ|||Most hard.
+ᏭᏍᏗᎬ|||Smallest.
+ᏭᏍᏗᎬᎢ|||*
+ᏭᏍᏗᎬᏍ|||*
+ᏭᏗᏞᎬ|||Most hot.
+ᏭᏴᏢ|||Coldest.
+ᏯᎩᎸᏉᏗ|||*
+ᏱᎨᏣᏩᏔ|||*
+ᏱᏓᎦᎵᏘᏒᏌᏂ|||*
+ᏱᏕᏥᏩᏔ|||*
+ᏱᏚᏃᏞ|||*
+ᏱᏚᏛᎦᏁ|||*
 ᏲᎾ|||A bear. Bears.
 ᏲᎾᏍ|||*
+ᏳᏛᎦᏁ|||*
+ᏳᏬᏞ|||*
