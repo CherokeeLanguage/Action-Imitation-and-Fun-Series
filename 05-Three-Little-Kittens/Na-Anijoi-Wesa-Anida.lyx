@@ -4,7 +4,7 @@
 \begin_header
 \save_transient_properties true
 \origin unavailable
-\textclass extbook
+\textclass book
 \begin_preamble
 \usepackage{multicol}%
 \usepackage{wallpaper}%
@@ -350,13 +350,6 @@ height "1pt"
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
-\align center
-
-\size giant
-ᏥᏔᎦ ᎤᏍᏗ
 \end_layout
 
 \begin_layout Standard
@@ -3917,8 +3910,34 @@ pagestyle{empty}
 \end_layout
 
 \begin_layout Standard
-​
-\begin_inset space ~
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size giant
+ᏥᏔᎦ ᎤᏍᏗ
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
 \end_inset
 
 
@@ -3932,6 +3951,13 @@ pagestyle{empty}
 \end_layout
 
 \begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \align center
 \begin_inset Graphics
 	filename jpgs-a/021.jpg
@@ -3939,6 +3965,13 @@ pagestyle{empty}
 	width 90text%
 	groupId fullpage
 
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
 \end_inset
 
 
@@ -5901,7 +5934,17 @@ pagestyle{plain}
 \end_layout
 
 \begin_layout Standard
-\begin_inset Newpage clearpage
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand include
+filename "vocabulary.lyx"
+
 \end_inset
 
 
