@@ -331,13 +331,6 @@ height "1pt"
 \end_layout
 
 \begin_layout Standard
-\align center
-
-\size giant
-Ꮎ ᎦᎵᏉᎩ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ
-\end_layout
-
-\begin_layout Standard
 \begin_inset VSpace vfill*
 \end_inset
 
@@ -421,7 +414,7 @@ mainmatter{}
 \begin_layout Standard
 \align center
 
-\size huge
+\size largest
 \begin_inset Graphics
 	filename jpgs-b/005.jpg
 	lyxscale 10
@@ -435,19 +428,19 @@ mainmatter{}
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎠᏧᏣᏍ ᎠᎨᏳᏣᎨ ᎯᎠ ᎠᏲᏟ?
 \end_layout
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎯᎠ ᎠᏲᏟ ᎠᎨᏳᏣ.
 \end_layout
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎯᎪᏩᏔ ᎯᎠ ᎤᏍᏗ ᎠᎨᏳᏣ.
 \begin_inset Note Note
 status collapsed
@@ -465,7 +458,7 @@ See this little girl.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᏤᎵ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎯᎪᏩᏔ.
 \begin_inset Note Note
 status collapsed
@@ -483,7 +476,7 @@ See her red hood.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎠᎵᏍᏚᎶ ᎤᏤᎵ.
 \begin_inset Note Note
 status collapsed
@@ -501,7 +494,7 @@ It is her hood.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎠᎵᏍᏚᎶ ᎩᎦᎨ.
 \begin_inset Note Note
 status collapsed
@@ -519,7 +512,7 @@ It is a red hood.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᏚᏙᎠ Ꮎ ᎠᎨᏳᏣ.
 \begin_inset Note Note
 status collapsed
@@ -537,7 +530,7 @@ She is Little Red Riding Hood.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎩᎦᎨᏍ ᎠᎵᏍᏚᎶ?
 \begin_inset Note Note
 status collapsed
@@ -555,7 +548,7 @@ Is the hood red?
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎦᎪ ᎤᏤᎵ Ꮎ ᎠᎵᏍᏚᎶ?
 \begin_inset Note Note
 status collapsed
@@ -573,7 +566,7 @@ Whose hood is this?
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -602,7 +595,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎦᎪ ᎤᏤᎵ Ꮎ ᎠᎵᏍᏚᎶ?
 \begin_inset Note Note
 status collapsed
@@ -620,7 +613,7 @@ Whose hood is it?
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᏣᏤᎵᏍᎪ ᎠᎵᏍᏚᎶ, ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ?
 \begin_inset Note Note
 status collapsed
@@ -638,7 +631,7 @@ Is it your hood, Little Red Riding Hood?
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -675,7 +668,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Newpage cleardoublepage
 \end_inset
 
@@ -685,7 +678,7 @@ status collapsed
 \begin_layout Standard
 \align center
 
-\size huge
+\size largest
 \begin_inset Graphics
 	filename jpgs-b/006.jpg
 	lyxscale 10
@@ -699,13 +692,13 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎦᎪ ᎯᎠ? ᎤᎵᏏᏧ ᎤᏥᎨ?
 \end_layout
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᎵᏏ ᎠᎨᏳᏣ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
 \begin_inset Note Note
 status collapsed
@@ -729,7 +722,7 @@ grandmother.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎤᎨᏳᏐ ᎤᎵᏏ.
 \begin_inset Note Note
 status collapsed
@@ -747,7 +740,7 @@ She loves Little Red Riding Hood.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᎵᏏ ᎤᎨᏳᏐ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
 \begin_inset Note Note
 status collapsed
@@ -765,7 +758,7 @@ Little Red Riding Hood loves her.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᎵᏏ ᎠᎵᏍᏚᎶ ᎤᏬᏢᏁ.
 \begin_inset Note Note
 status collapsed
@@ -783,7 +776,7 @@ The grandmother made the hood.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Newpage cleardoublepage
 \end_inset
 
@@ -793,7 +786,7 @@ The grandmother made the hood.
 \begin_layout Standard
 \align center
 
-\size huge
+\size largest
 \begin_inset Graphics
 	filename jpgs-b/007.jpg
 	lyxscale 10
@@ -807,13 +800,13 @@ The grandmother made the hood.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎦᎪ ᎯᎠ? ᎤᏥᏧ ᎤᎵᏏᎨ?
 \end_layout
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᏥ ᎠᎨᏳᏣ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
 \begin_inset Note Note
 status collapsed
@@ -837,7 +830,7 @@ mother.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -868,7 +861,7 @@ Hood," she said.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -893,7 +886,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -920,7 +913,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -945,7 +938,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -970,7 +963,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -997,7 +990,7 @@ Here are some cakes, Little Red Riding Hood.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -1022,7 +1015,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -1042,7 +1035,7 @@ status collapsed
 
 
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1068,7 +1061,7 @@ status open
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎭᏢ ᎤᎵᏏ ᎦᏁᎳ?
 \begin_inset Note Note
 status collapsed
@@ -1110,7 +1103,7 @@ She lives near the forest.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᏛᏍᎦᎵᏍ Ꮎ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ?
 \begin_inset Note Note
 status collapsed
@@ -1152,7 +1145,7 @@ She is glad to go.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -1177,7 +1170,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -1202,7 +1195,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -1231,7 +1224,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎤᎵᏏ ᎦᎵᏦᏕ ᎡᎦ.
 \begin_inset Note Note
 status collapsed
@@ -1249,7 +1242,7 @@ Little Red Riding Hood is going to her grandmother's.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᎵᏏ ᎢᎾ ᏫᎦᏁᎳ.
 \begin_inset Note Note
 status collapsed
@@ -1291,7 +1284,7 @@ Grandmother lives on the other edge.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᏓᏅᎯᏓ ᎠᎢᏒᎢ.
 \begin_inset Note Note
 status collapsed
@@ -1309,7 +1302,7 @@ It is a long walk.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎠᏎᏃ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᏄᏍᎦᎸᎾ.
 \begin_inset Note Note
 status collapsed
@@ -1327,7 +1320,7 @@ But Little Red Riding Hood is not afraid.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -1352,7 +1345,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -1404,7 +1397,7 @@ I like to walk in it.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Newpage cleardoublepage
 \end_inset
 
@@ -1414,7 +1407,7 @@ I like to walk in it.
 \begin_layout Standard
 \align center
 
-\size huge
+\size largest
 \begin_inset Graphics
 	filename jpgs-b/008.jpg
 	lyxscale 10
@@ -1428,7 +1421,7 @@ I like to walk in it.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎯᎪᏩᏔ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
 \begin_inset Note Note
 status collapsed
@@ -1446,7 +1439,7 @@ See Little Red Riding Hood.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎢᎾᎨ ᏪᏙᎭ.
 \begin_inset Note Note
 status collapsed
@@ -1464,7 +1457,7 @@ She is in the forest now.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎢᎾᎨ ᎤᎯᏐᏗ.
 \begin_inset Note Note
 status collapsed
@@ -1482,7 +1475,7 @@ The forest is lonely.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᏄᏍᎦᎸᎾ.
 \begin_inset Note Note
 status collapsed
@@ -1500,7 +1493,7 @@ Little Red Riding Hood is not afraid.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᎵᏏ ᎠᎪᎮᎨᏍᏗ.
 \begin_inset Note Note
 status collapsed
@@ -1518,7 +1511,7 @@ She is going to see her grandmother.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᏥ ᏫᎦᎧᎲᎦ.
 \begin_inset Note Note
 status collapsed
@@ -1536,7 +1529,7 @@ Her mother has sent her.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᏔᎷᏣ ᎤᎭ.
 \begin_inset Note Note
 status collapsed
@@ -1554,7 +1547,7 @@ She has a basket.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎦᏙ ᏧᏍᏗ ᎤᎾᏣᎠ Ꮎ ᏔᎷᏣ?
 \begin_inset Note Note
 status collapsed
@@ -1572,7 +1565,7 @@ What is in the basket?
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎦᏚ ᎤᏂᎦᎾᏍᏓ ᎤᎾᏣᎠ Ꮎ ᏔᎷᏣ.
 \begin_inset Note Note
 status collapsed
@@ -1590,7 +1583,7 @@ There are cakes in the basket.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎪᏢᏅᏍᏊ ᎤᏣᎠ.
 \begin_inset Note Note
 status collapsed
@@ -1608,7 +1601,7 @@ There is butter in it, too.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᎵᏏ ᎤᏂᎦᎾᏍᏓ ᏚᎸᏉᏗ.
 \begin_inset Note Note
 status collapsed
@@ -1626,7 +1619,7 @@ Grandmother likes cakes.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎪᏢᏅ ᎤᎸᏉᏗ ᏍᏊ.
 \begin_inset Note Note
 status collapsed
@@ -1644,7 +1637,7 @@ She likes butter, too.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᏄᏍᎦᎸᎾ.
 \begin_inset Note Note
 status collapsed
@@ -1662,7 +1655,7 @@ Little Red Riding Hood is not afraid.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 Ꭳ, ᎥᏝ, ᏄᏍᎦᎸᎾ.
 \begin_inset Note Note
 status collapsed
@@ -1680,7 +1673,7 @@ O no, she is not afraid.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᎵᏏ ᏛᎵᎮᎵᏥ.
 \begin_inset Note Note
 status collapsed
@@ -1698,7 +1691,7 @@ Grandmother will be glad.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᏛᎵᎮᎵᏥ ᎥᏍᏊ.
 \begin_inset Note Note
 status collapsed
@@ -1716,7 +1709,7 @@ Little Red Riding Hood will be glad, too.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Newpage cleardoublepage
 \end_inset
 
@@ -1726,7 +1719,7 @@ Little Red Riding Hood will be glad, too.
 \begin_layout Standard
 \align center
 
-\size huge
+\size largest
 \begin_inset Graphics
 	filename jpgs-b/009.jpg
 	lyxscale 10
@@ -1740,7 +1733,7 @@ Little Red Riding Hood will be glad, too.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎠᎴ ᎡᏆ ᏩᏯ ᎠᎩᏏ ᏚᎾᏠᏎ.
 \begin_inset Note Note
 status collapsed
@@ -1758,7 +1751,7 @@ Little Red Riding Hood met a wolf.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎢᎾᎨᎢ ᏚᎾᏠᏎ.
 \begin_inset Note Note
 status collapsed
@@ -1776,7 +1769,7 @@ She met him in the forest.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 Ꮎ ᎤᏲ, ᎤᏲ ᏩᏯ ᎨᏎ.
 \begin_inset Note Note
 status collapsed
@@ -1794,7 +1787,7 @@ He was a bad, bad wolf.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -1819,7 +1812,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -1846,7 +1839,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -1871,7 +1864,7 @@ What have you in the basket?" said the wolf.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -1898,7 +1891,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -1923,7 +1916,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -1948,7 +1941,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -1973,7 +1966,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -1998,7 +1991,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -2023,7 +2016,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -2048,7 +2041,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -2085,7 +2078,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Newpage cleardoublepage
 \end_inset
 
@@ -2095,7 +2088,7 @@ status collapsed
 \begin_layout Standard
 \align center
 
-\size huge
+\size largest
 \begin_inset Graphics
 	filename jpgs-b/010.jpg
 	lyxscale 10
@@ -2109,7 +2102,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -2134,7 +2127,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -2159,7 +2152,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -2184,7 +2177,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -2209,7 +2202,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -2263,7 +2256,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -2288,7 +2281,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -2313,7 +2306,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -2342,7 +2335,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -2367,7 +2360,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎾᎯᏳ Ꮎ ᏩᏯ ᎤᎵᏘᏎ.
 \begin_inset Note Note
 status collapsed
@@ -2385,7 +2378,7 @@ Then the wolf ran away.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -2410,7 +2403,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 Ꮎ ᏩᏯ ᎢᎾᎨᎢ ᎤᎦᏛᎴᏎ ᎠᏟᏎ.
 \begin_inset Note Note
 status collapsed
@@ -2428,7 +2421,7 @@ The wolf ran through the forest.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᎵᏏ ᎦᎵᏦᏕ ᎠᏟᏎ.
 \begin_inset Note Note
 status collapsed
@@ -2446,7 +2439,7 @@ He ran to grandmother's house.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 Ꭳ, Ꮎ ᎤᏲ, ᎤᏲ ᏩᏯ!
 \begin_inset Note Note
 status collapsed
@@ -2464,7 +2457,7 @@ O, the bad, bad wolf!
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -2489,7 +2482,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -2530,7 +2523,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 Ꭳ, Ꮎ ᎤᏲ, ᎤᏲ ᏩᏯ!
 \begin_inset Note Note
 status collapsed
@@ -2548,7 +2541,7 @@ O, the bad, bad wolf!
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Newpage cleardoublepage
 \end_inset
 
@@ -2558,7 +2551,7 @@ O, the bad, bad wolf!
 \begin_layout Standard
 \align center
 
-\size huge
+\size largest
 \begin_inset Graphics
 	filename jpgs-b/011.jpg
 	lyxscale 10
@@ -2572,7 +2565,7 @@ O, the bad, bad wolf!
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᎵᏏ ᎦᎵᏦᏕ ᎤᎷᏤ Ꮎ ᏩᏯ.
 \begin_inset Note Note
 status collapsed
@@ -2590,7 +2583,7 @@ The wolf came to grandmother's house.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎦᎶᎯᏍᏗ ᎤᏩᏂᎴ.
 \begin_inset Note Note
 status collapsed
@@ -2608,7 +2601,7 @@ He knocked on the door.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -2633,7 +2626,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -2658,7 +2651,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -2683,7 +2676,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -2708,7 +2701,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎠᏍᏘ ᏍᏚᏗ ᎤᏯᎸᏅᏤ.
 \begin_inset Note Note
 status collapsed
@@ -2726,7 +2719,7 @@ There was a string on the door.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎠᏍᏘ ᎤᎪᎮ Ꮎ ᏩᏯ.
 \begin_inset Note Note
 status collapsed
@@ -2744,7 +2737,7 @@ The wolf looked at the string.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -2769,7 +2762,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -2796,7 +2789,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎠᏍᏘ ᎤᎾᏌᏁᏎ.
 \begin_inset Note Note
 status collapsed
@@ -2838,7 +2831,7 @@ The wolf went in.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Newpage cleardoublepage
 \end_inset
 
@@ -2848,7 +2841,7 @@ The wolf went in.
 \begin_layout Standard
 \align center
 
-\size huge
+\size largest
 \begin_inset Graphics
 	filename jpgs-b/012.jpg
 	lyxscale 10
@@ -2862,7 +2855,7 @@ The wolf went in.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -2887,7 +2880,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -2912,7 +2905,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -2939,7 +2932,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -2964,7 +2957,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -2989,7 +2982,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎥᏝ Ꮎ ᏗᏂᎴᏴᏍᏗᏍᎩ ᏳᎾᏛᎦᏁ.
 \begin_inset Note Note
 status collapsed
@@ -3007,7 +3000,7 @@ The wood choppers did not hear.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -3032,7 +3025,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎠᏎᏃ ᎥᏝ ᎠᎵᏍᏕᎵᏍᎩ ᏳᎷᏤ.
 \begin_inset Note Note
 status collapsed
@@ -3050,7 +3043,7 @@ But no help came.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᏲ ᎤᎵᏏ!
 \begin_inset Note Note
 status collapsed
@@ -3068,7 +3061,7 @@ Poor grandmother!
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎥᏝ ᎠᎵᏍᏕᎵᏍᎩ ᏳᎷᏤ.
 \begin_inset Note Note
 status collapsed
@@ -3086,7 +3079,7 @@ No help came to her.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᏗᏂᎴᏴᏍᏗᏍᎩ ᎢᏅᎯ ᎨᏎ.
 \begin_inset Note Note
 status collapsed
@@ -3104,7 +3097,7 @@ The wood choppers were too far away.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎩᎳᏊ ᎥᏝ ᎤᎵᏏ ᏱᎨᏎ.
 \begin_inset Note Note
 status collapsed
@@ -3122,7 +3115,7 @@ Soon there was no grandmother.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᏩᏯᏊ ᎨᏎ.
 \begin_inset Note Note
 status collapsed
@@ -3140,7 +3133,7 @@ There was only a wolf.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎠᎴ ᎤᏲ, ᎤᏲ ᏩᏯ ᎨᏎ!
 \begin_inset Note Note
 status collapsed
@@ -3158,7 +3151,7 @@ And he was a bad, bad wolf!
 
 \begin_layout Standard
 
-\size huge
+\size largest
 Ꭳ, ᎤᏲᏒ ᏩᏯ!
 \begin_inset Note Note
 status collapsed
@@ -3176,7 +3169,7 @@ O, what a bad wolf!
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Newpage cleardoublepage
 \end_inset
 
@@ -3186,7 +3179,7 @@ O, what a bad wolf!
 \begin_layout Standard
 \align center
 
-\size huge
+\size largest
 \begin_inset Graphics
 	filename jpgs-b/013.jpg
 	lyxscale 10
@@ -3200,7 +3193,7 @@ O, what a bad wolf!
 
 \begin_layout Standard
 
-\size huge
+\size largest
 Ꮎ ᎤᏲ ᏩᏯ ᎤᎵᏍᏚᎳᏁ.
 \begin_inset Note Note
 status collapsed
@@ -3218,7 +3211,7 @@ The bad wolf put on a cap.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 Ꮎ ᎤᏲ ᏩᏯ ᏚᎦᏘᏅᏔᏁ.
 \begin_inset Note Note
 status collapsed
@@ -3236,7 +3229,7 @@ The bad wolf put on glasses.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᎵᏏ ᎤᏤᎵ ᎠᎵᏍᏚᎶ ᎨᏎ.
 \begin_inset Note Note
 status collapsed
@@ -3254,7 +3247,7 @@ It was grandmother's cap.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᎵᏏ ᎤᏤᎵ ᏗᎦᏘᏅᏘᏗ.
 \begin_inset Note Note
 status collapsed
@@ -3272,7 +3265,7 @@ They were grandmother's glasses.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -3297,7 +3290,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -3324,7 +3317,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎾᎯᏳ ᎤᏒᏞ.
 \begin_inset Note Note
 status collapsed
@@ -3342,7 +3335,7 @@ So he got into bed.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -3365,7 +3358,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 Ꭳ, ᏣᏲ ᎯᏩᏯ!
 \begin_inset Note Note
 status collapsed
@@ -3383,7 +3376,7 @@ O, you bad wolf!
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᎵᏏ ᎤᏤᎵ ᏗᎦᏘᏅᏘᏗ ᎯᎪᏩᏔ.
 \begin_inset Note Note
 status collapsed
@@ -3401,7 +3394,7 @@ See grandmother's glasses.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᏤᎵ ᎠᎵᏍᏚᎶ ᎯᎪᏩᏔ.
 \begin_inset Note Note
 status collapsed
@@ -3419,7 +3412,7 @@ See her cap.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᏲ ᎤᎵᏏ!
 \begin_inset Note Note
 status collapsed
@@ -3437,7 +3430,7 @@ Poor grandmother!
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᏤᎵ ᏗᎦᏘᏅᏘᏗ ᏚᎦᏘᏅᏔ Ꮎ ᏩᏯ.
 \begin_inset Note Note
 status collapsed
@@ -3455,7 +3448,7 @@ The wolf has on her glasses.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᏤᎵ ᎠᎵᏍᏚᎶ ᎤᎵᏍᏚᎳ, ᎥᏍᏊ.
 \begin_inset Note Note
 status collapsed
@@ -3473,7 +3466,7 @@ He has on her cap, too.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎯᎪᏩᏔ ᏩᏯ ᎤᏂᎭ, ᎤᏤᎵ ᎦᏂᏟ ᎨᏎ.
 \begin_inset Note Note
 status collapsed
@@ -3491,7 +3484,7 @@ See him in her bed.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 Ꭳ, Ꮎ ᎤᏲ, ᎤᏲ ᏩᏯ!
 \begin_inset Note Note
 status collapsed
@@ -3509,7 +3502,7 @@ O, the bad, bad wolf!
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Newpage cleardoublepage
 \end_inset
 
@@ -3519,7 +3512,7 @@ O, the bad, bad wolf!
 \begin_layout Standard
 \align center
 
-\size huge
+\size largest
 \begin_inset Graphics
 	filename jpgs-b/014.jpg
 	lyxscale 10
@@ -3533,7 +3526,7 @@ O, the bad, bad wolf!
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎩᎳᏊ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎤᎷᏤ.
 \begin_inset Note Note
 status collapsed
@@ -3563,7 +3556,7 @@ She had the basket on her arm.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎦᎶᎯᏍᏗ ᎤᏩᏂᎴ.
 \begin_inset Note Note
 status collapsed
@@ -3593,7 +3586,7 @@ Knock, knock, knock!
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -3618,7 +3611,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -3643,7 +3636,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -3668,7 +3661,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -3693,7 +3686,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎬᏲᎴᎵ ᎢᎦᏓ ᎪᏢᏅ.
  ᎠᎴ ᎬᏲᎴᎵ ᎦᏚ ᎤᏂᎦᎾᏍᏓ.
  ᎦᏙ ᎠᎩᏴᏍᏗ?
@@ -3719,7 +3712,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -3746,7 +3739,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎠᏍᏘ ᎤᎾᏌᏁᏎ.
 \begin_inset Note Note
 status collapsed
@@ -3764,7 +3757,7 @@ Little Red Riding Hood pulled the string.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᏓᎩᏏ ᎦᎸᎳᏗᏜ ᎤᎾᏌᏁᏎ.
 \begin_inset Note Note
 status collapsed
@@ -3782,7 +3775,7 @@ The latch came up.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎤᏴᏞ.
 \begin_inset Note Note
 status collapsed
@@ -3800,7 +3793,7 @@ Little Red Riding Hood went in.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -3825,7 +3818,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -3850,7 +3843,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -3875,7 +3868,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -3900,7 +3893,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -3925,7 +3918,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -3950,7 +3943,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -3975,7 +3968,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -4000,7 +3993,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -4025,7 +4018,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -4050,7 +4043,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Newpage cleardoublepage
 \end_inset
 
@@ -4060,7 +4053,7 @@ status collapsed
 \begin_layout Standard
 \align center
 
-\size huge
+\size largest
 \begin_inset Graphics
 	filename jpgs-b/015.jpg
 	lyxscale 10
@@ -4074,7 +4067,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎦᏂᏟ ᎾᎥ ᎤᏪᏅᏎ.
 \begin_inset Note Note
 status collapsed
@@ -4092,7 +4085,7 @@ Little Red Riding Hood went to the bedside.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᏍᎦᎴ.
 \begin_inset Note Note
 status collapsed
@@ -4110,7 +4103,7 @@ She was afraid.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -4135,7 +4128,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -4160,7 +4153,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -4185,7 +4178,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -4210,7 +4203,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -4235,7 +4228,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -4260,7 +4253,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -4285,7 +4278,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -4312,7 +4305,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -4339,7 +4332,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 Ꮟ, ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎤᏍᎦᎴ.
 \begin_inset Note Note
 status collapsed
@@ -4357,7 +4350,7 @@ Still Little Red Riding Hood was afraid.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 Ꭳ, Ꮎ ᎤᏲ, ᎤᏲ ᏩᏯ!
 \begin_inset Note Note
 status collapsed
@@ -4375,7 +4368,7 @@ O, the bad, bad wolf!
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -4400,7 +4393,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -4427,7 +4420,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -4452,7 +4445,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -4481,7 +4474,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎠᏎᏃ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎤᏍᎦᎴ.
 \begin_inset Note Note
 status collapsed
@@ -4499,7 +4492,7 @@ But Little Red Riding Hood was afraid.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎥᏝ ᏳᏪᏅᏒᎭ.
 \begin_inset Note Note
 status collapsed
@@ -4517,7 +4510,7 @@ She would not come.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᏩᏯ ᏗᎦᎴᏂ ᏚᎦᏙᏍᏔᏁ.
 \begin_inset Note Note
 status collapsed
@@ -4535,7 +4528,7 @@ Little Red Riding Hood looked at the wolf's ears.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -4567,7 +4560,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -4596,7 +4589,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᏩᏯ ᏗᎦᏙᎵ.
 \begin_inset Note Note
 status collapsed
@@ -4614,7 +4607,7 @@ Little Red Riding Hood looked at the wolf's eyes.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -4641,7 +4634,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -4667,7 +4660,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -4692,7 +4685,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -4717,7 +4710,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -4742,7 +4735,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -4767,7 +4760,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -4798,7 +4791,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -4823,7 +4816,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -4836,7 +4829,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -4868,7 +4861,7 @@ Afraid? Why are you afraid?
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -4901,7 +4894,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -4926,7 +4919,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -4951,7 +4944,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -4978,7 +4971,7 @@ Growl, growl, growl!
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᏗᏛᎲᎢ ᎦᏂᏟ ᏫᏚᎵᏔᏗᏅᏎᎴ.
 \begin_inset Note Note
 status collapsed
@@ -4996,7 +4989,7 @@ The wolf sprang out of bed.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -5023,7 +5016,7 @@ Growl, growl, growl!
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -5048,7 +5041,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Newpage cleardoublepage
 \end_inset
 
@@ -5058,7 +5051,7 @@ status collapsed
 \begin_layout Standard
 \align center
 
-\size huge
+\size largest
 \begin_inset Graphics
 	filename jpgs-b/016.jpg
 	lyxscale 10
@@ -5072,7 +5065,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -5097,7 +5090,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -5122,7 +5115,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -5147,7 +5140,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -5172,7 +5165,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -5197,7 +5190,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -5222,7 +5215,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -5247,7 +5240,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -5274,7 +5267,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -5301,7 +5294,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎾᎯᏳ ᏗᏂᎴᏴᏍᏗᏍᎩ ᎤᎾᏓᎾᏩᏍᏔᏁ.
 \begin_inset Note Note
 status collapsed
@@ -5319,7 +5312,7 @@ So the wood choppers ran.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎦᎵᏦᏕ ᏗᏜ ᎤᎾᏓᎾᏩᏍᏔᏁ.
 \begin_inset Note Note
 status collapsed
@@ -5337,7 +5330,7 @@ They ran to the house.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 Ꮎ ᏩᏯ ᎤᏂᎪᎮ.
 \begin_inset Note Note
 status collapsed
@@ -5355,7 +5348,7 @@ The wolf saw them.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -5380,7 +5373,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎾᎯᏳ Ꮎ ᏩᏯ ᎦᎶᎯᏍᏗ ᎤᎦᏛᎴᏒᎢ ᎤᎵᏘᏎ.
 \begin_inset Note Note
 status collapsed
@@ -5398,7 +5391,7 @@ So the wolf ran out at the door.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Newpage cleardoublepage
 \end_inset
 
@@ -5408,7 +5401,7 @@ So the wolf ran out at the door.
 \begin_layout Standard
 \align center
 
-\size huge
+\size largest
 \begin_inset Graphics
 	filename jpgs-b/017.jpg
 	lyxscale 10
@@ -5422,7 +5415,7 @@ So the wolf ran out at the door.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -5447,7 +5440,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -5476,7 +5469,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎾᎯᏳ Ꮎ ᎤᏲ ᏩᏯ ᎤᏂᏞ.
 \begin_inset Note Note
 status collapsed
@@ -5494,7 +5487,7 @@ So they killed the bad wolf.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎠᎰᎵᏃ ᎤᎵᏏ ᏚᎵᏔᏗᏅᏒᎢ ᎤᏄᎪᏤ.
 \begin_inset Note Note
 status collapsed
@@ -5512,7 +5505,7 @@ And grandmother jumped out of his month.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᎵᏏ ᎤᏓᎾᏩᏍᏔᏁ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᏗᏜ.
 \begin_inset Note Note
 status collapsed
@@ -5530,7 +5523,7 @@ She ran to Red Riding Hood.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -5555,7 +5548,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎾᎯᏳ ᎤᎵᏏ ᎥᏍᎩ ᎤᏄᎩᏨᏁ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
 \begin_inset Note Note
 status collapsed
@@ -5573,7 +5566,7 @@ Then she took Little Red Riding Hood up in her arms.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᎪᏗ ᎤᎾᎵᎮᎵᏨᎢ ᎨᏎ!
 \begin_inset Note Note
 status collapsed
@@ -5591,7 +5584,7 @@ How glad they both were!
 
 \begin_layout Standard
 
-\size huge
+\size largest
 Ꮎ ᏗᏂᎴᏴᏍᏗᏍᎩ ᎤᎾᎵᎮᎵᏤ, ᎥᏍᏊ.
 \begin_inset Note Note
 status collapsed
@@ -5609,7 +5602,7 @@ The wood cutters were glad, too.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -5634,7 +5627,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -5664,7 +5657,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎾᎯᏳᏃ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎤᏂᏫᏛᎮ ᏧᏪᏅᏒᎢ.
 \begin_inset Note Note
 status collapsed
@@ -5682,7 +5675,7 @@ So they took Little Red Riding Hood to her home.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -5707,7 +5700,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -5732,7 +5725,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -5757,7 +5750,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -5788,7 +5781,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Newpage cleardoublepage
 \end_inset
 
@@ -5798,7 +5791,7 @@ status collapsed
 \begin_layout Standard
 \align center
 
-\size huge
+\size largest
 \begin_inset Graphics
 	filename jpgs-b/018.jpg
 	lyxscale 10
@@ -5812,7 +5805,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -5837,7 +5830,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -5862,7 +5855,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -5887,7 +5880,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -5912,7 +5905,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -5937,7 +5930,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -5961,7 +5954,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -5990,7 +5983,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -6015,7 +6008,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎠᎴ ᎥᏝ ᎢᎸᎯᏳ ᏱᏄᏛᏁᎴ.
 \begin_inset Note Note
 status collapsed
@@ -6057,7 +6050,34 @@ pagestyle{empty}
 \end_layout
 
 \begin_layout Standard
-\begin_inset space ~
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size giant
+Ꮎ ᎦᎵᏉᎩ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
 \end_inset
 
 
@@ -6138,7 +6158,7 @@ pagestyle{plain}
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎯᎠ ᎤᎾᎦᏐᏣᏁᏓ.
  ᏌᏊ ᎤᏂᏥ.
 \begin_inset Note Note
@@ -6157,7 +6177,7 @@ This is a goat.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ ᏚᏁᎧᎮ ᎦᎵᏉᎩ ᏧᎾᏍᏗ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.
 \begin_inset Note Note
 status collapsed
@@ -6175,7 +6195,7 @@ The goat has seven little kids.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ ᏧᏪᏥ ᏚᎨᏳᏐ.
 \begin_inset Note Note
 status collapsed
@@ -6193,7 +6213,7 @@ Mother Goat loves her kids.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᎤᏂᏥ ᎤᏂᎨᏳᏐ.
 \begin_inset Note Note
 status collapsed
@@ -6211,7 +6231,7 @@ The kids love Mother Goat.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᎠᏎ ᏧᏩᎧᎯᏯᏍᏗ.
 \begin_inset Note Note
 status collapsed
@@ -6229,7 +6249,7 @@ Mother Goat must leave the kids.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎠᎵᏍᏓᏴᏗ ᎠᏎ ᏧᏩᏛᎮᏗ.
 \begin_inset Note Note
 status collapsed
@@ -6247,7 +6267,7 @@ She must go out to find food.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Newpage cleardoublepage
 \end_inset
 
@@ -6257,7 +6277,7 @@ She must go out to find food.
 \begin_layout Standard
 \align center
 
-\size huge
+\size largest
 \begin_inset Graphics
 	filename jpgs-b/021.jpg
 	lyxscale 10
@@ -6271,7 +6291,7 @@ She must go out to find food.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎯᎠ ᏩᏯ ᎠᏨᏯ.
 \begin_inset Note Note
 status collapsed
@@ -6289,13 +6309,13 @@ This is a wolf.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᎵᏍᏇᏚᎦ ᎤᏄᏩ ᏚᎳᏑᏝᏃ.
 \end_layout
 
 \begin_layout Standard
 
-\size huge
+\size largest
 Ꮎ ᏩᏯ ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ ᎠᎪᏩᏘᎭ.
 \begin_inset Note Note
 status collapsed
@@ -6313,7 +6333,7 @@ The wolf sees Mother Goat.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᏧᏬᏎᎸᎢ ᎤᏛᎦᏁ.
 \begin_inset Note Note
 status collapsed
@@ -6331,7 +6351,7 @@ He heard what she said to the kids.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -6356,7 +6376,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -6383,7 +6403,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 Ꭳ, ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ, ᏣᏛᎦᏁᏍ ᏩᏯ ᎤᏬᏂᏒᎢ?
 \begin_inset Note Note
 status collapsed
@@ -6401,7 +6421,7 @@ O, Mother Goat, did you hear what the wolf said ?
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ, ᎢᏣᏛᎦᏁᏍ?
 \begin_inset Note Note
 status collapsed
@@ -6419,7 +6439,7 @@ Did you hear, little kids?
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᏃᏊ Ꮎ ᏩᏯ ᏪᎦ.
 \begin_inset Note Note
 status collapsed
@@ -6437,7 +6457,7 @@ Now the wolf is going away.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎭᏛᎬᎦ.
  ᎤᏩᏌ ᏧᏓᏙᏎᎸᎢ.
 \begin_inset Note Note
@@ -6456,7 +6476,7 @@ Hear him talk to himself.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎯᎠ ᏧᏛᏅᎢ.
 \begin_inset Note Note
 status collapsed
@@ -6474,7 +6494,7 @@ This is what he says.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -6516,7 +6536,7 @@ Mother Goat is going to get food.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Newpage cleardoublepage
 \end_inset
 
@@ -6526,7 +6546,7 @@ Mother Goat is going to get food.
 \begin_layout Standard
 \align center
 
-\size huge
+\size largest
 \begin_inset Graphics
 	filename jpgs-b/022.jpg
 	lyxscale 10
@@ -6540,7 +6560,7 @@ Mother Goat is going to get food.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -6567,7 +6587,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -6598,7 +6618,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -6623,7 +6643,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -6654,7 +6674,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -6679,7 +6699,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -6704,7 +6724,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -6733,7 +6753,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -6758,7 +6778,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -6800,7 +6820,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -6825,7 +6845,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -6852,7 +6872,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -6877,7 +6897,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -6902,7 +6922,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Newpage cleardoublepage
 \end_inset
 
@@ -6912,7 +6932,7 @@ status collapsed
 \begin_layout Standard
 \align center
 
-\size huge
+\size largest
 \begin_inset Graphics
 	filename jpgs-b/023.jpg
 	lyxscale 10
@@ -6926,7 +6946,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎾᎯᏳᏃ ᎤᎦᏐᏣᏁᏓ ᎤᏂᏥ ᎤᏪᏅᏎ.
 \begin_inset Note Note
 status collapsed
@@ -6944,7 +6964,7 @@ So the Mother Goat went away.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎠᎵᏍᏓᏴᏗ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᎤᎩᏒᏎ Ꮎ ᎤᎦᏐᏣᏁᏓ.
 \begin_inset Note Note
 status collapsed
@@ -6962,7 +6982,7 @@ The goat went to get food for the kids.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᏭᏪᏅᏒᎢ Ꮎ ᏩᏯ ᎤᎪᎮ.
 \begin_inset Note Note
 status collapsed
@@ -6980,7 +7000,7 @@ The wolf saw her go away.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -7005,7 +7025,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎾᎯᏳᏃ ᎦᎵᏦᏕ ᎤᏪᏅᏎ Ꮎ ᏩᏯ.
 \begin_inset Note Note
 status collapsed
@@ -7023,7 +7043,7 @@ So the wolf went to the house.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Newpage cleardoublepage
 \end_inset
 
@@ -7033,7 +7053,7 @@ So the wolf went to the house.
 \begin_layout Standard
 \align center
 
-\size huge
+\size largest
 \begin_inset Graphics
 	filename jpgs-b/024.jpg
 	lyxscale 10
@@ -7047,7 +7067,7 @@ So the wolf went to the house.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -7072,7 +7092,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -7097,7 +7117,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -7122,7 +7142,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -7151,7 +7171,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Newpage cleardoublepage
 \end_inset
 
@@ -7161,7 +7181,7 @@ status collapsed
 \begin_layout Standard
 \align center
 
-\size huge
+\size largest
 \begin_inset Graphics
 	filename jpgs-b/025.jpg
 	lyxscale 10
@@ -7175,7 +7195,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᏦᎳᏂ ᎤᎾᎦᏔᏁ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.
 \begin_inset Note Note
 status collapsed
@@ -7193,7 +7213,7 @@ The little kids looked out of the window.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -7218,7 +7238,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -7251,7 +7271,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -7276,7 +7296,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -7301,7 +7321,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -7332,7 +7352,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -7359,7 +7379,7 @@ The wolf growled to himself.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -7384,7 +7404,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -7409,7 +7429,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎪᎯᏴᎢ ᎤᎷᏥᏏᎴ.
 \begin_inset Note Note
 status collapsed
@@ -7427,7 +7447,7 @@ So by and by he came again.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᏬᏂᏒᎢ ᏃᏊ ᎤᎦᎾᏍᏓ ᎤᏓᏅᏘᏃ ᎨᏎ.
 \begin_inset Note Note
 status collapsed
@@ -7445,7 +7465,7 @@ His voice was now very sweet and kind.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -7470,7 +7490,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -7495,7 +7515,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᏚᎾᏓᏓᎦᏙᏍᏔᏁ.
 \begin_inset Note Note
 status collapsed
@@ -7513,7 +7533,7 @@ The kids looked at each other.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -7538,7 +7558,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -7563,7 +7583,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -7588,7 +7608,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -7613,7 +7633,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -7638,7 +7658,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -7663,7 +7683,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎪᎯᏓ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᏙᎢ ᎨᏎ.
 \begin_inset Note Note
 status collapsed
@@ -7681,7 +7701,7 @@ The kids kept very still for a time.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎥᏝ ᎦᎶᎯᏍᏗᎢ ᏳᏂᏍᏚᎢᏎ.
 \begin_inset Note Note
 status collapsed
@@ -7699,7 +7719,7 @@ They did not open the door.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -7724,7 +7744,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -7749,7 +7769,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Newpage cleardoublepage
 \end_inset
 
@@ -7759,7 +7779,7 @@ status collapsed
 \begin_layout Standard
 \align center
 
-\size huge
+\size largest
 \begin_inset Graphics
 	filename jpgs-b/026.jpg
 	lyxscale 10
@@ -7773,7 +7793,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 Ꮎ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᏦᎳᏂ ᏗᏜ ᎤᏓᎾᏩᏍᏔᏁ.
 \begin_inset Note Note
 status collapsed
@@ -7791,7 +7811,7 @@ The kids ran to the window.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -7816,7 +7836,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -7841,7 +7861,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -7866,7 +7886,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -7891,7 +7911,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -7940,7 +7960,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᏃᏊ ᏩᏯ ᏭᏪᏅᏏᏏᎴ.
 \begin_inset Note Note
 status collapsed
@@ -7958,7 +7978,7 @@ So the wolf went away again.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -7983,7 +8003,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -8010,7 +8030,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎾᎯᏳᏃ ᏧᎳᏏᏕᏂ ᎢᏌ ᏚᏭᏢᏁ Ꮎ ᏩᏯ.
 \begin_inset Note Note
 status collapsed
@@ -8028,7 +8048,7 @@ So the wolf put flour on his feet.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎾᎯᏳ ᎦᎵᏦᏕ ᎤᎷᏥᏏᎴ Ꮎ ᏩᏯ.
 \begin_inset Note Note
 status collapsed
@@ -8046,7 +8066,7 @@ Then the wolf went to the house again.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -8071,7 +8091,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -8103,7 +8123,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -8128,7 +8148,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -8154,7 +8174,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -8179,7 +8199,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 Ꮎ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᏚᎾᎦᏙᏍᏔᏁ.
  ᎥᎥ, ᏧᎳᏏᏕᏂ ᏧᏁᎦ ᎨᏎ.
  ᎤᏬᏂᏒᎢ ᏩᏂᎨᎢ ᎨᏎ ᎥᏍᏊ.
@@ -8201,7 +8221,7 @@ The kids looked.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -8226,7 +8246,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -8251,7 +8271,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -8278,7 +8298,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Newpage cleardoublepage
 \end_inset
 
@@ -8288,7 +8308,7 @@ status collapsed
 \begin_layout Standard
 \align center
 
-\size huge
+\size largest
 \begin_inset Graphics
 	filename jpgs-b/027.jpg
 	lyxscale 10
@@ -8302,7 +8322,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎾᎯᏳᏃ ᎦᎶᎯᏍᏗ ᎤᎾᏛᏓᏍᏔᏁ Ꮎ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.
 \begin_inset Note Note
 status collapsed
@@ -8320,7 +8340,7 @@ So the kids opened the door.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎠᏟᏒᎢ ᎤᏴᏞ Ꮎ ᏩᏯ.
 \begin_inset Note Note
 status collapsed
@@ -8338,7 +8358,7 @@ In ran the wolf.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -8363,7 +8383,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᏃᏊ ᎤᏂᎪᎮ Ꮎ ᏩᏯ ᎠᏴᎭ.
 \begin_inset Note Note
 status collapsed
@@ -8381,7 +8401,7 @@ For they saw that they had let in the wolf.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 Ꮎ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᎠᎾᏟᏎ ᎤᏁᏡᏁᏃ.
 \begin_inset Note Note
 status collapsed
@@ -8399,7 +8419,7 @@ The kids ran and screamed.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 Ꮎ ᏩᏯ ᎠᏟᏎ ᎤᏪᏡᏁᏃ.
 \begin_inset Note Note
 status collapsed
@@ -8417,7 +8437,7 @@ The wolf ran and growled.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -8442,7 +8462,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -8467,7 +8487,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -8492,7 +8512,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -8523,7 +8543,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Newpage cleardoublepage
 \end_inset
 
@@ -8533,7 +8553,7 @@ status collapsed
 \begin_layout Standard
 \align center
 
-\size huge
+\size largest
 \begin_inset Graphics
 	filename jpgs-b/028.jpg
 	lyxscale 10
@@ -8547,7 +8567,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᏌᏊ ᎤᎦᏐᏣᏁᏓ ᎠᎩᎾ ᎤᎵᏘᏒᎢ ᎡᏆ ᏩᏥ ᎤᏴᏞ.
 \begin_inset Note Note
 status collapsed
@@ -8565,7 +8585,7 @@ One kid ran into the clock.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎥᏝ ᎥᏍᎩ ᏳᎪᎮ Ꮎ ᏩᏯ.
 \begin_inset Note Note
 status collapsed
@@ -8583,7 +8603,7 @@ The wolf did not see him.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -8608,7 +8628,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎾᎯᏳ Ꮎ ᏩᏯ ᏭᏪᏅᏎ.
 \begin_inset Note Note
 status collapsed
@@ -8626,7 +8646,7 @@ Then the wolf went away.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Newpage cleardoublepage
 \end_inset
 
@@ -8636,7 +8656,7 @@ Then the wolf went away.
 \begin_layout Standard
 \align center
 
-\size huge
+\size largest
 \begin_inset Graphics
 	filename jpgs-b/029.jpg
 	lyxscale 10
@@ -8650,7 +8670,7 @@ Then the wolf went away.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎪᎯᏴᎢ ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ ᎤᎷᏤ.
 \begin_inset Note Note
 status collapsed
@@ -8668,7 +8688,7 @@ By and by the Mother Goat came.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -8694,7 +8714,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -8721,7 +8741,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎠᏎᏃ ᎦᎶᎯᏍᏗ ᎤᎵᏍᏚᎢᏓ ᎨᏎ.
 \begin_inset Note Note
 status collapsed
@@ -8739,7 +8759,7 @@ But the door was open.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎾᎯᏳᏃ ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ ᎤᏴᏞ.
 \begin_inset Note Note
 status collapsed
@@ -8757,7 +8777,7 @@ So the goat went in.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Newpage cleardoublepage
 \end_inset
 
@@ -8767,7 +8787,7 @@ So the goat went in.
 \begin_layout Standard
 \align center
 
-\size huge
+\size largest
 \begin_inset Graphics
 	filename jpgs-b/030.jpg
 	lyxscale 10
@@ -8781,7 +8801,7 @@ So the goat went in.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -8817,7 +8837,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᏂᏥ ᎤᏠᏱᏍᏗ ᎤᎴᏅᎮ.
 \begin_inset Note Note
 status collapsed
@@ -8835,7 +8855,7 @@ The mother began to cry.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -8860,7 +8880,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -8885,7 +8905,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -8910,7 +8930,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -8935,7 +8955,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᏥ ᎠᏟᏎ ᏩᏥ ᎦᎶᎯᏍᏗᎢ.
 \begin_inset Note Note
 status collapsed
@@ -8953,7 +8973,7 @@ The mother ran to the clock door.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᏙᏱ ᏚᎵᏔᏗᏅᏎ Ꮎ ᎤᎦᏐᏣᏁᏓ ᎠᎩᎾ.
 \begin_inset Note Note
 status collapsed
@@ -8971,7 +8991,7 @@ Out jumped the kid.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -8996,7 +9016,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -9021,7 +9041,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -9048,7 +9068,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Newpage cleardoublepage
 \end_inset
 
@@ -9058,7 +9078,7 @@ status collapsed
 \begin_layout Standard
 \align center
 
-\size huge
+\size largest
 \begin_inset Graphics
 	filename jpgs-b/031.jpg
 	lyxscale 10
@@ -9072,7 +9092,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᏥ ᎤᎦᏐᏣᏁᏓ ᎤᏠᏱᎴ.
 \begin_inset Note Note
 status collapsed
@@ -9090,7 +9110,7 @@ The Mother Goat cried.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -9115,7 +9135,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -9140,7 +9160,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -9180,7 +9200,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -9205,7 +9225,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -9235,7 +9255,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Newpage cleardoublepage
 \end_inset
 
@@ -9245,7 +9265,7 @@ status collapsed
 \begin_layout Standard
 \align center
 
-\size huge
+\size largest
 \begin_inset Graphics
 	filename jpgs-b/032.jpg
 	lyxscale 10
@@ -9259,7 +9279,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎪᎯᏴᎢ ᎤᏥ ᎤᎦᏐᏣᏁᏓ ᎠᎴ ᎤᏪᏥ ᎤᎦᏐᏣᏁᏓ ᎠᎩᎾ ᎤᏁᏙᎸᏎ.
 \begin_inset Note Note
 status collapsed
@@ -9277,7 +9297,7 @@ By and by, the goat and the one kid went out for a walk.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᏥ ᎤᎦᏐᏣᏁᏓ ᏩᏯ ᎤᎪᎮ ᏡᎬ ᎾᎥ.
  ᎦᏟᎮ.
 \begin_inset Note Note
@@ -9297,7 +9317,7 @@ The goat saw the wolf near a tree.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -9322,7 +9342,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -9347,7 +9367,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -9375,7 +9395,7 @@ He has eaten my kids.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᏥ ᎤᎦᏐᏣᏁᏓ ᎥᎤᎷᏤ ᎤᏤᎵ ᎦᎵᏦᏕ.
 \begin_inset Note Note
 status collapsed
@@ -9393,7 +9413,7 @@ The goat went back to her house.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎦᎶᎯᏍᏗ ᎤᏍᏚᎢᏎ ᎠᎴ ᎤᏴᏞ.
 \begin_inset Note Note
 status collapsed
@@ -9411,7 +9431,7 @@ She opened the door and went in.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᏤᎵ ᏗᎵᏍᏙᏰᏗ ᎤᎩᏎ ᎤᏩᏰᏫᏒᎢ ᏔᎷᏣ.
 \begin_inset Note Note
 status collapsed
@@ -9429,7 +9449,7 @@ She took her scissors from the Work basket.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎾᎯᏳ ᎤᏥ ᎥᎤᎷᏤ Ꮎ ᏩᏯ.
 \begin_inset Note Note
 status collapsed
@@ -9447,7 +9467,7 @@ Then she went back to the wolf.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 Ꮟ, Ꮎ ᏩᏯ ᎦᏟᎮ.
 \begin_inset Note Note
 status collapsed
@@ -9465,7 +9485,7 @@ The wolf was still asleep.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -9490,7 +9510,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -9519,7 +9539,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Newpage cleardoublepage
 \end_inset
 
@@ -9529,7 +9549,7 @@ status collapsed
 \begin_layout Standard
 \align center
 
-\size huge
+\size largest
 \begin_inset Graphics
 	filename jpgs-b/033.jpg
 	lyxscale 10
@@ -9543,7 +9563,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᏃᏊ ᎤᏥ ᎤᎦᏐᏣᏁᏓ ᎤᏃᎴᏎ Ꮎ ᏩᏯ.
 \begin_inset Note Note
 status collapsed
@@ -9561,7 +9581,7 @@ So the goat crept up to the wolf.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 Ꮟ Ꮎ ᏩᏯ ᎦᏟᎮ.
 \begin_inset Note Note
 status collapsed
@@ -9579,7 +9599,7 @@ The wolf was still asleep.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᎬᎭᎸᎮ ᎠᎴ ᎤᎬᎭᎸᎮ ᎠᎴ ᎤᎬᎭᎸᎮ.
  ᏗᎵᏍᏙᏰᏗ ᎤᏭᏔᏁ.
 \begin_inset Note Note
@@ -9598,7 +9618,7 @@ Snip, snip, snip, went the scissors.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᏥ ᎤᎦᏐᏣᏁᏓ ᎤᎬᎭᎸᎲᎢ ᎬᏗ ᏩᏯ ᎤᏍᏚᎢᏎ.
 \begin_inset Note Note
 status collapsed
@@ -9616,7 +9636,7 @@ The goat cut the wolf open.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᏙᏱ ᏚᎾᎵᏔᏗᏅᏎ Ꮎ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.
 \begin_inset Note Note
 status collapsed
@@ -9634,7 +9654,7 @@ Out jumped the kids.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -9659,7 +9679,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Newpage cleardoublepage
 \end_inset
 
@@ -9669,7 +9689,7 @@ status collapsed
 \begin_layout Standard
 \align center
 
-\size huge
+\size largest
 \begin_inset Graphics
 	filename jpgs-b/034.jpg
 	lyxscale 10
@@ -9683,7 +9703,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -9708,7 +9728,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -9735,7 +9755,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Newpage cleardoublepage
 \end_inset
 
@@ -9745,7 +9765,7 @@ status collapsed
 \begin_layout Standard
 \align center
 
-\size huge
+\size largest
 \begin_inset Graphics
 	filename jpgs-b/035.jpg
 	lyxscale 10
@@ -9759,7 +9779,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᏧᏁᏅᏒᎢ ᏗᏜ Ꮎ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᎤᎾᏓᎾᏩᏍᏔᏁ.
 \begin_inset Note Note
 status collapsed
@@ -9777,7 +9797,7 @@ So the kids ran home.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎾᎯᏳ ᏑᏓᎵ ᎤᏔᎾ ᏅᏯ ᏚᎩᏎ Ꮎ ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ.
  ᏅᏯ ᏚᎵᏔᏁ Ꮎ ᏩᏯ.
  ᎾᎯᏳ ᎤᏍᏚᏁ ᎤᏩᏰᏫᏒᎢ ᎬᏗ Ꮎ ᏩᏯ.
@@ -9799,7 +9819,7 @@ Then the goat got six large stones.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 Ꮎ ᏩᏯ ᎦᏟᎮ ᎠᎴ ᎦᏟᎮ.
 \begin_inset Note Note
 status collapsed
@@ -9817,7 +9837,7 @@ The wolf slept on and on.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -9842,7 +9862,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎾᎯᏳ ᏗᎵᏍᏙᏰᏗ ᎤᎵᏔᏁ ᎠᏜᏩᏛᎢ.
 \begin_inset Note Note
 status collapsed
@@ -9860,7 +9880,7 @@ Then she put her scissors in her pocket.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -9885,7 +9905,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎾᎯᏳ ᏧᏪᏅᏒᎢ ᏭᏪᏅᏎ.
 \begin_inset Note Note
 status collapsed
@@ -9903,7 +9923,7 @@ Then she went home.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎪᎯᏴᎢ ᎤᏰᏤ Ꮎ ᏩᏯ.
 \begin_inset Note Note
 status collapsed
@@ -9921,7 +9941,7 @@ By and by the wolf awoke.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -9946,16 +9966,27 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎾᎯᏳ Ꮎ ᏩᏯ ᎤᏪᏓᏍᏗ ᎤᏁᏟᏔᏁ.
  ᎤᏲ ᎬᏩᏪᏓᏍᏗ.
- Then the wolf tried to walk.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size largest
+Then the wolf tried to walk.
  He could not walk very well.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -9976,7 +10007,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -10003,7 +10034,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Newpage cleardoublepage
 \end_inset
 
@@ -10013,7 +10044,7 @@ status collapsed
 \begin_layout Standard
 \align center
 
-\size huge
+\size largest
 \begin_inset Graphics
 	filename jpgs-b/036.jpg
 	lyxscale 10
@@ -10027,7 +10058,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 Ꮎ ᏩᏯ ᎦᏄᎪᎬᎢ ᎤᏪᏅᏍᏗ ᎤᎴᏅᎮ.
 \begin_inset Note Note
 status collapsed
@@ -10045,7 +10076,7 @@ The wolf started to go to the spring.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -10070,7 +10101,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎦᏄᎪᎬᎢ ᏗᏜ ᎤᏓᎾᏏᏅᏎ.
 \begin_inset Note Note
 status collapsed
@@ -10088,7 +10119,7 @@ He dragged himself down to the spring.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Newpage cleardoublepage
 \end_inset
 
@@ -10098,7 +10129,7 @@ He dragged himself down to the spring.
 \begin_layout Standard
 \align center
 
-\size huge
+\size largest
 \begin_inset Graphics
 	filename jpgs-b/037.jpg
 	lyxscale 10
@@ -10112,7 +10143,7 @@ He dragged himself down to the spring.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎤᏗᏔᏍᏗ ᎤᏁᏟᏔᏁ ᎠᏎᏍᎩᏂ ᎦᏄᎪᎬᎢ ᎤᏅᏤ ᎠᏍᎪᎵ ᎢᎬᏱᎢ.
 \begin_inset Note Note
 status collapsed
@@ -10131,7 +10162,7 @@ He tried to drink.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -10156,7 +10187,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎠᎹᏱ ᏣᏅᎢᏍᏗ ᎥᏍᎩ ᎾᎾᎵᏍᏇᏚᎠ.
  ᎩᎶ ᎠᎩᎸᏍᏗ ᏍᎩᏍᏕᎳ! ᏍᎩᏍᏕᎳ! ᏍᎩᏍᏕᎳ!
 \begin_inset Quotes erd
@@ -10187,7 +10218,7 @@ They made me fall into the water.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Newpage cleardoublepage
 \end_inset
 
@@ -10197,7 +10228,7 @@ They made me fall into the water.
 \begin_layout Standard
 \align center
 
-\size huge
+\size largest
 \begin_inset Graphics
 	filename jpgs-b/038.jpg
 	lyxscale 10
@@ -10211,7 +10242,7 @@ They made me fall into the water.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎾᎯᏳᏊ ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ ᎤᎷᏤ.
 \begin_inset Note Note
 status collapsed
@@ -10229,7 +10260,7 @@ Just then Mother Goat came along.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -10254,7 +10285,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -10279,7 +10310,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -10316,7 +10347,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Newpage cleardoublepage
 \end_inset
 
@@ -10326,7 +10357,7 @@ status collapsed
 \begin_layout Standard
 \align center
 
-\size huge
+\size largest
 \begin_inset Graphics
 	filename jpgs-b/039.jpg
 	lyxscale 10
@@ -10340,7 +10371,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -10365,7 +10396,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -10390,7 +10421,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -10415,7 +10446,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -10442,7 +10473,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -10467,7 +10498,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -10492,7 +10523,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -10527,7 +10558,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎾᎯᏳᏃ Ꮎ ᏩᏯ ᎤᎬᏤ.
 \begin_inset Note Note
 status collapsed
@@ -10545,7 +10576,7 @@ So the wolf was drowned.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 ᎦᏄᎪᎬᎢ ᎤᎬᏤ.
 \begin_inset Note Note
 status collapsed
@@ -10563,7 +10594,7 @@ He drowned in the spring.
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -10588,7 +10619,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -10613,7 +10644,7 @@ status collapsed
 
 \begin_layout Standard
 
-\size huge
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
