@@ -84,7 +84,6 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎢᎾ|||Far.
 ᎢᏁᏅᏒᎭ|||You and I should or would go.
 ᎢᏁᏅᏒᎭᏍ|||Should or would you and I go?
-ᎢᏍᎩᏩᏛᎮᏗ||ᎢᏍᎩ- ᎤᏩᏛᎲᎢ -ᎡᏗ|For you all to get it for me.
 ᎢᏍᎩᏩᏛᎲᏏ||ᎢᏍᎩ- ᎤᎩᏩᏛᎲᎢ -Ꮟ|Let you all find it for me.
 ᎢᏗᏁᎴᏍᏗ|||We all will be residing.
 ᎢᏣᎩᏍᏗ|||For you all to get it.
@@ -103,7 +102,6 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎢᏥᏩᏔ|||Let you all find it.
 ᎢᏥᏩᏛᎱᎦ||ᎢᏥ- ᎤᏩᏛᎲᎢ -ᎤᎦ|Let you all leave to find it.
 ᎢᏥᏩᏛᎲᏍᏗ||ᎢᏥ- ᎤᏩᏛᎲᎢ -ᎥᏍᏗ|For you all to leave and get it.
-ᎢᏥᏩᏛᎲᏏ||ᎢᏥ- ᎤᏩᏛᎲᎢ -Ꮟ|Let you all leave and find it.
 ᎢᏥᏩᏛᏗ|||For you all to find it.
 ᎢᏥᏬᏂᏎᎭ||ᎢᏥ- ᎤᏬᏂᏒᎢ -ᎡᎭ|He or she is talking to or for you all.
 ᎢᏨᏥ|||I, your all's mother.
@@ -136,7 +134,6 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎤᎷᏨᏌᏁ|||He or she arrived again.
 ᎤᎸᏎ|||He or she climbed.
 ᎤᎸᏒᎢ|||His or her climbing.
-ᎤᎾᏚᎵᎭ|||They want it.
 ᎤᎾᏛᏁ|||They said.
 ᎤᎾᏠᏱᎭ|||They are crying.
 ᎤᎿᎸᏎ|||He or she was angry.
@@ -172,7 +169,6 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎤᏦᏔᎲᎢ|||His or her blowing.
 ᎤᏩᎨᏫᏎ|||He or she forgot him, her, or it.
 ᎤᏩᏂᏎ|||He, she, or it cooked.
-ᎤᏩᏛᎲᎭᏍ||ᎤᏩᏛᎲᎢ -ᎥᎭ -ᏍᎪ|Should or would he or she find it?
 ᎤᏩᏛᎲᏍᏗ||ᎤᏩᏛᎲᎢ -ᎥᏍᏗ|For him or her to leave to find it.
 ᎤᏩᏛᎲᏎ||ᎤᏩᏛᎲᎢ -ᎥᏒᎢ|He or she left to find it.
 ᎤᏩᏛᎲᏒᎭᏍ||ᎤᏩᏛᎲᎢ -ᎥᏒᎢ -ᎥᎭ -ᏍᎪ|Should or would he or she leave to find it?
@@ -183,10 +179,8 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎤᏪᏡᏁ|||He or she hollered, screamed, yelled, etc.
 ᎤᏬᎳᏕᏎ|||He or she breathed.
 ᎤᏬᏂᏒᎢ|||His or her speaking. His or her speech.
-ᎤᏬᏔᏁ|||He or she built a fire.
 ᎤᏮᏔᏁ|||He or she put into the fire.
 ᎤᏲ|||Bad. Poor.
-ᎤᏲᎢ|||Bad. Poor.
 ᎤᏲᏍᏔᏁ|||He or she broke it.
 ᎤᏲᏏᏍᎬᎢ|||His or her being hungry.
 ᎤᏲᏒ|||He or she is awful.
@@ -228,7 +222,6 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎦᏬᏂᏍᎪᎢ|||He or she speaks.
 ᎧᎾᎷᏍᎬᎢ|||Uphill.
 ᎧᏁᏍᎦ|||Hay. Straw.
-ᎧᏁᏍᎦᏍ|||Is it hay or straw?
 ᎨᎦ|||I am going.
 ᎩᎳᏊ|||Pretty soon.
 ᎩᎾᏤᎵ|||Your and my.
@@ -291,7 +284,6 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏅᏯ|||A rock. Rocks.
 ᏅᏯ ᎠᏛᏓᏅᎢ|||A brick.
 ᏅᏯ ᏗᏛᏓᏅᎢ|||Bricks.
-ᏅᏯᏍ|||Is it a rock?
 ᏅᏯᏍ ᏗᏛᏓᏅᎢ|||Is it bricks?
 ᏍᎩᎪᎲᎭ|||He or she should or would see me.
 ᏍᎩᎪᏩᏘᎭᏍ|||Do you see me?
@@ -306,7 +298,6 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏍᏆᏛᎩᎠᏍ|||Are you hearing me?
 ᏍᏈ|||*
 ᏍᏓᏯ|||Hard. Difficult.
-ᏍᏓᏱ|||Hard. Difficult.
 ᏏᏆᏃ|||And the pig.
 ᏑᏓᎵ|||Six.
 ᏒᏙᏂ|||A barrel.
@@ -328,7 +319,6 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏓᎩᎸᏉᏙ|||I like them.
 ᏓᎩᎸᏉᏙᎢ|||I like them.
 ᏓᎪᏓᏂ|||I will build a fire.
-ᏓᎪᏔᏂ|||He or she will build a fire.
 ᏓᎬᎩᏏ|||I will get you.
 ᏓᎬᎪᎯ|||I will see you.
 ᏓᎬᎷᏤᎵ||Ꮣ- Ꭼ- ᎤᎷᏨᎢ -ᎡᎸᎢ|I will come for you.
@@ -373,7 +363,6 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏔᎵᏁ|||Second.
 ᏔᎵᏁᎢ|||Second.
 ᏔᏛᎬᎦ|||Let you hear them.
-ᏕᎦᏬᏂᏎᎭ||Ꮥ- Ꭶ- ᎤᏬᏂᏒᎢ -ᎡᎭ|He or she is talking to or for them.
 ᏕᎯᏩᏘᏍᎪ|||You usually find them.
 ᏕᏂᎩᏒᏒᎭ||ᏕᏂ- ᎤᎩᏒᎢ -ᎥᏒᎢ -ᎥᎭ|You and I should go and get them.
 ᏕᏡᎬ|||Trees.
@@ -449,7 +438,6 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏥᏚᎢᏍᏗᎭ|||I promise.
 ᏥᏩᏛᎮᏗ||Ꮵ- ᎤᏩᏛᎲᎢ -ᎡᏗ|For me to find it for him or her.
 ᏥᏯᏁᏍᎨᎮᏗ||Ꮵ- ᎤᏁᏍᎨᎲᎢ -ᎡᏗ|For me to build it for him or her.
-ᏥᏯᏛᎩ|||I hear him or her.
 ᏥᏯᏛᎩᎠ|||I hear him or her.
 ᏥᏴᎩ|||I am a prisoner. I am a captive.
 ᏦᎢ|||Three.
@@ -472,19 +460,21 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏫᏥᏴᎭ|||Let me enter.
 ᏭᏁᏅᏍᏗ|||For them to go away.
 ᏭᏗᏅᏎ|||He or she threw it.
-ᏭᏪᏅᏍᏗᏍ|||Is it for him or her to go?
 ᏭᏪᏅᏒᎭᏍ||Ꮻ- ᎤᏪᏅᏒᎢ -ᎥᎭ -ᏍᎪ|Should or would he or she go?
 ᏯᎩᏬᏂᏎᎵ||Ᏹ- ᎠᎩ- ᎤᏬᏂᏒᎢ -ᎡᎵ|Maybe he or she just talked to me.
 ᏯᏦᏔ|||*
 ᏯᏬᎳᏓᎩ|||*
 ᏯᏯᎡᏍᏗ|||*
+ᏰᎾ|||*
 ᏱᎨᎦ|||*
 ᏱᎨᎩᏂᏂᏴᎯ|||*
 ᏱᎨᏎ|||Maybe it was being.
 ᏱᎨᏎᏍᏗ|||Maybe it will be.
+ᏱᎩ|||*
 ᏱᎬᎦᏘᏯ|||*
 ᏱᎬᏬᏂᏎᎵ|||Maybe I just spoke to you.
 ᏱᏁᎾ|||*
+ᏱᏂᎦᏛᏁᎭ|||*
 ᏱᏂᏔᏛᏁᎵ|||*
 ᏱᏍᎩᎩ|||Maybe you get me.
 ᏱᏍᎩᏂᏯ|||Maybe you just caught me.
