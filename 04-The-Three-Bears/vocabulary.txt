@@ -5,6 +5,7 @@ Syllabary|Pronounce|Breakdown|Definition
 -Ꭲ|||*
 -ᎢᎶᎥᎢ|-ǐ:lóv̌:ɂi||Did it over and over.
 -ᎥᎭ|-v:ha||Should do it. Would do it.
+-ᎥᏌᏅᎢ|-v̌:sáhnv́:ɂi||Did it again.
 -ᏍᎪ|||Yes or no?
 -Ꮸ|-jv̋||Very.
 ᎠᎨᏳᏣ|||A girl.
@@ -13,8 +14,8 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎠᎩᏲᏍᎬᎩ|||I was being hungry.
 ᎠᎩᏲᏏ|||I'm hungry.
 ᎠᎩᏲᏏᏌ|||I was hungry a little while ago.
-ᎠᏁᎭ|||They live.
-ᎠᏁᎮ|||They resided.
+ᎠᏁᎭ|||They are living. They are residing.
+ᎠᏁᎮ|||They resided. They lived.
 ᎠᏁᎰ|||They reside. They live.
 ᎠᏁᏙᎭ|||They are walking about.
 ᎠᏁᏙᎮ|||They were walking about.
@@ -57,7 +58,7 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎤᎾᎦᏔᏁ|||They peeked through.
 ᎤᎾᎦᏙᏍᏔᏁ|||They looked at him, her, or it.
 ᎤᎾᎴᏅᎮ|||They started. They began.
-ᎤᎾᏓᎾᏩᏍᏔᏁ|||They took of running.
+ᎤᎾᏓᎾᏩᏍᏔᏁ|||They took off running.
 ᎤᎾᏗᏔᏍᏗ|||For them to drink.
 ᎤᎾᏤᎵ|||Their.
 ᎤᎿᎸᏒ|||His or her being angry.
@@ -89,8 +90,8 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎤᏔᎾ|||Big. Large.
 ᎤᏔᎾᏍ|||*
 ᎤᏗᏔᎮ|||He or she drank.
-ᎤᏗᏔᎯᏌᏁ|||He or she drank.
-ᎤᏗᏔᎯᏌᏅ|||His or her drinking.
+ᎤᏗᏔᎲᏌᏁ||ᎤᏗᏔᎲᎢ -ᎥᏌᏅᎢ|He or she drank again.
+ᎤᏗᏔᎲᏌᏅ||ᎤᏗᏔᎲᎢ -ᎥᏌᏅᎢ|His or her drinking again.
 ᎤᏗᏞᎦ|||Hot.
 ᎤᏛᎦᏁ|||He or she heard him, her, or it.
 ᎤᏢᏁ|||He or she fell asleep.
@@ -115,7 +116,7 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎦᎯᏯᏛᎩᏍ|||Do you hear them?
 ᎦᎯᏯᏛᎩᏧ|||*
 ᎦᎶᎯᏍᏗ|||A door. A doorway.
-ᎦᎶᎯᏍᏗᎢ|||A door.
+ᎦᎶᎯᏍᏗᎢ|||A door. A doorway.
 ᎦᏂᏟ|||A bed.
 ᎦᏃᏍᎩᏍᎩ|||A thief.
 ᎦᏅᎨ|||He or she was laying down.
