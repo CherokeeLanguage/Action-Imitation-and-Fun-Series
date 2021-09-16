@@ -1,18 +1,6 @@
 # Na-Anijoi-Wesa-Anida.lyx
 # ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳ ㉑ ㉒ ㉓ ㉔ ㉕ ㉖ ㉗ ㉘ ㉙ ㉚ ㉛ ㉜ ㉝ ㉞ ㉟ ㊱ ㊲ ㊳ ㊴ ㊵ ㊶ ㊷ ㊸ ㊹ ㊺ ㊻ ㊼ ㊽ ㊾ ㊿
 Syllabary|Pronounce|Breakdown|Definition
-ᎠᏂᏓ|||
-ᎠᏂᏔᎵ|||
-ᎢᏥᏪᏌ|||
-ᎢᏥᏓ|||
-ᏱᏂᏗᏍᎩᏪᏏ|||
-ᏱᏂᏨᏪᏏ|||
-ᎻᏳ|||
-ᎢᏍᎩᏯᏛᎬᎦᏍ|||
-ᎢᏨᏪᎵ|||
-ᏱᏂᏫ|||
-ᎠᎨᏳᏣ|||
-ᎠᏧᏣ|||
 ᏗᎵᏰᏑᎶ|||
 ᏙᎩᎾᎠ|||
 ᎠᎵᏰᏑᎶᏍ|||
@@ -95,6 +83,8 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏍᏆᏛᎬᎦ|||
 ᏂᎦᏥᏪᏒᎢ|||
 ᏙᏓᏥᏁᏏ|||
+ᎢᏥᏪᏌ|||
+ᎢᏥᏓ|||
 ᎣᏏ|||
 ᏕᎯᎪᏩᏘᎭᏍ|||
 ᏕᏥᎪᏩᏘᎭ|||
@@ -127,7 +117,6 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏙᎩᏲᎱᏏ|||
 ᏕᏥᏲᎱᏏ|||
 ᎠᎾᏠᏱᎮ|||
-ᎤᎾᎴᏅᎮ|||
 ᎢᏥᏲᎢ|||
 ᏕᏥᏲᎱᏏᏍ|||
 ᏕᏨᎩᎶᏣ|||
@@ -152,7 +141,6 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏝᏍᎪ|||
 ᏱᏓᏲᎩᎯ|||
 ᎤᏩᏍᎦᎸᏗ|||
-ᏧᎾᏤᎵ|||
 ᏚᏂᏲᎱᏎᎴ|||
 ᎠᎾᎴᏅᎮ|||
 ᎣᏥᏍᎦᎭ|||
@@ -179,7 +167,6 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏱᏙᎩᎸᎥᎦ|||
 ᎠᏛᏁᏗ|||
 ᏱᏙᏥᏯᎴᎨᏍᏗ|||
-ᎦᏍᎩᎶ|||
 ᎦᏍᎩᎶᎢᏍ|||
 ᏕᏥᎲᎦᏍ|||
 ᏱᏗᏥᎲᎦ|||
@@ -200,7 +187,6 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏡᎬᎢ|||
 ᎤᏂᎸᏎ|||
 ᎢᎦᏘ|||
-ᎤᏂᎪᎮ|||
 ᎣᏥᎪᏩᏘᎭ|||
 ᎢᏗᎪᎱᎦ|||
 ᎤᏂᏯᎸᏎ|||
@@ -233,7 +219,6 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏣᎪᎲ|||
 ᎢᏍᎩᏰᏘᏎᎸ|||
 ᏂᏣᎲᎾ|||
-ᎢᎾᎨᎢ|||
 ᎤᏪᏙᎴ|||
 ᎫᎴ|||
 ᎤᏬᎰᏎ|||
@@ -265,7 +250,6 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎢᎾᎵᎪᏅᎭ|||
 ᏓᏂᏃᎮᏞᎸᏏ|||
 ᎤᎾᎵᏘᏎ|||
-ᎠᏨᏯ|||
 ᏓᎾᏠᏎ|||
 ᏨᏨᏯ|||
 ᏍᏕᎦ|||
@@ -289,7 +273,6 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏧᎳ|||
 ᎦᎵᏉᎩ|||
 ᎢᏓᎵᎪᎲᎦ|||
-ᎢᏕᎾ|||
 ᎢᏨᎪᏛᏗᎭ|||
 ᏓᏓᎵᎪᏂ|||
 ᏓᏕᏅᏏ|||
@@ -300,3 +283,16 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏧᎾᎵ|||
 ᎤᏲᏏᎬᎢ|||
 ᎤᏰᏘᏏᎶᎡ|||
+-ᎡᎵ|-e:li||Just did for someone. Just did to someone.
+ᎠᏂᏓ|||Young animals.
+ᎠᏂᏔᎵ|||Two.
+ᎠᏧᏣ|||A boy.
+ᎡᎵᏊ ᏱᏂᏍᎩᏪᏎᎵ||Ᏹ- Ꮒ- ᎢᏍᎩ- ᎤᏪᏒᎢ -ᎡᎵ|You all can utter for us.
+ᎡᎵᏊ ᏱᏂᏨᏪᏎᎵ||Ᏹ- Ꮒ- ᎢᏨ- ᎤᏪᏒᎢ -ᎡᎵ|We can utter for you all.
+ᎡᎵᏊ ᏱᏂᏫ|||You can utter it.
+ᎢᏍᎩᏯᏛᎬᎦᏍ|||Did you all just hear us?
+ᎢᏨᏪᏎᎵ||ᎢᏨ- ᎤᏪᏒᎢ -ᎡᎵ|We just uttered for you all.
+ᎻᏳ|||*
+ᏱᏂᏍᎩᏪᏎᎵ|||*
+ᏱᏂᏨᏪᏎᎵ|||*
+ᏱᏂᏫ|||*
