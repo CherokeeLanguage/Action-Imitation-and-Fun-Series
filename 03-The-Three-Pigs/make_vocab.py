@@ -146,6 +146,8 @@ def main() -> None:
         (term, pronounce, break_down, definition) = entries[term]
         if definition:
             continue
+        if term in previous_entries:
+            continue
         entries_text.append(f"{term}|{pronounce}|{break_down}|{definition}")
 
     # second add entries in ascending order with definitions

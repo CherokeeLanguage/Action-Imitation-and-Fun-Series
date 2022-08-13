@@ -1,174 +1,10 @@
 # Na-Anijoi-Wesa-Anida.lyx
 # ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳ ㉑ ㉒ ㉓ ㉔ ㉕ ㉖ ㉗ ㉘ ㉙ ㉚ ㉛ ㉜ ㉝ ㉞ ㉟ ㊱ ㊲ ㊳ ㊴ ㊵ ㊶ ㊷ ㊸ ㊹ ㊺ ㊻ ㊼ ㊽ ㊾ ㊿
 Syllabary|Pronounce|Breakdown|Definition
-ᏗᎵᏰᏑᎶ|||
-ᏙᎩᎾᎠ|||
-ᎠᎵᏰᏑᎶᏍ|||
-ᏣᎾᎠ|||
-ᏗᎵᏰᏑᎶᏍ|||
-ᏕᏣᎾᎠ|||
-ᏦᎦᏤᎵ|||
-ᏙᎩᎸᏉᏗ|||
-ᏕᏣᎸᏉᏗᏍ|||
-ᏗᏣᏤᎵ|||
-ᎢᏍᎩᎪᏩᏛᏓ|||
-ᏏᎵᎩ|||
-ᎨᎪᏢᏅᎢ|||
-ᏗᏣᏤᎵᏍ|||
-ᏧᏁᎦ|||
-ᏧᏁᎦᏍ|||
-ᏧᏓᏅᎦᎸᏓ|||
-ᎨᏒ|||
-ᎣᏣᏁᏟᏗᏍᎪ|||
-ᏧᎾᏅᎦᎸᏓᏍ|||
-ᏕᎭᏁᏟᏗᏍᎪᏍ|||
-ᏧᎾᏅᎦᎸᏓ|||
-ᏙᏳᎯ|||
-ᏧᎾᏓᏅᎦᎸᏓ|||
-ᏚᏓᏅᎦᎸᏓ|||
-ᎠᏆᏛᏅᎢ|||
-ᏗᏆᏤᎵ|||
-ᏗᎦᏓᎭ|||
-ᏄᎾᎵ|||
-ᏍᏓ|||
-ᏁᎸᎾ|||
-ᎢᏣ|||
-ᏁᏟ|||
-ᏔᏅᎭ|||
-ᏓᏲᏣᏁᏟᏔᏂ|||
-ᏄᏂᏪᏎ|||
-ᎤᎾᎵᏍᏓᏁᎰᏍ|||
-ᏙᏨᎩᎶᏍᎪᏍ|||
-ᎬᏓᏳᎾᎵᏍᏓᏁᎵ|||
-ᏙᏓᏲᏨᎩᎶᎢ|||
-ᏒᏙᏂᎯ|||
-ᏗᎬᏩᏅᎩᎶᏍᏗᏍ|||
-ᏗᎬᏩᏅᎩᎶᏍᏗ|||
-ᏦᎬᎩᎶᏍᏗ|||
-ᏛᏂᎸᏂ|||
-ᏗᎵᏰᏑᎶᎯ|||
-ᎣᏝ|||
-ᎠᏂᏝᎲᏍᎨᏍᏗ|||
-ᏙᏛᎾᏍᎪᎵᏰᎢᎶᎢ|||
-ᏙᏛᎾᎵᏢᏓᏂ|||
-ᎤᏟᎧ|||
-ᎨᎦᏍᎪᎵᏰᎢᎶᎥᎢ|||
-ᎨᎦᎵᏢᏓᏂᎶᎥᎢ|||
-ᏛᎾᏛᏁᎵ|||
-Ꮧ|||
-ᎵᏰᏑᎶ|||
-ᏙᏛᏂᎧᏲᏔᏂ|||
-ᏙᏛᎾᏛᏂ|||
-ᎤᏂᎧᏲᎯᏍᏗ|||
-ᎠᎦᎵᏍᎬ|||
-ᏍᏕᏱᏓ|||
-ᎠᎾᏓᎠ|||
-ᏛᏂᎧᏲᏏ|||
-ᎠᎾᏓᎡᏍᏗ|||
-ᏍᏕᏱᏓᎢ|||
-ᎠᏂ|||
-ᏩᏘᏰᎵ|||
-ᏥᏍᏆ|||
-ᏱᎦᏬᏂᎭ|||
-ᏱᎦᏃᏍᎦ|||
-ᎤᏬᏂᎯᏍᏗ|||
-ᎤᎸᏉᏗ|||
-ᎤᏃᏍᎩᏍᏗ|||
-ᏓᏥᏪᏢᏂ|||
-Ꭾ|||
-ᏙᏓᏥᏃᏍᎩᏏ|||
-ᏙᏓᎬᏍᎦᎸᏂ|||
-ᏗᎩᏁᏍᏗ|||
-ᏂᏓᎦᏥᏪᏎᎵ|||
-ᏍᏆᏛᎬᎦ|||
-ᏂᎦᏥᏪᏒᎢ|||
-ᏙᏓᏥᏁᏏ|||
-ᎢᏥᏪᏌ|||
-ᎢᏥᏓ|||
-ᎣᏏ|||
-ᏕᎯᎪᏩᏘᎭᏍ|||
-ᏕᏥᎪᏩᏘᎭ|||
-ᏕᏨᎩᎶᏍᎬ|||
-ᏥᎪᏩᏔ|||
-ᏕᏣᏛᎥᏍᎬ|||
-ᎨᎪᏢᏁ|||
-ᎤᏰᏘᏎ|||
-ᏣᏰᏘᏍᎦ|||
-ᎦᎵᎡᎵᎦᏊ|||
-ᏄᏪᏎ|||
-ᎤᏝᏫᏛᎮᎢ|||
-ᎤᏬᎵᏗ|||
-ᏞᏍᏗ|||
-ᏥᏤᎾ|||
-ᎤᏲᎢ|||
-ᏧᏃᏍᎩᏍᏗ|||
-ᏧᏩᏍᎦᎸᏗ|||
-ᏚᏃᏍᎩᏎ|||
-ᏙᏛᏛᏁᎵ|||
-ᎦᏌᎾᎵ|||
-ᎤᏝᏫᏛᎮ|||
-ᏚᏁ|||
-ᎦᏌᎾᎵᎢ|||
-ᏙᏛᏂᎪᎯ|||
-ᏱᏓᏂᏩᏔ|||
-ᏘᎪᏩᏔ|||
-ᏍᏕᏱᏓᎢᏍ|||
-ᎤᎾᏣᎠ|||
-ᏙᎩᏲᎱᏏ|||
-ᏕᏥᏲᎱᏏ|||
-ᎠᎾᏠᏱᎮ|||
-ᎢᏥᏲᎢ|||
-ᏕᏥᏲᎱᏏᏍ|||
-ᏕᏨᎩᎶᏣ|||
-ᏒᏙᏂᎯᏧ|||
-ᏕᏣᏛᎥᎦ|||
-ᏍᏕᏱᏓᎢᏧ|||
-ᏕᏣᏍᎪᎵᏰᎢᎶᏣ|||
-ᏕᏥᏝᎲᎦ|||
-ᏕᏣᎵᏟᏓ|||
-ᏲᎦᏅᏔ|||
-ᏕᏣᎵᏏᏅᏔᏅᎭ|||
-ᏄᎾᎵᏍᏔᏅᎾ|||
-ᎢᏣᏛᏁᎸᎭ|||
-ᏥᏙᏥᏲᎱᏏ|||
-ᎢᏥᏲ|||
-ᎤᏂᏲ|||
-ᏱᎦᏥᎸᏉᏙ|||
-ᎨᎵᏍᏘᎩ|||
-ᏱᏓᏥᎯ|||
-ᏗᎨᎵᏍᏘᎩ|||
-ᏙᏥᎸᏉᏙ|||
-ᏝᏍᎪ|||
-ᏱᏓᏲᎩᎯ|||
-ᎤᏩᏍᎦᎸᏗ|||
-ᏚᏂᏲᎱᏎᎴ|||
-ᎠᎾᎴᏅᎮ|||
-ᎣᏥᏍᎦᎭ|||
-ᏱᏙᏓᏥᎯ|||
-ᏙᏥᏯᎷᎦ|||
-ᏙᏓᏲᎩᏯᎸᏏ|||
-ᏦᎩᏯᎸᏍᏗ|||
-ᏦᎩᏯᏍᏗ|||
-ᏒᏙᏂᎯᏍ|||
-ᏙᎩᏯᎸᏒᎭ|||
-ᏱᎩ|||
-ᏯᎾᏓᎠ|||
-ᎤᏰᏘᏍᎦ|||
-ᎤᏅᏔ|||
-ᏦᎩᏩᏛᏗ|||
-ᏙᏓᏲᏥᏩᏛᎯ|||
-ᏱᏙᏓᏲᏥᏩᏛᎯ|||
-ᎦᏍᎩᎶᎢ|||
-ᎠᎩᏠᏒᏍᏗᎢ|||
-ᏗᎦᏍᎩᎶᎢ|||
-ᎧᏁᏌᎢ|||
-ᏧᎸᏗᏍ|||
-ᏕᏥᎸᏁᏍ|||
-ᏱᏙᎩᎸᎥᎦ|||
-ᎠᏛᏁᏗ|||
 ᏱᏙᏥᏯᎴᎨᏍᏗ|||
 ᎦᏍᎩᎶᎢᏍ|||
 ᏕᏥᎲᎦᏍ|||
+ᎦᏍᎩᎶᎢ|||
 ᏱᏗᏥᎲᎦ|||
 ᏙᏓᏥᏯᎵ|||
 ᏕᎦᎵᏗᎯᏍ|||
@@ -177,8 +13,12 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎠᏯᏔᎾᎸᎢ|||
 ᎤᎾᎩᎳᏍ|||
 ᎠᏯᏔᎾᎸ|||
+ᎢᏥᏪᏌ|||
+ᎢᏥᏓ|||
+ᎠᏛᏁᏗ|||
 ᎤᎾᎩᎳ|||
 ᏒᏙᏂᎢ|||
+ᏗᎦᏍᎩᎶᎢ|||
 ᏯᎾᏯᎠ|||
 ᏳᎾᎩᎳ|||
 ᏂᏦᏥᏩᏛᎲᎾ|||
@@ -187,6 +27,7 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏡᎬᎢ|||
 ᎤᏂᎸᏎ|||
 ᎢᎦᏘ|||
+ᎦᏌᎾᎵᎢ|||
 ᎣᏥᎪᏩᏘᎭ|||
 ᎢᏗᎪᎱᎦ|||
 ᎤᏂᏯᎸᏎ|||
@@ -198,10 +39,13 @@ Syllabary|Pronounce|Breakdown|Definition
 Ꮵ|||
 ᏃᏊᏃ|||
 ᏥᏚᏂᏩᏛᎮ|||
+ᎠᎾᏠᏱᎮ|||
+ᎠᎾᎴᏅᎮ|||
 ᏙᏥᏩᏔ|||
 ᏗᏥᏤᎵ|||
 ᏗᏣᎵᏰᏑᎸᎦ|||
 ᏓᏥᎯ|||
+ᎠᎩᏠᏒᏍᏗᎢ|||
 ᎤᏁᏅᏎ|||
 ᏚᎾᎵᏰᏑᎳᏁ|||
 ᏙᏓᏲᏣᎬᏍᏉᎢ|||
@@ -276,6 +120,7 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎢᏨᎪᏛᏗᎭ|||
 ᏓᏓᎵᎪᏂ|||
 ᏓᏕᏅᏏ|||
+ᎢᏍᎩᎪᏩᏛᏓ|||
 ᏚᏘᏅᏎ|||
 ᎠᏰᎵ|||
 ᎤᏍᏓᎦᎸᎢ|||
@@ -283,16 +128,183 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏧᎾᎵ|||
 ᎤᏲᏏᎬᎢ|||
 ᎤᏰᏘᏏᎶᎡ|||
--ᎡᎵ|-e:li||Just did for someone. Just did to someone.
+-ᎥᎾ|||*
+-Ꮝ|||*
+-ᏓᏅᎢ|-hdanv̌:ɂi||Did cause it to do it.
+ᎠᎦᎵᏍᎬ|||The shining of the sun or moon.
+ᎠᎩᎪᎲᎩ|||I saw it. He or she saw me.
+ᎠᎵᏰᏑᎶᏍ|||Is it a glove or mitten?
+ᎠᎾᏓᎠ|||They are hanging.
+ᎠᎾᏓᎡᏍᏗ|||They will be hanging.
+ᎠᎾᏓᎥ|||Their hanging.
+ᎠᎾᏠᏱᎸ|||Their crying.
+ᎠᏂ|① áhni ② áɂni||① Here. ② A strawberry. Strawberries.
+ᎠᏂᎳᎠ|||They are in a container.
 ᎠᏂᏓ|||Young animals.
 ᎠᏂᏔᎵ|||Two.
+ᎠᏆᏛᏅᎢ|||My saying.
+ᎠᏎᎩ||ase̋:gi|Peculiar.
+ᎠᏛᏁ|||He or she is doing it.
 ᎠᏧᏣ|||A boy.
+ᎡᎵᏊ ᏱᎦᏃᏍᎩ|||He or she might steal.
+ᎡᎵᏊ ᏱᎦᏬᏂᎯ|||He or she might speak.
 ᎡᎵᏊ ᏱᏂᏍᎩᏪᏎᎵ||Ᏹ- Ꮒ- ᎢᏍᎩ- ᎤᏪᏒᎢ -ᎡᎵ|You all can utter for us.
 ᎡᎵᏊ ᏱᏂᏨᏪᏎᎵ||Ᏹ- Ꮒ- ᎢᏨ- ᎤᏪᏒᎢ -ᎡᎵ|We can utter for you all.
 ᎡᎵᏊ ᏱᏂᏫ|||You can utter it.
+ᎡᎵᏊ ᏱᏓᎾᎵᎸᎥᎦ||Ᏹ- Ꮥ- ᎠᏂ- ᎠᎵ- ᎯᎸᎥᎦ|They could have been put inside it.
 ᎢᏍᎩᏯᏛᎬᎦᏍ|||Did you all just hear us?
+ᎢᏣᏁᏟᏔᏅᎭ|||You all should or would try.
+ᎢᏥᏝᏅ|||Your putting it on.
+ᎢᏥᏲ|||Y'all are bad.
 ᎢᏨᏪᏎᎵ||ᎢᏨ- ᎤᏪᏒᎢ -ᎡᎵ|We just uttered for you all.
+ᎣᏏ|① o:sí ② ó:si||① Fairly well. ② A stove.
+ᎣᏝ|||Soap.
+ᎣᏣᏁᏟᏗᏍᎪ|||They and I try.
+ᎣᏥᏍᎦᎭ|||They and I are afraid.
+ᎤᎸᏉᏗ|||He or she likes him, her, or it.
+ᎤᎾᏣᎠ|||They are inside it.
+ᎤᏂᎧᏲᎯᏍᏗ|||For them to dry.
+ᎤᏂᏲ|||Bad.
+ᎤᏃᏍᎩᏍᏗ|||For him or her to steal.
+ᎤᏅᏔ|||He or she knows.
+ᎤᏝᏫᏛᎮ|||He or she took off flying.
+ᎤᏝᏫᏛᎮᎢ|||He or she took of flying.
+ᎤᏩᏍᎦᎸᏗ|① uwa:sgahldi ② uwa:sgalv̀:di||① For him or her to hide it. ② For him or her to hide him, her, or something flexible.
+ᎤᏬᎵᏗ|||Funny.
+ᎤᏬᏂᎯᏍᏗ|||For him or her to talk.
+ᎤᏬᏎᎴ|||He or she said to him or her.
+ᎤᏰᏘᏍᎦ|||He or she is laughing.
+ᎤᏰᏘᏎ|||He or she laughed.
+ᎤᏲᎢ|||Bad.
+ᎥᏝ ᏱᏓᏥᎯ|||You all will not have it.
+ᎥᏝ ᏱᏕᏥᏲᎱᏎᎸᎭ|||You should not lose them.
+ᎥᏝ ᏱᏙᎩᎸᏅᎩ|||We did not put them in it.
+ᎥᏝ ᏱᏙᏓᏲᏥᏩᏛᎯ|||We don't find them.
+ᎦᎵᎡᎵᎦᏊ|||I am just happy. I am just thankful.
+ᎦᏌᎾᎵ|||A roof.
+ᎧᏁᏌᎢ|||A box.
+ᎨᎦᎵᏟᏓᏂᎶᎥᎢ||ᎨᏥ- ᎤᎵᏟᏗ -ᏓᏅᎢ -ᎢᎶᎥᎢ|Their boiling over and over.
+ᎨᎦᏍᎪᎵᏰᎢᎶᎥᎢ||ᎨᏥ- ᎤᏍᎪᎵᏰᎥᎢ -ᎢᎶᎥᎢ|Their being rubbed over and over.
+ᎨᎪᏢᏅ|||*
+ᎨᎪᏢᏅᎢ||ᎨᏥ- ᎤᏢᏅᎢ|Their making.
+ᎨᎵᏍᏘᎩ|ge:li̋:stgi||A pie.
+ᎨᏒ|||being
+Ꭽ|||*
+ᎭᏁᏟᏗᏍᎪᏍ|||Do you try?
 ᎻᏳ|||*
+Ꮒ- -ᎥᎾ|||Without.
+ᏂᎦᏥᏪᏒᎢ|||My talking to them.
+ᏂᏓᎦᏥᏪᏎᎵ||Ꮒ- Ꮣ- ᎦᏥ- ᎤᏪᏒᎢ -ᎡᎸᎢ|I will talk to them.
+ᏂᏣᏛᏁᎸᎭ||Ꮒ- ᎢᏥ- ᎤᏛᏁᎸᎢ -ᎥᎭ|You all should do it.
+ᏄᎾᎵᏍᏔᏅᎾ||Ꮒ- ᎤᏂ- ᎤᎵᏍᏔᏅᎢ -ᎥᎾ|Without it happening to them.
+ᏄᎾᎵᏍᏗᏍᎪ|||They become.
+ᏄᏂᏪᏎ|||They uttered.
+ᏄᏪᏎ|||He or she uttered.
+ᏍᏕᏱᏓ|||Rope.
+ᏍᏕᏱᏓᎢ|||The rope place.
+ᏍᏕᏱᏓᏍ|||*
+ᏍᏕᏱᏓᏧ|||*
+ᏏᎵᎩ|① sǐ:lk ② sǐ:lgi||Silk.
+ᏒᏙᏂᏧ|||*
+ᏓᏥᏪᏢᏂ|||① I will joke. ② I will tease.
+ᏓᏲᏣᏁᏟᏔᏂ|||They and I will try.
+ᏕᎯᎪᏩᏘᏍ|||*
+ᏕᏣᎵᏏᏅᏓᏅᎭ||Ꮥ- ᎢᏥ- ᎤᎵᏏᏅᏓᏅᎢ -ᎥᎭ|You all should conserve them.
+ᏕᏣᎵᏟᏓᏅ||Ꮥ- ᎢᏥ- ᎤᎵᏟᏗ -ᏓᏅᎢ|Your boiling of them.
+ᏕᏣᎸᏉᏗᏍ|||Do you like them?
+ᏕᏣᎾᎠ|||You have them.
+ᏕᏣᏍᎪᎵᏰᎢᎶᎥ||Ꮥ- ᎢᏥ- ᎤᏍᎪᎵᏴᎢ -ᎢᎶᎥᎢ|Your repeated rubbing of them.
+ᏕᏣᏛᎥᏍᎬ|||Your hanging them.
+ᏕᏣᏛᏅ|||Your all's hanging of them.
+ᏕᏥᎸᏁᏍ|||Did you all put them inside it?
+ᏕᏥᏲᎱᏏ|||Y'all just lost them.
+ᏕᏥᏲᎱᏏᏍ|||*
+ᏕᏨᎩᎶᏍᎬ|||Your washing of them.
+ᏗᎦᏓᎭ|||Dirty.
+ᏗᎦᏓᎭᏍ|||*
+ᏗᎨᎵᏍᏘᎩ|||Pies.
+ᏗᎩᏁᏍᏗ|||For me to get them.
+ᏗᎬᏩᏂᏩᏛᏗ|||They can find them.
+ᏗᎬᏩᏅᎩᎶᏍᏗ|||They can wash them.
+ᏗᎬᏩᏅᎩᎶᏍᏗᏍ|||*
+ᏗᎵᏰᏑᎶ|||Gloves. Mittens.
+ᏗᎵᏰᏑᎶᏍ|||*
+ᏗᏆᏤᎵ|||My.
+ᏗᏣᏤᎵ|dijaje:li̋:ʔi; dì:jaje:li̋:ʔi||Yours.; Your alls.
+ᏗᏣᏤᎵᏍ|||*
+ᏗᏨᎶᎥ|||Your all's washing of them.
+ᏘᎪᏩᏔ|||Let you see them.
+ᏙᎩᎸᏉᏗ|||They and I like them.
+ᏙᎩᎸᏉᏙ|||They and I like them.
+ᏙᎩᎾᎠ|||They and I have them.
+ᏙᎩᏯᎸᏒᎭᏍ||Ꮥ- ᎣᎩ- ᎤᏩᎸᎢ -ᎥᏒᎢ -ᎥᎭ -Ꮝ|Should we go and look for them?
+ᏙᎩᏲᎱᏎᎸᎩ|||We lost them.
+ᏙᎩᏲᎱᏏ|||They and I just lost them.
+ᏙᏓᎬᏍᎦᎸᏂ|||I will hide them.
+ᏙᏓᏥᏁᏏ|||I will get them.
+ᏙᏓᏥᏃᏍᎩᏏ|||I will steal them.
+ᏙᏓᏲᎩᏯᎸᏏ||Ꮥ- Ꮣ- ᎣᎩ- ᎤᏯᎸᎢ -ᎥᏒᎢ|We will go and look for them.
+ᏙᏓᏲᏥᏩᏛᎯᏍ|||Will we find them?
+ᏙᏓᏲᏨᎩᎶᎢ|||They and I will wash them.
+ᏙᏛᎾᎵᏟᏓᏂ||Ꮥ- Ꮣ- ᎠᏂ- ᎤᎵᏟᏗ -ᏓᏅᎢ|They will boil them.
+ᏙᏛᎾᏍᎪᎵᏰᎢᎶᎢ||Ꮣ- Ꮥ- ᎠᏂ- ᎤᏍᎪᎵᏰᎥᎢ -ᎢᎶᎥᎢ|The will rub them over and over.
+ᏙᏛᎾᏛᏂ|||They will hang them.
+ᏙᏛᏂᎧᏲᏔᏂ|||They will dry them out.
+ᏙᏛᏂᎪᎯ|||They will see them.
+ᏙᏨᎩᎶᏍᎪᏍ|||Do we wash them?
+ᏙᏳᎯ|||Very.
+ᏚᏁ|||He or she set them down.
+ᏚᏂᏲᎱᏎᎴ|||They lost them.
+ᏚᏃᏍᎩᏎ|||He or she stole them.
+ᏛᎾᏛᏁᎵ|||They will do it.
+ᏛᏂᎧᏲᏏ|||They will dry.
+ᏛᏂᎸᏂ|||They will put them in it.
+ᏛᏂᏝᏂ|||They will put it on it.
+Ꮭ ᏯᎾᏓᎠ|||They aren't hanging.
+Ꮭ ᏱᎦᏥᎸᏉᏙ|||I don't like them.
+Ꮭ ᏱᎨᏒ|||Not being.
+Ꮭ ᏱᎩ|||Isn't.
+Ꮭ ᏳᎾᏣᎠ|||They aren't in it.
+ᏝᏍᎪ|||*
+ᏝᏍᎪ ᏱᏓᏲᎩᎯ|||Won't we have it?
+ᏞᏍᏗ||hlè:sdi|Don't.
+ᏣᎾᎠ|||You have it.
+ᏣᏰᏘᏍᎦ|||He or she is laughing.
+ᏥᎪᏩᏔ|||I just saw.
+ᏥᏍᏆ|||A bird. Birds.
+ᏦᎦᏓᏅᎦᎸᏓ||Ꮧ- ᎣᎩ- ᎤᏓᏅᎦᎸᏓ|They and I are clean.
+ᏦᎦᏤᎵ|||Ours.
+ᏦᎩᏩᏛᏗ|||For them and me to find them.
+ᏦᎩᏯᎸᏍᏗ||Ꮧ- ᎣᎩ- ᎤᏯᎸᎢ -ᎥᏍᏗ|For them and me to go and find them.
+ᏦᎩᏯᏍᏗ||Ꮧ- ᎣᎩ- ᎤᏯᏍᏗ|For them and me to look for them.
+ᏧᎾᏠᏱᏍᏗ|||For them to cry.
+ᏧᏁᎦ|||White.
+ᏧᏁᎦᏍ|||*
+ᏧᏃᏍᎩᏍᏗ|||For him or her to steal them.
+ᏧᏓᏅᎦᎸᏓ|ju:danv:galv̋:da||Clean.
+ᏧᏓᏅᎦᎸᏓᏍ|||*
+ᏧᏩᏍᎦᎸᏗ|||For him or her to hide them.
+ᏩᏘᏰᎵ|||A magpie. Magpies.
+ᏫᏙᎩᏯᎷᎦ||Ꮻ- Ꮥ- ᎣᎩ- ᎤᏯᎸᎢ -ᎤᎦ|Let them and me go and look for them.
+ᏫᏙᎩᏱᎦ|||Let them and me look for them.
+ᏫᏤᏓ|||Let you all be about.
+ᏫᏦᏥᎪᏩᏔ|||Let them and me see them.
+ᏯᎾᏓᎠ|||*
+ᏱᎦᏃᏍᎩ|||*
+ᏱᎦᏥᎸᏉᏙ|||*
+ᏱᎦᏬᏂᎯ|||*
+ᏱᎨᏒ|||*
+ᏱᎩ|||*
+ᏱᎾᎾᎵᏍᏗ|||If they become.
 ᏱᏂᏍᎩᏪᏎᎵ|||*
 ᏱᏂᏨᏪᏎᎵ|||*
 ᏱᏂᏫ|||*
+ᏱᏓᎾᎵᎸᎥᎦ|||*
+ᏱᏓᏥᎯ|||*
+ᏱᏓᏲᎩᎯ|||*
+ᏱᏕᏥᏲᎱᏎᎸᎭ|||*
+ᏱᏙᎩᎸᏅᎩ|||*
+ᏱᏙᏓᏥᎯ|||*
+ᏱᏙᏓᏲᏥᏩᏛᎯ|||*
+ᏲᎦᏅᏔ|||They and I don't know.
+ᏳᎾᏣᎠ|||*

@@ -1,3 +1,12 @@
+#!/usr/bin/env bash
+"""true" '''\'
+set -e
+eval "$(${CONDA_EXE:-conda} shell.bash hook)"
+conda activate Action-Imitation-and-Fun-Series
+exec python "$0" "$@"
+exit $?
+''"""
+
 import sys
 from dataclasses import asdict, dataclass
 import os
@@ -145,6 +154,8 @@ def main() -> None:
             continue
         (term, pronounce, break_down, definition) = entries[term]
         if definition:
+            continue
+        if term in previous_entries:
             continue
         entries_text.append(f"{term}|{pronounce}|{break_down}|{definition}")
 
