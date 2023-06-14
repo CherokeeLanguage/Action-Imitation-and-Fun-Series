@@ -187,11 +187,11 @@ The Little Red Hen
 \end_layout
 
 \begin_layout Author
-ᎹᎦᎵ ᎧᏅᏩᏗ
+One Fire Language Services
 \begin_inset Newline newline
 \end_inset
 
-Michael Conrad
+ᏌᏊ ᎠᏥᎳ ᏗᎦᏬᏂᎯᏍᏗ ᏧᏂᎸᏫᏍᏓᏁᎯ
 \end_layout
 
 \begin_layout Standard
@@ -216,22 +216,6 @@ Michael Conrad
 \end_layout
 
 \begin_layout Standard
-\align center
-This work is licensed to you under the 
-\noun on
-Creative Commons Attribution-Share Alike 3.0 United States License
-\noun default
-.
-\end_layout
-
-\begin_layout Standard
-\align center
-
-\size small
-You are free to copy and share this work.
-\end_layout
-
-\begin_layout Standard
 \begin_inset VSpace vfill*
 \end_inset
 
@@ -247,29 +231,27 @@ The Little Red Hen
 \end_layout
 
 \begin_layout Standard
-Second Edition
+Third Edition
 \end_layout
 
 \begin_layout Standard
-\begin_inset Branch smashwords
-inverted 0
-status collapsed
-
-\begin_layout Standard
-Published by Michael Joyner at Smashwords
+Copyright 2023, One Fire Language Services
 \end_layout
 
+\begin_layout Standard
+\begin_inset VSpace defskip*
 \end_inset
 
 
 \end_layout
 
 \begin_layout Standard
-Copyright 2021, Michael Conrad
-\end_layout
-
-\begin_layout Standard
-ISBN: 978-0-000-00000-0
+This work is automatically licensed to you under the 
+\noun on
+Creative Commons Attribution-Share Alike 4.0 International License
+\emph on
+\noun default
+.
 \end_layout
 
 \begin_layout Standard
@@ -283,6 +265,13 @@ ISBN: 978-0-000-00000-0
 \begin_inset CommandInset toc
 LatexCommand tableofcontents
 
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill
 \end_inset
 
 
@@ -384,6 +373,94 @@ mainmatter{}
 \end_inset
 
 
+\end_layout
+
+\begin_layout Chapter*
+Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+\end_layout
+
+\begin_layout Section*
+You are free to:
+\end_layout
+
+\begin_layout Description
+Share — copy and redistribute the material in any medium or format
+\end_layout
+
+\begin_layout Description
+Adapt — remix, transform, and build upon the material for any purpose, even
+ commercially.
+\end_layout
+
+\begin_layout Standard
+The licensor cannot revoke these freedoms as long as you follow the license
+ terms.
+\end_layout
+
+\begin_layout Section*
+Under the following terms:
+\end_layout
+
+\begin_layout Description
+Attribution — You must give appropriate credit, provide a link to the license,
+ and indicate if changes were made.
+ You may do so in any reasonable manner, but not in any way that suggests
+ the licensor endorses you or your use.
+\end_layout
+
+\begin_layout Description
+Share
+\begin_inset space ~
+\end_inset
+
+Alike — If you remix, transform, or build upon the material, you must distribute
+ your contributions under the same license as the original.
+\end_layout
+
+\begin_layout Description
+No
+\begin_inset space ~
+\end_inset
+
+additional
+\begin_inset space ~
+\end_inset
+
+restrictions — You may not apply legal terms or technological measures that
+ legally restrict others from doing anything the license permits.
+\end_layout
+
+\begin_layout Section*
+Notices:
+\end_layout
+
+\begin_layout Standard
+You do not have to comply with the license for elements of the material
+ in the public domain or where your use is permitted by an applicable exception
+ or limitation.
+\end_layout
+
+\begin_layout Standard
+No warranties are given.
+ The license may not give you all of the permissions necessary for your
+ intended use.
+ For example, other rights such as publicity, privacy, or moral rights may
+ limit how you use the material.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace defskip*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+
+\emph on
+Commercial use is permitted.
 \end_layout
 
 \begin_layout Chapter
@@ -3080,7 +3157,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᏓᏂᎦᏛᏁᎵ,
+ᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -5087,7 +5164,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᎾᎯᏳ ᏓᏂᎦᏛᏁᎵ,
+ᎾᎯᏳ ᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -7295,156 +7372,6 @@ filename "vocabulary.lyx"
 \end_inset
 
 
-\end_layout
-
-\begin_layout Chapter
-Creative Commons
-\end_layout
-
-\begin_layout Standard
-
-\size small
-This work is licensed under the 
-\noun on
-Creative Commons Attribution-Share Alike 3.0 United States License
-\noun default
-.
- To view a copy of this license, visit 
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-http://creativecommons.org/licenses/by-sa/3.0/us/
-\end_layout
-
-\end_inset
-
- or send a letter to Creative Commons, 171 Second Street, Suite 300, San
- Francisco, California, 94105, USA.
-\end_layout
-
-\begin_layout Subsection*
-In Summary:
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-The summary is not the license.
- It is simply a handy reference for understanding the license and as such,
- has no legal value.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\size small
-You are free:
-\end_layout
-
-\begin_layout Itemize
-
-\size small
-to Share — to copy, distribute, and transmit the work.
-\end_layout
-
-\begin_layout Itemize
-
-\size small
-to Remix — to adapt the work.
-\end_layout
-
-\begin_layout Standard
-
-\size small
-Under the following conditions:
-\end_layout
-
-\begin_layout Itemize
-
-\size small
-Attribution — You must attribute the work in the manner specified by the
- author or licensor (but not in any way that suggests that they endorse
- you or your use of the work).
-\end_layout
-
-\begin_layout Itemize
-
-\size small
-Share Alike — If you alter, transform, or build upon this work, you may
- distribute the resulting work only under the same or similar license to
- this one.
-\end_layout
-
-\begin_layout Standard
-
-\size small
-With the understanding that:
-\end_layout
-
-\begin_layout Itemize
-
-\size small
-Waiver — Any of the above conditions can be waived if you get permission
- from the copyright holder.
-\end_layout
-
-\begin_layout Itemize
-
-\size small
-Other Rights — In no way are any of the following rights affected by the
- license:
-\size default
-
-\begin_inset Separator latexpar
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-
-\size small
-Your fair dealing or fair use rights;
-\end_layout
-
-\begin_layout Itemize
-
-\size small
-Apart from the remix rights granted under this license, the author's moral
- rights;
-\end_layout
-
-\begin_layout Itemize
-
-\size small
-Rights other persons may have either in the work itself or in how the work
- is used, such as publicity or privacy rights.
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-
-\size small
-Notice — For any reuse or distribution, you must make clear to others the
- license terms of this work.
- The best way to do this is with a link to 
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-http://creativecommons.org/licenses/by-sa/3.0/us/
-\end_layout
-
-\end_inset
-
-.
 \end_layout
 
 \begin_layout Standard
