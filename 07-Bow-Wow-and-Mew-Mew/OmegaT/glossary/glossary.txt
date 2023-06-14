@@ -1,0 +1,5 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
+Mew-mew	ᏪᏌ ᎠᏇᎷᏍᎩ
+Bow-wow	ᎤᏍᏗ ᎩᏟ ᏓᏑᏫᏍᎩ
+Mew-mew	ᎠᏇᎷᏍᎩ
+Bow-wow	ᏓᏑᏫᏍᎩ

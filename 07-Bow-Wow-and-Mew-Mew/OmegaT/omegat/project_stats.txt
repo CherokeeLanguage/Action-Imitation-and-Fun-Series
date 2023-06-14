@@ -1,0 +1,14 @@
+6/13/23 11:08 PM
+Project Statistics
+
+                 	Segments	Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
+Total:           	      43	  293	                   1201	                  1453	     1	
+Remaining:       	      38	  270	                   1096	                  1330	     1	
+Unique:          	      42	  284	                   1170	                  1414	     1	
+Unique Remaining:	      37	  261	                   1065	                  1291	     1	
+
+
+Individual File Statistics:
+
+File Name            	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (w/o spaces)	Remaining Characters (w/o spaces)	Unique Characters (w/o spaces)	Unique Remaining Characters (w/o spaces)	Total Characters (w/ spaces)	Remaining Characters (w/ spaces)	Unique Characters (w/ spaces)	Unique Remaining Characters (w/ spaces)	
+bowwow and mewmew.txt	            43	                38	             42	                       37	        293	            270	         284	                   261	                         1201	                             1096	                          1170	                                    1065	                        1453	                            1330	                         1414	                                   1291	

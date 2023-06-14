@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Get out of my way," said Bow-wow.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230614T030223Z" creationid="Michael Conrad" creationdate="20230614T030223Z">
+        <seg>"Get out of my way," said ᏓᏑᏫᏍᎩ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bow-wow came along.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230614T025114Z" creationid="Michael Conrad" creationdate="20230614T025114Z">
+        <seg>ᎤᏍᏗ ᎩᏟ ᏓᏑᏫᏍᎩ ᎤᎷᏤ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>He snarled at Mew-mew.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230614T025656Z" creationid="Michael Conrad" creationdate="20230614T025656Z">
+        <seg>ᎤᏲ ᏄᏪᏎᎴ ᎠᏇᎷᏍᎩ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mew-mew sat by the fire.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230614T024825Z" creationid="Michael Conrad" creationdate="20230614T024825Z">
+        <seg>ᏪᏌ ᎠᏇᎷᏍᎩ ᎤᏬᏞ ᎠᏥᎳ ᎾᎥ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mew-mew spit at Bow-wow.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230614T030847Z" creationid="Michael Conrad" creationdate="20230614T030847Z">
+        <seg>ᎠᏇᎷᏍᎩ spit at ᏓᏑᏫᏍᎩ.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
