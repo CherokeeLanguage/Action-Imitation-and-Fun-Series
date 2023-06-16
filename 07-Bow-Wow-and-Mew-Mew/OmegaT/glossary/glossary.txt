@@ -1,5 +1,11 @@
 # Glossary in tab-separated format -*- coding: utf-8 -*-
-Mew-mew	ᏪᏌ ᎠᏇᎷᏍᎩ
-Bow-wow	ᎤᏍᏗ ᎩᏟ ᏓᏑᏫᏍᎩ
-Mew-mew	ᎠᏇᎷᏍᎩ
-Bow-wow	ᏓᏑᏫᏍᎩ
+Mew-mew	ᏪᏌ ᎠᏇᎷᏍᎩ	cat the one who has a ribbon in the hair
+Bow-wow	ᎤᏍᏗ ᎩᏟ ᏓᏑᏫᏍᎩ	little dog who is one who barks
+Mew-mew	ᎠᏇᎷᏍᎩ	one who wears a ribbon in the hair
+Bow-wow	ᏓᏑᏫᏍᎩ	one who barks
+said she	ᎤᏛᏁ
+said he	ᎤᏛᏁ
+said	ᎤᏬᏎᎸᎢ	vt said to another
+at	-ᎡᎭ, -ᎡᎸᎢ, -ᎡᎰᎢ, -Ꮟ, -ᎡᎵ, -ᎡᏗ	to... for... past tense - animate+animate only. -Ꮟ imperative, -ᎡᎵ just now
+said	ᎤᏛᏁ	vi
+good-for-nothing	ᏧᎬᏩᎶᏗ ᏂᎨᏒᎾ	value/worth being without
