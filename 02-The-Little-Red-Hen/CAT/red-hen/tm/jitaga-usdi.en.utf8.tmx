@@ -1,0 +1,1135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.9.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This is Chicken Little.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎯᎠ ᏥᏔᎦ ᎤᏍᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Chicken Little is a girl.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏥᏔᎦ ᎤᏍᏗ ᎠᎩᏏ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Chicken Little was wandering about in the woods.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏥᏔᎦ ᎤᏍᏗ ᎢᎾᎨᎢ ᎤᏪᏙᎴ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An acorn fell.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎫᎴ ᎤᏬᎰᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It fell on top of her head.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎠᏍᎪᎵ ᎦᏚ ᎤᏬᎰᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>She did not see the acorn.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꮭ ᎫᎴ ᏳᎪᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"What was that?" she said.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎦᏙ ᎤᏍᏗ?” ᏄᏪᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"Dear me, what was that?"</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“Ꭷ, ᎦᏙ ᎤᏍᏗ?”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"What was that, O sun?" said Chicken Little.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“Ꭷ ᏅᏓ, ᎦᏙ ᎤᏍᏗ?”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"What was that, O wind?" said Chicken Little.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“Ꭷ ᎤᏃᎴ, ᎦᏙ ᎤᏍᏗ?” ᏄᏪᏎ ᏥᏔᎦ ᎤᏍᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"What was that, O tree?" said Chicken Little.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“Ꭷ ᏡᎬ, ᎦᏙ ᎤᏍᏗ?” ᏄᏪᏎ ᏥᏔᎦ ᎤᏍᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"Look and see," said the sun.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎯᏲᎦ ᎠᎴ ᎯᎪᏩᏔ,” ᏅᏓ ᎠᏗᏍᎩ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"Look and see," said the wind.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎯᏲᎦ ᎠᎴ ᎯᎪᏩᏔ,” ᎤᏃᎴ ᎠᏗᏍᎩ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"Look and see," said the tree.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎯᏲᎦ ᎠᎴ ᎯᎪᏩᏔ,” ᏡᎬ ᎠᏗᏍᎩ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"I do not see," said Chicken Little.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎥᏝ ᏱᏥᎪᏩᏘᎭ,” ᏄᏪᏎ ᏥᏔᎦ ᎤᏍᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"What was it?"</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎦᏙ ᎤᏍᏗ?”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Chicken Little did not see what it was.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꮭ ᏥᏔᎦ ᎤᏍᏗ ᎪᎱᏍᏗ ᏳᎪᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"What was it?" she said.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎦᏙ ᎤᏍᏗ ᎨᏎ?” ᏄᏪᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"What was it?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎦᏙ ᎤᏍᏗ ᎨᏎ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tell me, wind.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꭷ ᎤᏃᎴ, ᏍᎩᏃᎲᎳ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tell me, sun.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꭷ ᏅᏓ, ᏍᎩᏃᎲᎳ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tell me, tree.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꭷ ᏡᎬ, ᏍᎩᏃᎲᎳ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tell me what it was."</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎢᏍᎩᏃᎲᎳ Ꮎ ᎪᎱᏍᏗ ᎨᏎ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Then the wind laughed.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎾᎯᏳ ᎤᏃᎴ ᎤᏰᏘᏍᎩ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>And the sun laughed.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏅᏓᏃ ᎤᏰᏘᏍᎩ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>And the tree laughed.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏡᎬᏃ ᎤᏰᏘᏍᎩ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"It was the sky," said the wind.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎦᎸᎳᎶ ᎨᏎ,” ᎤᏃᎴ ᎠᏗᏍᎩ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"It was the sky," said the sun.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎦᎸᎳᎶ ᎨᏎ,” ᏅᏓ ᎠᏗᏍᎩ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"It was the sky," said the tree.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎦᎸᎳᎶ ᎨᏎ,” ᏡᎬ ᎠᏗᏍᎩ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"The sky is falling," said the wind.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎦᎸᎳᎶ ᎪᎰᏍᎦ,” ᎤᏃᎴ ᎠᏗᏍᎩ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"The sky is falling," said the sun.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎦᎸᎳᎶ ᎪᎰᏍᎦ,” ᏅᏓ ᎠᏗᏍᎩ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"The sky is falling," said the tree.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎦᎸᎳᎶ ᎪᎰᏍᎦ,” ᏡᎬ ᎠᏗᏍᎩ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"O dear! O dear!" said Chicken Little.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“Ꭳ ᎯᎠ ᎤᏲ! Ꭳ ᎯᎠ ᎤᏲ!” ᏄᏪᏎ ᏥᏔᎦ ᎤᏍᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"I will go and tell the king."</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎤᎬᏫᏳᎯ ᏓᏥᏃᎮᏢᏏ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>So off flew Chicken Little to tell the king.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎠᎴ ᎤᎬᏫᏳᎯ ᎤᏃᎮᏗ ᎤᏝᏫᏛᎮ ᏥᏔᎦ ᎤᏍᏗ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>She ran and she ran.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎠᏟᏎ ᎠᎴ ᎠᏟᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>She flew and she flew.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎦᏃᎯᎵᏎ ᎠᎴ ᎦᏃᎯᎵᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Dear me," said she.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎯᎠ ᎤᏲ,” ᏄᏪᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"I will go to the king.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎤᎬᏫᏳᎯ ᏓᎨᏅᏏ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>I will go to the king.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎤᎬᏫᏳᎯ ᏓᎨᏅᏏ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>I will tell him what the wind said.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎤᏃᎴ ᎧᏃᎮᏍᎬᎢ ᏓᏥᏃᎮᏟ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>I will tell him what the sun said.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏅᏓ ᎧᏃᎮᏍᎬᎢ ᏓᏥᏃᎮᏟ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>I will tell him what the tree said.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏡᎬ ᎧᏃᎮᏍᎬᎢ ᏓᏥᏃᎮᏟ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The wind said that the sky is falling.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎤᏃᎴ ᎠᏗᏍᎩ ᎨᏎ Ꮎ ᎦᎸᎳᎶ ᎪᎰᏍᎦ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The sun said that the sky is falling.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏅᏓ ᎠᏗᏍᎩ ᎨᏎ Ꮎ ᎦᎸᎳᎶ ᎪᎰᏍᎦ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The tree said that the sky is falling.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏡᎬ ᎠᏗᏍᎩ ᎨᎡ Ꮎ ᎦᎸᎳᎶ ᎪᎰᏍᎦ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>I will tell the king."</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎤᎬᏫᏳᎯ ᏓᏥᏃᎮᏟ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the way Chicken Little met a female chicken.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎾᎯᏳ ᏥᏔᎦ ᎤᏍᏗ ᎠᎴ ᏥᏔᎦ ᎠᎩᏏ ᏓᎾᏠᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"Henny Penny" is the female chicken's name.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᏏᎩᏏ ᎠᎩᏏ” ᏚᏙᎥ ᏥᏔᎦ ᎠᎩᏏ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"Where are you going, Chicken Little?" said Henny Penny.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎭᏢ ᎡᎦ, ᏥᏔᎦ ᎤᏍᏗ?” ᏄᏪᏎ ᏏᎩᏏ ᎠᎩᏏ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"Where am I going?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎭᏢ ᎨᎦ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Why, why, why!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎦᏙ, ᎦᏙ, ᎦᏙ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The sky is falling.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎦᎸᎶ ᎪᎰᏍᎦ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>I go to tell the king."</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎤᎬᏫᏳᎯ ᏥᏃᎮᏞᎴᎦ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"Why, why, why!" said Henny Penny.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎦᏙ, ᎦᏙ, ᎦᏙ!” ᏄᏪᏎ ᏏᎩᏏ ᎠᎩᏏ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"Who told you so?"</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎦᎪ ᏣᏃᎮᏞᎴ?”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"The wind told me.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎤᏃᎴ ᎠᎩᏃᎮᏞᎴ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>And the sun told me.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏅᏓᏃ ᎠᎩᏃᎮᏞᎴ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>And the tree told me.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏡᎬᏃ ᎠᎩᏃᎮᏞᎴ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Why, why, why!"</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎦᏙ, ᎦᏙ, ᎦᏙ!”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"I will go with you, if I may," said Henny Penny.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎢᎾᎵᎪᏅᎭ ᎠᎴ ᎢᏁᏅᏒᎭ,”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"I will go with you to tell the king.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎤᎬᏫᏳᎯ ᏓᏂᏃᎮᏞᎸᏏ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Why, why, why!"</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎦᏙ, ᎦᏙ, ᎦᏙ!”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>And away the two ran.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎠᎴ Ꮎ ᎠᏂᏔᎵ ᎤᎾᎵᏘᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the way they met a male chicken.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎾᎯᏳ Ꮎ ᎠᏂᏔᎵ ᎠᎴ ᏥᏔᎦ ᎠᏨᏯ ᏓᎾᏠᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"Cocky Locky" was his name.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᏨᏨᏯ ᎠᏨᏯ” ᏚᏙᎥ ᏥᏔᎦ ᎠᏨᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"Where are you going, Chicken Little?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎭᏢ ᎮᎪ, ᏥᏔᎦ ᎤᏍᏗ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Where are you going, Henny Penny?" said Cocky Locky.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎭᏢ ᎮᎪ, ᏏᎩᏏ ᎠᎩᏏ?” ᏄᏪᏎ ᏨᏨᏯ ᎠᏨᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"Where are we going?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎭᏢ ᎣᏍᏕᎦ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Why, why, why!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎦᏙ, ᎦᏙ, ᎦᏙ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The sky is falling.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎦᎸᎶ ᎪᎰᏍᎦ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We go to tell the king."</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎤᎬᏫᏳᎯ ᎣᏍᏗᏃᎮᏞᎴᎦ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"Why, why, why!" said Cocky Locky.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎦᏙ, ᎦᏙ, ᎦᏙ!” ᏄᏪᏎ ᏨᏨᏯ ᎠᏨᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"Who told you so?"</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎦᎪ ᏍᏗᏃᎮᏞᎴ?”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"The wind told us.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎤᏃᎴ ᎣᎩᏂᏃᏞᎸ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>And the sun told us.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏅᏓᏃ ᎣᎩᏂᏃᏞᎸ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>And the tree told us.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏡᎬᏃ ᎣᎩᏂᏃᏞᎸ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Why, why, why!"</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎦᏙ, ᎦᏙ, ᎦᏙ!”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"I will go with you, if I may," said Cocky Locky.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᏕᏓᏠᏒᎭ ᎠᎴ ᎢᏕᏅᏒᎭ,” ᏄᏪᏎ ᏨᏨᏯ ᎠᏨᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>" Why, why, why ! "</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎦᏙ, ᎦᏙ, ᎦᏙ!”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>And away the three ran.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎠᎴ Ꮎ ᎠᏂᏦᎢ ᎤᎾᎵᏘᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Then those four met a goose.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎾᎯᏳ Ꮎ ᏅᎩ ᎠᎴ ᏌᏌ ᏓᎾᏠᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Goosey Loosey was its name.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᏏᏏ ᏌᏌ” ᏚᏙᎥ ᎧᏬᏄ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The sky is falling.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎦᎸᎶ ᎪᎰᏍᎦ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We go to tell the king.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎤᎬᏫᏳᎯ ᎣᏥᏃᎮᏞᎴᎦ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We go to tell the king that the sky is falling."</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎦᎸᎶ ᎪᎰᏍᎦ ᎤᎬᏫᏳᎯ ᎯᎠ ᎣᏥᏃᎮᏞᎴᎦ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"Why, why, why!" said Goosey Loosey.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎦᏙ, ᎦᏙ, ᎦᏙ!” ᏄᏪᏎ ᏏᏏ ᏌᏌ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"Who told you so?"</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎦᎪ ᎢᏥᏃᎮᏞᎴ?”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"The wind told us.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎤᏃᎴ ᎣᎩᏃᎮᏞᎸ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>And the sun told us.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏅᏓᏃ ᎣᎩᏃᎮᏞᎸ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>And the tree told us.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏡᎬᏃ ᎣᎩᏃᎮᏞᎸ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Why, why, why!"</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎦᏙ, ᎦᏙ, ᎦᏙ!”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"I will go with you, if I may," said Goosey Loosey.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᏕᏓᎾᏠᏒᎭ ᎠᎴ ᎢᏕᏅᏒᎭ,” ᏄᏪᏎ ᏏᏏ ᏌᏌ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"Why, why, why!"</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎦᏙ, ᎦᏙ, ᎦᏙ!”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>And away the five ran.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎠᎴ Ꮎ ᎯᏍᎩ ᎤᎾᎵᏘᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the way they met a turkey.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎾᎯᏳ Ꮎ ᎯᏍᎩ ᎠᎴ ᎬᎾ ᏓᎾᏠᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Turkey Lurkey was its name.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎬᏌ ᎬᎾ” ᏚᏙᎥ ᎬᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"Where are you going, Chicken Little?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎭᏢ ᎮᎦ, ᏥᏔᎦ ᎤᏍᏗ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Where are you going, Henny Penny?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎭᏢ ᎮᎦ, ᏏᎩᏏ ᎠᎩᏏ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Where are you going, Cocky Locky ?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎭᏢ ᎮᎦ ᏨᏨᏯ ᎠᏨᏯ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Where are you going, Ducky Lucky?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎭᏢ ᎮᎦ ᏌᏬᏄ ᎧᏬᏄ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Where are you going, Goosey Loosey?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎭᏢ ᎮᎦ ᏏᏏ ᏌᏌ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Where are you going?" said Turkey Lurkey.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎭᏢ ᎢᏤᎦ?” ᏄᏪᏎ ᎬᏌ ᎬᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Then those six and a hungry fox met.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎾᎯᏳ Ꮎ ᏑᏓᎵ ᎠᎴ ᎤᏲᏏᏍᎬᎢ ᏧᏟ ᏓᎾᏠᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>“Fox fox” was his name.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᏧᎳ ᏧᏟ” ᏚᏙᎥ ᏧᏟ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>“Where are you going?” said Foxy Loxy.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎭᏢ ᎢᏤᎦ?” ᏄᏪᏎ ᏧᎳ ᏧᏟ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"Where are we going?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎭᏢ ᎣᏤᎦ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Why, why, why!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎦᏙ, ᎦᏙ, ᎦᏙ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The sky is falling.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎦᎸᎶ ᎪᎰᏍᎦ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We go to tell the king."</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎤᎬᏫᏳᎯ ᎣᏥᏃᎮᏞᎴᎦ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"Why, why, why!" said Foxy Loxy.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎦᏙ, ᎦᏙ, ᎦᏙ!” ᏄᏪᏎ ᏧᎳ ᏧᏟ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"Who told you so?"</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎦᎪ ᎢᏥᏃᎮᏞᎴ?”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"The wind told us.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎤᏃᎴ ᎣᎩᏃᎮᏞᎸ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>And the sun told us.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏅᏓᏃ ᎣᎩᏃᎮᏞᎸ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>And the tree told us."</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏡᎬᏃ ᎣᎩᏃᎮᏞᎸ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"I will go with you, if I may," said Foxy Loxy.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᏕᏓᎵᎪᏅᎭ ᎠᎴ ᎢᏕᏅᏒᎭ,” ᏄᏪᏎ ᏧᎳ ᏧᏟ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>And away the seven ran.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎠᎴ Ꮎ ᎦᎵᏉᎩ ᎤᎾᎵᏘᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"Come with me," said the fox.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎢᏓᎵᎪᎲᎦ ᎠᎴ ᎢᏕᎾ,” ᏄᏪᏎ ᏧᎳ ᏧᏟ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"I will show you the way."</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᏄᏍᏗ ᏓᏨᎪᏩᏛᏔᏂ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"Yes," said Chicken Little.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎥᎥ,” ᏄᏪᏎ ᏥᏔᎦ ᎤᏍᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"Yes," said Henny Penny.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎥᎥ,” ᏄᏪᏎ ᏏᎩᏏ ᎠᎩᏏ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"Yes," said Cocky Locky.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎥᎥ,” ᏄᏪᏎ ᏨᏨᏯ ᎠᏨᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"Yes," said Ducky Lucky.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎥᎥ,” ᏄᏪᏎ ᏌᏬᏄ ᎧᏬᏄ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"Yes," said Goosey Loosey.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎥᎥ,” ᏄᏪᏎ ᏏᏏ ᏌᏌ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"Yes," said Turkey Lurkey.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎥᎥ,” ᏄᏪᏎ ᎬᏌ ᎬᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"We will go with you.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᏓᏓᎵᎪᏂ ᎠᎴ ᏓᏕᏅᏏ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Show us the way."</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏄᏍᏗ ᎢᏍᎩᎪᏩᏛᏓ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>So Foxy Loxy led Chicken Little, Henny Penny, Cocky Locky, Ducky Lucky, Groosey Loosey and Turkey Lurkey into the woods.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏃᎴ ᏧᎳ ᏧᏟ ᎥᏍᎩᎾ ᏚᏘᏅᏎ ᎢᎾᎨᎢ ᎠᏰᎵ, ᏥᏔᎦ ᎤᏍᏗ, ᏏᎩᏏ ᎠᎩᏏ, ᏨᏨᏯ ᎠᏨᏯ, ᏌᏬᏄ ᎧᏬᏄ, ᏏᏏ ᏌᏌ, ᎠᎴ ᎬᏌ ᎬᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Foxy Loxy had a cave in the woods.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏧᎳ ᏧᎵ ᎤᏤᎵ ᎤᏍᏓᎦᎸᎢ ᎢᎾᎨᎢ ᎠᏰᎵ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The cave was his home.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꮎ ᎤᏍᏓᎦᎸ ᏧᏪᏅᏒᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>So he led Chicken Little and her friends to the cave.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎤᏍᏓᎦᎸᎢ ᏚᏘᏅᏎ, ᏥᏔᎦ ᎤᏍᏗ ᎠᎴ ᏧᎾᎵ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"O! O! O!" they cried.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“Ꭳ! Ꭳ! Ꭳ!” ᏍᏓᏯ ᏄᏂᏪᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"Where is the king?"</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎭᏢ ᎤᎬᏫᏳᎯ?”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The hungry fox laughed.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꮎ ᎤᏲᏏᎬᎢ ᏧᏟ ᎤᏰᏘᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alas, poor silly Chicken Little!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꭳ, ᎤᏲ ᎤᏬᎵᏗ ᏥᏔᎦ ᎤᏍᏗ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alas, poor silly Henny Penny!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꭳ, ᎤᏲ ᎤᏬᎵᏗ ᏏᎩᏏ ᎠᎩᏏ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alas, poor silly Cocky Locky!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꭳ, ᎤᏲ ᎤᏬᎵᏗ ᏨᏨᏯ ᎠᏨᏯ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alas, poor silly Ducky Lucky!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꭳ, ᎤᏲ ᎤᏬᎵᏗ ᏌᏬᏄ ᎧᏬᏄ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alas, poor silly Goosey Loosey!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꭳ, ᎤᏲ ᎤᏬᎵᏗ ᏏᏏ ᏌᏌ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alas, poor silly Turkey Lurkey!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꭳ, ᎤᏲ ᎤᏬᎵᏗ ᎬᏌ ᎬᎾ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>And the bad fox laughed and laughed.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎠᎴ ᎤᏲᎢ ᏧᏟ ᎤᏰᏘᏏᎶᎡ.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

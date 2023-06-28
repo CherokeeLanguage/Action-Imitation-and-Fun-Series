@@ -1,0 +1,2647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.9.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>a kitten</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏪᏌ ᎠᏓ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>the kitten</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏪᏌ ᎠᏓ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>one kitten</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏌᏊ ᏪᏌ ᎠᏓ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>two kittens</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎠᏂᏔᎵ ᏪᏌ ᎠᏂᏓ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>three kittens</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎠᏂᏦᎢ ᏪᏌ ᎠᏂᏓ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>michael joyner</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>michael joyner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>michael w s joyner</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>michael w s joyner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See the kittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏪᏌ ᎠᏂᏓ ᏘᎪᏩᏔ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They are good kittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎠᏃᏍᏓ ᏪᏌ ᎠᏂᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>One, two kittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏌᏊ, ᎠᏂᏔᎵ ᏪᏌ ᎠᏂᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>One, two, three kittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏌᏊ, ᎠᏂᏔᎵ, ᎠᏂᏦᎢ ᏪᏌ ᎠᏂᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>How do you do, kittens?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎣᏏᏊᏍ, ᎢᏥᏪᏌ ᎢᏥᏓ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Can you talk with us?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎡᎵᏊᏍ ᏱᏂᏕᏍᎩᏫᏏ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>O, yes, we can talk.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꭳ, ᎥᎥ, ᎡᎵᏊ ᏱᏂᏕᏨᏫᏏ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mew, mew, mew!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎻᏳ, ᎻᏳ, ᎻᏳ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Did you hear us?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏕᏍᎩᏯᏛᎬᎦᏍ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We said, "Mew, mew, mew!"</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>"ᎻᏳ, ᎻᏳ, ᎻᏳ!" ᏕᏨᏪᎵ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mew, mew!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎻᏳ, ᎻᏳ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>How do you do?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎣᏏᏊᏍ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Can you talk, little girl?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎡᎵᏊᏍ ᏱᏂᏫ, ᎤᏍᏗ ᎠᎨᏳᏣ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Can you talk, little boy?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎡᎵᏊᏍ ᏱᏂᏫ, ᎤᏍᏗ ᎠᏧᏣ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Can you say mew, mew, mew?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎡᎵᏊᏍ ᎯᎠ ᏱᏂᏫ, "ᎻᏳ, ᎻᏳ, ᎻᏳ"?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>a mitten</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎠᎵᏰᏑᎶ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>the mitten</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎠᎵᏰᏑᎶ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>mittens</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏗᎵᏰᏑᎶ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>the mittens</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏗᎵᏰᏑᎶ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See, little boy.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꮒ, ᎤᏍᏗ ᎠᏧᏣ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See, little girl.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꮒ, ᎤᏍᏗ ᎠᎨᏳᏣ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We have mittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏗᎵᏰᏑᎶ ᏙᎩᎾᎠ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Have you a mitten, too?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎠᎵᏰᏑᎶᏍ ᎥᏍᏊ ᏣᎾᎠ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Have you mittens, too?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏗᎵᏰᏑᎶᏍ ᎥᏍᏊ ᏕᏣᎾᎠ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Have you mittens, little boy?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏗᎵᏰᏑᎶᏍ ᏕᏣᎾᎠ, ᎤᏍᏗ ᎠᏧᏣ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Have you mittens, little girl?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏗᎵᏰᏑᎶᏍ ᏕᏣᎾᎠ, ᎤᏍᏗ ᎠᎨᏳᏣ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We like our mittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏙᎩᎸᏉᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Do you like our mittens?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏗᏥᎸᏉᏗᏍ, ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Let us see your mittens, little girl.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏗᏣᏤᎵ ᏗᎵᏰᏑᎶ ᎢᏍᎩᎪᏩᏛᏓ, ᎤᏍᏗ ᎠᎨᏳᏣ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Let ns see your mittens, little boy.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏗᏣᏤᎵ ᏗᎵᏰᏑᎶ ᎢᏍᎩᎪᏩᏛᏓ, ᎤᏍᏗ ᎠᏧᏣ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We like our mittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏙᎩᎸᏉᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We like your mittens, too.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏗᏣᏤᎵ ᏗᎵᏰᏑᎶ ᎥᏍᏊ ᏙᎩᎸᏉᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Our mittens are silk.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏏᎵᎩ ᎬᏗ ᎨᎪᏢᏅᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Are your mittens silk?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏗᏣᏤᎵᏍ ᏗᎵᏰᏑᎶ ᏏᎵᎩ ᎬᏗ ᎨᎪᏢᏅᎢ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Our mittens are white.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏧᏁᎦ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Are your mittens white?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏧᏁᎦᏍ ᏗᏣᏤᎵ ᏗᎵᏰᏑᎶ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Our mittens are white silk.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏧᏁᎦ ᏏᎵᎩ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Are your mittens white silk?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏧᏁᎦᏍ ᏏᎵᎩ ᏗᏣᏤᎵ ᏗᎵᏰᏑᎶ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We like our silk mittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏦᎦᏤᎵ ᏏᎵᎩ ᏗᎵᏰᏑᎶ ᏙᎩᎸᏉᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Our mittens are clean.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏧᏓᏅᎦᎸᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We try to keep them clean.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎥᏍᎩᎾ ᏧᏓᏅᎦᎸᏓ ᎨᏒ ᎣᏣᏁᏟᏗᏍᎪ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Are your mittens clean?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏧᎾᏅᎦᎸᏓᏍ ᏗᏣᏤᎵ ᏗᎵᏰᏑᎶ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Do you keep them clean?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎢᏣᏁᏟᏗᏍᎪᏍ ᎥᏍᎩᎾ ᏧᎾᏅᎦᎸᏓ ᎨᏒ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See how clean our mittens are!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꮒ ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏙᏳᎯ ᏧᏓᏅᎦᎸᏓ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The clean, white mittens!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏧᎾᏅᎦᎸᏓ ᏧᏁᎦ ᏗᎵᏰᏑᎶ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The clean, white, silk mittens!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏧᎾᏅᎦᎸᏓ ᏧᏁᎦ ᏏᎵᎩ ᏗᎵᏰᏑᎶ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They are clean mittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏗᎵᏰᏑᎶ ᏧᏓᏅᎦᎸᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We are clean kittens, too.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎠᏴ ᎥᏍᏊ ᏧᎾᏓᏅᎦᎸᏓ ᏪᏌ ᎠᏂᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We like to keep our mittens clean.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏚᏓᏅᎦᎸᏓ ᏙᎩᎸᏉᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Hear what I say, little kittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎠᏆᏛᏅᎢ ᎢᏣᏛᎬᎦ, ᏧᎾᏍᏗ ᏪᏌ ᎠᏂᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Try not to soil your mittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏗᏣᏤᎵ ᏗᎵᏰᏑᎶ ᏗᎦᏓᎭ ᏄᎾᎵᏍᏓᏁᎸᎾ ᎢᏣᏁᏟᏔᏅᎭ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"We will try," said the kittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᏓᏲᏣᏁᏟᏔᏂ,” ᏄᏂᏪᏒ ᏪᏌ ᎠᏂᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"We will try to keep them clean.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎥᏍᎩᎾ ᏧᏓᏅᎦᎸᏓ ᎨᏎᏍᏗ ᏓᏲᏣᏁᏟᏔᏂ”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Do you soil your mittens, little boy?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎤᎾᎵᏍᏓᏁᎰᏍ ᏗᏣᏤᎵ ᏗᎵᏰᏑᎶ ᏗᎦᏓᎭ, ᎤᏍᏗ ᎠᏧᏣ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Do you soil your mittens, little girl?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎤᎾᎵᏍᏓᏁᎰᏍ ᏗᏣᏤᎵ ᏗᎵᏰᏑᎶ ᏗᎦᏓᎭ, ᎤᏍᏗ ᎠᎨᏳᏣ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We try to keep our mittens clean.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎪᏣᏤᎵ ᏗᎵᏰᏑᎶ ᏧᏓᏅᎦᎸᏓ ᎨᏎᏍᏗ ᎣᏣᏁᏟᏗᏍᎪ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Do we wash our mittens?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏙᏨᎩᎶᏍᎪᏍ ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Yes, if we soil them.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎥᎥ, ᏗᎦᏓᎭ ᎬᏓᏳᎾᎵᏍᏓᏁᎵ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We shall wash them now.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏃᏊ ᏙᏓᏲᏨᎩᎶᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We shall wash them clean.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎥᏍᎩᎾ ᏧᏓᏅᎦᎸᏓ ᏙᏓᏲᏨᎩᎶᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We shall wash them in the tub."</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏒᏙᏂᎯ ᏙᏓᏲᏨᎩᎶᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Can the kittens wash?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏗᎬᏩᏅᎩᎶᏍᏗᏍ ᏪᏌ ᎠᏂᏓ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>O, yes, they can wash.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꭳ, ᎥᎥ, ᏗᎬᏩᏅᎩᎶᏍᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They can wash their mittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏗᎬᏩᏅᎩᎶᏍᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They will put them in the tub.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏒᏙᏂᎯ ᏛᏂᎸᏂ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They will soap the mittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏗᎵᏰᏑᎶᎯ ᎣᏝ ᎠᏂᏝᎲᏍᎨᏍᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Then they will rub, rub, rub!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎾᎯᏳ ᏙᏛᎾᏍᎪᎵᏰᎢᎶᎢ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They will put soap on the mittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏗᎵᏰᏑᎶᎯ ᎣᏝ ᎠᏂᏝᎲᏍᎨᏍᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Then they will boil the mittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎾᎯᏳ ᏗᎵᏰᏑᎶ ᏙᏛᎾᎵᏢᏓᏂ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See how white the mittens are.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꮒ, ᏗᎵᏰᏑᎶ ᎤᏟᎧ ᏧᏁᎦ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They are white and clean.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎥᏍᎩᎾ ᏧᏁᎦ ᎠᎴ ᏧᏓᏅᎦᎸᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Rub, rub, rub!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎨᎦᏍᎪᎵᏰᎢᎶᎥᎢ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Now the mittens are clean.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏃᏊ ᏗᎵᏰᏑᎶ ᏧᏓᏅᎦᎸᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Boil, boil, boil!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎨᎦᎵᏢᎯᎶᎥᎢ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Now the mittens are white.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏃᏊ ᏗᎵᏰᏑᎶ ᏧᏁᎦ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What will the kittens do now?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎦᏙ ᏃᏊ ᏛᎾᏛᏁᎵ ᏪᏌ ᎠᏂᏓ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They will dry the mittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏗᎵᏰᏑᎶ ᏙᏛᏂᎧᏲᏔᏂ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They will hang them up.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏙᏛᎾᏛᏂ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They will hang them up to dry.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎤᏂᎧᏲᎯᏍᏗ ᏙᏛᎾᏛᏂ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They will hang them out in the sun.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎠᎦᎵᏍᎬ ᏙᏛᎾᏛᏂ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See, the mittens are on the line.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꮒ, ᏗᎵᏰᏑᎶ ᏍᏕᏱᏓ ᎠᎾᏓᎠ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Now they will dry.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏃᏊ ᏛᏂᎧᏲᏏ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They will hang in the sun.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎠᎦᎵᏍᎬ ᎠᎾᏓᎡᏍᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They will hang on the line.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏍᏕᏱᏓᎢ ᎠᎾᏓᎡᏍᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They will dry in the sun.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎠᎦᎵᏍᎬ ᏛᏂᎧᏲᏏ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They will dry on the line.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏍᏕᏱᏓᎢ ᏛᏂᎧᏲᏏ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Here is a magpie.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎠᏂ ᏩᏘᏰᎵ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The magpie is a bird.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏩᏘᏰᎵ ᏥᏍᏆ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The magpie can talk.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏩᏘᏰᎵ ᎡᎵᏊ ᏱᎦᏬᏂᎭ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The magpie can steal.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏩᏘᏰᎵ ᎡᎵᏊ ᏱᎦᏃᏍᎦ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The magpie likes to talk.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏩᏘᏰᎵ ᎤᏬᏂᎯᏍᏗ ᎤᎸᏉᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The magpie likes to steal.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏩᏘᏰᎵ ᎤᏃᏍᎩᏍᏗ ᎤᎸᏉᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The magpie saw the kittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏩᏘᏰᎵ ᏪᏌ ᎠᏂᏓ ᏚᎪᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The magpie saw the mittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏩᏘᏰᎵ ᏗᎵᏰᏑᎶ ᏚᎪᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"I will have some fun," he said.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᏓᏥᏪᏢᏂ,” ᎤᏛᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"O, I will have some fun.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“Ꭳ, ᏓᏥᏪᏢᏂ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ha, ha!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꭾ, Ꭾ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>I will steal the mittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏗᎵᏰᏑᎶ ᏙᏓᏥᏃᏍᎩᏏ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>I will hide them.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏙᏓᎬᏍᎦᎸᏂ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ha, ha!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꭾ, Ꭾ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>How can I get them ?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏗᎩᏁᏍᏗ ᎦᏙ ᏓᎦᏛᏁᎵ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>I will talk to the kittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏪᏌ ᎠᏂᏓ ᏂᏓᎦᏥᏪᏎᎵ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Hear me talk to them.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏍᏆᏛᎬᎦ ᏂᎦᏥᏪᏒᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Then I will get the mittens."</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎾᎯᏳ ᏗᎵᏰᏑᎶ ᏙᏓᏥᏁᏏ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"How do you do, kittens?"</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎣᏏᏊᏧ ᎢᏥᏪᏌ ᎢᏥᏓ?”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"O, how do you do, magpie?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“Ꭳ, ᎣᏏ, ᏂᎯᎾ, ᏩᏘᏰᎵ?”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Do you see our white mittens?"</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏕᎯᎪᏩᏘᎭᏍ ᏦᎦᏤᎵ ᏧᏁᎦ ᏗᎵᏰᏑᎶ?”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"Yes, I see them," said the magpie.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎥᎥ, ᏕᏥᎪᏩᏘᎭ,” ᎤᏛᏁ ᏩᏘᏰᎵ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"They are clean white mittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᏧᏓᏅᎦᎸᏓ ᎠᎴ ᏧᏁᎦ, Ꮎ ᏗᎵᏰᏑᎶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>I saw you wash them.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏕᏨᎩᎶᏍᎬ ᏥᎪᏩᏔ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>I saw you hang them on the line.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏍᏕᏱᏓᎢ ᏕᏣᏛᎥᏍᎬ ᏥᎪᏩᏔ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Are they silk mittens?"</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏏᎵᎩ ᎬᏗ ᎨᎪᏢᏁ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"Yes, they are silk."</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎥᎥ, ᏏᎵᎩ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The magpie laughed.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏩᏘᏰᎵ ᎤᏰᏘᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"Why do you laugh?" said the kittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎦᏙᎲ ᏣᏰᏘᏍᎦ?” ᏄᏂᏪᏎ ᏪᏌ ᎠᏂᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>O, just for fun," said the magpie.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“Ꭳ, ᎦᎵᎡᎵᎦᏊ," ᏄᏪᏎ ᏩᏘᏰᎵ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"Ha, ha, ha!"</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“Ꭾ, Ꭾ, Ꭾ!”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Then the magpie flew away.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎾᎯᏳ ᏩᏘᏰᎵ ᎤᏝᏫᏛᎮᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"What a strange bird!" said the kittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᏥᏍᏆ ᎤᏬᎵᏗ!” ᏄᏂᏪᏎ ᏪᏌ ᎠᏂᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"What a strange magpie!"</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᏩᏘᏰᎵ ᎤᏬᎵᏗ!”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Keep away from the magpie, kittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏩᏘᏰᎵ ᎾᎥ, ᏞᏍᏗ ᏥᏤᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>He is a bad bird.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏥᏍᏆ ᎤᏲᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>He likes to steal mittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏗᎵᏰᏑᎶ ᏧᏃᏍᎩᏍᏗ ᎤᎸᏉᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>He likes to hide mittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏗᎵᏰᏑᎶ ᏧᏩᏍᎦᎸᏗ ᎤᎸᏉᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>So the magpie stole the mittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꮓ, ᏩᏘᏰᎵ ᏗᎵᏰᏑᎶ ᏚᏃᏍᎩᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What will he do with them?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎦᏙ ᎥᏍᎩᎾ ᎬᏗ ᏙᏛᏛᏁᎵ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>He will hide the mittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏗᎵᏰᏑᎶ ᏙᏓᎬᏍᎦᎸᏂ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>He flew to the roof.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎦᏌᎾᎵ ᏗᏜ ᎤᏝᏫᏛᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See where he has put them.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꮒ, ᎤᎿ ᏚᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>He has put them on the roof.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎦᏌᎾᎵᎢ ᏚᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The kittens will not see them.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꮭ ᏙᏛᏂᎪᎯ, Ꮎ ᏪᏌ ᎠᏂᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The kittens can not find them.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꮭ ᏴᎬᏂᏩᏔ, Ꮎ ᏪᏌ ᎠᏂᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See the three kittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎠᏂᏦᎢ ᏪᏌ ᎠᏂᏓ ᏘᎪᏩᏔ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>O, where are our mittens?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꭳ, ᎭᏢ ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Are they on the line?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏍᏕᏱᏓᎢᏍ ᎠᎾᏓᎠ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Are they in the tub?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏒᏙᏂᏍ ᎤᎾᏣᎠ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>O, no, no!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꭳ, Ꮭ, ᎥᏝ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>O, mother, mother!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꭳ, ᎡᏥ, ᎡᏥ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We have lost our mittens !</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᎣᎩᏲᎱᏏ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>O! O! O!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꭳ! Ꭳ! Ꭳ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What, lost your mittens?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎦᏙ? ᏗᏣᏤᎵ ᏗᎵᏰᏑᎶ ᏕᏥᏲᎱᏏ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>O, you little kittens!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꭳ, ᏂᎯ ᎢᏣᏍᏗ ᎢᏥᏪᏌ ᎢᏥᏓ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The kittens began to cry.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏪᏌ ᎠᏂᏓ ᎠᎾᏠᏱᎮ ᎤᎾᎴᏅᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mew, mew, mew!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎻᏳ, ᎻᏳ, ᎻᏳ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>O, we have lost our mittens!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꭳ, ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏙᎩᏲᎱᏏ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>O, you naughty kittens!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꭳ, ᎢᏥᏲᎢ ᎢᏥᏪᏌ ᎢᏥᏓ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You naughty, naughty kittens!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏂᎯ ᎢᏥᏲᎢ ᎢᏥᏪᏌ ᎢᏥᏓ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The kittens began to cry.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏪᏌ ᎠᏂᏓ ᎠᎾᏠᏱᎮ ᎤᎾᎴᏅᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Have you lost your mittens?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏕᏥᏲᎱᏏᏍ ᏗᏣᏤᎵ ᏗᎵᏰᏑᎶ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You naughty kittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎢᏥᏲᎢ ᎢᏥᏪᏌ ᎢᏥᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Yes, we have lost our mittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎥᎥ, ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏙᎩᏲᎱᏏ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>I saw you wash them.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏕᏨᎩᎶᎥ ᎠᎩᎪᎲ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Are they not in the tub?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏒᏙᏂᎯᏧ ᎤᎿ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>I saw you hang them out to dry.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎤᏂᎧᏲᎯᏍᏗ ᏕᏣᏛᏅ ᎠᎩᎪᎲ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Are they not on the line?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏍᏕᏱᏓᎢᏧ ᎤᎿ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>I saw you rub them,</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏕᏣᏍᎪᎵᏰᎢᎶᎥ ᎠᎩᎪᎲ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>I saw you soap them.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏗᎵᏰᏑᎶᎯ ᎣᏝ ᏕᏥᏝᎲᏅ ᎠᎩᎪᎲ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>I saw you boil them.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏚᎾᎵᏢᏓᏅ ᎠᎩᎪᎲ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Where are they now?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎭᏢ ᎥᏍᎩᎾ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mew, mew, mew!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎻᏳ, ᎻᏳ, ᎻᏳ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We do not know.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꮭ ᏲᎦᏅᏔ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>O! O! O!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꭳ! Ꭳ! Ꭳ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We have lost our mittens!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏙᎩᏲᎱᏏ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Our white, silk mittens!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏦᎦᏤᎵ ᏧᏁᎦ ᏏᎵᎩ ᏗᎵᏰᏑᎶ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Our clean, white mittens!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏦᎦᏤᎵ ᏧᏓᏅᎦᎸᏓ ᏧᏁᎦ ᏗᎵᏰᏑᎶ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You should take care of your mittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏗᏣᏤᎵ ᏗᎵᏰᏑᎶ ᏕᏣᎵᏏᏅᏔᏅᎭ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You should keep them clean.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎥᏍᎩᎾ ᏗᎦᏓᎭ ᏄᎾᎵᏍᏔᏅᎾ ᎢᏣᏛᏁᎸᎭ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You should not lose them.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏞᏍᏗ ᏥᏙᏥᏲᎱᏏ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You are naughty kittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏂᎯ ᎢᏥᏲ ᎢᏥᏪᏌ ᎢᏥᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>I do not like naughty kittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎤᏂᏲ ᏪᏌ ᎠᏂᏓ Ꮭ ᏯᎩᎸᏉᏙ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You shall have no pie.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎨᎵᏍᏘᎩ ᎥᏝ ᏱᏓᏥᎯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>O! O! O!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꭳ! Ꭳ! Ꭳ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mew, mew, mew!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎻᏳ, ᎻᏳ, ᎻᏳ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We like pie.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏗᎨᎵᏍᏘᎩ ᏙᏥᎸᏉᏙ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mew, mew, mew!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎻᏳ, ᎻᏳ, ᎻᏳ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Can we have no pie?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏝᏍᎪ ᎨᎵᏍᏘᎩ ᏱᏓᏥᎯ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>O, mother, mother, mother!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꭳ, ᎡᏥ, ᎡᏥ, ᎡᏥ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The naughty magpie stole the mittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꮎ ᎤᏲᎢ ᏩᏘᏰᎵ ᏗᎵᏰᏑᎶ ᏚᏃᏍᎩᏒ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>He flew up to the roof.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎦᏌᎾᎵ ᏗᏜ ᎤᏝᏫᏛᎲ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The magpie is a bird.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏩᏘᏰᎵ ᏥᏍᏆ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>He likes to steal.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎤᏃᏍᎩᏍᏗ ᎤᎸᏉᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>He likes to hide.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎤᏩᏍᎦᎸᏗ ᎤᎸᏉᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Three little kittens,</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎠᏂᏦᎢ ᎤᏍᏗ ᏪᏌ ᎠᏂᏓ,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They lost their mittens,</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏧᎾᏤᎵ ᏗᎵᏰᏑᎶ ᎤᏂᏲᎱᏎᎴ,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>And they began to cry.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎠᎴ ᎠᎾᏠᏱᎮ ᎠᎾᎴᏅᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>O, mother dear, we greatly fear,</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꭳ, ᎡᏥ ᎡᏥ, ᎡᏆ ᎣᏥᏍᎦᎭ,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Our mittens we have lost.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏙᎩᏲᎱᏏ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What, lost your mittens!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎦᏙ, ᏗᏣᏤᎵ ᏗᎵᏰᏑᎶ ᏕᏥᏲᎱᏏ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You naughty kittens!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏂᎯ ᎢᏥᏲᎢ ᎢᏥᏪᏌ ᎢᏥᏓ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Then you shall have no pie.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎾᎯᏳ ᎨᎵᏍᏘᎩ Ꮭ ᏱᏙᏓᏥᎯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Let us hunt for our mittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏙᏥᏯᎷᎦ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"Yes," said the kittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎥᎥ,” ᏄᏂᏪᏎ ᏪᏌ ᎠᏂᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"We will hunt for them.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᏙᎩᏯᎸᏏ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Where shall we hunt?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎭᏢ ᎤᎿ ᏧᏂᏯᎸᏍᏗ?”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Where shall we look for them?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎭᏢ ᎤᎿ ᏧᏂᏯᎸᏍᏗ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shall we look in the tub?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏒᏙᏂᏍ ᎣᎩᏯᎸᏒᎭ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shall we look on the line?"</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏍᏕᏱᏓᏍ ᎣᎩᏯᎸᏒᎭ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No, they are not in the tub.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎥᏝ, ᎥᏍᎩᎾ ᏒᏙᏂᎯ ᏱᎩ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They are not on the line.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎥᏝ, ᎥᏍᎩᎾ ᏍᏕᏱᏓᎢ ᏯᎾᏓᎠ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>O, where can they be?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꭳ, ᎭᏢ ᎾᎿ ᏱᎩ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Where shall we hunt for them?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎭᏢ ᎤᎿ ᏧᏂᏯᎸᏍᏗ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See the magpie!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꮒ, ᎤᎿ ᏩᏘᏰᎵ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See him laugh!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꮒ, ᎤᏰᏘᏍᎦ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>He knows where the mittens are.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎾᎿ ᏗᎵᏰᏑᎶ ᎤᏅᏔ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>He knows!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎤᏅᏔ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>He knows!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎤᏅᏔ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Let us hunt for our mittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏙᏥᏯᎷᎦ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We must find our mittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᎠᏎ ᏧᏂᏩᏛᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Our white, silk mittens!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏦᎦᏤᎵ ᏧᏁᎦ ᏏᎵᎩ ᏗᎵᏰᏑᎶ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shall we find them in the tub?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏒᏙᏂᎯᏍ ᏙᏓᏲᏥᏩᏛᎯ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No, we shall not find them there.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎥᏝ ᎾᎿ ᏱᏙᏓᏲᏥᏩᏛᎯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They are not in the tub.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎥᏝ ᏒᏙᏂᎯ ᏱᎩ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shall we find them on the line?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏍᏕᏱᏓᎢᏍ ᏙᏓᏲᏥᏩᏛᎯ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No, we shall not find them on the line.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎥᏝ ᏍᏕᏱᏓᎢ ᏱᏙᏓᏲᏥᏩᏛᎯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They are not on the line.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎥᏝ ᏍᏕᏱᏓᎢ ᏯᎾᏓᎠ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Where, where are they?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎭᏢ? ᎭᏢ? ᎭᏢ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Let us look on this chair.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎯᎠ ᎦᏍᎩᎶᎢ ᏙᏥᏯᎷᎦ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No, they are not here.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎥᏍᎩᎾ ᎥᏝ ᎠᎭᏂ ᏱᎩ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Let us look on that chair.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꮎ ᎦᏍᎩᎶᎢ ᏙᏥᏯᎷᎦ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No, they are not there.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎥᏍᎩᎾ ᎥᏝ ᎾᎿ ᏱᎩ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Let us look on the stairs.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꮎ ᎠᎩᏠᏒᏍᏗᎢ ᏙᏥᏯᎷᎦ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No, they are not on the stairs.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎠᎩᏠᏒᏍᏗᎢ ᎥᏝ ᎾᎿ ᏱᎩ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>O where are our mittens?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꭳ, ᎭᏢ ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They are not in the tub.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏒᏙᏂᎢ ᎥᏝ ᎾᎿ ᏱᎩ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They are not on the line.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏍᏕᏱᏓᎢ ᎥᏝ ᏯᎾᏓᎠ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They are not on the chairs.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏗᎦᏍᎩᎶᎢ ᎥᏝ ᎾᎿ ᏱᎩ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They are not on the stairs.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎠᎩᏠᏒᏍᏗᎢ ᎥᏝ ᎾᎿ ᏱᎩ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See, here is a box.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꮒ, ᎠᎭᏂ ᎧᏁᏌᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Are the mittens in the box?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏧᎸᏗᏍ ᎧᏁᏌᎢ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Did you put them in the box?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏕᏥᎸᏁᏍ ᎧᏁᏌᎢ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No, we did not put them in the box.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎥᏝ ᎥᏍᎩᎾ ᏱᏙᎩᎸᏅ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Then how could they get into the box?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎦᏙ ᎤᏛᏁᎴ Ꮎ ᎠᎾᎵᏍᏓᏁᎸᎢ ᎧᏁᏌᎢ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It will do no harm to look.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎤᏲᎢ ᏂᎨᏒᎾ ᏦᎩᏯᎸᏍᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They may be in the box.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎥᏍᎩᎾ ᎡᎵᏊ ᎧᏁᏌᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Here is the table.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎠᎭᏂ ᎦᏍᎩᎶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Are the mittens on the table ?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎦᏍᎩᎶᎢᏍ ᏗᎵᏰᏑᎶ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Did you put them on the table?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏕᏥᏅᏍ ᎦᏍᎩᎶᎢ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No, we did not put them on the table.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎥᏝ, ᏱᏙᎩᏅ ᎦᏍᎩᎶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>But we will look for them.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎠᏎᏃ ᏙᏓᏥᏯᎵ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It will do no harm to look.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎤᏲᎢ ᏂᎨᏒᎾ ᏦᎩᏯᎸᏍᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Here is a bag.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎠᎭᏂ ᏕᎦᎵᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Are the mittens in the bag?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏕᎦᎵᏗᎯᏍ ᏗᎵᏰᏑᎶ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It will do no harm to look.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎤᏲᎢ ᏂᎨᏒᎾ ᏦᎩᏯᎸᏍᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Let us look into the bag.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏕᎦᎵᏗᎯ ᏦᏥᏲᎦ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No, the mittens are not there.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏗᎵᏰᏑᎶ ᎥᏝ ᎾᎿ ᏱᎩ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Here is a shelf.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎠᎭᏂ ᎤᏯᏓᎾᎸᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Are the mittens on the shelf?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎤᎾᎩᎳᏍ ᎠᏯᏔᎾᎸ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>O, no, little kittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꭳ, ᎥᏝ, ᎢᏣᏍᏗ ᎢᏥᏪᏌ ᎢᏥᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>How could they get upon the shelf?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎦᏙ ᎠᏛᏁᎭ ᎠᏯᏔᎾᎸ ᎤᎾᎩᎸᏗ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>O dear, dear!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꭳ ᎤᏲᎢ, ᎤᏲᎢ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mew, mew, mew!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎻᏳ, ᎻᏳ, ᎻᏳ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Where are our mittens?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎭᏢ ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They are not in the tub.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎥᏝ ᏒᏙᏂᎢ ᏱᎩ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They are not on the line.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎥᏝ ᏍᏕᏱᏓᎢ ᏯᎾᏓᎠ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They are not on the table.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎥᏝ ᏗᎦᏍᎩᎶᎢ ᏱᎩ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They are not on the chair.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎥᏝ ᏗᎦᏍᎩᎶᎢ ᏱᎩ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They are not in the box.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎥᏝ ᎧᏁᏌᎢ ᏯᎾᏯᎠ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They are not in the bag.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎥᏝ ᏕᎦᎵᏗ ᏯᎾᏯᎠ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They are not on the shelf.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎥᏝ ᎠᏯᏔᎾᎸᎢ ᏳᎾᎩᎳ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We cannot find them.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏃᏥᏩᏛᎲᎾ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mew, mew, mew!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎻᏳ, ᎻᏳ, ᎻᏳ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See the magpie!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꮒ, ᏩᏘᏰᎵ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The naughty magpie!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꮎ ᎤᏲ ᏩᏘᏰᎵ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>He knows! ... He knows!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎤᏅᏔ! ... ᎤᏅᏔ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Poor little kittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎤᏂᏲ ᏧᎾᏍᏗ ᏪᏌ ᎠᏂᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They could not find their mittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏂᏧᏂᏩᏛᎲᎾ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>One day they were up in a tree.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏅᏩᏓᎴ ᎢᎦ ᏡᎬᎢ ᎤᏂᎸᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The tree was as high as the roof.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎦᏌᎾᎵ ᎢᎦᏘ ᎢᏳᏍᏗ ᏡᎬ ᎢᎦᏘ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They saw something on the roof.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎪᎱᏍᏗ ᎦᏌᎾᎵᎢ ᎤᏂᎪᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"I see something!" said Mother Cat.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎪᎱᏍᏗ ᏥᎪᏩᏘᎭ!”, ᏄᏪᏎ ᎤᏂᏥ ᏪᏌ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"We see something!" said the kittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎪᎱᏍᏗ ᎣᏥᎪᏩᏘᎭ!” ᏄᏂᏪᏎ ᏪᏌ ᎠᏂᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"What is it?" said Mother Oat.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎦᏙ ᎤᏍᏗ?” ᏄᏪᏎ ᎤᏂᏥ ᏪᏌ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"What is it?" said the kittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎦᏙ ᎤᏍᏗ?” ᏄᏂᏪᏎ ᏪᏌ ᎠᏂᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"Let us go and see."</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎢᏗᎪᎱᎦ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>So the kittens came down from the tree.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎠᎴ ᏪᏌ ᎠᏂᏓ ᏡᎬ ᎡᎳᏗ ᎤᏂᎸᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They went up on the roof.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎦᏌᎾᎵᎢ ᎦᏚ ᎤᏂᏯᎸᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What do you think was there?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎦᏙ ᎤᏍᏗ ᎮᎵᎠ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What do you think they found?</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎦᏙ ᎤᏍᏗ ᎤᏂᏩᏛᎮ ᎮᎵᎠ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They found their mittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏧᎾᏤᎵ ᏗᎵᏰᏑᎶ ᏚᏂᏩᏛᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The white silk mittens!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꮎ ᏧᏁᎦ ᏏᎵᎩ ᏗᎵᏰᏑᎶ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The clean, white mittens!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꮎ ᏧᏓᏅᎦᎸᏓ ᏗᎵᏰᏑᎶ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>O! O! O!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꭳ! Ꭳ! Ꭳ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mew, mew, mew!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎻᏳ, ᎻᏳ, ᎻᏳ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We have found our mittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏚᏂᏩᏛᎲ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>O, we have found our mittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꭳ, ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏚᏂᏩᏛᎲ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See, we have found our mittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꮒ! ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏚᏂᏩᏛᎲ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Purr-rr-rr !</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏥᏥ-ᏥᏥ-Ꮵ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mew, mew!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎻᏳ, ᎻᏳ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"Good kittens," said Mother Cat.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎢᏦᏍᏓ ᎢᏥᏪᏌ ᎢᏥᏓ,” ᏄᏪᏎ ᎤᏂᏥ ᏪᏌ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Good little kittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎠᏃᏍᏓ ᏧᎾᏍᏗ ᏪᏌ ᎠᏂᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Now when the kittens</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏪᏌᏃ ᎠᏂᏓ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Had found their mittens,</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏧᎾᏤᎵ ᏗᎵᏰᏑᎶ ᏚᏂᏩᏛᎮ,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Then they began to cry.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎾᎯᏳ ᎠᎾᏠᏱᎮ ᎠᎾᎴᏅᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>O, mother dear,</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꭳ, ᎡᏥ ᎡᏥ,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Look here, look here !</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꮒ! Ꮒ! ᎠᏂ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Our mittens we have found.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏙᎩᏩᏛᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Put on your mittens,</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏗᏥᏤᎵ ᏗᎵᏰᏑᎶ ᏗᏣᎵᏰᏑᎸᎦ,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You good little kittens,</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏂᎯ ᎢᏦᏍᏓ ᎢᏣᏍᏗ ᎢᏥᏪᏌ ᎢᏥᏓ,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>And you shall have some pie.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎠᎴ ᎨᎵᏍᏘᎩ ᏓᏥᎯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mew, mew!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎻᏳ, ᎻᏳ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>And you shall have some pie.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎠᎴ ᎨᎵᏍᏘᎩ ᏓᏥᎯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The kittens went up stairs.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏪᏌ ᎠᏂᏓ ᎠᎩᏠᏒᏍᏗᎢ ᎦᎸᎳᏗ ᎤᏁᏅᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The kittens put on their mittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏪᏌ ᎠᏂᏓ ᏧᎾᏤᎵ ᏗᎵᏰᏑᎶ ᏚᎾᎵᏰᏑᎳᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Now, we will wash our faces.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏃᏊ, ᏙᏓᏲᏣᎬᏍᏉᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Now, we will comb our hair.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏃᏊᏃ, ᏙᏓᏲᏣᎵᏔᏬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Now, we will come down stairs.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏃᏊᏃ, ᎠᎩᏠᏒᏍᏗᎢ ᎡᎳᏗ ᏓᏲᏤᏅᏏ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We have found our mittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏙᏥᏩᏛᎲ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We will have some pie.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎨᎵᏍᏘᎩ ᏓᏲᎩᎯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Now, we will sit at the table.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏃᏊ, ᎦᏍᎩᎶᎢ ᏓᏲᏣᎵᎪᏂ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Now, we will sit in our chairs.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏃᏊᏃ, ᏦᎦᏤᎵ ᏗᎦᏍᎩᎶᎯ ᏙᏓᏳᏃᏟ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>O, here is the pie!</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꭳ, ᎨᎵᏍᏘᎩ ᎠᏂ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It is a good pie.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎨᎵᏍᏘᎩ ᎣᏍᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>O, what a good pie!"</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>Ꭳ, ᎨᎵᏍᏘᎩ ᎣᏏᏊ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The magpie saw the pie, too.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏩᏘᏰᎵ ᎨᎵᏍᏘᎩ ᎥᏍᏊ ᎤᎪᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"Give me some pie," he said.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᎨᎵᏍᏘᎩ ᎢᏍᎩᎥᏏ,” ᏄᏪᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"O, no," said the kittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“Ꭳ, Ꮭ,” ᏄᏂᏪᏎ ᏪᏌ ᎠᏂᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"You are a bad bird.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>“ᏣᏲᎢ ᎯᏥᏍᏔ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You stole our mittens.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏦᎦᏤᎵ ᏗᎵᏰᏑᎶ ᏕᏣᏃᏍᎩᏒ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You put them on the roof.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎦᏌᎾᎵᎢ ᏕᏣᏝᏅ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You saw us hunt for them.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᏙᎩᏯᎸᏒᎢ ᏣᎪᎲ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You laughed at us.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎢᏍᎩᏰᏘᏎᎸ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You shall have no pie.</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎨᎵᏍᏘᎩ ᏂᏣᎲᎾ ᎨᏎᏍᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No, no; you shall have, no pie."</seg>
+      </tuv>
+      <tuv xml:lang="chr">
+        <seg>ᎥᏝ, ᎥᏝ; ᎨᎵᏍᏘᎩ ᏂᏣᎲᎾ ᎨᏎᏍᏗ.”</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

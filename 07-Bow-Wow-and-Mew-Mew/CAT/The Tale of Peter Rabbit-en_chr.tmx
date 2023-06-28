@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once upon a time there were four little rabbits, and their names were</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᏌᏊ ᎢᏳᏩᎦᏗ, ᏅᎩ ᎾᏂᎢ ᏧᏂᏍᏗ ᏥᏍᏚ, ᎠᎴ ᎯᎠ ᏚᎾᏙᎡᎢ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Flopsy,</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᎦᏅᏥᏙᎯ,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mopsy,</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᎬᎾᎦᎵᏙᎯ,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cottontail,</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᎠᏥᎸ-ᎦᏂᏓᏓ,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>and Peter.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᎠᎴᏃ ᏈᏘ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They lived with their mother in a sand bank, underneath the root of a very big fir tree.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᏂᎦᏓ ᎠᎴ ᎤᏂᏥ ᎠᏁᎮ ᎥᎿ ᏃᏱ ᎦᏝᏛ, ᎭᏫᎾᏗᏜ ᎤᎾᏍᏓᎥ ᎤᏔᎾ ᎢᏤ ᎠᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>“Now, my dears,” said old Mrs. Rabbit one morning, “You may go into the fields or down the lane, but don't go into Mr. McGregor's garden.”</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᏌᏊ ᏌᎾᎴ ᎯᎠ ᏂᏚᏪᏎᎴ ᎠᏂᏥᏍᏚ, “ᏃᏊᏍ ᎬᏧᎸᏉᏗ, ᎡᎷᏊᏍ ᏱᏤᎾ Ꮎ ᏠᎨᏏ ᏗᏜ ᎠᎴ ᏫᏗᎦᎸᏅᏛᎢ, ᎠᏎᎾ Ꮭ ᏫᏛᏥᏴᏟ Ꮎ ᎠᏍᎦᏯ ᎹᏞᎪ ᎤᏫᏒᏅᎢ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>“Your father had an accident there; he was put in a pie by Mrs. McGregor.”</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᎢᏥᏙᏓ ᎪᎱᏍᏗ ᏥᏄᎵᏍᏓᏁᎸ ᎥᎿᎢ, ᎠᎨᏯ ᎹᏞᎪ ᎨᎵᏍᏗ ᏣᎪᏢᏅᏓᏅᎢ Ꮎ ᎢᏥᏙᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>“Now run along and don't get into mischief.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᎭᏩᏆᏃ ᏫᏓᏣᏁᎶᎸᎦ, ᎠᎴ ᏞᏍᏗ ᏤᏥᏍᎦᏅᏣ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I am going out.”</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᏞᎦ ᏗᎦᏁᎳᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Then old Mrs. Rabbit took a basket and her umbrella, and went through the wood to the baker's.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>Ꮓ ᎠᎨᏯ ᏥᏍᏚ ᎤᏫᏛᎲ ᏔᎷᏣ ᎠᎴ ᎠᏓᏫᏛᏍᏗ ᏚᏫᏛᎮᎢ ᎠᎴ ᎢᎾᎨ ᏗᏜ ᏭᎶᏒ ᎠᎴ ᎦᏚᎲᏍᏗ ᏗᏜ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>She bought a loaf of brown bread and five currant buns.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᎤᏬᏗᎨ ᎦᏚ ᎤᏩᏒ ᎠᎴ ᎯᏍᎩ ᏗᎦᏔᏅ ᎦᏚ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Flopsy, Mopsy, and Cottontail, who were good little bunnies, went down the lane to gather blackberries.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᎦᏅᏥᏙᎯ, ᎦᏅᎦᎵᏗᎯ ᎠᎴ ᎠᏥᎸ ᎦᏂᏓᏓ, Ꮎ ᎤᎾᏓᎾᏓ ᏧᏂᏍᏗ ᏥᏍᏚ ᎨᏒ ᏂᎦᏓ ᏫᎦᎵᏅᏛ ᏭᏂᎶᏒᎢ, ᎧᏄᎦᏟ ᎤᎾᏕᏒᏒᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>But Peter, who was very naughty, ran straight away to Mr. McGregor's garden.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᎠᏎᏃ Ꮎ ᏈᏘ ᎦᎾᎵ ᎨᏒᎢ, ᏥᏳᎩᏗ Ꮎ ᎠᏍᎦᏯ ᎹᏞᎪ ᏥᏫᏒᏅ ᏗᏜ ᏭᎶᏒ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>And squeezed under the gate.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᎭᏫᎾᏗᏜ ᎤᏚᏄᏴᏢ ᎠᏍᏚᏗᎢ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>First he ate some lettuces and some French beans; and then he ate some radishes;</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᎠᎬᏱ ᎨᏒ, ᎦᏲᏟ ᎢᎪᏍᏗ ᎠᎩᏍᏗ ᎤᎬ, ᏃᎴ ᎦᏲᏟ ᎠᏂᎦᎸᏥ ᏚᏯ ᏃᎴ ᎦᏲᏟ ᎦᎳᏗᏍᎩ ᏚᎬᎢ;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>And then, feeling rather sick, he went to look for some parsley.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᏃᎴ, ᎤᏢᏍᏗᏍᎬᎢ ᏄᎵᏓᏁᎲᎢ, ᏗᎪᎯᏍᏙᏗ ᏚᏴᎸᏒᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>But round the end of a cucumber frame, whom should he meet but Mr. McGregor!</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᎠᏎᏃ Ꮎ ᎾᎥᏁᎨᏍᏗ ᎨᏒ ᎦᎦᎹ ᏓᏫᏒ, ᎧᎲᏃ ᏚᎾᏠᏒᎢ, Ꮎ ᎠᏍᎦᏯ ᎹᏞᎪ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mr. McGregor was on his hands and knees planting out young cabbages, but he jumped up and ran after Peter, waving a rake and calling out, “Stop, thief!”</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᎠᏍᎦᏯ ᎹᏞᎪ ᏚᏟᏆᏅᏛᎢ, ᏓᏫᏍᎬᎢ ᏧᎦᏅᏕᎾ, ᎠᏎᏃ ᎤᏟᏍᏗ ᏚᎴᏅ, ᎠᎴ ᎠᏥᎨᎲᏒ ᏈᏘ, ᎦᏟᏐᏙᏗ ᎠᏐᎸᏗᏍᎩ, “ᎭᎴᏫᏍᏓ ᎭᏓᏅᏨᎲᏍᎦ” ᎤᏪᏡᎬ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Peter was most dreadfully frightened; he rushed all over the garden, for he had forgotten the way back to the gate.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᏈᏘ ᏙᏳ ᎤᏍᎦᏍᏓᏁᎸᎢ; ᏂᎬᏢ ᎤᏟᏙᎸ ᏠᎨᏏ, ᎤᏮᎨᏫᏒ ᏭᎶᎯᏍᏗ ᎠᏍᏚᏗ ᏗᏜ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>He lost one of his shoes among the cabbages, and the other shoe amongst the potatoes.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᏌᏊ ᎤᎳᏑᎶ ᎤᏲᏎᎸ Ꮲ ᏧᎦᏅᏕᎾ ᏓᏫᏒᏅᎢ, ᏐᎢᏃ ᏄᎾ ᏓᏫᏒᏅᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>After losing them, he ran on four legs and went faster, so that I think he might have got away altogether if he had not unfortunately run into a gooseberry net, and got caught by the large buttons on his jacket.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᎾᎯᏳᏃ ᎢᏧᎳ ᏚᏲᏎᎳ, Ꮓ ᏅᎩ ᏧᎳᏍᎩ ᎦᏳᏄᎵ ᎤᏓᎾᏍᏓᏅᎢ, ᎠᏓᏅᏖᎲ, ᎡᎷᏊ ᏱᏓᏩᏓᎩᏰ, ᎠᏎᏃ Ꮎ ᏖᎳᏂ ᎠᏏᎳᏛ ᏱᏫᎾᎩᎸᏨᎾ, ᏃᎴ Ꮎ ᎤᏔᎾ ᎤᏛᏛ ᎤᏂᏴᏎᎴ ᎥᎿ ᎤᏌᎴᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It was a blue jacket with brass buttons, quite new.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᏌᎪᏂᎨ ᎨᏎ ᎦᏌᎴᎾ, ᏣᏱ ᏗᎦᏛᎢ, ᏃᎴ ᎠᏤ ᎢᎨᏎᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Peter gave himself up for lost, and shed big tears; but his sobs were overheard by some friendly sparrows, who flew to him in great excitement and implored him to exert himself.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᏈᏘ ᏚᏓᏲᏎᎢ, ᏃᎴ ᎤᎴᏅᎮ ᏍᏓᏯ ᎠᏠᏱᎲᎢ; ᎠᏎᏃ ᎤᎾᏓᎾᏔ ᎠᏂᏥᏆᏯ ᎤᏅᏛᎦᏁ ᎠᏠᏱᎲᎢ ᏭᏂᏃᎯᎶᏒ ᎠᎴ ᎠᏂᏍᏗᏗᏰᏍᎨ ᎤᎵᏘᎵᏗᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mr. McGregor came up with a sieve, which he intended to pop upon the top of Peter; but Peter wriggled out just in time, leaving his jacket behind him.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᎠᏍᎦᏯ ᎹᏞᎪ ᎠᏑᏰᏍᏙᏗ ᎠᏰᎲ, ᎠᏥᏍᏆᎸᏂᏍᏙᏗ ᎤᏰᎸ ᏈᏘ, ᎠᏎᏃ ᏈᏘ ᎡᎷᏊ ᎤᏖᎵᏅᏙᎸ ᏚᏓᎩᏰᎢ, ᎦᏌᎴᎾ ᎤᎯᏰ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>And rushed into the tool shed, and jumped into a can.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᏗᎦᎸᏫᏍᏓᏁᏙᏗ ᏗᎾᎥ ᏭᎶᏒ ᎠᎴ ᏔᎸᎩᏍᏗ ᏭᏣᏅ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It would have been a beautiful thing to hide in, if it had not had so much water in it.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᎤᏙᎯᏳᎠ ᎣᏍᏓ ᏱᎨᏎ ᎠᏗᏍᎦᎸᏗ ᎥᎿᎢ, ᎠᏎᏃ ᎤᎵᏍᏈᏍᏓ ᎠᎹ ᎠᏟᏍᏛ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mr. McGregor was quite sure that Peter was somewhere in the tool shed, perhaps hidden underneath a flower pot.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᎠᏍᎦᏯ ᎹᏞᎪ ᎤᏙᎯᏳ ᎡᎵᏍᎬ Ꮲ ᎠᏯᎥ ᏈᏘ ᎥᎿ ᏗᎦᎶᏫᏍᏓᏁᏗ ᎠᏅᎢ, ᎾᎨ ᎠᏥᎸᏍᎩ ᎦᎸᏗ ᏥᎦᎦᎭ ᎭᏫᎾᏗᏜ ᎤᏗᏍᎦᏝ ᎡᎵᏍᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>He began to turn them over carefully, looking under each.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>Ꮓ ᎤᎴᏅᎲ ᏂᎦᏓ ᏙᎢ ᏌᏊᎭ ᏓᎵᏆᏕᏍᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Presently Peter sneezed---“Kertyschoo!”</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>Ꮓ ᏚᏴᏍᏙᏒ ᏈᏘ, “ᎠᏧ”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mr. McGregor was after him in no time,</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>Ꮓ ᎠᏍᎦᏯ ᎹᏞᎪ ᎤᏟᏍᏗᏊ ᎤᎨᎯᏒ,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>And tried to put his foot upon Peter, who jumped out of a window, upsetting three plants.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᎤᏁᎵᏓᏅ ᎠᎦᎳᏍᏙᏗ ᏈᏘ, Ꮓ ᏦᎳᏂ ᏭᎯᎶᏒ, ᏦᏱᎦ ᏗᏥᎸᏍᎩ ᏚᏩᎧᏬᏅᏓᏅᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The window was too small for Mr. McGregor, and he was tired of running after Peter.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᎤᏍᏗᎩ ᏦᎳᎾ ᎨᏒ ᏭᏓᏄhᏍᏗ ᎠᏍᎦᏯ ᎹᏞᎪ, ᎠᎴ ᏚᏯᏪᎬ ᎠᏥᎨᎯᏙᎲ ᏈᏘ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>He went back to his work.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᏚᎶᏫᏍᏓᏁᎸᏒᏊ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Peter sat down to rest; he was out of breath and trembling with fright, and he had not the least idea which way to go.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᏈᏘ ᎤᎵᏍᏚᏝᏅᎢ, ᏚᏴᏪᎬ, ᏍᏓᏯ ᎧᏬᎸᏕᏍᎬ ᎠᎴ ᎤᏍᎦᏍᏓᏁᎸ ᎤᏩᎾᏫᏍᎬᎢ, Ꮭ ᏳᏩᎾᏖᎢ ᎭᏢ ᏗᏜ ᏭᎶᎯᏍᏗᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Also he was very damp with sitting in that can.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᏃᎴ ᎢᎦᏓᏁ ᎥᎨᎥ Ꮎ ᏔᎷᎩᏍᏗ ᎤᏣᏅ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>After a time he began to wander about, going lippity---lippity---not very fast, and looking all around.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᏞᎩᏃ ᎤᏓᏅᏏᏙᎸᎢᏄᏛᏁᏗ, ᎵᏈᏘ---, ᎵᏈᏘ---, ᎠᏎᏃ Ꮭ ᎦᏳᏄᎵ ᎾᏛᏁᎮ ᎠᎴ ᏂᎦᎥ ᎠᎦᏖᏂᎵᏙᎮᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>He found a door in a wall; but it was locked, and there was no room for a fat little rabbit to squeeze underneath.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᎠᏍᏚᏗ ᎤᏩᏛᎲᎢ ᎥᎿ ᎠᏐᏴ; ᎠᏎᏃ ᏍᏓᏯ ᎠᏍᏚᎥ, ᎠᎴ Ꮭ ᏳᏝᏅᏕ ᎦᎵᏦᎯᏓ ᏥᏍᏚ ᎭᏫᎾᏗᏜ ᎤᏓᏳᏅᏍᏗᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>An old mouse was running in and out over the stone doorstep, carrying peas and beans to her family in the wood.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᎠᎬᏴᎵ ᏥᏍᏕᏥ ᎠᏟᏙᎮᎢ, ᎠᏴᏍᏗᎲ ᎠᎴ ᎥᎬᏃᎪᏥᏙᎮ ᏅᏲ ᎠᎳᏏᏂᏗᎢ, ᏚᏯ ᎠᎴ ᏧᎾᏍᏗ ᏚᏯ ᏓᏴᏍᏗᎲᎢ, ᏏᏓᏁᎸ ᏗᏁᎲ ᎠᏙ ᏫᏓᎲᏍᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Peter asked her the way to the gate, but she had such a large pea in her mouth she could not answer.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᏈᏘ ᎤᏓᏛᏛᏁ ᎭᏢ ᏗᏜ ᎠᏍᏚᏗ ᎨᏒᎢ, ᎠᏎᏃ ᎤᏔᏂ ᎤᏅᏍᎦᎸ ᎤᏍᏗ ᏚᏯ, ᎤᏄᎸᏅ ᎤᏓᏁᏍᏙᏗᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>She only shook her head at him.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᎠᏥᎵᏍᏆᏓᏁᎸᏊ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Peter began to cry.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᏈᏘ ᎤᎴᏅᎲ ᎠᏠᏱᎲᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Then he tried to find his way straight across the garden, but he became more and more puzzled.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᏃᎴ ᏚᏂᏗᏒ ᏠᎨᏏ, ᎠᏎᏃ ᎤᎪᏓ ᎤᎵᏓᏍᏓᏂᏙᎲᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Presently he came to a pond where Mr. McGregor filled his water cans.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᎥᏓᎵ ᏭᎷᏤ, ᎥᎿ ᎠᏍᎦᏯ ᎹᏞᎪ ᎠᎹ ᏧᏟᏍᏙᏗ ᏔᎷᎩᏍᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A white cat was staring at some goldfish; she sat very, very still, but now and then the tip of her tail twitched as if it were alive.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᎤᏁᎦ ᏪᏌ ᏚᎦᏙᏍᏕ ᏓᎶᏂᎨ ᎠᏂᏣᏓ; ᏙᎢ ᎤᏬᏢᎢ, ᎠᏎᏃ ᏳᏓᎭ ᎦᏂᏓᏛ ᎠᏖᎸᎲᏍᏗᎲ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Peter thought it best to go away without speaking to her.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᏓᏤᏝ ᏯᏩᏂᎩᏌ ᎤᏪᎵᏎ ᏈᏘ, ᏄᎵᏃᎮᏓᏓᏅᎾ ᏪᏌ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>He had heard about cats from his cousin, little Benjamin Bunny.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᎪᎱᏍᏗ ᎤᏮᎾ ᏈᏂᏣᎹᏂ ᎤᏃᏎᎸ ᎨᏒ ᏄᎾᏍᏛ ᎠᏂᏪᏌ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>He went back towards the tool-shed, but suddenly, quite close to him, he heard the noise of a hoe.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᏃᎴ ᏭᎶᏎ ᏗᎦᎶᏫᏍᏓᏁᏗ-ᎠᏓᏁᎸᎢ, ᎠᏎᏃ, ᎾᎥ ᎤᏛᎦᏁ ᏗᎦᎶᎩᏍᏙᏗ ᎤᏃᏴᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(scr-r-ritch scratch, scratch, scritch).</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>(ᏍᎵᏗᏥ, ᏍᎳᏔᏥ, ᏍᎳᏔᏥ, ᏍᎵᏘᏥ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Peter scuttered underneath the bushes.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᏈᏘ ᎭᏫᎾᏗᏜ ᎤᏓᏯᏢ ᏭᏕᎵᏨ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>But presently, as nothing happened, he came out, and climbed upon a wheelbarrow, and peeped over.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>Ꮭ ᎪᎱᏍᏗ ᏱᏂᎦᎵᏍᏗᎮᎢ, ᏚᎠᏅᏃᎪᏧᎢ, ᏭᎸᏍᏛᏅ ᎦᏍᏙᏱᏓᏍᏗ, ᎠᎴ ᏭᎦᏔᏁᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The first thing he saw was Mr. McGregor hoeing onions.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᎠᎬᏱ ᏩᏥᎪᎥ ᎠᏍᎦᏯ ᎹᏞᎪ ᏕᎦᎴᏴᏍᎬ ᏒᎩ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>His back was turned towards Peter and beyond him was the gate!</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᎠᏗᏜ ᏭᎦᏛ, ᎠᎴ ᎬᏂᎨᏒ ᎨᏒ ᎠᏍᏚᏗ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Peter got down very quietly off the wheelbarrow, and started running as fast as he could go, along a straight walk behind some black currant bushes.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᏈᏘᏃ ᏙᎢ ᎤᏠᏒ ᎦᏍᏙᏱᏓᏍᏗ ᎠᎴ ᎤᏟᏍᏗ ᎤᏓᎾᏍᏓᏅᎢ, ᏥᏳᎦᏗ ᎦᎶᎯᏍᏗ ᎣᏂᏗᏢ ᏗᎬᏂᎨ ᏗᎦᏔᏅ ᏚᏓᏯᏢᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mr. McGregor caught sight of him at the corner, but Peter did not care.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᎠᏍᎦᏯ ᎹᏞᎪ ᎠᏥᎪᏩᏛᏓᏁᎢ (ᏈᏘ), ᎠᏎᎾ ᏈᏘ ᏝᎪᎱᏍᏗ ᏰᎵᏍᎨᏃ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>He slipped underneath the gate, and was safe at last in the wood outside the garden.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᎭᏫᎾᏗᏜ ᎤᏓᏄᏴᏢ ᎠᏍᏚᏗ ᎠᎴ ᏂᎦᏂᏰᎬᎾ ᏭᎶᏒ ᎢᎾᎨᏃ ᏗᏜ, ᎤᏅᎪᏨ ᎨᏒ ᏠᎨᏏ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mr. McGregor hung up the little jacket and the shoes for a scarecrow to frighten the blackbirds.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᎠᏍᎦᏯ ᎹᏞᎪ ᏚᏛᏅ Ꮎ ᎤᏍᏗ ᎦᏌᎴᎾ ᎠᎴ ᏗᎳᏑᎶ ᎥᎿ ᎪᎦ ᏗᏍᎦᏓᏁᏙᏗᎢ, ᏃᎴ ᏗᏍᎦᏍᏓᏁ ᎠᏂᎬᎿᎨ ᏥᏍᏆ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Peter never stopped running or looked behind him till he got home to the big fir tree.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᏈᏘ ᏝᏃ ᏳᎴᏫᏍᏓᏁ ᎠᏟᏒ ᎠᎴ ᏳᎦᏔᎲᏎᎢ, ᎬᏂᎩᎳ ᏧᏪᏅᏒ ᏭᎷᏣ, ᎥᎿ ᎤᏔᎾ ᎢᏤ-ᎠᏓ ᏧᏪᏅᏒᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>He was so tired that he flopped down upon the nice soft sand on the floor of the rabbit hole, and shut his eyes.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᎤᏙᎯᏳᏃ ᏚᏴᏪᎨᎢ, ᎤᎵᏥᏅ ᎥᎿ ᏩᎾ ᏃᏱ ᎤᏂᏔᎴᏒᎢ, ᎠᎴ ᏚᎦᏔᏍᏓᏅᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>His mother was busy cooking; she wondered what he had done with his clothes.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᎤᏥ Ꮓ ᎠᏓᏍᏓᏴᎲᏍᎨ; ᎦᏙᏃ ᎡᎵᏍᎬ ᏂᏚᏮᏁᎸ ᏧᎾᏬᎯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It was the second little jacket and pair of shoes that Peter had lost in a fortnight!</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᎥᏍᎩᎾᏃ ᏔᎵ ᏒᎾᏙᏓᏩᏍᎩ ᎤᏍᏗ ᎤᏌᎴᎾ ᎠᎴ ᏧᎳᏑᎶ ᏧᏲᏎᎸᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I am sorry to say that Peter was not very well during the evening.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᏝᏃ ᎣᏍᏓ ᏳᏓᏅᏖ ᏈᏘ ᎾᎯᏳ ᎤᏒᏗᏜ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>His mother put him to bed, and made some camomile tea; and she gave a dose of it to Peter!</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᏩᏥᏂᏏᏅ ᎠᎴ ᎤᎦᎶᎩ ᎠᎦᏅ ᎤᏬᏢᏅ; ᎦᏲᏟ ᎠᏥᏅᏁᎸ ᏈᏘ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>“One tablespoonful to be taken at bedtime.”</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>“ᏌᏊ ᎧᎵ ᏗᏙᏗ ᎠᏗᏔᏍᏗ ᏱᏣᏢᏁᏌ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>But Flopsy, Mopsy, and Cottontail had bread and milk and blackberries for supper.</seg>
+      </tuv>
+      <tuv xml:lang="chr" creationid="OmegaT Aligner" creationdate="20230628T002655Z">
+        <seg>ᎠᏎᏃ ᎦᏅᏥᏙᎯ, ᎦᏅᎦᎵᏙᎯ ᎠᎴ ᎠᏥᎸ-ᎦᏂᏓᏓ, ᎦᏚ ᎠᎴ ᎤᏅᏗ ᏃᎴ ᎧᏄᎦᏟ ᎤᏂᎬ ᏒᎯᏰᏱ ᎠᎵᏍᏓᏴᏗ.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
