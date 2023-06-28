@@ -1,0 +1,20 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
+made	ᎪᏢᏔᏅ	[?gotlv́htanv̋] made from, made with (single) POSTFIX
+make	ᎪᏢᏔᏅ	[?gotlv́htanv̋] made from, made with  (single) POSTFIX
+made	ᏗᎪᏢᏔᏅ	[?digotlv́htanv̋] made from, made with (plural) POSTFIX
+make	ᏗᎪᏢᏔᏅ	[?digotlv́htanv̋] made from, made with (plural) POSTFIX
+made	ᎪᏢᏔᏅᎯ	[?gotlv́htanv̋hi] made from, made with (single) POSTFIX
+make	ᎪᏢᏔᏅᎯ	[?gotlv́htanv̋hi] made from, made with  (single) POSTFIX
+made	ᏗᎪᏢᏔᏅᎯ	[?digotlv́htanv̋hi] made from, made with (plural) POSTFIX
+make	ᏗᎪᏢᏔᏅᎯ	[?digotlv́htanv̋hi] made from, made with (plural) POSTFIX
+making bread	ᎦᏚᎲᏍᎦ	[gá:du:hv́sga]  (he is) (3rd/present continuous)
+making bread	ᏥᏚᎲᏍᎦ	[jí:du:hv́sga]  (he is) (1st/present continuous)
+made bread	ᎤᏩᏚᏅᎢ	[ù:wá:du:hnv̌:ʔi]  (he is) (3rd/remote past)
+will make bread	ᏓᎦᏚᏂ	[dagá:du:hni]  (he will) (3rd/remote past)
+makes bread	ᎦᏚᎲᏍᎪᎢ	[gá:du:hvsgó:ʔi]  (he is) (3rd/habitual)
+you make bread	ᎯᏚᎲᎦ	[hì:du:hv̀:ga]  (he is) (2nd/immediate)
+for him to make bread	ᎤᏩᏘᏗ	[u:wà:tdi]  (he is) (3rd/deverbal)
+made	ᎤᏬᏢᏅᎢ	[ù:wo:hlv:hnv̌:ʔi]  (he is) (3rd/remote past)
+looks	ᏂᎬᏫᏍᏗ	[nigv:whsdi] Appearance. (rrd)
+appears	ᏂᎬᏫᏍᏗ	[nigv:whsdi] Appearance. (rrd)
+found	ᎤᏩᏛᎲᎢ	[ù:hwahtv:hv̌:ʔi]  (he is) (3rd/remote past)

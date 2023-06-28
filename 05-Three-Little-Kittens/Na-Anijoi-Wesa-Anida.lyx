@@ -1402,7 +1402,7 @@ mainmatter{}
 \paragraph_spacing onehalf
 
 \size largest
-ᎨᎪᏢᏅ ᏏᎵᎩ ᎬᏗ ?
+ᎨᎪᏢᏅ ᏏᎵᎩ ᎬᏗ?
 \begin_inset Quotes erd
 \end_inset
 
@@ -1507,7 +1507,7 @@ mainmatter{}
 \paragraph_spacing onehalf
 
 \size largest
-ᏩᏘᏰᎵ ᎤᏟ ᏫᏤᏓ.
+ᏩᏘᏰᎵ ᎤᏟ ᏫᏤᏓ, ᏪᏌ ᎠᏂᏓ.
 \end_layout
 
 \begin_layout Standard
@@ -1555,7 +1555,7 @@ mainmatter{}
 \paragraph_spacing onehalf
 
 \size largest
-ᎠᎴ ᏩᏘᏰᎵ ᏗᎵᏰᏑᎶ ᏚᏃᏍᎩᏎ.
+ᏃᏊᎴ ᏩᏘᏰᎵ ᏗᎵᏰᏑᎶ ᏚᏃᏍᎩᏎ.
 \end_layout
 
 \begin_layout Standard
@@ -1597,7 +1597,7 @@ mainmatter{}
 \paragraph_spacing onehalf
 
 \size largest
-Ꮭ ᏙᏛᏂᎪᎯ, Ꮎ ᏪᏌ ᎠᏂᏓ.
+Ꮭ ᏱᏙᏛᏂᎪᎯ, Ꮎ ᏪᏌ ᎠᏂᏓ.
 \end_layout
 
 \begin_layout Standard
@@ -1631,7 +1631,7 @@ mainmatter{}
 \paragraph_spacing onehalf
 
 \size largest
-ᎠᏂᏦᎢ ᏪᏌ ᎠᏂᏓ ᏘᎪᏩᏔ.
+ᎠᏂᏦᎢ ᏪᏌ ᎠᏂᏓ ᎦᎯᎪᏩᏔ.
 \end_layout
 
 \begin_layout Standard
@@ -1791,7 +1791,7 @@ mainmatter{}
 \paragraph_spacing onehalf
 
 \size largest
-ᏗᏨᎶᎥ ᎠᎩᎪᎲᎩ.
+ᏕᏨᎩᎶᏍᎬ ᏥᎪᏩᏔ.
 \end_layout
 
 \begin_layout Standard
@@ -1840,7 +1840,7 @@ mainmatter{}
 \paragraph_spacing onehalf
 
 \size largest
-ᎭᏢ ᏗᎵᏰᏑᎶ ᏃᏊ?
+ᎭᏢ ᎥᏍᎩᎾ ᏃᏊ?
 \end_layout
 
 \begin_layout Standard
@@ -1910,7 +1910,7 @@ mainmatter{}
 \paragraph_spacing onehalf
 
 \size largest
-ᏂᎯ ᎤᏂᏲ ᏪᏌ ᎠᏂᏓ.
+ᏪᏌ ᎠᏂᏓ, ᏂᎯ ᎢᏥᏲ.
 \end_layout
 
 \begin_layout Standard
@@ -1994,14 +1994,14 @@ mainmatter{}
 \paragraph_spacing onehalf
 
 \size largest
-ᎤᏃᏍᎩᏍᏗ ᎤᎸᏉᏗ.
+ᎤᏃᏍᎩᏍᏗ ᎤᎸᏉᏙ.
 \end_layout
 
 \begin_layout Standard
 \paragraph_spacing onehalf
 
 \size largest
-ᎤᏩᏍᎦᎸᏗ ᎤᎸᏉᏗ.
+ᎤᏩᏍᎦᎸᏗ ᎤᎸᏉᏙ.
 \end_layout
 
 \begin_layout Standard
@@ -2136,10 +2136,6 @@ mainmatter{}
 
 \size largest
 ᎭᏢ ᏦᎩᏯᎸᏍᏗ?
-\begin_inset Quotes erd
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -2181,7 +2177,7 @@ mainmatter{}
 \paragraph_spacing onehalf
 
 \size largest
-Ꭳ, ᎭᏢ?
+Ꭳ, ᎭᏢ ᎥᏍᎩᎾ?
 \end_layout
 
 \begin_layout Standard
@@ -2320,7 +2316,7 @@ mainmatter{}
 \paragraph_spacing onehalf
 
 \size largest
-ᎭᏢ? ᎭᏢ? ᎭᏢ?
+ᎭᏢ? ᎭᏢ ᎥᏍᎩᎾ?
 \end_layout
 
 \begin_layout Standard
@@ -2390,7 +2386,7 @@ mainmatter{}
 \paragraph_spacing onehalf
 
 \size largest
-ᎥᏝ ᎦᏍᎩᎸ ᏱᎩ.
+ᎥᏝ ᏗᎦᏍᎩᎸ ᏱᎩ.
 \end_layout
 
 \begin_layout Standard
@@ -2454,7 +2450,7 @@ mainmatter{}
 \size largest
 ᎦᏙ ᎠᏛᏁ, ᎧᏁᏌᎢ ᎡᎵᏊ ᏱᏓᎾᎵᎸᎥᎦ?
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -2576,7 +2572,7 @@ Then how could they get into the box?
 \paragraph_spacing onehalf
 
 \size largest
-Ꭳ, ᎥᏝ, ᎢᏣᏍᏗ ᎢᏥᏪᏌ ᎢᏥᏓ.
+Ꭳ, ᎥᏝ, ᏧᎾᏍᏗ ᏪᏌ ᎠᏂᏓ.
 \end_layout
 
 \begin_layout Standard
@@ -2611,7 +2607,7 @@ Then how could they get into the box?
 \paragraph_spacing onehalf
 
 \size largest
-ᎥᏝ ᏒᏙᏂᎢ ᏱᎩ.
+ᎥᏝ ᏒᏙᏂ ᏳᎾᏣᎠ.
 \end_layout
 
 \begin_layout Standard
@@ -2625,7 +2621,28 @@ Then how could they get into the box?
 \paragraph_spacing onehalf
 
 \size largest
-ᎥᏝ ᏗᎦᏍᎩᎶᎢ ᏱᎩ.
+ᎥᏝ ᎦᏍᎩᎶᎢ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎥᏝ ᎧᏁᏌᎢ ᏯᎾᏯᎠ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎥᏝ ᎦᏍᎩᎸᎢ ᏱᎩ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎥᏝ ᏗᎦᏍᎩᎶ ᏱᎩ.
 \end_layout
 
 \begin_layout Standard
@@ -2667,7 +2684,7 @@ Then how could they get into the box?
 \paragraph_spacing onehalf
 
 \size largest
-Ꮒ, ᏩᏘᏰᎵ!
+Ꮒ, ᎤᎿ ᏩᏘᏰᎵ!
 \end_layout
 
 \begin_layout Standard
@@ -2730,7 +2747,7 @@ Then how could they get into the box?
 \paragraph_spacing onehalf
 
 \size largest
-ᏅᏩᏓᎴ ᎢᎦ ᏡᎬᎢ ᎤᏂᎸᏎ.
+ᏏᎦ ᏡᎬᎢ ᎤᏂᎸᏎ.
 \end_layout
 
 \begin_layout Standard
@@ -2810,7 +2827,7 @@ Then how could they get into the box?
 \begin_inset Quotes eld
 \end_inset
 
-ᎢᏗᎪᎱᎦ.
+ᏫᏗᎪᎱᎦ.
 \begin_inset Quotes erd
 \end_inset
 
@@ -2903,7 +2920,7 @@ Then how could they get into the box?
 \paragraph_spacing onehalf
 
 \size largest
-Ꮎ ᏧᏓᏅᎦᎸᏓ ᏗᎵᏰᏑᎶ!
+ᏧᏓᏅᎦᎸᏓ ᏧᏁᎦ ᏗᎵᏰᏑᎶ!
 \end_layout
 
 \begin_layout Standard
@@ -3000,7 +3017,7 @@ Then how could they get into the box?
 \paragraph_spacing onehalf
 
 \size largest
-ᏃᏊᏃ ᏪᏌ ᎠᏂᏓ
+ᏃᏊᎴ ᏪᏌ ᎠᏂᏓ
 \end_layout
 
 \begin_layout Standard
@@ -3049,7 +3066,7 @@ Then how could they get into the box?
 \paragraph_spacing onehalf
 
 \size largest
-ᏂᎯ ᎢᏦᏍᏓ ᎢᏣᏍᏗ ᎢᏥᏪᏌ ᎢᏥᏓ,
+ᏂᎯ ᎠᏃᏍᏓ ᏧᎾᏍᏗ ᏪᏌ ᎠᏂᏓ,
 \end_layout
 
 \begin_layout Standard
@@ -3118,14 +3135,14 @@ Then how could they get into the box?
 \paragraph_spacing onehalf
 
 \size largest
-ᏃᏊᏃ, ᏙᏓᏲᏣᎵᏔᏬᎢ.
+ᏃᏊ, ᏙᏓᏲᏣᎵᏔᏬᎢ.
 \end_layout
 
 \begin_layout Standard
 \paragraph_spacing onehalf
 
 \size largest
-ᏃᏊᏃ, ᎠᎩᏠᏒᏍᏗᎢ ᎡᎳᏗ ᏓᏲᏤᏅᏏ.
+ᏃᏊ, ᎠᎩᏠᏒᏍᏗᎢ ᎡᎳᏗ ᏓᏲᏤᏅᏏ.
 \end_layout
 
 \begin_layout Standard
@@ -3173,7 +3190,7 @@ Then how could they get into the box?
 \paragraph_spacing onehalf
 
 \size largest
-ᏃᏊᏃ, ᏦᎦᏤᎵ ᏗᎦᏍᎩᎶᎯ ᏙᏓᏲᏦᏟ.
+ᏃᏊ, ᏦᎦᏤᎵ ᏗᎦᏍᎩᎶᎯ ᏙᏓᏲᏦᏟ.
 \end_layout
 
 \begin_layout Standard
@@ -3195,6 +3212,10 @@ Then how could they get into the box?
 
 \size largest
 Ꭳ, ᎯᎠ ᎨᎵᏍᏘᎩ ᎣᏏᏊ!
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -3239,7 +3260,7 @@ Then how could they get into the box?
 \begin_inset Quotes eld
 \end_inset
 
-ᏣᏲᎢ ᎯᏥᏍᏆ.
+ᏣᏲᎢ ᏥᏍᏆ.
 \end_layout
 
 \begin_layout Standard
@@ -3274,7 +3295,7 @@ Then how could they get into the box?
 \paragraph_spacing onehalf
 
 \size largest
-ᎨᎵᏍᏘᎩ ᏂᏣᎲᎾ ᎨᏎᏍᏗ.
+ᎨᎵᏍᏘᎩ ᎥᏝ ᏱᏓᏥᎯ.
 \end_layout
 
 \begin_layout Standard
@@ -3534,7 +3555,7 @@ pagestyle{plain}
 \begin_inset Quotes eld
 \end_inset
 
-ᎯᏲᎦ ᎠᎴ ᎯᎪᏩᏔ,
+ᎯᏲᎦ ᎠᎴ ᏘᎪᎯ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -3548,7 +3569,7 @@ pagestyle{plain}
 \begin_inset Quotes eld
 \end_inset
 
-ᎯᏲᎦ ᎠᎴ ᎯᎪᏩᏔ,
+ᎯᏲᎦ ᎠᎴ ᏘᎪᎯ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -3562,7 +3583,7 @@ pagestyle{plain}
 \begin_inset Quotes eld
 \end_inset
 
-ᎯᏲᎦ ᎠᎴ ᎯᎪᏩᏔ,
+ᎯᏲᎦ ᎠᎴ ᏘᎪᎯ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -3608,7 +3629,7 @@ pagestyle{plain}
 \paragraph_spacing onehalf
 
 \size largest
-Ꮭ ᏥᏔᎦ ᎤᏍᏗ ᎪᎱᏍᏗ ᏳᎪᎮ.
+ᏥᏔᎦ ᎤᏍᏗ Ꮭ ᎪᎱᏍᏗ ᏳᎪᎮ.
 \end_layout
 
 \begin_layout Standard
@@ -3786,7 +3807,7 @@ pagestyle{plain}
 \begin_inset Quotes eld
 \end_inset
 
-Ꭳ ᎯᎠ ᎤᏲ! ᎤᏲ ᎤᏲ ᎤᏲ!
+Ꭳ ᎯᎠ ᎤᏲ! Ꭳ ᎯᎠ ᎤᏲ!
 \begin_inset Quotes erd
 \end_inset
 
@@ -3811,7 +3832,7 @@ pagestyle{plain}
 \paragraph_spacing onehalf
 
 \size largest
-ᎠᎴ ᎤᎬᏫᏳᎯ ᎤᏃᎮᏞᏗ ᎤᏝᏫᏛᎮ ᏥᏔᎦ ᎤᏍᏗ.
+ᏃᏊᎴ ᎤᎬᏫᏳᎯ ᎤᏃᎮᏞᏗ ᎤᏝᏫᏛᎮ ᏥᏔᎦ ᎤᏍᏗ.
 \end_layout
 
 \begin_layout Standard
@@ -3996,6 +4017,10 @@ pagestyle{plain}
 
 \size largest
 ᎤᎬᏫᏳᎯ ᏥᏃᎮᏞᎴᎦ.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -4159,13 +4184,6 @@ pagestyle{plain}
 
 \size largest
 ᎭᏢ ᎮᎦ, ᏏᎩᏏ ᎠᎩᏏ?
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing onehalf
-
-\size largest
-ᎭᏢ ᏍᏕᎦ?
 \begin_inset Quotes erd
 \end_inset
 
@@ -4396,7 +4414,7 @@ pagestyle{plain}
 \paragraph_spacing onehalf
 
 \size largest
-ᎾᎯᏳ Ꮎ ᎠᏂᏦᎢ ᎠᎴ ᎧᏬᏄ ᏓᎾᏠᏎ.
+ᎾᎯᏳ Ꮎ ᎠᏂᏦ ᎠᎴ ᎧᏬᏄ ᎠᎩᏏ ᏓᎾᏠᏎ.
 \end_layout
 
 \begin_layout Standard
@@ -4483,42 +4501,7 @@ pagestyle{plain}
 \paragraph_spacing onehalf
 
 \size largest
-ᎾᎯᏳ Ꮎ ᏅᎩ ᎠᎴ ᏌᏌ ᏓᎾᏠᏎ.
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing onehalf
-
-\size largest
-\begin_inset Quotes eld
-\end_inset
-
-ᏏᏏ ᏌᏌ
-\begin_inset Quotes erd
-\end_inset
-
- ᏚᏙᎥ ᏌᏌ.
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing onehalf
-
-\size largest
-ᎦᎸᎶ ᎪᎰᏍᎦ.
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing onehalf
-
-\size largest
-ᎤᎬᏫᏳᎯ ᎣᏥᏃᎮᏞᎴᎦ.
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing onehalf
-
-\size largest
-ᎦᎸᎶ ᎪᎰᏍᎦ ᎤᎬᏫᏳᎯ ᎯᎠ ᎣᏥᏃᎮᏞᎴᎦ.
+ᎤᎬᏫᏳᎯ ᎣᏥᏃᎮᏞᎴᎦ ᎦᎸᎶ ᎪᎰᏍᎦ.
 \begin_inset Quotes erd
 \end_inset
 
@@ -4529,38 +4512,21 @@ pagestyle{plain}
 \paragraph_spacing onehalf
 
 \size largest
-\begin_inset Quotes eld
-\end_inset
-
-ᎦᏙ, ᎦᏙ, ᎦᏙ!
-\begin_inset Quotes erd
-\end_inset
-
- ᏄᏪᏎ ᏏᏏ ᏌᏌ.
+“ᎦᏙ, ᎦᏙ, ᎦᏙ!” ᏄᏪᏎ ᏌᏬᏄ ᎧᏬᏄ.
 \end_layout
 
 \begin_layout Standard
 \paragraph_spacing onehalf
 
 \size largest
-\begin_inset Quotes eld
-\end_inset
-
-ᎦᎪ ᎢᏥᏃᎮᏞᎴ?
-\begin_inset Quotes erd
-\end_inset
-
-
+“ᎦᎪ ᎢᏥᏃᎮᏞᎴ?”
 \end_layout
 
 \begin_layout Standard
 \paragraph_spacing onehalf
 
 \size largest
-\begin_inset Quotes eld
-\end_inset
-
-ᎤᏃᎴ ᎣᎩᏃᎮᏏ.
+“ᎤᏃᎴ ᎣᎩᏃᎮᏏ.
 \end_layout
 
 \begin_layout Standard
@@ -4581,39 +4547,178 @@ pagestyle{plain}
 \paragraph_spacing onehalf
 
 \size largest
-ᎦᏙ, ᎦᏙ, ᎦᏙ!
-\begin_inset Quotes erd
-\end_inset
-
-
+ᎦᏙ, ᎦᏙ, ᎦᏙ!”
 \end_layout
 
 \begin_layout Standard
 \paragraph_spacing onehalf
 
 \size largest
-\begin_inset Quotes eld
-\end_inset
-
-ᏕᏓᎵᎪᏅᎭ ᎠᎴ ᎢᏕᏅᏒᎭ,
-\begin_inset Quotes erd
-\end_inset
-
- ᏄᏪᏎ ᏏᏏ ᏌᏌ.
+“ᏕᏓᎵᎪᏅᎭ ᎠᎴ ᎢᏕᏅᏒᎭ,” ᏄᏪᏎ ᏌᏬᏄ ᎧᏬᏄ.
 \end_layout
 
 \begin_layout Standard
 \paragraph_spacing onehalf
 
 \size largest
-\begin_inset Quotes eld
+“ᎤᎬᏫᏳᎯ ᏓᏂᏃᎮᏞᎸᏏ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎦᏙ, ᎦᏙ, ᎦᏙ!”
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎠᎴ Ꮎ ᏅᎩ ᎤᎾᎵᏘᏎ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Newpage clearpage
 \end_inset
 
+ᎾᎯᏳ ᎥᏍᎩᎾ ᎠᎴ ᏌᏌ ᎠᏨᏯ ᏓᎾᏠᏎ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+“ᏏᏏ ᏌᏌ” ᏚᏙᎥ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+“ᎭᏢ ᎮᎦ, ᏥᏔᎦ ᎤᏍᏗ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎭᏢ ᎮᎦ, ᏏᎩᏏ ᎠᎩᏏ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎭᏢ ᎮᎦ, ᏨᏨᏯ ᎠᏨᏯ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎭᏢ ᎮᎦ, ᏌᏬᏄ ᎧᏬᏄ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎭᏢ ᎢᏤᎦ?” ᏄᏪᏎ ᏏᏏ ᏌᏌ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+“ᎭᏢ ᎣᏤᎦ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
 ᎦᏙ, ᎦᏙ, ᎦᏙ!
-\begin_inset Quotes erd
-\end_inset
+\end_layout
 
+\begin_layout Standard
+\paragraph_spacing onehalf
 
+\size largest
+ᎦᎸᎶ ᎪᎰᏍᎦ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎤᎬᏫᏳᎯ ᎣᏥᏃᎮᏞᎴᎦ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎤᎬᏫᏳᎯ ᎣᏥᏃᎮᏞᎴᎦ ᎦᎸᎶ ᎪᎰᏍᎦ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+“ᎦᏙ, ᎦᏙ, ᎦᏙ!” ᏄᏪᏎ ᏏᏏ ᏌᏌ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+“ᎦᎪ ᎢᏥᏃᎮᏞᎴ?”
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+“ᎤᏃᎴ ᎣᎩᏃᎮᏏ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏅᏓᏃ ᎣᎩᏃᎮᏏ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏡᎬᏃ ᎣᎩᏃᎮᏏ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎦᏙ, ᎦᏙ, ᎦᏙ!”
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+“ᏕᏓᎵᎪᏅᎭ ᎠᎴ ᎢᏕᏅᏒᎭ,” ᏄᏪᏎ ᏏᏏ ᏌᏌ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+“ᎦᏙ, ᎦᏙ, ᎦᏙ!”
 \end_layout
 
 \begin_layout Standard
@@ -4624,6 +4729,9 @@ pagestyle{plain}
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
 \begin_inset Newpage clearpage
 \end_inset
 
@@ -4634,7 +4742,7 @@ pagestyle{plain}
 \paragraph_spacing onehalf
 
 \size largest
-ᎾᎯᏳ Ꮎ ᎯᏍᎩ ᎠᎴ ᎬᎾ ᏓᎾᏠᏎ.
+ᎾᎯᏳ ᎥᏍᎩᎾ ᎠᎴ ᎬᎾ ᏓᎾᏠᏎ.
 \end_layout
 
 \begin_layout Standard
@@ -4704,7 +4812,101 @@ pagestyle{plain}
 \paragraph_spacing onehalf
 
 \size largest
-ᎾᎯᏳ Ꮎ ᏑᏓᎵ ᎠᎴ ᎤᏲᏏᏍᎬᎢ ᏧᏟ ᏓᎾᏠᏎ.
+“ᎭᏢ ᎣᏤᎦ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎦᏙ, ᎦᏙ, ᎦᏙ!
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎦᎸᎶ ᎪᎰᏍᎦ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎤᎬᏫᏳᎯ ᎣᏥᏃᎮᏞᎴᎦ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+“ᎦᏙ, ᎦᏙ, ᎦᏙ!” ᏄᏪᏎ 
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+“ᎦᎪ ᎢᏥᏃᎮᏞᎴ?”
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+“ᎤᏃᎴ ᎣᎩᏃᎮᏏ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏅᏓᏃ ᎣᎩᏃᎮᏏ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᏡᎬᏃ ᎣᎩᏃᎮᏏ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎦᏙ, ᎦᏙ, ᎦᏙ!”
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+“ᏕᏓᎵᎪᏅᎭ ᎠᎴ ᎢᏕᏅᏒᎭ,” ᏄᏪᏎ ᎬᏌ ᎬᎾ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎠᎴ Ꮎ ᏑᏓᎵ ᎤᎾᎵᏘᏎ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎾᎯᏳ ᎥᏍᎩᎾ ᎠᎴ ᏧᏟ ᏓᎾᏠᏎ.
 \end_layout
 
 \begin_layout Standard
@@ -4719,6 +4921,48 @@ pagestyle{plain}
 \end_inset
 
  ᏚᏙᎥ ᏧᏟ.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+“ᎭᏢ ᎮᎦ, ᏥᏔᎦ ᎤᏍᏗ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎭᏢ ᎮᎦ, ᏏᎩᏏ ᎠᎩᏏ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎭᏢ ᎮᎦ, ᏨᏨᏯ ᎠᏨᏯ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎭᏢ ᎮᎦ, ᏌᏬᏄ ᎧᏬᏄ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎭᏢ ᎮᎦ ᏏᏏ ᏌᏌ?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\size largest
+ᎭᏢ ᎮᎦ ᎬᏌ ᎬᎾ?
 \end_layout
 
 \begin_layout Standard
@@ -4817,6 +5061,10 @@ pagestyle{plain}
 
 \size largest
 ᏡᎬᏃ ᎣᎩᏃᎮᏏ.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -4854,7 +5102,7 @@ pagestyle{plain}
 \begin_inset Quotes eld
 \end_inset
 
-ᎢᏓᎵᎪᎲᎦ ᎠᎴ ᎢᏕᎾ,
+ᏫᏨᏯᏘᏄᎦ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -4966,7 +5214,7 @@ pagestyle{plain}
 \begin_inset Quotes eld
 \end_inset
 
-ᏓᏓᎵᎪᏂ ᎠᎴ ᏓᏕᏅᏏ.
+ᎢᏍᎩᏯᏘᏁᎨᏍᏗ.
 \end_layout
 
 \begin_layout Standard
@@ -4984,7 +5232,8 @@ pagestyle{plain}
 \paragraph_spacing onehalf
 
 \size largest
-ᎠᎴ ᏥᏔᎦ ᎤᏍᏗ, ᏏᎩᏏ ᎠᎩᏏ, ᏨᏨᏯ ᎠᏨᏯ, ᏌᏬᏄ ᎧᏬᏄ, ᏏᏏ ᏌᏌ, ᎠᎴ ᎬᏌ ᎬᎾ ᏚᏘᏅᏎ ᏧᎳ ᏧᏟ ᎢᎾᎨᎢ ᎠᏰᎵ.
+ᏃᏊᎴ ᏥᏔᎦ ᎤᏍᏗ, ᏏᎩᏏ ᎠᎩᏏ, ᏨᏨᏯ ᎠᏨᏯ, ᏌᏬᏄ ᎧᏬᏄ, ᏏᏏ ᏌᏌ, ᎠᎴ ᎬᏌ ᎬᎾ ᏚᏘᏅᏎ ᏧᎳ ᏧᏟ ᎢᎾᎨᎢ
+ ᎠᏰᎵ.
 \end_layout
 
 \begin_layout Standard
