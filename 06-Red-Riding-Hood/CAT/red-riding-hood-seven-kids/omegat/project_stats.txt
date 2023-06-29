@@ -1,15 +1,15 @@
-6/28/23, 11:34 PM
+6/29/23, 11:22 AM
 Project Statistics
 
                  	Segments	Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
-Total:           	     732	 4037	                  16005	                 19311	     2	
-Remaining:       	      99	  560	                   2187	                  2648	     1	
-Unique:          	     667	 3882	                  15449	                 18665	     2	
-Unique Remaining:	      96	  550	                   2148	                  2602	     1	
+Total:           	     724	 4014	                  15894	                 19185	     2	
+Remaining:       	       0	    0	                      0	                     0	     0	
+Unique:          	     659	 3859	                  15338	                 18539	     2	
+Unique Remaining:	       0	    0	                      0	                     0	     0	
 
 
 Individual File Statistics:
 
 File Name           	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (w/o spaces)	Remaining Characters (w/o spaces)	Unique Characters (w/o spaces)	Unique Remaining Characters (w/o spaces)	Total Characters (w/ spaces)	Remaining Characters (w/ spaces)	Unique Characters (w/ spaces)	Unique Remaining Characters (w/ spaces)	
 Red_Riding_Hood.utf8	           397	                 0	            370	                        0	       2180	              0	        2087	                     0	                         8906	                                0	                          8541	                                       0	                       10690	                               0	                        10259	                                      0	
-The_Seven_Kids.utf8 	           335	                99	            297	                       96	       1857	            560	        1795	                   550	                         7099	                             2187	                          6908	                                    2148	                        8621	                            2648	                         8406	                                   2602	
+The_Seven_Kids.utf8 	           327	                 0	            289	                        0	       1834	              0	        1772	                     0	                         6988	                                0	                          6797	                                       0	                        8495	                               0	                         8280	                                      0	
