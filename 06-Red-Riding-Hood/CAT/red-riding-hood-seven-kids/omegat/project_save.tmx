@@ -4,6 +4,4607 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>"A long, long time."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T224915Z" creationid="Michael Conrad" creationdate="20230628T224915Z">
+        <seg>“ᎪᎯᏓ, ᏙᎯᏳ ᎪᎯᏓ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Afraid of me?" said the wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T225149Z" creationid="Michael Conrad" creationdate="20230628T225149Z">
+        <seg>“ᏍᎩᏍᎦᎭᏍ?” ᎤᏛᏁ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Afraid of my ears?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T225634Z" creationid="Michael Conrad" creationdate="20230628T225634Z">
+        <seg>“ᏕᎯᏍᎦᎭᏍᎪ ᏗᏥᎴᏂ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Afraid of these eyes?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230100Z" creationid="Michael Conrad" creationdate="20230628T230100Z">
+        <seg>“ᏕᎯᏍᎦᎭᏍᎪ ᏕᏥᎦᏙᎵ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Afraid of your grandmother?"</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T225156Z" creationid="Michael Conrad" creationdate="20230628T225156Z">
+        <seg>“ᏍᎩᏍᎦᎭᏍ ᎬᎵᏏ?”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Afraid?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230327Z" creationid="Michael Conrad" creationdate="20230628T230327Z">
+        <seg>“ᎯᏍᎦᎭᏍ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Ah, good morning, Little Red Riding Hood," said the wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T224755Z" creationid="Michael Conrad" creationdate="20230628T224754Z">
+        <seg>“Ꭰ, ᎣᏍᏓ ᎬᎪᏩᏘᎭ, ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ,” ᎤᏛᏁ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"And we will listen.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T025206Z" creationid="Michael Conrad" creationdate="20230629T025206Z">
+        <seg>“ᎠᎴ ᏓᏲᏣᏛᏓᏍᏔᏂ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"And your ears, grandmother!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T225533Z" creationid="Michael Conrad" creationdate="20230628T225533Z">
+        <seg>“ᎠᎴ ᏘᎴᏂ, ᎡᎵᏏ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Are you afraid to go?" said her mother.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T182435Z" creationid="Michael Conrad" creationdate="20230628T182435Z">
+        <seg>“ᎯᏍᎦᎭᏍᎪ ᏫᏤᏅᏍᏗ?” ᎤᏛᏁ ᎤᏥ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Big arms?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T225226Z" creationid="Michael Conrad" creationdate="20230628T225226Z">
+        <seg>“ᏧᏔᎾᏍ ᏗᏆᏃᎨᏂ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Big?" said the wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230434Z" creationid="Michael Conrad" creationdate="20230628T230434Z">
+        <seg>“ᎤᏔᎾᏍ?” ᎤᏛᏁ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"But there was a bad wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T231453Z" creationid="Michael Conrad" creationdate="20230628T231453Z">
+        <seg>“ᎠᏎᏃ ᎤᏲ ᏩᏯ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"But you look so strange, grandmother.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T225207Z" creationid="Michael Conrad" creationdate="20230628T225207Z">
+        <seg>“ᎠᏎᏃ ᎬᎦᏙᏍᏗ ᎠᎴ ᎯᏎᎩᏒ, ᎡᎵᏏ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Can it be the wolf?" said one kid.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031130Z" creationid="Michael Conrad" creationdate="20230629T031130Z">
+        <seg>“ᏩᏯ ᏱᎩ?” ᎤᏛᏁ ᏌᏊ ᎤᎦᏐᏣᏁᏓ ᎠᎩᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Come to the bedside," said the wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T224814Z" creationid="Michael Conrad" creationdate="20230628T224814Z">
+        <seg>“ᎦᏂᏟ ᏗᏜ ᏖᎾ,” ᎤᏛᏁ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Come, so that I can see you.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230218Z" creationid="Michael Conrad" creationdate="20230628T230218Z">
+        <seg>“ᏖᎾ, ᎬᏯᎦᏙᏍᏙᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Did you let the wolf in?" said the goat.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032835Z" creationid="Michael Conrad" creationdate="20230629T032835Z">
+        <seg>“ᏩᏯ ᎤᏴᏍᏗ ᏂᏣᏛᏁᎴ?” ᎤᏛᏁ ᎤᏥ ᎤᎦᏐᏣᏁᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Don't you hear it?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230745Z" creationid="Michael Conrad" creationdate="20230628T230745Z">
+        <seg>“ᎥᏝᏍᎪ ᏱᏕᏣᏛᎩᎠ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Don't you hear me?" called the wolf again.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031204Z" creationid="Michael Conrad" creationdate="20230629T031204Z">
+        <seg>“ᎥᏝᏍᎪ ᏱᏍᎩᏯᏛᎩᎠ?” ᏚᏯᏅᎯᏏᎴ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Don't you hear your mother?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031215Z" creationid="Michael Conrad" creationdate="20230629T031215Z">
+        <seg>“ᎥᏝᏍᎪ ᏱᏍᎩᏯᏛᎩᎠ ᎢᏨᏥ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Go to get food for us."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T024752Z" creationid="Michael Conrad" creationdate="20230629T024752Z">
+        <seg>“ᎠᎵᏍᏓᏴᏗ ᏫᏍᎩᎩᏎᎷᎦ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Good morning."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T221559Z" creationid="Michael Conrad" creationdate="20230628T221559Z">
+        <seg>“ᎣᏍᏓ ᏣᎵᏍᏓᏁᏗᏍᏊ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Good-morning, grandmother," said Little Red Riding Hood.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T224804Z" creationid="Michael Conrad" creationdate="20230628T224804Z">
+        <seg>“ᎣᏍᏓ ᎬᎪᏩᏘᎭ, ᎡᎵᏏ,” ᎤᏛᏁ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Goodbye, Little Red Riding Hood," said the wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222353Z" creationid="Michael Conrad" creationdate="20230628T222353Z">
+        <seg>“ᏙᎾᏓᎪᎲᎢ, ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ,” ᎤᏛᏁ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Goodbye, kind wolf," said she.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222401Z" creationid="Michael Conrad" creationdate="20230628T222401Z">
+        <seg>“ᏙᎾᏓᎪᎲᎢ, ᏣᏓᏅᏘ ᎯᏩᏯ,” ᎤᏛᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Ha, ha!" said the wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222645Z" creationid="Michael Conrad" creationdate="20230628T222645Z">
+        <seg>“Ꭽ, Ꭽ!” ᎤᏛᏁ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"He ate all but me.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032812Z" creationid="Michael Conrad" creationdate="20230629T032812Z">
+        <seg>“ᏂᎦᏓ ᏚᏒᏅᎩ ᎠᏎᏍᎩᏂ ᎠᏴ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"He had a soft voice.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032856Z" creationid="Michael Conrad" creationdate="20230629T032856Z">
+        <seg>“ᎤᏬᏂᏒᎢ ᏩᏂᎨᎢ ᎨᏒᎩ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Help!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T223745Z" creationid="Michael Conrad" creationdate="20230628T223745Z">
+        <seg>“ᏍᎩᏍᏕᎳ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Help, help, help!"</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230719Z" creationid="Michael Conrad" creationdate="20230628T230719Z">
+        <seg>“ᏍᎩᏍᏕᎳ, ᏍᎩᏍᏕᎳ, ᏍᎩᏍᏕᎳ!”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Here I am," said Little Red Riding Hood.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T031157Z" creationid="Michael Conrad" creationdate="20230628T031157Z">
+        <seg>“ᎠᏴ ᎠᎭᏂ,” ᎤᏛᏁ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Here are some cakes, Little Red Riding Hood.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T031311Z" creationid="Michael Conrad" creationdate="20230628T031311Z">
+        <seg>“ᎠᎭᏂ ᎢᎦᏓ ᎦᏚ ᎤᏂᎦᎾᏍᏓ, ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Here, mother, in the clock."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032728Z" creationid="Michael Conrad" creationdate="20230629T032728Z">
+        <seg>“ᎠᎭᏂ, ᎡᏥ, ᏩᏥᏱ ᏥᏯᎠ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"His voice is so soft," said another.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031137Z" creationid="Michael Conrad" creationdate="20230629T031137Z">
+        <seg>“ᎤᏬᏂᏒᎢ ᏩᏂᎨᎢ,” ᎤᏛᏁ ᏐᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"How did he know where grandmother lived?"</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T231708Z" creationid="Michael Conrad" creationdate="20230628T231629Z">
+        <seg>“ᎦᏙ ᏣᎵᏏ ᎤᎿ ᎤᏪᎮᏍᏛ ᎤᏅᏖ?”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"How did he know where you were going?"</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T231604Z" creationid="Michael Conrad" creationdate="20230628T231604Z">
+        <seg>“ᎦᏙ ᎤᎿ ᏤᏅᏍᏗ ᎤᏅᏖ?”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"How did the wolf know you?" said Little Red Riding Hood's mother.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T231540Z" creationid="Michael Conrad" creationdate="20230628T231540Z">
+        <seg>“ᎦᏙ ᏦᏟᏍᏗ ᎨᏎ?” ᎤᏛᏁ ᎤᏥ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"How do you do, grandmother?" said the wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T223647Z" creationid="Michael Conrad" creationdate="20230628T223647Z">
+        <seg>“ᎦᏙ ᎣᏍᏓ ᎭᏛᏁᎭ, ᎡᎵᏏ?” ᎤᏛᏁ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"How shall I get in?"</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222947Z" creationid="Michael Conrad" creationdate="20230628T222947Z">
+        <seg>“ᎦᏙ ᎠᎩᏴᏍᏗ?”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I am Mother Goat.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031728Z" creationid="Michael Conrad" creationdate="20230629T031728Z">
+        <seg>“ᎢᏨᏥ ᎤᎦᏐᏣᏁᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I am afraid of you."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T225142Z" creationid="Michael Conrad" creationdate="20230628T225142Z">
+        <seg>“ᎬᏍᎦᎭ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I am glad to go.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T181524Z" creationid="Michael Conrad" creationdate="20230628T181524Z">
+        <seg>“ᏩᏇᏓᏍᏗ ᎦᎵᎡᎵᎦ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I am going to see my grandmother."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T220932Z" creationid="Michael Conrad" creationdate="20230628T220924Z">
+        <seg>“ᎠᎩᎵᏏ ᏥᎪᎮᎦ.”`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I am here," cried the kid in the clock.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032706Z" creationid="Michael Conrad" creationdate="20230629T032706Z">
+        <seg>“ᎠᏴ ᎠᎭᏂ,” ᎤᏠᏱᎴ Ꮎ ᎤᎦᏐᏣᏁᏓ ᎠᎩᎾ ᎤᏣᎥᎢ ᎡᏆ ᏩᏥᏱ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I am very ill, you know."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T224823Z" creationid="Michael Conrad" creationdate="20230628T224823Z">
+        <seg>“ᏙᎯᏳ ᎠᎩᏢᎦ, ᏣᏅᏔ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I am your Mother Goat.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T030231Z" creationid="Michael Conrad" creationdate="20230629T030200Z">
+        <seg>“ᎢᏨᏥ ᎤᎦᏐᏣᏁᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I came to eat you, grandmother."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T223724Z" creationid="Michael Conrad" creationdate="20230628T223724Z">
+        <seg>“ᎬᏒᎲᏍᏗ, ᎡᎵᏏ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I do not want to come!"</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230320Z" creationid="Michael Conrad" creationdate="20230628T230320Z">
+        <seg>“ᎥᏝ ᏫᏤᏅᏍᏗ ᏯᏆᏚᎵ!”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I do not wish to see you.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T223706Z" creationid="Michael Conrad" creationdate="20230628T223706Z">
+        <seg>“ᎥᏝ ᎬᎪᏩᏛᏗ ᏯᏆᏚᎵ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I have brought you some cakes and butter," said the wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222923Z" creationid="Michael Conrad" creationdate="20230628T222923Z">
+        <seg>“ᎢᎦᏓ ᎦᏚ ᎤᏂᎦᎾᏍᏓ ᎠᎴ ᎪᏢᏅᎢ ᏕᏥᏲᎦ,” ᎤᏛᏁ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I have some butter for you.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T224452Z" creationid="Michael Conrad" creationdate="20230628T224452Z">
+        <seg>ᎬᏲᎴᎵ ᎢᎦᏓ ᎪᏢᏅ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I have some butter.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T220856Z" creationid="Michael Conrad" creationdate="20230628T220856Z">
+        <seg>“ᎪᏢᏅ ᎤᏣᎠ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I know what I will do.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222700Z" creationid="Michael Conrad" creationdate="20230628T222700Z">
+        <seg>“ᎠᏆᏛᏁᏗ ᏥᎦᏔᎭ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I like the forest, " she said.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T190345Z" creationid="Michael Conrad" creationdate="20230628T190345Z">
+        <seg>“ᎢᎾᎨᎢ ᎠᎩᎸᏉᏗ,” ᎤᏛᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I like to go to see grandmother."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T031250Z" creationid="Michael Conrad" creationdate="20230628T031241Z">
+        <seg>“ᎠᎩᎵᏏ ᏥᎪᎲᏍᏗ ᎠᎩᎸᏉᏙ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I like to walk in it.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T190359Z" creationid="Michael Conrad" creationdate="20230628T190359Z">
+        <seg>“ᎤᎿ ᎠᏇᏓᏍᏗ ᎠᎩᎸᏉᏙ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I like to walk in the forest.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T182740Z" creationid="Michael Conrad" creationdate="20230628T182727Z">
+        <seg>“ᎤᎿ ᎢᎾᎨᎢ ᎨᏙᎰ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I must be going away now," said the wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T221508Z" creationid="Michael Conrad" creationdate="20230628T221508Z">
+        <seg>“ᎠᏎ ᏩᏇᏅᏍᏗ,” ᎤᏛᏁ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I must eat her.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T221640Z" creationid="Michael Conrad" creationdate="20230628T221630Z">
+        <seg>“ᎥᏍᎩ ᎠᏎ ᏥᏒᎲᏍᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I must eat that little girl," said the wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T221615Z" creationid="Michael Conrad" creationdate="20230628T221615Z">
+        <seg>“Ꮎ ᎤᏍᏗ ᎠᎨᏳᏣ ᎠᏎ ᏥᏒᎲᏍᏗ,” ᎤᏓᏅᏖᏞ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I must eat those kids," said the wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T024007Z" creationid="Michael Conrad" creationdate="20230629T024007Z">
+        <seg>“ᎥᏍᎩ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᎠᏎ ᎦᏥᏒᎲᏍᏗ,” ᎤᏛᏁ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I must go now.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222412Z" creationid="Michael Conrad" creationdate="20230628T222412Z">
+        <seg>“ᎠᏎ ᎠᏇᏅᏍᏗ ᏃᏊ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I shall have to change my voice," he said.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T030819Z" creationid="Michael Conrad" creationdate="20230629T030819Z">
+        <seg>“ᎠᎩᏬᏂᏒᎢ ᎠᏎ ᎤᏓᏁᏟᏴᏍᏗ,” ᎤᏓᏅᏖᏞ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I shall see you again," said the wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222456Z" creationid="Michael Conrad" creationdate="20230628T222456Z">
+        <seg>“ᏓᎬᎪᎯᏏᎵ,” ᎤᏛᏁ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I shall wait for Little Red Riding Hood.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T224117Z" creationid="Michael Conrad" creationdate="20230628T224117Z">
+        <seg>“ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᏓᏥᎦᏘᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I told him my name," said Little Red Riding Hood.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T231550Z" creationid="Michael Conrad" creationdate="20230628T231550Z">
+        <seg>“ᏓᎩᏙᎥ ᎠᎩᏃᎮᏢᎩ,” ᎤᏛᏁ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I told him where I was going."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T231613Z" creationid="Michael Conrad" creationdate="20230628T231613Z">
+        <seg>“ᎤᎿ ᎠᏇᏅᏍᏗ ᎠᎩᏃᎮᏢᎩ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I told him where grandmother lived."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T231718Z" creationid="Michael Conrad" creationdate="20230628T231718Z">
+        <seg>“ᎤᎿ ᎠᎩᎵᏏ ᎤᏪᎮᏍᏛ ᎠᎩᏃᎮᏢᎩ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I was so afraid he would swallow you, too!" she cried.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T231240Z" creationid="Michael Conrad" creationdate="20230628T231238Z">
+        <seg>“ᏥᏍᎦᏯ ᏂᎯᏍᏊ ᎤᎩᏒᎭ” ᎤᏪᏡᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I will eat her.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T220714Z" creationid="Michael Conrad" creationdate="20230628T220714Z">
+        <seg>“ᎥᏍᎩ ᏓᏥᏒᏂ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I will eat this little girl," said he.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T220428Z" creationid="Michael Conrad" creationdate="20230628T220428Z">
+        <seg>“ᎯᎠ ᎤᏍᏗ ᎠᎨᏳᏣ ᎠᎵᏍᏓᏴᏗ ᏂᎦᎵᏍᏗᏍᎨᏍᏗ,” ᎤᏓᏅᏖᏞ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I will eat this little girl," thought he.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T220655Z" creationid="Michael Conrad" creationdate="20230628T220655Z">
+        <seg>“ᎯᎠ ᎤᏍᏗ ᎠᎨᏳᏣ ᎠᎵᏍᏓᏴᏗ ᏂᎦᎵᏍᏗᏍᎨᏍᏗ,” ᎤᏓᏅᏖᏞ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I will go to the miller and get some flour.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031635Z" creationid="Michael Conrad" creationdate="20230629T031635Z">
+        <seg>“ᎠᏍᏙᏍᎩᏱ ᎢᎦᏓ ᎢᏌ ᏓᏥᎩᏒᏏ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I will go," said Little Red Riding Hood.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T181513Z" creationid="Michael Conrad" creationdate="20230628T181513Z">
+        <seg>“ᏓᎨᏅᏏ,” ᎤᏛᏁ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I wonder where he is going," said Little Red Riding Hood.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222605Z" creationid="Michael Conrad" creationdate="20230628T222559Z">
+        <seg>“ᎭᏢᏍᎩᏂ ᏪᎦ?” ᎤᏛᏁ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Is it the wolf again?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031056Z" creationid="Michael Conrad" creationdate="20230629T031056Z">
+        <seg>“ᏏᏊᏍ ᏩᏯ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Is your grandmother ill?" said the wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T221004Z" creationid="Michael Conrad" creationdate="20230628T221004Z">
+        <seg>“ᏣᎵᏏᏍᎪ ᎤᏢᎦ?” ᎤᏛᏁ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"It is I, Little Red Riding Hood."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T224417Z" creationid="Michael Conrad" creationdate="20230628T224417Z">
+        <seg>“ᎠᏴ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"It is Little Red Riding Hood.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230855Z" creationid="Michael Conrad" creationdate="20230628T230855Z">
+        <seg>“ᎥᏍᎩ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"It is Red Riding Hood," said the wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222905Z" creationid="Michael Conrad" creationdate="20230628T222905Z">
+        <seg>“ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ,” ᎤᏛᏁ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"It is my hood.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T030538Z" creationid="Michael Conrad" creationdate="20230628T030538Z">
+        <seg>“ᎠᎵᏍᏚᎶ ᎠᏆᏤᎵ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"It is the Mother Goat,</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031014Z" creationid="Michael Conrad" creationdate="20230629T031003Z">
+        <seg>“ᎢᏨᏥ ᎤᎦᏐᏣᏁᏓ,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"It must be Mother Goat.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031929Z" creationid="Michael Conrad" creationdate="20230629T031929Z">
+        <seg>“ᎡᎵᏍᏗ ᎣᎩᏥ ᎤᎦᏐᏣᏁᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Let me in, dear little kids," said the wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031717Z" creationid="Michael Conrad" creationdate="20230629T031717Z">
+        <seg>“ᎠᎩᏴᏍᏗ, ᏗᏆᏤᎵ ᏧᎾᏍᏗ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ,” ᎤᏛᏁ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Let me in, grandmother," said Little Red Riding Hood.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T224443Z" creationid="Michael Conrad" creationdate="20230628T224438Z">
+        <seg>“ᎠᎩᏴᏍᏗ, ᎡᎵᏏ,” ᎤᏛᏁ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Let me in," said the wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T030121Z" creationid="Michael Conrad" creationdate="20230629T030121Z">
+        <seg>“ᎠᎩᏴᏍᏗ,” ᎤᏛᏁ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Let me in.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032441Z" creationid="Michael Conrad" creationdate="20230629T032441Z">
+        <seg>“ᎠᎩᏴᏍᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Let us see your feet, I say," cried the oldest kid.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031317Z" creationid="Michael Conrad" creationdate="20230629T031317Z">
+        <seg>“ᏫᏙᏥᎪᏩᏔ, ᎬᏲᏎᎭ,” ᎤᏛᏁ ᎤᏓᏂᎳᎨᎢ ᎤᎦᏐᏣᏁᏓ ᎠᎩᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Let us see your feet," they said.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031236Z" creationid="Michael Conrad" creationdate="20230629T031236Z">
+        <seg>“ᏗᏣᎳᏏᏕᏂ ᏫᏙᏥᎪᏩᏔ,” ᎤᎾᏛᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Little Red Riding Hood will soon be here.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T224043Z" creationid="Michael Conrad" creationdate="20230628T224043Z">
+        <seg>“ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎩᎳᏊ ᎠᎭᏂ ᎤᎷᏥᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Look out for the black feet.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T025844Z" creationid="Michael Conrad" creationdate="20230629T025844Z">
+        <seg>“ᏗᏥᏱᎦ Ꮎ ᏗᎬᎿᎨ ᏧᎳᏏᏕᏂ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Mother Goat cannot help you.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032242Z" creationid="Michael Conrad" creationdate="20230629T032242Z">
+        <seg>“ᎢᏥᏥ ᎤᎦᏐᏣᏁᏓ Ꮭ ᏱᎦᏱᏥᏍᏕᎸᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Mother Goat is going to get food.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T024215Z" creationid="Michael Conrad" creationdate="20230629T024215Z">
+        <seg>“ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ ᏗᎵᏍᏓᏴᏗ ᎠᎩᏎᎦ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"No kids!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032535Z" creationid="Michael Conrad" creationdate="20230629T032535Z">
+        <seg>“ᎥᏝ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"No, I am not hurt," said Little Red Riding Hood.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T231444Z" creationid="Michael Conrad" creationdate="20230628T231444Z">
+        <seg>“ᎥᏝ ᎤᏲ ᏯᏆᎵᏍᏓᏁᎭ,” ᎤᏛᏁ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"No, I never will," said Little Red Riding Hood.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T231829Z" creationid="Michael Conrad" creationdate="20230628T231829Z">
+        <seg>“ᎥᏝ ᎢᎸᎯᏳ ᏩᏯ ᏱᏘᏯᎵᏃᎮᏔᏂ,” ᎤᏛᏁ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"No, no!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031253Z" creationid="Michael Conrad" creationdate="20230629T031252Z">
+        <seg>“Ꮭ, ᎥᏝ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"No, we will not," said the kids.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T025155Z" creationid="Michael Conrad" creationdate="20230629T025155Z">
+        <seg>“ᎥᏝ, Ꮭ ᏱᏓᏲᏥᏍᏚᎢᏏ,” ᎤᎾᏛᏁ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Now I have eaten all the kids," he said.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032359Z" creationid="Michael Conrad" creationdate="20230629T032359Z">
+        <seg>“ᏃᏊ ᏂᎦᏓ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᎦᏥᏒᏅᎩ,” ᎤᏛᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Now I must get into bed," he said.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T224021Z" creationid="Michael Conrad" creationdate="20230628T224021Z">
+        <seg>“ᏃᏊ ᎠᏎ ᎠᎩᏒᏍᏗ,” ᎤᏛᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Now is my time," said he.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T030055Z" creationid="Michael Conrad" creationdate="20230629T030055Z">
+        <seg>“ᏃᏊ ᎠᏆᏜᏅᏓᏕᎭ,” ᎤᏛᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Now, goodbye, little kids.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T024320Z" creationid="Michael Conrad" creationdate="20230629T024320Z">
+        <seg>“ᏃᏊ, ᏙᏓᏓᎪᎲᎢ, ᏧᎾᏍᏗ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"O come, come, Mother Goat!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032202Z" creationid="Michael Conrad" creationdate="20230629T032202Z">
+        <seg>“Ꭳ ᎯᎷᎩ, ᎯᎷᎩ, ᎡᏥ ᎤᎦᏐᏣᏁᏓ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"O grandmother, what big eyes!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230037Z" creationid="Michael Conrad" creationdate="20230628T230025Z">
+        <seg>“Ꭳ ᎡᎵᏏ, ᏧᏔᎾ ᏘᎦᏙᎵ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"O no, I am not afraid," said Little Red Riding Hood.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T182713Z" creationid="Michael Conrad" creationdate="20230628T182713Z">
+        <seg>“Ꭳ, ᎥᏝ, ᎾᎩᏍᎦᎸᎾ,” ᎤᏛᏁ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"O no, we will not let you in," said the kids.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031805Z" creationid="Michael Conrad" creationdate="20230629T031805Z">
+        <seg>“Ꭳ Ꮭ, Ꮭ ᏱᎦᏣᏴᏍᏗ,” ᎤᎾᏛᏁ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"O!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T225041Z" creationid="Michael Conrad" creationdate="20230628T225041Z">
+        <seg>“Ꭳ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"O, I am afraid!" said Little Red Riding Hood.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230303Z" creationid="Michael Conrad" creationdate="20230628T230302Z">
+        <seg>“Ꭳ, ᏥᏍᎦᎭ!” ᎤᏛᏁ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"O, I am glad you have come!" said the wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T224427Z" creationid="Michael Conrad" creationdate="20230628T224427Z">
+        <seg>“Ꭳ, ᎯᎷᎦ ᎦᎵᎡᎵᎦ!” ᎤᏛᏁ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"O, I am glad you have come," said the grandmother.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222914Z" creationid="Michael Conrad" creationdate="20230628T222914Z">
+        <seg>“Ꭳ, ᎯᎷᎦ ᎦᎵᎡᎵᎦ,” ᎤᏛᏁ ᎤᎵᏏ..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"O, I am so sorry!"</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T224952Z" creationid="Michael Conrad" creationdate="20230628T224924Z">
+        <seg>“Ꭳ, ᏙᏳ ᎤᏲ!”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"O, I am so sorry!" said Little Red Riding Hood.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T224940Z" creationid="Michael Conrad" creationdate="20230628T224851Z">
+        <seg>“Ꭳ, ᏙᏳ ᎤᏲ!” ᎤᏛᏁ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"O, are you very ill?"</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T224834Z" creationid="Michael Conrad" creationdate="20230628T224834Z">
+        <seg>“Ꭳ, ᏙᎯᏳᏍ ᏣᏢᎦ?”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"O, my kids!" cried the goat.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T033033Z" creationid="Michael Conrad" creationdate="20230629T033033Z">
+        <seg>“Ꭳ, ᏗᏇᏥ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ!” ᎤᏠᏱᎴ ᎤᏥ ᎤᎦᏐᏣᏁᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"O, my kids, my kids!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032644Z" creationid="Michael Conrad" creationdate="20230629T032644Z">
+        <seg>“Ꭳ, ᏗᏇᏥ, ᏗᏇᏥ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"O, there you are!" cried the wood choppers.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T231111Z" creationid="Michael Conrad" creationdate="20230628T231111Z">
+        <seg>“Ꭳ, ᏂᎯ!” ᎤᏁᏡᏁ Ꮎ ᏗᏂᎴᏴᏍᏗᏍᎩ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"O, we see them.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031327Z" creationid="Michael Conrad" creationdate="20230629T031327Z">
+        <seg>“Ꭳ, ᎣᏥᎪᏩᏘᎭ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"O, you bad, bad wolf!" said the grandmother.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T223654Z" creationid="Michael Conrad" creationdate="20230628T223654Z">
+        <seg>“Ꭳ, ᏣᏲ, ᏣᏲ ᎯᏩᏯ!” ᎤᏛᏁ ᎤᎵᏏ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"O, you silly, silly Little Red Riding Hood!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T231800Z" creationid="Michael Conrad" creationdate="20230628T231800Z">
+        <seg>“Ꭳ, ᏣᏓᏣᏘᏗ. ᎤᏓᏣᏘᏗ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Open the door, little kids," he called.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T030955Z" creationid="Michael Conrad" creationdate="20230629T030955Z">
+        <seg>“ᎦᎶᎯᏍᏗᎢ ᎢᏥᏍᏚᎢ, ᏧᎾᏍᏗ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ,” ᎤᏯᏅᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Open the door," said the goat.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032427Z" creationid="Michael Conrad" creationdate="20230629T032427Z">
+        <seg>“ᎦᎶᎯᏍᏗ ᎢᏥᏍᏚᎢ,” ᎤᏛᏁ ᎤᏂᏥ Ꮎ ᎤᎦᏐᏣᏁᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Open the door," said the wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031242Z" creationid="Michael Conrad" creationdate="20230629T031242Z">
+        <seg>“ᎦᎶᎯᏍᏗᎢ ᎠᏎ ᎢᏥᏍᏚᎢᏍᏗ,” ᎤᏛᏁ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Pull the string.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222954Z" creationid="Michael Conrad" creationdate="20230628T222954Z">
+        <seg>“ᎠᏍᏘ ᎯᎾᏌᎾᎩ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Put on your little red hood, Little Red Riding Hood.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T031209Z" creationid="Michael Conrad" creationdate="20230628T031209Z">
+        <seg>“ᏣᏤᎵ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎭᎵᏍᏚᎸᎦ, ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"See how they can hug you, Little Red Riding Hood.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T225405Z" creationid="Michael Conrad" creationdate="20230628T225404Z">
+        <seg>“ᎯᎪᏩᏔ ᎥᏍᎩ ᎣᏍᏓ ᎨᏣᏄᎩᏣᏗ, ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Shall you know his voice?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T025109Z" creationid="Michael Conrad" creationdate="20230629T025109Z">
+        <seg>“ᎤᏁᏨᎢᏍᎪ ᏓᏣᏅᏘ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Shall you know the wolf when he comes?" said Mother Goat.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T025057Z" creationid="Michael Conrad" creationdate="20230629T025057Z">
+        <seg>“ᏓᏣᏅᏘᏍᎪ Ꮎ ᏩᏯ ᎤᎷᏨᎢ?” ᎤᏛᏛᏅ ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"She is ill in bed.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T221021Z" creationid="Michael Conrad" creationdate="20230628T221021Z">
+        <seg>“ᎤᏢᎬᎢ ᎤᏂᎭ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"She lives on the edge of the forest."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T220948Z" creationid="Michael Conrad" creationdate="20230628T220948Z">
+        <seg>“ᎠᏍᏗ ᎢᎾᎨᎢ ᎦᏁᎳ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"So go, goat, and find food.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T024035Z" creationid="Michael Conrad" creationdate="20230629T024035Z">
+        <seg>“ᏃᏊᎴ ᏪᎾ, ᎤᎦᏐᏣᏁᏓ, ᏗᎵᏍᏓᏴᏗ ᏫᏘᏩᏔ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"So good -morning, Little Red Riding Hood."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T221549Z" creationid="Michael Conrad" creationdate="20230628T221549Z">
+        <seg>“Ꮟ, ᎣᏍᏓ ᏣᎵᏍᏓᏁᏗ, ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"That wicked wolf!" they said.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T231323Z" creationid="Michael Conrad" creationdate="20230628T231323Z">
+        <seg>“Ꮎ ᏭᎪᏛ ᎤᏲ ᏩᏯ!” ᎤᎾᏛᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"The feet are white," said another.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031920Z" creationid="Michael Conrad" creationdate="20230629T031920Z">
+        <seg>“ᏧᎳᏏᏕᏂ ᏧᏁᎦ,” ᎤᏛᏁ ᏐᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"The voice is soft," said one kid.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031913Z" creationid="Michael Conrad" creationdate="20230629T031910Z">
+        <seg>“ᎤᏬᏂᏒᎢ ᏩᏂᎨᎢ,” ᎤᏛᏁ ᏌᏊ ᎤᎦᏐᏣᏁᏓ ᎠᎩᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"The voice is soft," said the kids.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031044Z" creationid="Michael Conrad" creationdate="20230629T031044Z">
+        <seg>“ᎤᏬᏂᏒᎢ ᏩᏂᎨᎢ,” ᎤᎾᏛᏁ Ꮎ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"The wolf ate my six little kids.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T033251Z" creationid="Michael Conrad" creationdate="20230629T033044Z">
+        <seg>“ᏗᏇᏥ ᏑᏓᎵ ᎤᏍᏗ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᏚᏒᏁ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"The wolf ate them," said the kid.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032802Z" creationid="Michael Conrad" creationdate="20230629T032802Z">
+        <seg>“Ꮎ ᏩᏯ ᎥᏍᎩ ᏚᏒᏅᎩ,” ᎤᏛᏁ ᎤᎦᏐᏣᏁᏓ ᎠᎩᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"The wolf has black feet, too," said the goat.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T025836Z" creationid="Michael Conrad" creationdate="20230629T025836Z">
+        <seg>“ᏩᏯ ᏗᎬᎿᎨ ᏧᎳᏏᏕᏂ, ᎥᏍᏊ,” ᎤᏛᏁ ᎤᎾᎦᏐᏣᏁᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"The wolf will come.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T024338Z" creationid="Michael Conrad" creationdate="20230629T024338Z">
+        <seg>“Ꮎ ᏩᏯ ᏓᏳᎷᏥ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Then I can eat you all the better."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230450Z" creationid="Michael Conrad" creationdate="20230628T230450Z">
+        <seg>“ᎾᎯᏳ ᎣᏍᏓᎨᎢ ᎬᏒᎲᏍᏗ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Then I can see you all the better," said the wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230155Z" creationid="Michael Conrad" creationdate="20230628T230155Z">
+        <seg>“ᎾᎯᏳ ᎣᏍᏓᎨᎢ ᎬᏯᎦᏙᏍᏙᏗ,” ᎤᏛᏁ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Then I will go again to the kids."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T030928Z" creationid="Michael Conrad" creationdate="20230629T030827Z">
+        <seg>“ᎾᎯᏳ ᏓᎦᏥᎷᏥᏏᎴᎵ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"These are strong arms," said the wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T225352Z" creationid="Michael Conrad" creationdate="20230628T225352Z">
+        <seg>“ᏧᎾᏟᏂᎩᏓ ᏗᎦᏃᎨᏂ,” ᎤᏛᏁ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"These arms look so strange," said Little Red Riding Hood.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T225322Z" creationid="Michael Conrad" creationdate="20230628T225321Z">
+        <seg>“ᏔᏃᎨᏂ ᎠᏂᏎᎩ,” ᎤᏛᏁ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"They are so big."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230139Z" creationid="Michael Conrad" creationdate="20230628T230139Z">
+        <seg>“ᎥᏍᎩ ᏧᏔᏂ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"They do not look like your arms, grandmother.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T225334Z" creationid="Michael Conrad" creationdate="20230628T225334Z">
+        <seg>“ᎥᏝ ᏔᏃᎨᏂ ᏱᎩ, ᎡᎵᏏ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"They will kill me," said the wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T231041Z" creationid="Michael Conrad" creationdate="20230628T231041Z">
+        <seg>“ᏓᎬᎩᏟ,” ᎤᏛᏁ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Those kids are very wise," he said.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031625Z" creationid="Michael Conrad" creationdate="20230629T031625Z">
+        <seg>“Ꮎ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᎤᎪᏗ ᎠᎢᎦᏙᎲᏍᎪ,” ᎤᏛᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"We have been trying to catch him for a long time.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T231334Z" creationid="Michael Conrad" creationdate="20230628T231334Z">
+        <seg>“ᎣᎩᏂᏱᏗ ᎪᎯᏓ ᎣᏣᏁᏟᏗᏍᎬᎩ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"We knew that it was you.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T231132Z" creationid="Michael Conrad" creationdate="20230628T231132Z">
+        <seg>“ᎤᎾᏅᏕ Ꮎ ᏂᎯ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"We will look," said the kids.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T025901Z" creationid="Michael Conrad" creationdate="20230629T025901Z">
+        <seg>“ᏙᏓᏲᎩᏯᎵ,” ᎤᎾᏛᏁ Ꮎ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"We will not let the wolf in," said the kids.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T024654Z" creationid="Michael Conrad" creationdate="20230629T024654Z">
+        <seg>“Ꮎ ᏩᏯ ᎥᏝ ᎤᏴᏍᏗ ᏱᏓᏲᏣᎵᏍᎪᎸᏓᏁᎵ,” ᎤᎾᏛᏁ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"We will not open the door for any wolf."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T025922Z" creationid="Michael Conrad" creationdate="20230629T025922Z">
+        <seg>“ᎦᎶᎯᏍᏗᎢ ᎥᏝ ᏩᏯ ᏱᏓᏲᏥᏍᏚᎢᏎᎵ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"We will not open the door.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T024704Z" creationid="Michael Conrad" creationdate="20230629T024704Z">
+        <seg>“ᎥᏝ Ꮎ ᎦᎶᎯᏍᏗᎢ ᏱᏓᏲᏥᏍᏚᎢᏏ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"We will take Little Red Riding Hood home to her mother," said the wood cutters."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T231355Z" creationid="Michael Conrad" creationdate="20230628T231355Z">
+        <seg>ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᏓᏲᏥᎾᏫᏛᎯ ᎤᏥ ᎦᎵᏦᏕ,” ᎤᎾᏛᏁ Ꮎ ᏗᏂᎴᏴᏍᏗᏍᎩ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Well, look at my feet," said the wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031827Z" creationid="Michael Conrad" creationdate="20230629T031827Z">
+        <seg>“ᎥᏍᎩᎩ? ᏗᏆᎳᏏᏕᏂ ᏗᏣᎦᏙᏍᏓ,” ᎤᏛᏁ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"What have you in the basket?" said the wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T220837Z" creationid="Michael Conrad" creationdate="20230628T220837Z">
+        <seg>“ᎦᏙ ᏧᏍᏗ ᏔᎷᏣ ᎤᎾᏣᎠ?” ᎤᏛᏁ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"What is it?" said the wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T225114Z" creationid="Michael Conrad" creationdate="20230628T225114Z">
+        <seg>“ᎦᏙ ᎤᏍᏗ?” ᎤᏛᏁ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"What is that noise?" said the wood choppers.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230734Z" creationid="Michael Conrad" creationdate="20230628T230734Z">
+        <seg>“ᎦᏙ ᎤᏍᏗ ᎥᏍᎩ ᎠᏓᏃᏴᏟᏍᏗᎭ?” ᎤᏛᏁ ᏗᏂᎴᏴᏍᏗᏍᎩ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"What, not let your mother in?" cried the wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T030618Z" creationid="Michael Conrad" creationdate="20230629T030618Z">
+        <seg>“ᎦᏙ, ᎢᏨᏥ ᎥᏝ ᎠᎩᏴᏍᏗ ᏱᏣᎵᏍᎪᎸᏓᏁᎭ?” ᎤᏠᏱᎸᎢ ᎤᏛᏁ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Where are my kids?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032604Z" creationid="Michael Conrad" creationdate="20230629T032604Z">
+        <seg>“ᎭᏢ ᏗᏇᏥ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Where are the other kids?" said the Mother Goat.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032755Z" creationid="Michael Conrad" creationdate="20230629T032755Z">
+        <seg>“ᎭᏢ ᏗᏐᎢ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ?” ᎤᏛᏁ ᎤᏥ ᎤᎦᏐᏣᏁᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Where are you going?" said the wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T220914Z" creationid="Michael Conrad" creationdate="20230628T220914Z">
+        <seg>“ᎭᏢ ᎡᎦ?” ᎤᏛᏁ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Where does she live?" asked the wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T220939Z" creationid="Michael Conrad" creationdate="20230628T220939Z">
+        <seg>“ᎭᏢ ᎦᏁᎳ?” ᎤᏛᏁ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Where, where, where?" cried Mother Goat.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032719Z" creationid="Michael Conrad" creationdate="20230629T032719Z">
+        <seg>“ᎭᏢ, ᎭᏢ, ᎭᏢ?” ᎤᏠᏱᎴ ᎤᏥ ᎤᎦᏐᏣᏁᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Who are you?" said the kids.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T030144Z" creationid="Michael Conrad" creationdate="20230629T030144Z">
+        <seg>“ᎦᎪ ᏂᎯ?” ᎤᎾᏛᏁ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Who is it?" said the sick grandmother.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222858Z" creationid="Michael Conrad" creationdate="20230628T222858Z">
+        <seg>“ᎦᎪ ᎤᎿ?” ᎤᏛᏁ ᎤᏢᎬ ᎤᎵᏏ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Who is it?" said the wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T224407Z" creationid="Michael Conrad" creationdate="20230628T224407Z">
+        <seg>“ᎦᎪ ᎤᎿ?” ᎤᏛᏁ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Why do the wood choppers bring you home?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T231428Z" creationid="Michael Conrad" creationdate="20230628T231428Z">
+        <seg>“ᎦᏙᎲ ᏗᏂᎴᏴᏍᏗᏍᎩ ᏗᎩᏁᏅᏒᎢ ᎨᏣᏫᏓ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Why do you cry out?"</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T225122Z" creationid="Michael Conrad" creationdate="20230628T225122Z">
+        <seg>“ᎦᏙᎲ ᎮᏡᎲᎦ?”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Why do you not open the door?"</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031120Z" creationid="Michael Conrad" creationdate="20230629T031120Z">
+        <seg>“ᎦᏙᎲ ᎥᏝ ᎦᎶᎯᏍᏗᎢ ᏱᏥᏍᏚᎢᏍᏗ?”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Why, don't you know me?" said the wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T030151Z" creationid="Michael Conrad" creationdate="20230629T030151Z">
+        <seg>“ᎦᏙ? ᎥᏝᏍᎪ ᏱᏍᎩᏲᎵᎦ?” ᎤᏛᏁ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Yes, I am afraid of your eyes," said Little Red Riding Hood.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230129Z" creationid="Michael Conrad" creationdate="20230628T230128Z">
+        <seg>“ᎥᎥ, ᏘᎦᏙᎵ ᏕᏥᏍᎦᎭ,” ᎤᏛᏁ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Yes, I am very ill."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T224841Z" creationid="Michael Conrad" creationdate="20230628T224841Z">
+        <seg>“Ꭵ, ᏙᎯᏳ ᎠᎩᏢᎦ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Yes, it is my hood.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T030720Z" creationid="Michael Conrad" creationdate="20230628T030720Z">
+        <seg>“Ꭵ, ᎠᏆᏤᎵ ᎠᎵᏍᏚᎶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Yes, let me go," said Little Red Riding Hood.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T031227Z" creationid="Michael Conrad" creationdate="20230628T031227Z">
+        <seg>“ᎥᎥ, ᏓᎨᏅᏏ,” ᎤᏛᏁ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Yes, she is ill," said Little Red Riding Hood.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T221013Z" creationid="Michael Conrad" creationdate="20230628T221013Z">
+        <seg>“ᎥᎥ, ᎤᏢᎦ,” ᎤᏛᏁ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Yes, that is it.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230927Z" creationid="Michael Conrad" creationdate="20230628T230927Z">
+        <seg>“ᎥᎥ, ᎥᏍᎩ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Yes, we let the wolf in," said the kid.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032846Z" creationid="Michael Conrad" creationdate="20230629T032846Z">
+        <seg>“ᎥᎥ, ᏩᏯ ᎤᏴᏍᏗ ᏃᎦᏛᏁᎸᎩ,” ᎤᏛᏁ ᎤᎦᏐᏣᏁᏓ ᎠᎩᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"You are a wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T030534Z" creationid="Michael Conrad" creationdate="20230629T030534Z">
+        <seg>“ᎯᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"You are not our mother," said the kids.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T030634Z" creationid="Michael Conrad" creationdate="20230629T030634Z">
+        <seg>“ᎥᏝ ᎢᏍᎩᏥ ᏱᎩ,” ᎤᎾᏛᏁ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"You are not the Mother Goat," said the kids.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T030525Z" creationid="Michael Conrad" creationdate="20230629T030525Z">
+        <seg>“ᏂᎯ ᎥᏝ ᎣᏥᏥ ᎤᎦᏐᏣᏁᏓ ᏱᎩ,” ᎤᎾᏛᏁ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"You look so strange!" said Little Red Riding Hood.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T225133Z" creationid="Michael Conrad" creationdate="20230628T225132Z">
+        <seg>“ᎬᎦᏙᏍᏗ ᎠᎴ ᎯᏎᎩ!” ᎤᏛᏁ Ꮎ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"You must first let us see your feet."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031816Z" creationid="Michael Conrad" creationdate="20230629T031816Z">
+        <seg>“ᎢᎬᏱ ᏗᏣᎳᏏᏕᏂ ᎠᏎ ᏦᎩᎪᏩᏛᏗ. ᏫᏘᎪᏩᏛᏓ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"You need not cry for help," said the wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032227Z" creationid="Michael Conrad" creationdate="20230629T032227Z">
+        <seg>“ᎩᎶ ᎢᏥᏍᏕᎸᏗ ᎢᏥᏯᏅᏗ ᏂᏥᎬᏨᎾ,” ᎤᏛᏁ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Your eyes are so big, grandmother.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230346Z" creationid="Michael Conrad" creationdate="20230628T230346Z">
+        <seg>“ᏧᏔᏂ ᏘᎦᏙᎵ, ᎡᎵᏏ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A wicked old wolf!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T030648Z" creationid="Michael Conrad" creationdate="20230629T030648Z">
+        <seg>ᎤᏲᏒ ᎠᎦᏴᎵ ᏩᏯ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Afraid of your grandmother's eyes!"</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230118Z" creationid="Michael Conrad" creationdate="20230628T230118Z">
+        <seg>ᎤᎵᏏ ᏗᎦᏙᎵ ᏕᎯᏍᎦᎭ!”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All of you listen!"</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230829Z" creationid="Michael Conrad" creationdate="20230628T230829Z">
+        <seg>ᎢᏣᏛᏓᏍᏓ!”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>And I have some cakes.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T224500Z" creationid="Michael Conrad" creationdate="20230628T224500Z">
+        <seg>ᎠᎴ ᎬᏲᎴᎵ ᎦᏚ ᎤᏂᎦᎾᏍᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>And I have some cakes."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T220904Z" creationid="Michael Conrad" creationdate="20230628T220904Z">
+        <seg>ᎦᏚᏃ ᎤᏂᎦᎾᏍᏓ ᎤᎾᏣᎠ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>And grandmother jumped out of his mouth.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T231221Z" creationid="Michael Conrad" creationdate="20230628T231221Z">
+        <seg>ᎠᎰᎵᏃ ᎤᎵᏏ ᏚᎵᏔᏗᏅᏒᎢ ᎤᏄᎪᏤ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>And he was a bad, bad wolf!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T223929Z" creationid="Michael Conrad" creationdate="20230628T223929Z">
+        <seg>ᎠᎴ ᎤᏲ, ᎤᏲ ᏩᏯ ᎨᏎ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>And she likes cakes, too.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T221356Z" creationid="Michael Conrad" creationdate="20230628T221356Z">
+        <seg>ᎦᏚ ᎤᏂᎦᎾᏍᏓ ᎤᎸᏉᏙ, ᎥᏍᏊ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>And she never did.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T231837Z" creationid="Michael Conrad" creationdate="20230628T231837Z">
+        <seg>ᎠᎴ ᎥᏝ ᎢᎸᎯᏳ ᏱᏄᏛᏁᎴ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>And your mouth, grandmother.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230414Z" creationid="Michael Conrad" creationdate="20230628T230414Z">
+        <seg>ᎠᎴ ᎯᎰᎵ, ᎡᎵᏏ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Are you hurt?"</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T231436Z" creationid="Michael Conrad" creationdate="20230628T231436Z">
+        <seg>ᎤᏲᏍ ᏣᎵᏍᏓᏁᎭ?”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But I am not afraid.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T221420Z" creationid="Michael Conrad" creationdate="20230628T221420Z">
+        <seg>ᎠᏎᏃ ᎾᎩᏍᎦᎸᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But I can hear you all the better, Little Red Riding Hood."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T225807Z" creationid="Michael Conrad" creationdate="20230628T225806Z">
+        <seg>ᎠᏎᏃ ᎣᏍᏓᎨᎢ ᎬᏯᏛᎪᏗ, ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But I must get in.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T024300Z" creationid="Michael Conrad" creationdate="20230629T024300Z">
+        <seg>ᎠᏎᏃ ᎠᏎ ᎠᎩᏴᏍᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But I wonder what she has in the basket."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T220828Z" creationid="Michael Conrad" creationdate="20230628T220828Z">
+        <seg>ᎠᏎᏃ ᎦᏙ ᏧᏍᏗ ᏔᎷᏣ ᎤᎾᏣᎠ?”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But Little Red Riding Hood is not afraid.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T190336Z" creationid="Michael Conrad" creationdate="20230628T190336Z">
+        <seg>ᎠᏎᏃ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᏄᏍᎦᎸᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But Little Red Riding Hood was afraid.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T225437Z" creationid="Michael Conrad" creationdate="20230628T225437Z">
+        <seg>ᎠᏎᏃ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎤᏍᎦᎴ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But no help came.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T223830Z" creationid="Michael Conrad" creationdate="20230628T223830Z">
+        <seg>ᎠᏎᏃ ᎥᏝ ᎠᎵᏍᏕᎵᏍᎩ ᏳᎷᏤ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But the door was open.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032508Z" creationid="Michael Conrad" creationdate="20230629T032508Z">
+        <seg>ᎠᏎᏃ ᎦᎶᎯᏍᏗ ᎤᎵᏍᏚᎢᏓ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But the wood choppers came.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T231510Z" creationid="Michael Conrad" creationdate="20230628T231510Z">
+        <seg>ᎠᏎᏃ ᏗᏂᎴᏴᏍᏗᏍᎩ ᎤᏂᎷᏨᎩ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>By and by the Mother Goat came.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032414Z" creationid="Michael Conrad" creationdate="20230629T032414Z">
+        <seg>ᎪᎯᏴᎢ ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ ᎤᎷᏤ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Come here and let me hug you.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T225413Z" creationid="Michael Conrad" creationdate="20230628T225413Z">
+        <seg>ᏖᎾ ᎠᎭᏂ ᎬᏄᎩᏣᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Come to me, Little Red Riding Hood," she said.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T031138Z" creationid="Michael Conrad" creationdate="20230628T031138Z">
+        <seg>“ᏄᎳ, ᎤᏍᏗ ᎠᎩᎦᎨ ᎠᎵᏍᏚᎶ, ᎠᎭᏂ ᏘᎷᎩ,” ᎤᏛᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Come, Little Red Riding Hood, come!"</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230248Z" creationid="Michael Conrad" creationdate="20230628T230248Z">
+        <seg>ᏖᎾ, ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ, ᏖᎾ!”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Come, so that I can hear you.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230227Z" creationid="Michael Conrad" creationdate="20230628T230227Z">
+        <seg>ᏖᎾ, ᎬᏯᏛᎪᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Come, so that I can hug you.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230239Z" creationid="Michael Conrad" creationdate="20230628T230239Z">
+        <seg>ᏖᎾ, ᎬᏯᏄᎩᏣᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Did you hear, little kids?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T024106Z" creationid="Michael Conrad" creationdate="20230629T024106Z">
+        <seg>ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ, ᎢᏣᏛᎦᏁᏍ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do not open the door for black feet."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T025853Z" creationid="Michael Conrad" creationdate="20230629T025853Z">
+        <seg>ᏗᎬᎿᎨ ᏧᎳᏏᏕᏂ ᏱᎩ ᏞᏍᏗ ᎦᎶᎯᏍᏗᎢ ᏥᏥᏍᏚᎢ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do not open the door when you hear the rough voice."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T025147Z" creationid="Michael Conrad" creationdate="20230629T025145Z">
+        <seg>ᎤᏓᏣᎧᏗ ᎤᏁᏨᎢ ᏱᎩ ᏞᏍᏗ ᎦᎶᎯᏍᏗᎢ ᏥᏥᏍᏚᎢ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For they saw that they had let in the wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032041Z" creationid="Michael Conrad" creationdate="20230629T032041Z">
+        <seg>ᎤᏂᎪᎮ Ꮎ ᏩᏯ ᎠᏴᎭ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Four, five, six!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032321Z" creationid="Michael Conrad" creationdate="20230629T032321Z">
+        <seg>ᏅᎩ, ᎯᏍᎩ, ᏑᏓᎵ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goodbye."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222442Z" creationid="Michael Conrad" creationdate="20230628T222442Z">
+        <seg>ᏙᎾᏓᎪᎲᎢ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Grandmother likes cakes.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T204403Z" creationid="Michael Conrad" creationdate="20230628T204403Z">
+        <seg>ᎤᎵᏏ ᎤᏂᎦᎾᏍᏓ ᏚᎸᏉᏙ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Grandmother likes these cakes.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T031339Z" creationid="Michael Conrad" creationdate="20230628T031339Z">
+        <seg>ᏣᎵᏏ ᎯᎠ ᎤᏂᎦᎾᏍᏓ ᎤᎸᏉᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Grandmother lives far away.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T190252Z" creationid="Michael Conrad" creationdate="20230628T190252Z">
+        <seg>ᎤᎵᏏ ᎢᎾ ᏫᎦᏁᎳ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Grandmother lives on the other edge.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T190314Z" creationid="Michael Conrad" creationdate="20230628T190314Z">
+        <seg>ᎤᎵᏏ ᎦᏁᎳ ᏐᎢ ᎠᏍᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Grandmother loves me.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T190708Z" creationid="Michael Conrad" creationdate="20230628T190658Z">
+        <seg>ᎠᎩᎵᏏ ᎠᏴ ᎠᏆᏓᎨᏳᏐ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Grandmother loves mother."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T190847Z" creationid="Michael Conrad" creationdate="20230628T190847Z">
+        <seg>ᎤᎵᏏ ᎠᎩᏥ ᎤᎨᏳᏐ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Grandmother will be glad.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T204434Z" creationid="Michael Conrad" creationdate="20230628T204434Z">
+        <seg>ᎤᎵᏏ ᏛᎵᎮᎵᏥ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Growl, growl, growl!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230504Z" creationid="Michael Conrad" creationdate="20230628T230504Z">
+        <seg>“Ꭼ. Ꭼ. Ꭼ,” ᎤᏪᏡᏁ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ha, ha!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222756Z" creationid="Michael Conrad" creationdate="20230628T222756Z">
+        <seg>Ꭽ, Ꭽ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ha, ha!"</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222825Z" creationid="Michael Conrad" creationdate="20230628T222825Z">
+        <seg>Ꭽ, Ꭽ!”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>He had white feet.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032904Z" creationid="Michael Conrad" creationdate="20230629T032904Z">
+        <seg>ᏧᎳᏏᏕᏂ ᏧᏁᎦ ᎨᏒᎩ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>He has on her cap, too.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T224228Z" creationid="Michael Conrad" creationdate="20230628T224228Z">
+        <seg>ᎤᏤᎵ ᎠᎵᏍᏚᎶ ᎤᎵᏍᏚᎳ, ᎥᏍᏊ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>He heard what she said to the kids.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T023951Z" creationid="Michael Conrad" creationdate="20230629T023951Z">
+        <seg>ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᏧᏬᏎᎸᎢ ᎤᏛᎦᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>He is wearing a hat, is wearing a coat, and is wearing shoes.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T023908Z" creationid="Michael Conrad" creationdate="20230629T023856Z">
+        <seg>ᎤᎵᏍᏇᏚᎦ ᎤᏄᏩ ᏚᎳᏑᏝᏃ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>He knocked on the door.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222850Z" creationid="Michael Conrad" creationdate="20230628T222850Z">
+        <seg>ᎦᎶᎯᏍᏗ ᎤᏩᏂᎴ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>He ran to grandmother's house.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222622Z" creationid="Michael Conrad" creationdate="20230628T222622Z">
+        <seg>ᎤᎵᏏ ᎦᎵᏦᏕ ᎠᏟᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>He said he would eat me.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T231502Z" creationid="Michael Conrad" creationdate="20230628T231502Z">
+        <seg>ᎤᏛᏁ ᎠᎩᏒᏅᎭ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>He told us to open the door.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032935Z" creationid="Michael Conrad" creationdate="20230629T032935Z">
+        <seg>ᎶᎯᏍᏗ ᎠᏎ ᎣᎩᏍᏚᎢᏍᏗ ᎣᎪᏎᎸᎩ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>He was a bad, bad wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T204616Z" creationid="Michael Conrad" creationdate="20230628T204616Z">
+        <seg>Ꮎ ᎤᏲ, ᎤᏲ ᏩᏯ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hear him talk to himself.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T024146Z" creationid="Michael Conrad" creationdate="20230629T024146Z">
+        <seg>ᎤᏩᏌ ᏧᏓᏙᏎᎸᎢ ᎭᏛᎬᎦ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Help, help your baby kids!"</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032217Z" creationid="Michael Conrad" creationdate="20230629T032217Z">
+        <seg>ᏫᏍᎩᏕᎳ, ᏫᏍᎩᏕᎳ ᏗᏨᏰᏥ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ!”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Her mother has just sent her.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T204320Z" creationid="Michael Conrad" creationdate="20230628T204320Z">
+        <seg>ᎤᏥ ᏫᎦᎧᎲᎦ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>His voice was now very sweet and kind.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T030946Z" creationid="Michael Conrad" creationdate="20230629T030911Z">
+        <seg>ᎤᏬᏂᏒᎢ ᏃᏊ ᎤᎦᎾᏍᏓ ᎤᏓᏅᏘᏃ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How can I catch her?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T221704Z" creationid="Michael Conrad" creationdate="20230628T221704Z">
+        <seg>ᎦᏙ ᏥᏂᏱᏗ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How glad they both were!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T231306Z" creationid="Michael Conrad" creationdate="20230628T231306Z">
+        <seg>ᎤᎪᏗ ᎤᎾᎵᎮᎵᏨᎢ ᎨᏎ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How long have you been ill?"</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T224907Z" creationid="Michael Conrad" creationdate="20230628T224907Z">
+        <seg>“ᎯᎳ ᎢᏴ ᏣᏢᎦ?”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How shall I get in?"</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T224509Z" creationid="Michael Conrad" creationdate="20230628T224509Z">
+        <seg>ᎦᏙ ᎠᎩᏴᏍᏗ?”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How strange they are!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T225540Z" creationid="Michael Conrad" creationdate="20230628T225540Z">
+        <seg>ᎠᏂᏎᎩᏒ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T030008Z" creationid="Michael Conrad" creationdate="20230628T030008Z">
+        <seg>1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I am afraid of them, grandmother.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T225615Z" creationid="Michael Conrad" creationdate="20230628T225615Z">
+        <seg>ᏕᏥᏍᎦᎭ, ᎡᎵᏏ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I am afraid of these arms."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T225342Z" creationid="Michael Conrad" creationdate="20230628T225342Z">
+        <seg>ᏗᎧᏃᎨ ᏕᏥᏍᎦᎭ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I am afraid of those eyes."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230045Z" creationid="Michael Conrad" creationdate="20230628T230045Z">
+        <seg> ᏘᎦᏙᎵ ᏕᏥᏍᎦᎭ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I am not afraid in the forest.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T182744Z" creationid="Michael Conrad" creationdate="20230628T182744Z">
+        <seg>ᎤᎿ ᎢᎾᎨᎢ ᎾᎩᏍᎦᎸᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I am not afraid.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T190426Z" creationid="Michael Conrad" creationdate="20230628T190426Z">
+        <seg>ᎾᎩᏍᎦᎸᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I can hug you all the better."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T225243Z" creationid="Michael Conrad" creationdate="20230628T225243Z">
+        <seg>ᎣᏍᏓᎨᎢ ᎬᏯᏄᎩᏣᏗ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I can not eat her now.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222302Z" creationid="Michael Conrad" creationdate="20230628T222302Z">
+        <seg>Ꮭ ᏱᏥᏒᎲᏍᏗ ᏃᏊ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I do not dare to eat her in the forest.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T221714Z" creationid="Michael Conrad" creationdate="20230628T221714Z">
+        <seg>ᏥᏒᎲᏍᏗ ᎠᏆᎵᏨᏯᏍᏗ ᏂᎨᏒᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I do not like the wood choppers.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T221759Z" creationid="Michael Conrad" creationdate="20230628T221759Z">
+        <seg>ᏗᏂᎴᏴᏍᏗᏍᎩ ᏂᎦᏥᎸᏉᏛᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I have food for you.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031736Z" creationid="Michael Conrad" creationdate="20230629T031736Z">
+        <seg>ᎠᎵᏍᏓᏴᏗ ᎢᏨᎢᏙᎴᎭ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I have food for you."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032454Z" creationid="Michael Conrad" creationdate="20230629T032454Z">
+        <seg>ᎠᎵᏍᏓᏴᏗ ᎢᏨᎮᎭ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I have some food for you."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T030259Z" creationid="Michael Conrad" creationdate="20230629T030223Z">
+        <seg>ᎠᎵᏍᏓᏴᏗ ᎢᏨᎮᎭ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I hid in the clock."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032819Z" creationid="Michael Conrad" creationdate="20230629T032819Z">
+        <seg>ᎡᏆ ᏩᏥᏱ ᎠᏆᏗᏍᎦᎳᏅᎩ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I like my hood.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T030554Z" creationid="Michael Conrad" creationdate="20230628T030554Z">
+        <seg>ᎠᏆᏤᎵ ᎠᎵᏍᏚᎶ ᎠᎩᎸᏉᏙ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I like my hood."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T030727Z" creationid="Michael Conrad" creationdate="20230628T030727Z">
+        <seg>ᎠᏆᏤᎵ ᎠᎵᏍᏚᎶ ᎠᎩᎸᏉᏗ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I like the forest."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T182745Z" creationid="Michael Conrad" creationdate="20230628T182745Z">
+        <seg>ᎢᎾᎨᎢ ᎠᎩᎸᏉᏙᎢ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I like to go to see my grandmother.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T190417Z" creationid="Michael Conrad" creationdate="20230628T190417Z">
+        <seg>ᎤᎵᏏ ᏥᎪᎲᏍᏗ ᎠᎩᎸᏉᏙ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I like to take cakes to her.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T190453Z" creationid="Michael Conrad" creationdate="20230628T190453Z">
+        <seg>ᎦᏚ ᎤᏂᎦᎾᏍᏓ ᏫᏥᏫᏛᎮᏗ ᎠᎩᎸᏉᏙ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I like to walk in the forest."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T221444Z" creationid="Michael Conrad" creationdate="20230628T221444Z">
+        <seg>ᎢᎾᎨᎢ ᎠᏇᏓᏍᏗ ᎠᎩᎸᏉᏙ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I love my grandmother.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T181624Z" creationid="Michael Conrad" creationdate="20230628T181624Z">
+        <seg>ᎠᎩᎵᏏ ᏥᎨᏳᏐ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I love my kind grandmother.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T190643Z" creationid="Michael Conrad" creationdate="20230628T190516Z">
+        <seg>ᎤᏓᏅᏘ ᎠᎩᎵᏏ ᏥᎨᏳᏐ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I must eat the kids.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T024227Z" creationid="Michael Conrad" creationdate="20230629T024227Z">
+        <seg>ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᎠᏎ ᎦᏥᏒᎲᏍᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I must go away," said the Mother Goat.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T024330Z" creationid="Michael Conrad" creationdate="20230629T024330Z">
+        <seg>ᎠᏎ ᏩᏇᏅᏍᏗ,” ᎤᏛᏁ ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I must go to my grandmother's.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222421Z" creationid="Michael Conrad" creationdate="20230628T222421Z">
+        <seg>ᎠᎩᎵᏏ ᎠᏎ ᎠᏇᏅᏍᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I must have a good dinner.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T024238Z" creationid="Michael Conrad" creationdate="20230629T024238Z">
+        <seg>ᎣᏍᏓ ᎠᎵᏍᏓᏴᏗ ᎠᏎ ᎠᎩᎮᏍᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I must wait.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222310Z" creationid="Michael Conrad" creationdate="20230628T222310Z">
+        <seg>ᎠᏎ ᎠᎩᎦᏘᏗᏍᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I shall eat her, too."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T224051Z" creationid="Michael Conrad" creationdate="20230628T224051Z">
+        <seg>ᏓᏥᏒᏂ ᎥᏍᏊ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I shall now have a good dinner.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032306Z" creationid="Michael Conrad" creationdate="20230629T032306Z">
+        <seg>ᏃᏊ ᎣᏍᏓ ᎠᎵᏍᏓᏴᏗ ᏓᎦᎵᏍᏓᏴᏂ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I shall take these cakes to her, too.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T221105Z" creationid="Michael Conrad" creationdate="20230628T221105Z">
+        <seg>ᎦᏚ ᎤᏂᎦᎾᏍᏓ ᏕᏥᏫᏗᎭ, ᎥᏍᏊ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I shall take this butter to her.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T221050Z" creationid="Michael Conrad" creationdate="20230628T221050Z">
+        <seg>ᎪᏢᏅ ᏥᏫᏗᎭ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I shall think of a way to get in."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T024307Z" creationid="Michael Conrad" creationdate="20230629T024307Z">
+        <seg>ᏄᏍᏗ ᎠᎩᏴᏍᏗ ᏓᎦᏓᏅᏖᏟ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I will catch her there.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222815Z" creationid="Michael Conrad" creationdate="20230628T222815Z">
+        <seg>ᎤᎿ ᏓᏥᏂᏴᎯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I will eat her by and by."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222328Z" creationid="Michael Conrad" creationdate="20230628T222328Z">
+        <seg>ᏓᏥᏒᏂ ᎪᎯᏴᎢ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I will eat her up.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222720Z" creationid="Michael Conrad" creationdate="20230628T222720Z">
+        <seg>ᏓᏥᏒᏂ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I will get into her bed.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222729Z" creationid="Michael Conrad" creationdate="20230628T222729Z">
+        <seg>ᎤᏤᎵ ᎦᏂᏟ ᏛᎩᏒᏟ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I will get the kids while you are away."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T024049Z" creationid="Michael Conrad" creationdate="20230629T024049Z">
+        <seg>ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᏓᎦᏥᎩᏏ ᏫᏤᏅᏒᎢ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I will give her the cakes.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T190739Z" creationid="Michael Conrad" creationdate="20230628T190739Z">
+        <seg>ᎦᏚ ᎤᏂᎦᎾᏍᏓ ᏓᏥᏁᎴᎵ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I will go to grandmother's house.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222709Z" creationid="Michael Conrad" creationdate="20230628T222709Z">
+        <seg>ᎤᎵᏏ ᎦᎵᏦᏕ ᏛᏇᏅᏏ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I will hug you."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T225420Z" creationid="Michael Conrad" creationdate="20230628T225420Z">
+        <seg>ᏓᎬᏯᏄᎩᏨᏂ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I will play grandmother.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222747Z" creationid="Michael Conrad" creationdate="20230628T222747Z">
+        <seg>ᎤᎵᏏ ᏓᎦᏤᎸᏂ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I will put it on my feet."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031643Z" creationid="Michael Conrad" creationdate="20230629T031643Z">
+        <seg>ᏗᏆᎳᏏᏕᏂ ᏙᏓᎫᏢᏂ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I will take the cakes.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T181535Z" creationid="Michael Conrad" creationdate="20230628T181535Z">
+        <seg>ᎦᏚ ᎤᏂᎦᎾᏍᏓ ᏙᏓᏥᏫᏛᎯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I will take them to grandmother.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T181546Z" creationid="Michael Conrad" creationdate="20230628T181546Z">
+        <seg>ᎠᎩᎵᏏ ᏙᏓᏥᏫᏛᎯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I will wait for Little Red Riding Hood.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222739Z" creationid="Michael Conrad" creationdate="20230628T222739Z">
+        <seg>ᏓᏥᎦᏘᏗ Ꮎ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I wish to send you to your grandmother."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T031217Z" creationid="Michael Conrad" creationdate="20230628T031217Z">
+        <seg>ᎤᎵᏏ ᎤᏤᎵ ᎦᎵᏦᏕ ᏫᏤᏅᏍᏗ ᎠᏆᏚᎵᎭ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I wish you to take them to grandmother.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T031327Z" creationid="Michael Conrad" creationdate="20230628T031327Z">
+        <seg>ᏣᎵᏏ ᎯᏫᏛᎮᏗ ᎠᏆᏚᎵ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>II</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T030507Z" creationid="Michael Conrad" creationdate="20230628T030507Z">
+        <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>III</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T030732Z" creationid="Michael Conrad" creationdate="20230628T030732Z">
+        <seg>3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IV</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T030953Z" creationid="Michael Conrad" creationdate="20230628T030953Z">
+        <seg>4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IX</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T204458Z" creationid="Michael Conrad" creationdate="20230628T204458Z">
+        <seg>9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In ran the wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032013Z" creationid="Michael Conrad" creationdate="20230629T032013Z">
+        <seg>ᎠᏟᏒᎢ ᎤᏴᏞ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Is it your hood, Little Red Riding Hood?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T030707Z" creationid="Michael Conrad" creationdate="20230628T030707Z">
+        <seg>ᏣᏤᎵᏍᎪ ᎠᎵᏍᏚᎶ, ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Is the hood red?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T030518Z" creationid="Michael Conrad" creationdate="20230628T030518Z">
+        <seg>ᎩᎦᎨᏍ ᎠᎵᏍᏚᎶ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Is this child a boy or a girl?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T030147Z" creationid="Michael Conrad" creationdate="20230628T030147Z">
+        <seg>ᎠᏧᏣᏍ ᎠᎨᏳᏣᎨ ᎯᎠ ᎠᏲᏟ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is a long walk.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T190326Z" creationid="Michael Conrad" creationdate="20230628T190326Z">
+        <seg>ᎤᏓᏅᎯᏓ ᎠᎢᏒᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is a red hood."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T030644Z" creationid="Michael Conrad" creationdate="20230628T030638Z">
+        <seg>ᎩᎦᎨ ᎠᎵᏍᏚᎶ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is a rough wolf's voice.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T030553Z" creationid="Michael Conrad" creationdate="20230629T030553Z">
+        <seg>ᏩᏯ ᎤᏓᏣᎧᏗ ᎤᏬᏂᏒᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is that bad wolf," said one wood chopper.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230912Z" creationid="Michael Conrad" creationdate="20230628T230912Z">
+        <seg>Ꮎ ᎤᏲ ᏩᏯ,” ᎤᏛᏁ ᏌᏊ ᎦᎴᏴᏍᏗᏍᎩ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It was grandmother's cap.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T224006Z" creationid="Michael Conrad" creationdate="20230628T224006Z">
+        <seg>ᎤᎵᏏ ᎤᏤᎵ ᎠᎵᏍᏚᎶ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's her grandmother or maybe her mother?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T030905Z" creationid="Michael Conrad" creationdate="20230628T030905Z">
+        <seg>ᎤᎵᏏᏧ ᎤᏥᎨ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's her mother or maybe her grandmother?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T031055Z" creationid="Michael Conrad" creationdate="20230628T031055Z">
+        <seg>ᎤᏥᏧ ᎤᎵᏏᎨ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Knock, knock, knock!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T224353Z" creationid="Michael Conrad" creationdate="20230628T224353Z">
+        <seg>ᎤᏩᏂᎴ, ᎤᏩᏂᎴ, ᎤᏩᏂᎴ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let me in.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T030245Z" creationid="Michael Conrad" creationdate="20230629T030217Z">
+        <seg>ᎠᏎ ᎠᎩᏴᏍᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let us run."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230934Z" creationid="Michael Conrad" creationdate="20230628T230934Z">
+        <seg>ᏫᏗᏓᏓᎾᏩᏍᏓ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Listen!"</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230817Z" creationid="Michael Conrad" creationdate="20230628T230817Z">
+        <seg>[fuzzy]ᎭᏛᏓᏍᏓ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Listen, then, for the rough voice.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T025137Z" creationid="Michael Conrad" creationdate="20230629T025137Z">
+        <seg>ᎾᎯᏳ ᎢᏣᏛᏓᏍᏓ Ꮎ ᎤᏓᏣᎧᏗ ᎤᏁᏨᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Little Red Riding Hood has a grandmother.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T030913Z" creationid="Michael Conrad" creationdate="20230628T030913Z">
+        <seg>ᎤᎵᏏ ᎠᎨᏳᏣ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Little Red Riding Hood is going to her grandmother's.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T190239Z" creationid="Michael Conrad" creationdate="20230628T190239Z">
+        <seg>ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎤᎵᏏ ᎦᎵᏦᏕ ᎡᎦ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Little Red Riding Hood is not afraid.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T203927Z" creationid="Michael Conrad" creationdate="20230628T203927Z">
+        <seg>ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᏄᏍᎦᎸᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Little Red Riding Hood lives on one edge of the forest.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T190304Z" creationid="Michael Conrad" creationdate="20230628T190304Z">
+        <seg>ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎦᏁᎳ ᎢᎾᎨᎢ ᎠᏍᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Little Red Riding Hood looked at the wolf's ears.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T225520Z" creationid="Michael Conrad" creationdate="20230628T225520Z">
+        <seg>ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᏩᏯ ᏗᎦᎴᏂ ᏚᎦᏙᏍᏔᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Little Red Riding Hood looked at the wolf's eyes.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T225946Z" creationid="Michael Conrad" creationdate="20230628T225946Z">
+        <seg>ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᏩᏯ ᏗᎦᏙᎵ ᎤᎦᏙᏍᏔᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Little Red Riding Hood loves her.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T030940Z" creationid="Michael Conrad" creationdate="20230628T030940Z">
+        <seg>ᎤᎵᏏ ᎤᎨᏳᏐ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Little Red Riding Hood met a wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T204538Z" creationid="Michael Conrad" creationdate="20230628T204538Z">
+        <seg>ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎠᎴ ᎡᏆ ᏩᏯ ᎠᎩᏏ ᏚᎾᏠᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Little Red Riding Hood pulled the string.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T224704Z" creationid="Michael Conrad" creationdate="20230628T224704Z">
+        <seg>ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎠᏍᏘ ᎤᎾᏌᏁᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Little Red Riding Hood went in.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T224738Z" creationid="Michael Conrad" creationdate="20230628T224738Z">
+        <seg>ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎤᏴᏞ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Little Red Riding Hood went to the bedside.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T225026Z" creationid="Michael Conrad" creationdate="20230628T225026Z">
+        <seg>ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎦᏂᏟ ᎾᎥ ᎤᏪᏅᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Little Red Riding Hood will be glad, too.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T204447Z" creationid="Michael Conrad" creationdate="20230628T204447Z">
+        <seg>ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᏛᎵᎮᎵᏥ ᎥᏍᏊ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mother Goat loves her kids.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T232344Z" creationid="Michael Conrad" creationdate="20230628T232344Z">
+        <seg>ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ ᏧᏪᏥ ᏚᎨᏳᏐ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mother Goat must leave the kids.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T232402Z" creationid="Michael Conrad" creationdate="20230628T232402Z">
+        <seg>ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᎠᏎ ᏧᏩᎧᎯᏯᏍᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mother Goat's feet are white.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031344Z" creationid="Michael Conrad" creationdate="20230629T031344Z">
+        <seg>ᎣᏥᏥ ᏧᎳᏏᏕᏂ ᏧᏁᎦ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mother loves grandmother.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T190831Z" creationid="Michael Conrad" creationdate="20230628T190831Z">
+        <seg>ᎠᎩᏥ ᎤᎵᏏ ᎤᎨᏳᏐ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mother sent them to her.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T190814Z" creationid="Michael Conrad" creationdate="20230628T190814Z">
+        <seg>ᎠᎩᏥ ᎥᏍᎩ ᏩᎲᎦ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>My poor little kids!"</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T033336Z" creationid="Michael Conrad" creationdate="20230629T033336Z">
+        <seg>ᏗᏇᏥ ᎤᏂᏲ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ!”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Never, never talk with a wolf again."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T231821Z" creationid="Michael Conrad" creationdate="20230628T231821Z">
+        <seg>ᎤᏙᎯᏳ, ᏞᏍᏗ ᎢᎸᎯᏳ ᏩᏯ ᏥᎯᏯᎵᏃᎮᏓ ᏏᏊ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No help came to her.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T223857Z" creationid="Michael Conrad" creationdate="20230628T223857Z">
+        <seg>ᎥᏝ ᎠᎵᏍᏕᎵᏍᎩ ᏳᎷᏤ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Not until you let us see your feet," said the kids.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031304Z" creationid="Michael Conrad" creationdate="20230629T031304Z">
+        <seg>ᎢᎪᎯᏓ ᏗᏣᎳᏏᏕᏂ ᏙᏥᎪᏩᏘᎭ,” ᎤᎾᏛᏁ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now he will never do any more harm.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T231344Z" creationid="Michael Conrad" creationdate="20230628T231344Z">
+        <seg>ᏃᏊ Ꮭ ᎢᎸᎯᏳ ᏙᏛᏒᏂ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now the wolf is going away.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T024120Z" creationid="Michael Conrad" creationdate="20230629T024120Z">
+        <seg>ᏃᏊ Ꮎ ᏩᏯ ᏪᎦ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now we will kill you."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T231157Z" creationid="Michael Conrad" creationdate="20230628T231157Z">
+        <seg>ᏃᏊ ᎢᏨᏟᏗ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O Mother Goat, come!" cried the kids.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032142Z" creationid="Michael Conrad" creationdate="20230629T032142Z">
+        <seg>Ꭳ ᎡᏥ ᎤᎦᏐᏣᏁᏓ, ᎯᎷᎩ!”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O Mother Goat, did you hear what the wolf said?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T024058Z" creationid="Michael Conrad" creationdate="20230629T024058Z">
+        <seg>Ꭳ, ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ, ᏣᏛᎦᏁᏍ ᏩᏯ ᎤᏬᏂᏒᎢ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O no, she is not afraid.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T182354Z" creationid="Michael Conrad" creationdate="20230628T182354Z">
+        <seg>Ꭳ Ꮭ, ᏄᏍᎦᎸᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230524Z" creationid="Michael Conrad" creationdate="20230628T230524Z">
+        <seg>Ꭳ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O!"</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230600Z" creationid="Michael Conrad" creationdate="20230628T230600Z">
+        <seg>Ꭳ!”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O!" cried Little Red Riding Hood.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230534Z" creationid="Michael Conrad" creationdate="20230628T230534Z">
+        <seg>Ꭳ!” ᎤᏪᏡᏁ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O!" said the Mother Goat.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032556Z" creationid="Michael Conrad" creationdate="20230629T032556Z">
+        <seg>Ꭳ!” ᎤᏛᏁ ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O!" said the kids.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032020Z" creationid="Michael Conrad" creationdate="20230629T032020Z">
+        <seg>Ꭳ!” ᎤᎾᏛᏁ Ꮎ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O!" screamed Little Red Riding Hood.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230551Z" creationid="Michael Conrad" creationdate="20230628T230551Z">
+        <seg>Ꭳ!” ᎤᏪᏡᏁ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O!" she cried.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T225058Z" creationid="Michael Conrad" creationdate="20230628T225058Z">
+        <seg>Ꭳ!” ᎤᏪᏡᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O, it is so big!"</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230421Z" creationid="Michael Conrad" creationdate="20230628T230421Z">
+        <seg>Ꭳ, ᎤᏔᏂ!”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O, my kids!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032613Z" creationid="Michael Conrad" creationdate="20230629T032613Z">
+        <seg>Ꭳ, ᏗᏇᏥ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O, the bad, bad wolf!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222631Z" creationid="Michael Conrad" creationdate="20230628T222631Z">
+        <seg>Ꭳ, Ꮎ ᎤᏲ, ᎤᏲ ᏩᏯ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O, what a bad wolf!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T223935Z" creationid="Michael Conrad" creationdate="20230628T223935Z">
+        <seg>Ꭳ, ᎤᏲᏒ ᏩᏯ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O, you bad wolf!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T224153Z" creationid="Michael Conrad" creationdate="20230628T224153Z">
+        <seg>Ꭳ, ᏣᏲ, ᏩᏯ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One is their mother.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T232323Z" creationid="Michael Conrad" creationdate="20230628T232323Z">
+        <seg>ᏌᏊ ᎤᏂᏥ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One kid ran into the clock.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032345Z" creationid="Michael Conrad" creationdate="20230629T032345Z">
+        <seg>ᏌᏊ ᎤᎦᏐᏣᏁᏓ ᎠᎩᎾ ᎤᎵᏘᏒᎢ ᎡᏆ ᏩᏥ ᎤᏴᏞ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One, two, three!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032314Z" creationid="Michael Conrad" creationdate="20230629T032314Z">
+        <seg>ᏌᏊ, ᎠᏂᏔᎵ, ᎠᏂᏦᎢ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Only one little kid is left.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T033308Z" creationid="Michael Conrad" creationdate="20230629T033308Z">
+        <seg>ᏌᏊᏊ ᎤᎦᏐᏣᏁᏓ ᎠᎩᎾ ᏄᏒᏅᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Or is it our Mother Goat?"</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031104Z" creationid="Michael Conrad" creationdate="20230629T031104Z">
+        <seg>ᎣᏥᏥᎨ ᎤᎦᏐᏣᏁᏓ?”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Out jumped the kid.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032747Z" creationid="Michael Conrad" creationdate="20230629T032747Z">
+        <seg>ᏙᏱ ᏚᎵᏔᏗᏅᏎ Ꮎ ᎤᎦᏐᏣᏁᏓ ᎠᎩᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Poor grandmother!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T223837Z" creationid="Michael Conrad" creationdate="20230628T223837Z">
+        <seg>ᎤᏲ ᎤᎵᏏ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pull the string and the latch will come up."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T223009Z" creationid="Michael Conrad" creationdate="20230628T223009Z">
+        <seg>ᎠᏍᏘ ᏱᎯᎾᏌᎾᎦ ᎦᎸᎳᏗᏜ ᏓᎩᏏ ᎠᏓᏅᎾ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quick, little kids, for I am very tired."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031755Z" creationid="Michael Conrad" creationdate="20230629T031755Z">
+        <seg>ᏄᎳ, ᏧᎾᏍᏗ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ. ᎤᎪᏗ ᏚᏯᏪᎦ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See Little Red Riding Hood.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T203846Z" creationid="Michael Conrad" creationdate="20230628T203846Z">
+        <seg>ᎯᎪᏩᏔ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See grandmother's glasses.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T224202Z" creationid="Michael Conrad" creationdate="20230628T224202Z">
+        <seg>ᎤᎵᏏ ᎤᏤᎵ ᏗᎦᏘᏅᏘᏗ ᎯᎪᏩᏔ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See her cap.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T224209Z" creationid="Michael Conrad" creationdate="20230628T224209Z">
+        <seg>ᎤᏤᎵ ᎠᎵᏍᏚᎶ ᎯᎪᏩᏔ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See her red hood.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T030213Z" creationid="Michael Conrad" creationdate="20230628T030213Z">
+        <seg>ᎤᏤᎵ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎯᎪᏩᏔ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See him in her bed.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T224251Z" creationid="Michael Conrad" creationdate="20230628T224251Z">
+        <seg>ᎯᎪᏩᏔ ᎤᏂᎭ, ᎤᏤᎵ ᎦᏂᏟ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See this little girl.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T030203Z" creationid="Michael Conrad" creationdate="20230628T030139Z">
+        <seg>ᎯᎪᏩᏔ ᎯᎠ ᎤᏍᏗ ᎠᎨᏳᏣ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See, I have food for you."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031022Z" creationid="Michael Conrad" creationdate="20230629T031022Z">
+        <seg>ᎢᏥᎪᏩᏔ, ᎠᎵᏍᏓᏴᏗ ᎢᏨᎮᏍᏕᎭ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Seven little kids!"</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032329Z" creationid="Michael Conrad" creationdate="20230629T032329Z">
+        <seg>ᎦᎵᏉᎩ ᏧᎾᏍᏗ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ!”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She had the basket on her arm.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T224318Z" creationid="Michael Conrad" creationdate="20230628T224318Z">
+        <seg>ᏔᎷᏣ ᎠᏰᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She has a basket.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T204328Z" creationid="Michael Conrad" creationdate="20230628T204328Z">
+        <seg>ᏔᎷᏣ ᎤᎭ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She has gone away.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032258Z" creationid="Michael Conrad" creationdate="20230629T032258Z">
+        <seg>ᎤᏟ ᏭᏪᏅᏒᎩ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She is Little Red Riding Hood.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T030500Z" creationid="Michael Conrad" creationdate="20230628T030500Z">
+        <seg>ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᏚᏙᎠ Ꮎ ᎠᎨᏳᏣ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She is glad to go.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T182425Z" creationid="Michael Conrad" creationdate="20230628T182425Z">
+        <seg>ᏭᏪᏅᏍᏗ ᎠᎵᎮᎵᎦ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She is going to see her grandmother.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T203936Z" creationid="Michael Conrad" creationdate="20230628T203936Z">
+        <seg>ᎤᎵᏏ ᎠᎪᎮᎨᏍᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She is good and kind.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T181634Z" creationid="Michael Conrad" creationdate="20230628T181634Z">
+        <seg>ᎥᏍᎩ ᎣᏍᏓ ᎠᎴ ᎤᏓᏅᏘ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She is in the forest now.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T203908Z" creationid="Michael Conrad" creationdate="20230628T203908Z">
+        <seg>ᏃᏊ ᎢᎾᎨ ᏪᏙᎭ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She is kind to me.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T182031Z" creationid="Michael Conrad" creationdate="20230628T182031Z">
+        <seg>ᎣᏍᏓ ᎾᎩᏩᎾᏕᎪ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She is kind to my mother.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T182038Z" creationid="Michael Conrad" creationdate="20230628T182038Z">
+        <seg>ᎠᎩᏥ ᎣᏍᏓ ᏄᏩᎾᏕᎪ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She knocked at the door.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T224328Z" creationid="Michael Conrad" creationdate="20230628T224328Z">
+        <seg>ᎦᎶᎯᏍᏗ ᎤᏩᏂᎴ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She likes butter, too.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T204415Z" creationid="Michael Conrad" creationdate="20230628T204415Z">
+        <seg>ᎪᏢᏅ ᎤᎸᏉᏙ ᏍᏊ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She likes butter.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T221328Z" creationid="Michael Conrad" creationdate="20230628T221201Z">
+        <seg>ᎪᏢᏅ ᎤᎸᏉᏙ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She likes cakes.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T190507Z" creationid="Michael Conrad" creationdate="20230628T190507Z">
+        <seg>ᎦᏚ ᎤᏂᎦᎾᏍᏓ ᎤᎸᏉᏙ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She likes to see me.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T190439Z" creationid="Michael Conrad" creationdate="20230628T190439Z">
+        <seg>ᎠᎩᎪᏩᏛᏗ ᎤᎸᏉᏙ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She lives far away.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T182246Z" creationid="Michael Conrad" creationdate="20230628T182246Z">
+        <seg>ᎢᎾ ᏫᎦᏁᎳ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She lives near the forest.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T182325Z" creationid="Michael Conrad" creationdate="20230628T182325Z">
+        <seg>ᎢᎾᎨᎢ ᎾᎥ ᏫᎦᏁᎳ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She loves Little Red Riding Hood.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T030921Z" creationid="Michael Conrad" creationdate="20230628T030921Z">
+        <seg>ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎤᎨᏳᏐ ᎤᎵᏏ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She loves me and I love her.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T182022Z" creationid="Michael Conrad" creationdate="20230628T182022Z">
+        <seg>ᎠᎩᎨᏳᏐ ᎠᎴ ᏥᎨᏳᏐ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She loves me.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T221039Z" creationid="Michael Conrad" creationdate="20230628T221039Z">
+        <seg>ᎠᎩᎨᏳᎠ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She met him in the forest.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T204601Z" creationid="Michael Conrad" creationdate="20230628T204601Z">
+        <seg>ᎢᎾᎨᎢ ᏚᎾᏠᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She must go out to find food.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T232409Z" creationid="Michael Conrad" creationdate="20230628T232409Z">
+        <seg>ᎠᎵᏍᏓᏴᏗ ᎠᏎ ᏧᏩᏛᎮᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She ran to Red Riding Hood.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T231229Z" creationid="Michael Conrad" creationdate="20230628T231229Z">
+        <seg>ᎤᎵᏏ ᎤᏓᎾᏩᏍᏔᏁ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᏗᏜ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She was afraid.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T225034Z" creationid="Michael Conrad" creationdate="20230628T225034Z">
+        <seg>ᎤᏍᎦᎴ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She will be glad to see me.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T181606Z" creationid="Michael Conrad" creationdate="20230628T181606Z">
+        <seg>ᎠᎩᎪᏩᏛᏗ ᏛᎵᎮᎵᏥ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She will be glad to see you, too," said her mother.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T031350Z" creationid="Michael Conrad" creationdate="20230628T031350Z">
+        <seg>ᏣᎪᏩᏛᏗ ᏛᎵᎮᎵᏥ, ᏍᏊ," ᎤᏛᏁ ᎤᏥ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She will come soon."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T224134Z" creationid="Michael Conrad" creationdate="20230628T224134Z">
+        <seg>ᎩᎳᏊ ᎤᎷᏥᏗ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She will like the cakes.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T181614Z" creationid="Michael Conrad" creationdate="20230628T181614Z">
+        <seg>ᎦᏚ ᎤᏂᎦᎾᏍᏓ ᏙᏓᎸᏉᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She would not come.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T225453Z" creationid="Michael Conrad" creationdate="20230628T225453Z">
+        <seg>ᎥᏝ ᏳᏪᏅᏒᎭ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So I do not dare to eat Little Red Riding Hood now.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222242Z" creationid="Michael Conrad" creationdate="20230628T222242Z">
+        <seg>ᏃᏊ ᏗᏆᎵᏨᏯᏍᏗ ᏂᎨᏒᎾ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᏥᏒᎲᏍᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So away with you!"</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031607Z" creationid="Michael Conrad" creationdate="20230629T031607Z">
+        <seg>ᏃᏊ ᎤᏟ ᏪᎾ!”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So by and by he came again.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T030937Z" creationid="Michael Conrad" creationdate="20230629T030843Z">
+        <seg>ᎪᎯᏴᎢ ᎤᎷᏥᏏᎴ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So do not let the wolf in," said the Mother Goat.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T024912Z" creationid="Michael Conrad" creationdate="20230629T024630Z">
+        <seg>ᏞᏍᏗᏃ ᎤᏴᏍᏗ ᏥᏣᎵᏍᎪᎸᏓᏏ,” ᎤᏛᏁ ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So go away, wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T025812Z" creationid="Michael Conrad" creationdate="20230629T025812Z">
+        <seg>ᏃᏊ ᏪᎾ, ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So go away.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T030708Z" creationid="Michael Conrad" creationdate="20230629T030708Z">
+        <seg>ᏃᏊ ᏪᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So go, Mother Goat," said the kids.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T024846Z" creationid="Michael Conrad" creationdate="20230629T024741Z">
+        <seg>ᏃᏊ ᏪᎾ, ᎢᏍᎩᏥ ᎤᎦᏐᏣᏁᏓ,” ᎤᎾᏛᏁ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So he got into bed.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T224105Z" creationid="Michael Conrad" creationdate="20230628T224105Z">
+        <seg>ᏃᏊᎴ ᎤᏒᏞ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So open the door.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031744Z" creationid="Michael Conrad" creationdate="20230629T031744Z">
+        <seg>ᏃᏊ ᎢᏥᏍᏚᎢ ᎯᎠ ᎦᎶᎯᏍᏗᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So the Mother Goat went away.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T030012Z" creationid="Michael Conrad" creationdate="20230629T025938Z">
+        <seg>ᎾᎯᏳᏃ ᎤᎦᏐᏣᏁᏓ ᎤᏂᏥ ᎤᏟ ᏭᏪᏅᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So the goat went in.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032521Z" creationid="Michael Conrad" creationdate="20230629T032521Z">
+        <seg>ᏃᏊᎴ ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ ᎤᏴᏞ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So the kids opened the door.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032006Z" creationid="Michael Conrad" creationdate="20230629T032006Z">
+        <seg>ᏃᏊᎴ ᎦᎶᎯᏍᏗ ᎤᎾᏛᏓᏍᏔᏁ Ꮎ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So the wolf put flour on his feet.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031701Z" creationid="Michael Conrad" creationdate="20230629T031701Z">
+        <seg>ᏃᏊᎴ ᏧᎳᏏᏕᏂ ᎢᏌ ᏚᏭᏢᏁ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So the wolf ran out at the door.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T231055Z" creationid="Michael Conrad" creationdate="20230628T231055Z">
+        <seg>ᏃᏊᎴ Ꮎ ᏩᏯ ᎦᎶᎯᏍᏗ ᎤᎦᏛᎴᏒᎢ ᎤᎵᏘᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So the wolf went away again.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031617Z" creationid="Michael Conrad" creationdate="20230629T031617Z">
+        <seg>ᏃᏊ ᏩᏯ ᏭᏪᏅᏏᏏᎴ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So the wolf went to the house.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T030110Z" creationid="Michael Conrad" creationdate="20230629T030110Z">
+        <seg>ᏃᏊᎴ ᎦᎵᏦᏕ ᎤᏪᏅᏎ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So the wood choppers ran.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230946Z" creationid="Michael Conrad" creationdate="20230628T230946Z">
+        <seg>ᏃᏊᎴ ᏗᏂᎴᏴᏍᏗᏍᎩ ᎤᎾᏓᎾᏩᏍᏔᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So they killed the bad wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T231210Z" creationid="Michael Conrad" creationdate="20230628T231210Z">
+        <seg>ᏃᏊᎴ Ꮎ ᎤᏲ ᏩᏯ ᎤᏂᏞ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So they took Little Red Riding Hood to her home.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T231410Z" creationid="Michael Conrad" creationdate="20230628T231410Z">
+        <seg>ᏃᏊᎴ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎤᏂᏫᏛᎮ ᏧᏪᏅᏒᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So we let the wolf in.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T033004Z" creationid="Michael Conrad" creationdate="20230629T033004Z">
+        <seg>ᏩᏯᏃ ᎤᏴᏍᏗ ᏃᎦᏛᏁᎸᎩ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Soon Little Red Riding Hood came.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T224311Z" creationid="Michael Conrad" creationdate="20230628T224311Z">
+        <seg>ᎩᎳᏊ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎤᎷᏤ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Soon there was no grandmother.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T223914Z" creationid="Michael Conrad" creationdate="20230628T223914Z">
+        <seg>ᎩᎳᏊ ᎥᏝ ᎤᎵᏏ ᏱᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Still Little Red Riding Hood was afraid.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T225253Z" creationid="Michael Conrad" creationdate="20230628T225253Z">
+        <seg>Ꮟ, ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎤᏍᎦᎴ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>THE SEVEN KIDS</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T232149Z" creationid="Michael Conrad" creationdate="20230628T232149Z">
+        <seg>Ꮎ ᎦᎵᏉᎩ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>That is good.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T225235Z" creationid="Michael Conrad" creationdate="20230628T225235Z">
+        <seg>Ꮎ ᎣᏍᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Mother Goat cried.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032829Z" creationid="Michael Conrad" creationdate="20230629T032829Z">
+        <seg>ᎤᏥ ᎤᎦᏐᏣᏁᏓ ᎤᏠᏱᎴ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Story of Red Riding Hood</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T025911Z" creationid="Michael Conrad" creationdate="20230628T025906Z">
+        <seg>ᎧᏃᎮᏢᏍᎦ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bad wolf put on a cap.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T223953Z" creationid="Michael Conrad" creationdate="20230628T223953Z">
+        <seg>Ꮎ ᎤᏲ ᏩᏯ ᎤᎵᏍᏚᎳᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bad wolf put on glasses.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T223959Z" creationid="Michael Conrad" creationdate="20230628T223959Z">
+        <seg>Ꮎ ᎤᏲ ᏩᏯ ᏚᎦᏘᏅᏔᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The forest is lonely.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T203916Z" creationid="Michael Conrad" creationdate="20230628T203916Z">
+        <seg>ᎢᎾᎨ ᎤᎯᏐᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The goat has seven little kids.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T232333Z" creationid="Michael Conrad" creationdate="20230628T232333Z">
+        <seg>ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ ᏚᏁᎧᎮ ᎦᎵᏉᎩ ᏧᎾᏍᏗ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The goat went to get food for the kids.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T030036Z" creationid="Michael Conrad" creationdate="20230629T030036Z">
+        <seg>ᎠᎵᏍᏓᏴᏗ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᎤᎩᏒᏎ Ꮎ ᎤᎦᏐᏣᏁᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The grandmother made the hood.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T030947Z" creationid="Michael Conrad" creationdate="20230628T030947Z">
+        <seg>ᎤᎵᏏ ᎠᎵᏍᏚᎶ ᎤᏬᏢᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The hood is hers.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T030443Z" creationid="Michael Conrad" creationdate="20230628T030443Z">
+        <seg>ᎠᎵᏍᏚᎶ ᎤᏤᎵ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The hood is red.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T030450Z" creationid="Michael Conrad" creationdate="20230628T030450Z">
+        <seg>ᎠᎵᏍᏚᎶ ᎩᎦᎨ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The kids kept very still for a time.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031147Z" creationid="Michael Conrad" creationdate="20230629T031147Z">
+        <seg>ᎪᎯᏓ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᏙᎢ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The kids looked at each other.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031036Z" creationid="Michael Conrad" creationdate="20230629T031036Z">
+        <seg>ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᏚᎾᏓᏓᎦᏙᏍᏔᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The kids looked.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031844Z" creationid="Michael Conrad" creationdate="20230629T031844Z">
+        <seg>Ꮎ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᏚᎾᎦᏙᏍᏔᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The kids love Mother Goat.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T232353Z" creationid="Michael Conrad" creationdate="20230628T232353Z">
+        <seg>ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᎤᏂᏥ ᎤᏂᎨᏳᏐ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The kids ran and screamed.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032059Z" creationid="Michael Conrad" creationdate="20230629T032059Z">
+        <seg>Ꮎ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᎠᎾᏟᏎ ᎤᏁᏡᏁᏃ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The kids ran to the window.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031229Z" creationid="Michael Conrad" creationdate="20230629T031229Z">
+        <seg>Ꮎ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᏦᎳᏂ ᏗᏜ ᎤᏓᎾᏩᏍᏔᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The kids will not let me in.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T024251Z" creationid="Michael Conrad" creationdate="20230629T024251Z">
+        <seg>Ꮎ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᎥᏝ ᎠᎩᏴᏍᏗ ᏯᎾᎵᏍᎪᎸᏓᏁᎰ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The latch came up.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T223026Z" creationid="Michael Conrad" creationdate="20230628T223026Z">
+        <seg>ᎦᎸᎳᏗᏜ ᏓᎩᏏ ᎤᏓᏅᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The little kids looked out of the window.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T030517Z" creationid="Michael Conrad" creationdate="20230629T030517Z">
+        <seg>ᏦᎳᏂ ᎤᎾᎦᏔᏁ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The mother began to cry.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032636Z" creationid="Michael Conrad" creationdate="20230629T032636Z">
+        <seg>ᎤᏂᏥ ᎤᏠᏱᏍᏗ ᎤᎴᏅᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The mother ran to the clock door.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032741Z" creationid="Michael Conrad" creationdate="20230629T032741Z">
+        <seg>ᎤᏥ ᎠᏟᏎ ᏩᏥ ᎦᎶᎯᏍᏗᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The voice was soft, too.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031901Z" creationid="Michael Conrad" creationdate="20230629T031901Z">
+        <seg>ᎤᏬᏂᏒᎢ ᏩᏂᎨᎢ ᎨᏎ ᎥᏍᏊ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The wolf came to grandmother's house.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222843Z" creationid="Michael Conrad" creationdate="20230628T222843Z">
+        <seg>ᎤᎵᏏ ᎦᎵᏦᏕ ᎤᎷᏤ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The wolf did not see him.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032352Z" creationid="Michael Conrad" creationdate="20230629T032352Z">
+        <seg>ᎥᏝ ᎥᏍᎩ ᏳᎪᎮ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The wolf growled to himself.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T030757Z" creationid="Michael Conrad" creationdate="20230629T030757Z">
+        <seg>“ᎬᎬᎬ,” ᎤᏓᏙᏎᎴ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The wolf has a rough voice.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T025121Z" creationid="Michael Conrad" creationdate="20230629T025121Z">
+        <seg>Ꮎ ᏩᏯ ᎤᏓᏣᎧᏗ ᎤᏁᏨᎢ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The wolf has been here.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032621Z" creationid="Michael Conrad" creationdate="20230629T032621Z">
+        <seg>Ꮎ ᏩᏯ ᎠᎭᏂ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The wolf has eaten my kids!"</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032651Z" creationid="Michael Conrad" creationdate="20230629T032651Z">
+        <seg>Ꮎ ᏩᏯ ᏗᏇᏥ ᏚᏒᏁ!”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The wolf has on her glasses.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T224220Z" creationid="Michael Conrad" creationdate="20230628T224220Z">
+        <seg>ᎤᏤᎵ ᏗᎦᏘᏅᏘᏗ ᏚᎦᏘᏅᏔ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The wolf looked at the string.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222937Z" creationid="Michael Conrad" creationdate="20230628T222937Z">
+        <seg>ᎠᏍᏘ ᎤᎪᎮ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The wolf pulled the string.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T223018Z" creationid="Michael Conrad" creationdate="20230628T223018Z">
+        <seg>ᎠᏍᏘ ᎤᎾᏌᏁᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The wolf ran and growled.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032113Z" creationid="Michael Conrad" creationdate="20230629T032113Z">
+        <seg>Ꮎ ᏩᏯ ᎠᏟᏎ ᎤᏪᏡᏁᏃ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The wolf ran through the forest.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222614Z" creationid="Michael Conrad" creationdate="20230628T222614Z">
+        <seg>Ꮎ ᏩᏯ ᎢᎾᎨᎢ ᎤᎦᏛᎴᏎ ᎠᏟᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The wolf said that he had food for us.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032916Z" creationid="Michael Conrad" creationdate="20230629T032916Z">
+        <seg>ᎠᎵᏍᏓᏴᏗ ᎣᎩᎯᏙᎴᎴ ᎤᏛᏁ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The wolf said that he was the Mother Goat.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032927Z" creationid="Michael Conrad" creationdate="20230629T032927Z">
+        <seg>ᎣᎩᏥ ᎤᎦᏐᏣᏁᏓ ᎤᏛᏁ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The wolf saw her go away.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T030044Z" creationid="Michael Conrad" creationdate="20230629T030044Z">
+        <seg>ᏭᏪᏅᏒᎢ Ꮎ ᏩᏯ ᎤᎪᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The wolf saw them.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T231019Z" creationid="Michael Conrad" creationdate="20230628T231019Z">
+        <seg>Ꮎ ᏩᏯ ᏚᎪᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The wolf sees Mother Goat.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T023942Z" creationid="Michael Conrad" creationdate="20230629T023942Z">
+        <seg>Ꮎ ᏩᏯ ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ ᎠᎪᏩᏘᎭ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The wolf sprang out of bed.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230512Z" creationid="Michael Conrad" creationdate="20230628T230512Z">
+        <seg>ᎤᏗᏛᎲᎢ ᎦᏂᏟ ᏫᏚᎵᏔᏗᏅᏎᎴ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The wolf went in.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T223034Z" creationid="Michael Conrad" creationdate="20230628T223034Z">
+        <seg>Ꮎ ᏩᏯ ᎤᏴᏞ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The wolf will come to eat you.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T024543Z" creationid="Michael Conrad" creationdate="20230629T024543Z">
+        <seg>Ꮎ ᏩᏯ ᏓᏥᏒᏂᎵ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The wolf will eat you, if he can get you.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T024554Z" creationid="Michael Conrad" creationdate="20230629T024554Z">
+        <seg>Ꮎ ᏩᏯ ᏓᏥᏒᏂ ᏱᏥᎩᎠ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The wood choppers are in the forest.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T221723Z" creationid="Michael Conrad" creationdate="20230628T221723Z">
+        <seg>ᏗᏂᎴᏴᏍᏗᏍᎩ ᎢᎾᎨᎢ ᎠᏁᏙᎰ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The wood choppers did not hear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T223809Z" creationid="Michael Conrad" creationdate="20230628T223809Z">
+        <seg>ᎥᏝ Ꮎ ᏗᏂᎴᏴᏍᏗᏍᎩ ᏳᎾᏛᎦᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The wood choppers might kill me.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T221742Z" creationid="Michael Conrad" creationdate="20230628T221742Z">
+        <seg>ᎡᎵᏊ ᏗᏂᎴᏴᏍᏗᏍᎩ ᏱᎬᎩᎷᎦ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The wood choppers might see me.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T221733Z" creationid="Michael Conrad" creationdate="20230628T221733Z">
+        <seg>ᎡᎵᏊ ᏗᏂᎴᏴᏍᏗᏍᎩ ᏱᎬᎩᎪᏩᏔ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The wood choppers saw Little Red Riding Hood speak to me.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222150Z" creationid="Michael Conrad" creationdate="20230628T222150Z">
+        <seg>ᏗᏂᎴᏴᏍᏗᏍᎩ ᎠᏂᎪᏩᏔ Ꮎ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎠᎩᏬᏂᏒᏌ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The wood choppers saw me speak to Little Red Riding Hood.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222137Z" creationid="Michael Conrad" creationdate="20230628T222135Z">
+        <seg>ᏗᏂᎴᏴᏍᏗᏍᎩ ᎠᏂᎪᏩᏔ Ꮎ ᏥᏲᏌ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The wood choppers were too far away.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T223906Z" creationid="Michael Conrad" creationdate="20230628T223906Z">
+        <seg>ᏗᏂᎴᏴᏍᏗᏍᎩ ᎢᏅᎯ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The wood choppers would see me.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222255Z" creationid="Michael Conrad" creationdate="20230628T222255Z">
+        <seg>ᏗᏂᎴᏴᏍᏗᏍᎩ ᎬᎩᎪᎲᎭ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The wood cutters were glad, too.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T231315Z" creationid="Michael Conrad" creationdate="20230628T231315Z">
+        <seg>Ꮎ ᏗᏂᎴᏴᏍᏗᏍᎩ ᎤᎾᎵᎮᎵᏤ, ᎥᏍᏊ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then he ate the kids.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T033017Z" creationid="Michael Conrad" creationdate="20230629T033017Z">
+        <seg>ᎾᎯᏳ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᏚᏒᏅᎩ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then he went away.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T030811Z" creationid="Michael Conrad" creationdate="20230629T030811Z">
+        <seg>ᎾᎯᏳ ᏭᏪᏅᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then she took Little Red Riding Hood up in her arms.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T231254Z" creationid="Michael Conrad" creationdate="20230628T231254Z">
+        <seg>ᎾᎯᏳ ᎤᎵᏏ ᎥᏍᎩ ᎤᏄᎩᏨᏁ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then the latch will come up."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T224653Z" creationid="Michael Conrad" creationdate="20230628T224555Z">
+        <seg>ᎾᎯᏳ ᎦᎸᎳᏗᏜ ᏓᎩᏏ ᏛᏓᏅᏏ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then the wolf ran away.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222510Z" creationid="Michael Conrad" creationdate="20230628T222510Z">
+        <seg>ᎾᎯᏳ Ꮎ ᏩᏯ ᎤᎵᏘᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then the wolf went away.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032406Z" creationid="Michael Conrad" creationdate="20230629T032406Z">
+        <seg>ᎾᎯᏳ Ꮎ ᏩᏯ ᏭᏪᏅᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then the wolf went to the house again.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031709Z" creationid="Michael Conrad" creationdate="20230629T031709Z">
+        <seg>ᎾᎯᏳ ᎦᎵᏦᏕ ᎤᎷᏥᏏᎴ Ꮎ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are cakes in the basket.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T204344Z" creationid="Michael Conrad" creationdate="20230628T204344Z">
+        <seg>ᎦᏚ ᎤᏂᎦᎾᏍᏓ ᎤᎾᏣᎠ Ꮎ ᏔᎷᏣ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There is butter in it, too.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T204352Z" creationid="Michael Conrad" creationdate="20230628T204352Z">
+        <seg>ᎪᏢᏅᏍᏊ ᎤᏣᎠ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There was a string on the door.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222930Z" creationid="Michael Conrad" creationdate="20230628T222930Z">
+        <seg>ᎠᏍᏘ ᏍᏚᏗ ᎤᏯᎸᏅᏤ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There was only a wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T223922Z" creationid="Michael Conrad" creationdate="20230628T223922Z">
+        <seg>ᏩᏯᏊ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These are goats.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T232314Z" creationid="Michael Conrad" creationdate="20230628T232314Z">
+        <seg>ᎯᎠ ᎤᎾᎦᏐᏣᏁᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They are good ears.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T225641Z" creationid="Michael Conrad" creationdate="20230628T225641Z">
+        <seg>ᏗᏥᎴᏂ ᎣᏍᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They are large.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T225753Z" creationid="Michael Conrad" creationdate="20230628T225703Z">
+        <seg>ᎥᏍᎩ ᏧᏔᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They are such big ears!"</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T225625Z" creationid="Michael Conrad" creationdate="20230628T225625Z">
+        <seg>ᎤᎪᏗ ᏧᏔᎾ ᏘᎴᏂ!”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They are too big.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T225716Z" creationid="Michael Conrad" creationdate="20230628T225607Z">
+        <seg>ᎥᏍᎩ ᏧᏔᏂ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They did not open the door.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031155Z" creationid="Michael Conrad" creationdate="20230629T031155Z">
+        <seg>ᎥᏝ ᎦᎶᎯᏍᏗᎢ ᏳᏂᏍᏚᎢᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They do not like me.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T221750Z" creationid="Michael Conrad" creationdate="20230628T221750Z">
+        <seg>ᏂᎬᎩᎸᏉᏛᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They do not look like your ears.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T225549Z" creationid="Michael Conrad" creationdate="20230628T225549Z">
+        <seg>ᎥᏝ ᏘᎴᏂ ᏱᎩ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They do not look like your eyes.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230043Z" creationid="Michael Conrad" creationdate="20230628T230043Z">
+        <seg>ᎥᏝ ᏘᎦᏙᎵ ᏱᎩ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They killed the bad wolf."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T231520Z" creationid="Michael Conrad" creationdate="20230628T231520Z">
+        <seg>Ꮎ ᎤᏲ ᏩᏯ ᎤᏂᏢᎩ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They ran to the house.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T231003Z" creationid="Michael Conrad" creationdate="20230628T231003Z">
+        <seg>ᎦᎵᏦᏕ ᏗᏜ ᎤᎾᏓᎾᏩᏍᏔᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They were grandmother's glasses.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T224013Z" creationid="Michael Conrad" creationdate="20230628T224013Z">
+        <seg>ᎤᎵᏏ ᎤᏤᎵ ᏗᎦᏘᏅᏘᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They would like to catch me.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T221807Z" creationid="Michael Conrad" creationdate="20230628T221807Z">
+        <seg>ᎬᎩᏂᏱᏗ ᎤᏂᎸᏉᏛᎭ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They would like to kill me.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222125Z" creationid="Michael Conrad" creationdate="20230628T222125Z">
+        <seg>ᎬᎩᎯᏍᏗ ᎤᏂᎸᏉᏛᎭ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This child is a girl.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T030153Z" creationid="Michael Conrad" creationdate="20230628T030153Z">
+        <seg>ᎯᎠ ᎠᏲᏟ ᎠᎨᏳᏣ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is Little Red Riding Hood's mother.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T031130Z" creationid="Michael Conrad" creationdate="20230628T031130Z">
+        <seg>ᎤᏥ ᎠᎨᏳᏣ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is a goat.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T232209Z" creationid="Michael Conrad" creationdate="20230628T232209Z">
+        <seg>ᎯᎠ ᎤᎾᎦᏐᏣᏁᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is a wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T232422Z" creationid="Michael Conrad" creationdate="20230628T232422Z">
+        <seg>ᎯᎠ ᏩᏯ ᎠᏨᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is what he says.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T024202Z" creationid="Michael Conrad" creationdate="20230629T024202Z">
+        <seg>ᎯᎠ ᏧᏛᏅᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is wolf is male.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T023859Z" creationid="Michael Conrad" creationdate="20230629T023859Z">
+        <seg>ᎯᎠ ᏩᏯ ᎠᏨᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>V</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T031354Z" creationid="Michael Conrad" creationdate="20230628T031354Z">
+        <seg>5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>VI</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T182051Z" creationid="Michael Conrad" creationdate="20230628T182051Z">
+        <seg>6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>VII</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T182811Z" creationid="Michael Conrad" creationdate="20230628T182811Z">
+        <seg>7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>VIII</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T190851Z" creationid="Michael Conrad" creationdate="20230628T190851Z">
+        <seg>8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We hear your voice.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T030542Z" creationid="Michael Conrad" creationdate="20230629T030542Z">
+        <seg>ᏣᏬᏂᏒᎢ ᎣᏣᏛᎩᎠ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We know that you are a wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T025759Z" creationid="Michael Conrad" creationdate="20230629T025759Z">
+        <seg>ᎯᏩᏯ ᎣᎦᏅᏔ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We know you, wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031550Z" creationid="Michael Conrad" creationdate="20230629T031550Z">
+        <seg>ᎣᏦᎵᎦ ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We know your black feet.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031535Z" creationid="Michael Conrad" creationdate="20230629T031535Z">
+        <seg>ᏗᎬᎿᎨ ᏗᏣᎳᏏᏕᏂ ᏙᏦᎵᎦ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We know your voice.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T030700Z" creationid="Michael Conrad" creationdate="20230629T030700Z">
+        <seg>ᏣᏬᏂᏒᎢ ᎣᏣᏅᏔ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We love grandmother."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T182047Z" creationid="Michael Conrad" creationdate="20230628T182047Z">
+        <seg>ᎠᎩᎵᏏ ᎣᏍᏗᎨᏳᏐ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We shall know him by his voice.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T025451Z" creationid="Michael Conrad" creationdate="20230629T025232Z">
+        <seg>ᎤᏓᏣᎧᏗ ᎤᏁᏨᎢ ᏱᎩ ᎥᏍᎩ ᏓᏲᎦᏅᏘ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We thought it was you.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032951Z" creationid="Michael Conrad" creationdate="20230629T032951Z">
+        <seg>ᏂᎯ ᎣᎨᎵᏒᎩ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We will keep it closed.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T024712Z" creationid="Michael Conrad" creationdate="20230629T024712Z">
+        <seg>ᏂᎪᎯᎸᎢ ᏓᏲᏥᏍᏚᏂ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We will listen for the rough voice.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T025214Z" creationid="Michael Conrad" creationdate="20230629T025214Z">
+        <seg>ᎤᏓᏣᎧᏗ ᎤᏁᏨᎢ ᏓᏲᏣᏛᏓᏍᏔᏂ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We will not let you in.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031408Z" creationid="Michael Conrad" creationdate="20230629T031408Z">
+        <seg>ᎥᏝ ᏱᎦᏣᏴᏍᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We will not let you in."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T030608Z" creationid="Michael Conrad" creationdate="20230629T030608Z">
+        <seg>ᎥᏝ ᏣᏴᏍᏗ ᏱᏓᏲᏣᎵᏍᎪᎸᏓᏁᎵ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We will not let you in.'"</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T025826Z" creationid="Michael Conrad" creationdate="20230629T025826Z">
+        <seg>ᎥᏝ ᏣᏴᏍᏗ ᏱᏓᏲᏣᎵᏍᎪᎸᏓᏁᎵ.'”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We will not open the door for the wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T025223Z" creationid="Michael Conrad" creationdate="20230629T025223Z">
+        <seg>ᏩᏯ ᏱᎩ ᎥᏝ ᎦᎶᎯᏍᏗᎢ ᏱᏓᏲᏥᏍᏚᎢᏏ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We will not open the door for you.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031420Z" creationid="Michael Conrad" creationdate="20230629T031420Z">
+        <seg>ᎥᏝ ᎦᎶᎯᏍᏗᎢ ᏱᏓᏨᏍᏚᎢᏎᎵ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We will open it for no one.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T024720Z" creationid="Michael Conrad" creationdate="20230629T024720Z">
+        <seg>ᎥᏝ ᎩᎶ ᏱᏓᏲᏥᏍᏚᎢᏏ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We will say, 'No, no, rough voice.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T025300Z" creationid="Michael Conrad" creationdate="20230629T025300Z">
+        <seg>ᎯᎠ ᏓᏲᏦᏎᎵ, 'ᎥᏝ, ᎥᏝ, ᎤᏓᏣᎧᏗ ᎤᏁᏨᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What a silly little girl!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230109Z" creationid="Michael Conrad" creationdate="20230628T230109Z">
+        <seg>ᎭᏛᏁᎵᏍᎩ ᎤᏍᏗ ᎠᎨᏳᏣ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What is in the basket?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T204336Z" creationid="Michael Conrad" creationdate="20230628T204336Z">
+        <seg>ᎦᏙ ᏧᏍᏗ ᎤᎾᏣᎠ Ꮎ ᏔᎷᏣ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What is it?" cried her mother.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T231417Z" creationid="Michael Conrad" creationdate="20230628T231417Z">
+        <seg>“ᎦᏙ ᏂᎦᎵᏍᏗᎭ?” ᎤᏪᏡᏁ ᎤᏥ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Where does grandmother live?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T182134Z" creationid="Michael Conrad" creationdate="20230628T182134Z">
+        <seg>ᎭᏢ ᏫᎦᏁᎳ ᎤᎵᏏ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Who is this?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T030858Z" creationid="Michael Conrad" creationdate="20230628T030858Z">
+        <seg>ᎦᎪ ᎯᎠ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Whose hood is it?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T030656Z" creationid="Michael Conrad" creationdate="20230628T030656Z">
+        <seg>ᎦᎪ ᎤᏤᎵ Ꮎ ᎠᎵᏍᏚᎶ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Whose hood is this?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T030527Z" creationid="Michael Conrad" creationdate="20230628T030527Z">
+        <seg>ᎦᎪ ᎤᏤᎵ Ꮎ ᎠᎵᏍᏚᎶ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Why are you afraid?"</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230334Z" creationid="Michael Conrad" creationdate="20230628T230334Z">
+        <seg>ᎦᏙᏃ ᎯᏍᎦᎭ?”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Why are you here?"</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T223714Z" creationid="Michael Conrad" creationdate="20230628T223714Z">
+        <seg>ᎦᏙᎲ ᏂᎯ ᎠᎭᏂ?”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Why do you not let me in?"</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031217Z" creationid="Michael Conrad" creationdate="20230629T031217Z">
+        <seg>ᎦᏙᎲ ᎥᏝ ᏱᎦᏣᏴᏍᏗ?”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Why does she scream?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230903Z" creationid="Michael Conrad" creationdate="20230628T230903Z">
+        <seg>ᎦᏙᎲ ᎤᏪᏡᏁ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Will Little Red Riding Hood be afraid?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T182341Z" creationid="Michael Conrad" creationdate="20230628T182341Z">
+        <seg>ᏛᏍᎦᎵᏍ Ꮎ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>X</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T220953Z" creationid="Michael Conrad" creationdate="20230628T220953Z">
+        <seg>10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XI</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T221459Z" creationid="Michael Conrad" creationdate="20230628T221459Z">
+        <seg>11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XII</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T221612Z" creationid="Michael Conrad" creationdate="20230628T221612Z">
+        <seg>12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XIII</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222339Z" creationid="Michael Conrad" creationdate="20230628T222339Z">
+        <seg>13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XIV</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222636Z" creationid="Michael Conrad" creationdate="20230628T222636Z">
+        <seg>14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XIX</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T224742Z" creationid="Michael Conrad" creationdate="20230628T224742Z">
+        <seg>19</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XV</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T222833Z" creationid="Michael Conrad" creationdate="20230628T222833Z">
+        <seg>15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XVI</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T223037Z" creationid="Michael Conrad" creationdate="20230628T223037Z">
+        <seg>16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XVII</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T223944Z" creationid="Michael Conrad" creationdate="20230628T223944Z">
+        <seg>17</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XVIII</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T224259Z" creationid="Michael Conrad" creationdate="20230628T224259Z">
+        <seg>18</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XX</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T225009Z" creationid="Michael Conrad" creationdate="20230628T225009Z">
+        <seg>20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XXI</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T225306Z" creationid="Michael Conrad" creationdate="20230628T225306Z">
+        <seg>21</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XXII</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T225458Z" creationid="Michael Conrad" creationdate="20230628T225458Z">
+        <seg>22</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XXIII</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T225811Z" creationid="Michael Conrad" creationdate="20230628T225811Z">
+        <seg>23</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XXIV</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230159Z" creationid="Michael Conrad" creationdate="20230628T230159Z">
+        <seg>24</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XXV</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230539Z" creationid="Michael Conrad" creationdate="20230628T230539Z">
+        <seg>25</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XXVI</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T231100Z" creationid="Michael Conrad" creationdate="20230628T231100Z">
+        <seg>26</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XXVII</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T231524Z" creationid="Michael Conrad" creationdate="20230628T231524Z">
+        <seg>27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yes, the feet were white.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031853Z" creationid="Michael Conrad" creationdate="20230629T031853Z">
+        <seg>ᎥᎥ, ᏧᎳᏏᏕᏂ ᏧᏁᎦ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yes, the wolf, the wolf!"</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T032629Z" creationid="Michael Conrad" creationdate="20230629T032629Z">
+        <seg>Ꭵ, Ꮎ ᏩᏯ, Ꮎ ᏩᏯ!”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yes, we will open the door."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031936Z" creationid="Michael Conrad" creationdate="20230629T031936Z">
+        <seg>ᎥᎥ, ᎦᎶᎯᏍᏗ ᏓᏲᏥᏍᏚᎢᏏ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You are a bad wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T231145Z" creationid="Michael Conrad" creationdate="20230628T231145Z">
+        <seg>ᏣᏲᏒ, ᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You are a wicked old wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031525Z" creationid="Michael Conrad" creationdate="20230629T031525Z">
+        <seg>ᏩᏯ ᏣᏲᏒ ᎠᎴ ᎯᎦᏴᎵ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You are not our Mother Goat.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031432Z" creationid="Michael Conrad" creationdate="20230629T031432Z">
+        <seg>ᏂᎯ ᎥᏝ ᎣᏥᏥ ᎤᎦᏐᏣᏁᏓ ᏱᎩ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You are the wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031356Z" creationid="Michael Conrad" creationdate="20230629T031356Z">
+        <seg>ᎯᏩᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You cannot come in.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T025309Z" creationid="Michael Conrad" creationdate="20230629T025309Z">
+        <seg>ᎥᏝ ᏱᎦᏣᏴᏍᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You cannot get into our house."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T030718Z" creationid="Michael Conrad" creationdate="20230629T030718Z">
+        <seg>Ꮭ ᎣᎦᏤᎵ ᎦᎵᏦᏕ ᏱᎦᏣᏴᏍᏗ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have a rough voice.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T025750Z" creationid="Michael Conrad" creationdate="20230629T025319Z">
+        <seg>ᏣᏁᏨᎢ ᎤᏓᏣᎧᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have such big arms!"</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T225217Z" creationid="Michael Conrad" creationdate="20230628T225217Z">
+        <seg>ᏧᏔᏂ ᏔᏃᎨᏂ!”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You must never talk with a wolf.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T231810Z" creationid="Michael Conrad" creationdate="20230628T231810Z">
+        <seg>ᏞᏍᏗ ᎢᎸᎯᏳ ᏩᏯ ᏥᎯᏯᎵᏃᎮᏓ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your arms are so big.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230405Z" creationid="Michael Conrad" creationdate="20230628T230405Z">
+        <seg>ᏔᏃᎨᏂ ᏧᏔᏂ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your ears are so big.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230356Z" creationid="Michael Conrad" creationdate="20230628T230356Z">
+        <seg>ᏧᏔᏂ ᏘᎴᏂ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your feet are black.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031335Z" creationid="Michael Conrad" creationdate="20230629T031335Z">
+        <seg>ᏗᏣᎳᏏᏕᏂ ᏗᎬᎿᎨᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>help!"</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T223821Z" creationid="Michael Conrad" creationdate="20230628T223819Z">
+        <seg>ᏍᎩᏍᏕᎳ!”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>help!" cried the grandmother.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T223800Z" creationid="Michael Conrad" creationdate="20230628T223800Z">
+        <seg>ᏍᎩᏍᏕᎳ!” ᎤᏪᏡᏁ ᎤᎵᏏ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>my kids!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T033329Z" creationid="Michael Conrad" creationdate="20230629T033329Z">
+        <seg>ᏗᏇᏥ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ!</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
