@@ -622,14 +622,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>"I will eat this little girl," said he.</seg>
-      </tuv>
-      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T220428Z" creationid="Michael Conrad" creationdate="20230628T220428Z">
-        <seg>“ᎯᎠ ᎤᏍᏗ ᎠᎨᏳᏣ ᎠᎵᏍᏓᏴᏗ ᏂᎦᎵᏍᏗᏍᎨᏍᏗ,” ᎤᏓᏅᏖᏞ.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>"I will eat this little girl," thought he.</seg>
       </tuv>
       <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T220655Z" creationid="Michael Conrad" creationdate="20230628T220655Z">
@@ -1354,14 +1346,6 @@
       </tuv>
       <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T031625Z" creationid="Michael Conrad" creationdate="20230629T031625Z">
         <seg>“Ꮎ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᎤᎪᏗ ᎠᎢᎦᏙᎲᏍᎪ,” ᎤᏛᏁ.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>"We are all glad," said the</seg>
-      </tuv>
-      <tuv lang="chr" changeid="Michael Conrad" changedate="20230629T151926Z" creationid="Michael Conrad" creationdate="20230629T151926Z">
-        <seg>“ᏭᎪᏛ ᎢᏓᎵᎮᎵᎦ,” ᎤᏛᏁ ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2890,15 +2874,6 @@
       </tuv>
       <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230934Z" creationid="Michael Conrad" creationdate="20230628T230934Z">
         <seg>ᏫᏗᏓᏓᎾᏩᏍᏓ.”</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="origin">TM: auto</prop>
-      <tuv lang="en-US">
-        <seg>Listen!"</seg>
-      </tuv>
-      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T230817Z" creationid="Michael Conrad" creationdate="20230628T230817Z">
-        <seg>[fuzzy]ᎭᏛᏓᏍᏓ!</seg>
       </tuv>
     </tu>
     <tu>
@@ -4659,22 +4634,6 @@
       </tuv>
       <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T031130Z" creationid="Michael Conrad" creationdate="20230628T031130Z">
         <seg>ᎤᏥ ᎠᎨᏳᏣ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>This is a goat.</seg>
-      </tuv>
-      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T232209Z" creationid="Michael Conrad" creationdate="20230628T232209Z">
-        <seg>ᎯᎠ ᎤᎾᎦᏐᏣᏁᏓ.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>This is a wolf.</seg>
-      </tuv>
-      <tuv lang="chr" changeid="Michael Conrad" changedate="20230628T232422Z" creationid="Michael Conrad" creationdate="20230628T232422Z">
-        <seg>ᎯᎠ ᏩᏯ ᎠᏨᏯ.</seg>
       </tuv>
     </tu>
     <tu>
