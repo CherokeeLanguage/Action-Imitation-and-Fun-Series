@@ -571,7 +571,7 @@ Whose hood is this?
 \end_inset
 
 ᎠᎵᏍᏚᎶ ᎠᏆᏤᎵ.
- ᎠᏆᏤᎵ ᎠᎵᏍᏚᎶ ᎠᎩᎸᏉᏗ.
+ ᎠᏆᏤᎵ ᎠᎵᏍᏚᎶ ᎠᎩᎸᏉᏙ.
  ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
 \begin_inset Quotes erd
 \end_inset
@@ -942,7 +942,7 @@ status collapsed
 \begin_inset Quotes eld
 \end_inset
 
-ᎠᎩᎵᏏ ᏥᎪᎲᏍᏗ ᎠᎩᎸᏉᏗ.
+ᎠᎩᎵᏏ ᏥᎪᎲᏍᏗ ᎠᎩᎸᏉᏙ.
 \begin_inset Quotes erd
 \end_inset
 
@@ -991,6 +991,18 @@ Here are some cakes, Little Red Riding Hood.
 \begin_layout Standard
 
 \size largest
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size largest
+5
+\end_layout
+
+\end_inset
+
+
 \begin_inset Quotes eld
 \end_inset
 
@@ -1062,7 +1074,7 @@ status collapsed
 \begin_layout Standard
 
 \size largest
-ᎭᏢ ᎤᎵᏏ ᎦᏁᎳ?
+ᎭᏢ ᏫᎦᏁᎳ ᎤᎵᏏ?
 \begin_inset Note Note
 status collapsed
 
@@ -1074,7 +1086,7 @@ Where does grandmother live?
 
 \end_inset
 
- ᎢᎾ ᎦᏁᎳ.
+ ᎢᎾ ᏫᎦᏁᎳ.
 \begin_inset Note Note
 status collapsed
 
@@ -1086,7 +1098,7 @@ She lives far away.
 
 \end_inset
 
- ᎢᎾᎨᎢ ᎾᎥ ᎦᏁᎳ.
+ ᎢᎾᎨᎢ ᎾᎥ ᏫᎦᏁᎳ.
 \begin_inset Note Note
 status collapsed
 
@@ -1225,6 +1237,17 @@ status collapsed
 \begin_layout Standard
 
 \size largest
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size largest
+7
+\end_layout
+
+\end_inset
+
 ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎤᎵᏏ ᎦᎵᏦᏕ ᎡᎦ.
 \begin_inset Note Note
 status collapsed
@@ -1237,7 +1260,7 @@ Little Red Riding Hood is going to her grandmother's.
 
 \end_inset
 
- 
+
 \end_layout
 
 \begin_layout Standard
@@ -1349,19 +1372,19 @@ status collapsed
 \begin_inset Quotes eld
 \end_inset
 
-ᎤᎿ ᎠᏇᏓᏍᏗ ᎠᎩᎸᏉᏗ.
- ᎤᎵᏏ ᏥᎪᎲᏍᏗ ᎠᎩᎸᏉᏗ.
+ᎤᎿ ᎠᏇᏓᏍᏗ ᎠᎩᎸᏉᏙ.
+ ᎤᎵᏏ ᏥᎪᎲᏍᏗ ᎠᎩᎸᏉᏙ.
  ᎾᎩᏍᎦᎸᎾ.
- ᎠᎩᎪᏩᏛᏗ ᎤᎸᏉᏗ.
- ᎦᏚ ᎤᏂᎦᎾᏍᏓ ᏫᏥᏫᏛᎮᏗ ᎠᎩᎸᏉᏗ.
- ᎦᏚ ᎤᏂᎦᎾᏍᏓ ᎤᎸᏉᏗ.
- ᎤᏓᏅᏘ ᎠᎩᎵᏏ ᏥᎨᏳᎠ.
- ᎠᎩᎵᏏ ᎠᎩᎸᏉᏗ.
+ ᎠᎩᎪᏩᏛᏗ ᎤᎸᏉᏙ.
+ ᎦᏚ ᎤᏂᎦᎾᏍᏓ ᏫᏥᏫᏛᎮᏗ ᎠᎩᎸᏉᏙ.
+ ᎦᏚ ᎤᏂᎦᎾᏍᏓ ᎤᎸᏉᏙ.
+ ᎤᏓᏅᏘ ᎠᎩᎵᏏ ᏥᎨᏳᏐ.
+ ᎠᎩᎵᏏ ᎠᏴ ᎠᏆᏓᎨᏳᏐ.
  ᎠᎩᎪᏩᏛᏗ ᏛᎵᎮᎵᏥ.
  ᎦᏚ ᎤᏂᎦᎾᏍᏓ ᏓᏥᏁᎴᎵ.
  ᎠᎩᏥ ᎥᏍᎩ ᏩᎲᎦ.
- ᎠᎩᏥ ᎤᎵᏏ ᎤᎨᏳᎭ.
- ᎤᎵᏏ ᎠᎩᏥ ᎤᎨᏳᎭ.
+ ᎠᎩᏥ ᎤᎵᏏ ᎤᎨᏳᏐ.
+ ᎤᎵᏏ ᎠᎩᏥ ᎤᎨᏳᏐ.
 \begin_inset Quotes erd
 \end_inset
 
@@ -1440,7 +1463,7 @@ See Little Red Riding Hood.
 \begin_layout Standard
 
 \size largest
-ᎢᎾᎨ ᏪᏙᎭ.
+ᏃᏊ ᎢᎾᎨ ᏪᏙᎭ.
 \begin_inset Note Note
 status collapsed
 
@@ -1519,7 +1542,7 @@ status collapsed
 \begin_layout Plain Layout
 
 \size huge
-Her mother has sent her.
+Her mother has just sent her.
 \end_layout
 
 \end_inset
@@ -1602,7 +1625,7 @@ There is butter in it, too.
 \begin_layout Standard
 
 \size largest
-ᎤᎵᏏ ᎤᏂᎦᎾᏍᏓ ᏚᎸᏉᏗ.
+ᎤᎵᏏ ᎤᏂᎦᎾᏍᏓ ᏚᎸᏉᏙ.
 \begin_inset Note Note
 status collapsed
 
@@ -1620,7 +1643,7 @@ Grandmother likes cakes.
 \begin_layout Standard
 
 \size largest
-ᎪᏢᏅ ᎤᎸᏉᏗ ᏍᏊ.
+ᎪᏢᏅ ᎤᎸᏉᏙ ᏍᏊ.
 \begin_inset Note Note
 status collapsed
 
@@ -1802,7 +1825,7 @@ status collapsed
 \begin_layout Plain Layout
 
 \size huge
-" I will eat this little girl," said he.
+" I will eat this little girl," thought he.
 \end_layout
 
 \end_inset
@@ -1829,7 +1852,7 @@ status collapsed
 
 \size huge
 "I will eat her.
- I wonder what she has in the basket.
+ But I wonder what she has in the basket.
 \end_layout
 
 \end_inset
@@ -2049,10 +2072,16 @@ status collapsed
  ᎠᎩᎪᏩᏛᏗ ᏛᎵᎮᎵᏥ.
  ᎠᎩᎨᏳᎠ.
  ᎪᏢᏅ ᏥᏫᏗᎭ.
- ᎦᏚᏃ ᎤᏂᎦᎾᏍᏓ ᏕᏥᏫᏗᎭ, ᎥᏍᏊ.
+ ᎦᏚ ᎤᏂᎦᎾᏍᏓ ᏕᏥᏫᏗᎭ, ᎥᏍᏊ.
+ ᎪᏢᏅ ᎤᎸᏉᏙ.
+ ᎦᏚ ᎤᏂᎦᎾᏍᏓ ᎤᎸᏉᏙ, ᎥᏍᏊ.
  ᎢᎾ ᏫᎦᏁᎳ.
  ᎠᏎᏃ ᎾᎩᏍᎦᎸᎾ.
- ᎢᎾᎨᎢ ᎠᏇᏓᏍᏗ ᎠᎩᎸᏉᏗ.
+ ᎢᎾᎨᎢ ᎠᏇᏓᏍᏗ ᎠᎩᎸᏉᏙ.
+\begin_inset Quotes erd
+\end_inset
+
+
 \begin_inset Note Note
 status collapsed
 
@@ -2203,10 +2232,7 @@ status collapsed
 \begin_layout Standard
 
 \size largest
-\begin_inset Quotes eld
-\end_inset
-
-Ꮎ ᎠᎨᏳᏣ ᎠᏎ ᏥᏒᎲᏍᏗ.
+“ᎥᏍᎩ ᎠᏎ ᏥᏒᎲᏍᏗ.
  ᎦᏙ ᏥᏂᏱᏗ? ᏥᏒᎲᏍᏗ ᎠᏆᎵᏨᏯᏍᏗ ᏂᎨᏒᎾ.
  ᏗᏂᎴᏴᏍᏗᏍᎩ ᎢᎾᎨᎢ ᎠᏁᏙᎰ.
  ᎡᎵᏊ ᏗᏂᎴᏴᏍᏗᏍᎩ ᏱᎬᎩᎪᏩᏔ.
@@ -2214,6 +2240,7 @@ status collapsed
  ᏂᎬᎩᎸᏉᏛᎾ.
  ᏗᏂᎴᏴᏍᏗᏍᎩ ᏂᎦᏥᎸᏉᏛᎾ.
  ᎬᎩᏂᏱᏗ ᎤᏂᎸᏉᏛᎭ.
+ ᎬᎩᎯᏍᏗ ᎤᏂᎸᏉᏛᎭ.
  ᏗᏂᎴᏴᏍᏗᏍᎩ ᎠᏂᎪᏩᏔ Ꮎ ᏥᏲᏌ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
  ᏗᏂᎴᏴᏍᏗᏍᎩ ᎠᏂᎪᏩᏔ Ꮎ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎠᎩᏬᏂᏒᏌ.
  ᏃᏊ ᏗᏆᎵᏨᏯᏍᏗ ᏂᎨᏒᎾ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᏥᏒᎲᏍᏗ.
@@ -2312,7 +2339,7 @@ status collapsed
 
 ᎠᏎ ᎠᏇᏅᏍᏗ ᏃᏊ.
  ᎠᎩᎵᏏ ᎠᏎ ᎠᏇᏅᏍᏗ.
- ᎰᏩ.
+ ᏙᎾᏓᎪᎲᎢ.
 \begin_inset Quotes erd
 \end_inset
 
@@ -2382,7 +2409,7 @@ Then the wolf ran away.
 \begin_inset Quotes eld
 \end_inset
 
-ᎭᏢᏍᎩᏂ ᎡᎦ?,
+ᎭᏢᏍᎩᏂ ᏪᎦ?
 \begin_inset Quotes erd
 \end_inset
 
@@ -2961,7 +2988,7 @@ status collapsed
 \begin_inset Quotes eld
 \end_inset
 
-ᎩᎶ ᏍᎩᏍᏕᎳ! ᏍᎩᏍᏕᎳ!
+ᏍᎩᏍᏕᎳ! ᏍᎩᏍᏕᎳ!
 \begin_inset Quotes erd
 \end_inset
 
@@ -3318,7 +3345,7 @@ status collapsed
 \begin_layout Standard
 
 \size largest
-ᎾᎯᏳ ᎤᏒᏞ.
+ᏃᏊᎴ ᎤᏒᏞ.
 \begin_inset Note Note
 status collapsed
 
@@ -3341,6 +3368,10 @@ So he got into bed.
 
 ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᏓᏥᎦᏘᏗ.
  ᎩᎳᏊ ᎤᎷᏥᏗ.
+\begin_inset Quotes erd
+\end_inset
+
+
 \begin_inset Note Note
 status collapsed
 
@@ -3359,7 +3390,7 @@ status collapsed
 \begin_layout Standard
 
 \size largest
-Ꭳ, ᏣᏲ ᎯᏩᏯ!
+Ꭳ, ᏣᏲ, ᏩᏯ!
 \begin_inset Note Note
 status collapsed
 
@@ -3467,7 +3498,7 @@ He has on her cap, too.
 \begin_layout Standard
 
 \size largest
-ᎯᎪᏩᏔ ᏩᏯ ᎤᏂᎭ, ᎤᏤᎵ ᎦᏂᏟ ᎨᏎ.
+ᎯᎪᏩᏔ ᎤᏂᎭ, ᎤᏤᎵ ᎦᏂᏟ ᎨᏎ.
 \begin_inset Note Note
 status collapsed
 
@@ -3569,7 +3600,7 @@ She knocked at the door.
 
 \end_inset
 
- ᎾᎧ, ᎾᎧ, ᎾᎧ!
+ ᎤᏩᏂᎴ, ᎤᏩᏂᎴ, ᎤᏩᏂᎴ!
 \begin_inset Note Note
 status collapsed
 
@@ -3713,11 +3744,8 @@ status collapsed
 \begin_layout Standard
 
 \size largest
-\begin_inset Quotes eld
-\end_inset
-
-ᎯᎾᏌᎾᎩ Ꮎ ᎠᏍᏘ.
- ᎦᎸᎳᏗᏜ ᏓᎩᏏ ᏛᏓᏅᏏ.
+“ᎠᏍᏘ ᎯᎾᏌᎾᎩ.
+ ᎾᎯᏳ ᎦᎸᎳᏗᏜ ᏓᎩᏏ ᏛᏓᏅᏏ.
 \begin_inset Quotes erd
 \end_inset
 
@@ -3758,7 +3786,7 @@ Little Red Riding Hood pulled the string.
 \begin_layout Standard
 
 \size largest
-ᏓᎩᏏ ᎦᎸᎳᏗᏜ ᎤᎾᏌᏁᏎ.
+ᎦᎸᎳᏗᏜ ᏓᎩᏏ ᎤᏓᏅᏎ.
 \begin_inset Note Note
 status collapsed
 
@@ -3947,7 +3975,7 @@ status collapsed
 \begin_inset Quotes eld
 \end_inset
 
-Ꭳ, ᎤᏲ!
+Ꭳ, ᏙᏳ ᎤᏲ!
 \begin_inset Quotes erd
 \end_inset
 
@@ -4022,7 +4050,7 @@ status collapsed
 \begin_inset Quotes eld
 \end_inset
 
-Ꭳ, ᎤᏲ!
+Ꭳ, ᏙᏳ ᎤᏲ!
 \begin_inset Quotes erd
 \end_inset
 
@@ -4533,7 +4561,7 @@ Little Red Riding Hood looked at the wolf's ears.
 \end_inset
 
 ᎠᎴ ᏘᎴᏂ, ᎡᎵᏏ! ᎠᏂᏎᎩᏒ! ᎥᏝ ᏘᎴᏂ ᏱᎩ.
- ᎤᏔᏂ.
+ ᎥᏍᎩ ᏧᏔᏂ.
  ᏕᏥᏍᎦᎭ, ᎡᎵᏏ.
  ᎤᎪᏗ ᏧᏔᎾ ᏘᎴᏂ!
 \begin_inset Quotes erd
@@ -4565,7 +4593,7 @@ status collapsed
 \end_inset
 
 ᏕᎯᏍᎦᎭᏍᎪ ᏗᏥᎴᏂ? ᏗᏥᎴᏂ ᎣᏍᏓ.
- ᏧᏔᎾ.
+ ᎥᏍᎩ ᏧᏔᎾ.
  ᎠᏎᏃ ᎣᏍᏓᎨᎢ ᎬᏯᏛᎪᏗ, ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
 \begin_inset Quotes erd
 \end_inset
@@ -4590,7 +4618,7 @@ status collapsed
 \begin_layout Standard
 
 \size largest
-ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᏩᏯ ᏗᎦᏙᎵ.
+ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᏩᏯ ᏗᎦᏙᎵ ᎤᎦᏙᏍᏔᏁ.
 \begin_inset Note Note
 status collapsed
 
@@ -4689,7 +4717,7 @@ status collapsed
 \begin_inset Quotes eld
 \end_inset
 
-ᏧᏔᏂ.
+ᎥᏍᎩ ᏧᏔᏂ.
 \begin_inset Quotes erd
 \end_inset
 
@@ -4714,7 +4742,7 @@ status collapsed
 \begin_inset Quotes eld
 \end_inset
 
-ᎣᏍᏓᎨᎢ ᎬᏯᎦᏙᏍᏙᏗ,
+ᎾᎯᏳ ᎣᏍᏓᎨᎢ ᎬᏯᎦᏙᏍᏙᏗ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -4824,7 +4852,19 @@ status collapsed
 \begin_inset Quotes erd
 \end_inset
 
- "I do not want to come!"
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size largest
+"I do not want to come!"
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -4902,7 +4942,7 @@ status collapsed
 \begin_inset Quotes erd
 \end_inset
 
- ᎤᏛᏁ Ꮎ ᏩᏯ.
+ ᎤᏛᏁ ᏩᏯ.
 \begin_inset Note Note
 status collapsed
 
@@ -4923,7 +4963,7 @@ status collapsed
 \begin_inset Quotes eld
 \end_inset
 
-ᎣᏍᏓᎨᎢ ᎬᏒᎲᏍᏗ.
+ᎾᎯᏳ ᎣᏍᏓᎨᎢ ᎬᏒᎲᏍᏗ.
 \begin_inset Quotes erd
 \end_inset
 
@@ -5244,7 +5284,7 @@ status collapsed
 \begin_inset Quotes eld
 \end_inset
 
-ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
+ᎥᏍᎩ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ.
  ᎦᏙᎲ ᎤᏪᏡᏁ? Ꮎ ᎤᏲ ᏩᏯ,
 \begin_inset Quotes erd
 \end_inset
@@ -5295,7 +5335,7 @@ status collapsed
 \begin_layout Standard
 
 \size largest
-ᎾᎯᏳ ᏗᏂᎴᏴᏍᏗᏍᎩ ᎤᎾᏓᎾᏩᏍᏔᏁ.
+ᏃᏊᎴ ᏗᏂᎴᏴᏍᏗᏍᎩ ᎤᎾᏓᎾᏩᏍᏔᏁ.
 \begin_inset Note Note
 status collapsed
 
@@ -5331,7 +5371,7 @@ They ran to the house.
 \begin_layout Standard
 
 \size largest
-Ꮎ ᏩᏯ ᎤᏂᎪᎮ.
+Ꮎ ᏩᏯ ᏚᎪᎮ.
 \begin_inset Note Note
 status collapsed
 
@@ -5374,7 +5414,7 @@ status collapsed
 \begin_layout Standard
 
 \size largest
-ᎾᎯᏳ Ꮎ ᏩᏯ ᎦᎶᎯᏍᏗ ᎤᎦᏛᎴᏒᎢ ᎤᎵᏘᏎ.
+ᏃᏊᎴ Ꮎ ᏩᏯ ᎦᎶᎯᏍᏗ ᎤᎦᏛᎴᏒᎢ ᎤᎵᏘᏎ.
 \begin_inset Note Note
 status collapsed
 
@@ -5444,8 +5484,8 @@ status collapsed
 \begin_inset Quotes eld
 \end_inset
 
-ᎤᎾᏅᏕ Ꮎ ᏂᎯ.
- ᏣᏲᏒ ᎯᏩᏯ.
+ᎤᎾᏅᏕ Ꮎ ᏂᎯ ᎨᏎ.
+ ᏣᏲᏒ, ᏩᏯ.
  ᏃᏊ ᎢᏨᏟᏗ.
 \begin_inset Quotes erd
 \end_inset
@@ -5470,7 +5510,7 @@ status collapsed
 \begin_layout Standard
 
 \size largest
-ᎾᎯᏳ Ꮎ ᎤᏲ ᏩᏯ ᎤᏂᏞ.
+ᏃᏊᎴ Ꮎ ᎤᏲ ᏩᏯ ᎤᏂᏞ.
 \begin_inset Note Note
 status collapsed
 
@@ -5658,7 +5698,7 @@ status collapsed
 \begin_layout Standard
 
 \size largest
-ᎾᎯᏳᏃ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎤᏂᏫᏛᎮ ᏧᏪᏅᏒᎢ.
+ᏃᏊᎴ ᎤᏍᏗ ᎩᎦᎨ ᎠᎵᏍᏚᎶ ᎤᏂᏫᏛᎮ ᏧᏪᏅᏒᎢ.
 \begin_inset Note Note
 status collapsed
 
@@ -5935,6 +5975,10 @@ status collapsed
 \end_inset
 
 ᎤᎿ ᎠᎩᎵᏏ ᎤᏪᎮᏍᏛ ᎠᎩᏃᎮᏢᎩ.
+\begin_inset Quotes erd
+\end_inset
+
+
 \begin_inset Note Note
 status collapsed
 
@@ -6380,7 +6424,7 @@ status collapsed
 \begin_inset Quotes eld
 \end_inset
 
-ᎾᎯᏳ ᏪᎾ, ᎤᎦᏐᏣᏁᏓ, ᏗᎵᏍᏓᏴᏗ ᏫᏘᏩᏔ.
+ᏃᏊᎴ ᏪᎾ, ᎤᎦᏐᏣᏁᏓ, ᏗᎵᏍᏓᏴᏗ ᏫᏘᏩᏔ.
  ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᏓᎦᏥᎩᏏ ᏫᏤᏅᏒᎢ.
 \begin_inset Quotes erd
 \end_inset
@@ -6458,8 +6502,7 @@ Now the wolf is going away.
 \begin_layout Standard
 
 \size largest
-ᎭᏛᎬᎦ.
- ᎤᏩᏌ ᏧᏓᏙᏎᎸᎢ.
+ᎤᏩᏌ ᏧᏓᏙᏎᎸᎢ ᎭᏛᎬᎦ.
 \begin_inset Note Note
 status collapsed
 
@@ -6594,7 +6637,7 @@ status collapsed
 Ꮎ ᏩᏯ ᏓᏳᎷᏥ.
  Ꮎ ᏩᏯ ᏓᏥᏒᏂᎵ.
  Ꮎ ᏩᏯ ᏓᏥᏒᏂ ᏱᏥᎩᎠ.
- ᎥᏍᎩᏅ ᎢᏳᏍᏗ ᏞᏍᏗ ᎤᏴᏍᏗ ᏥᏣᎵᏍᎪᎸᏓᏏ,
+ ᏞᏍᏗᏃ ᎤᏴᏍᏗ ᏥᏣᎵᏍᎪᎸᏓᏏ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -6785,9 +6828,10 @@ status collapsed
 ᎠᎴ ᏓᏲᏣᏛᏓᏍᏔᏂ.
  ᎤᏓᏣᎧᏗ ᎤᏁᏨᎢ ᏓᏲᏣᏛᏓᏍᏔᏂ.
  ᏩᏯ ᏱᎩ ᎥᏝ ᎦᎶᎯᏍᏗᎢ ᏱᏓᏲᏥᏍᏚᎢᏏ.
- ᎤᏓᏣᎧᏗ ᎤᏁᏨᎢ ᏱᎩ ᏩᏯ ᏓᏲᎦᏅᏘ.
+ ᎤᏓᏣᎧᏗ ᎤᏁᏨᎢ ᏱᎩ ᎥᏍᎩ ᏓᏲᎦᏅᏘ.
  ᎯᎠ ᏓᏲᏦᏎᎵ, 'ᎥᏝ, ᎥᏝ, ᎤᏓᏣᎧᏗ ᎤᏁᏨᎢ.
  ᎥᏝ ᏱᎦᏣᏴᏍᏗ.
+ ᏣᏁᏨᎢ ᎤᏓᏣᎧᏗ.
  ᎯᏩᏯ ᎣᎦᏅᏔ.
  ᏃᏊ ᏪᎾ, ᏩᏯ.
  ᎥᏝ ᏣᏴᏍᏗ ᏱᏓᏲᏣᎵᏍᎪᎸᏓᏁᎵ.'
@@ -6947,7 +6991,7 @@ status collapsed
 \begin_layout Standard
 
 \size largest
-ᎾᎯᏳᏃ ᎤᎦᏐᏣᏁᏓ ᎤᏂᏥ ᎤᏪᏅᏎ.
+ᎾᎯᏳᏃ ᎤᎦᏐᏣᏁᏓ ᎤᏂᏥ ᎤᏟ ᏭᏪᏅᏎ.
 \begin_inset Note Note
 status collapsed
 
@@ -7026,7 +7070,7 @@ status collapsed
 \begin_layout Standard
 
 \size largest
-ᎾᎯᏳᏃ ᎦᎵᏦᏕ ᎤᏪᏅᏎ Ꮎ ᏩᏯ.
+ᏃᏊᎴ ᎦᎵᏦᏕ ᎤᏪᏅᏎ Ꮎ ᏩᏯ.
 \begin_inset Note Note
 status collapsed
 
@@ -7923,12 +7967,10 @@ status collapsed
  ᎥᏝ ᏱᎦᏣᏴᏍᏗ.
  ᎥᏝ ᎦᎶᎯᏍᏗᎢ ᏱᏓᏨᏍᏚᎢᏎᎵ.
  ᏂᎯ ᎥᏝ ᎣᏥᏥ ᎤᎦᏐᏣᏁᏓ ᏱᎩ.
- ᏣᏲᏒ.
- ᎯᎦᏴᎵ.
- ᎯᏩᏯ.
+ ᏩᏯ ᏣᏲᏒ ᎠᎴ ᎯᎦᏴᎵ.
  ᏗᎬᎿᎨ ᏗᏣᎳᏏᏕᏂ ᏙᏦᎵᎦ.
  ᎣᏦᎵᎦ ᏩᏯ.
- ᏃᏊ ᏪᎾ!
+ ᏃᏊ ᎤᏟ ᏪᎾ!
 \begin_inset Quotes erd
 \end_inset
 
@@ -8031,7 +8073,7 @@ status collapsed
 \begin_layout Standard
 
 \size largest
-ᎾᎯᏳᏃ ᏧᎳᏏᏕᏂ ᎢᏌ ᏚᏭᏢᏁ Ꮎ ᏩᏯ.
+ᏃᏊᎴ ᏧᎳᏏᏕᏂ ᎢᏌ ᏚᏭᏢᏁ Ꮎ ᏩᏯ.
 \begin_inset Note Note
 status collapsed
 
@@ -8323,7 +8365,7 @@ status collapsed
 \begin_layout Standard
 
 \size largest
-ᎾᎯᏳᏃ ᎦᎶᎯᏍᏗ ᎤᎾᏛᏓᏍᏔᏁ Ꮎ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.
+ᏃᏊᎴ ᎦᎶᎯᏍᏗ ᎤᎾᏛᏓᏍᏔᏁ Ꮎ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.
 \begin_inset Note Note
 status collapsed
 
@@ -8384,7 +8426,7 @@ status collapsed
 \begin_layout Standard
 
 \size largest
-ᏃᏊ ᎤᏂᎪᎮ Ꮎ ᏩᏯ ᎠᏴᎭ.
+ᎤᏂᎪᎮ Ꮎ ᏩᏯ ᎠᏴᎭ.
 \begin_inset Note Note
 status collapsed
 
@@ -8441,7 +8483,7 @@ The wolf ran and growled.
 \begin_inset Quotes eld
 \end_inset
 
-Ꭳ! Ꭳ! Ꭳ! Ꭳ ᎣᎩᏥ ᎤᎦᏐᏣᏁᏓ, ᎯᎷᎩ!
+Ꭳ! Ꭳ! Ꭳ! Ꭳ ᎡᏥ ᎤᎦᏐᏣᏁᏓ, ᎯᎷᎩ!
 \begin_inset Quotes erd
 \end_inset
 
@@ -8466,7 +8508,7 @@ status collapsed
 \begin_inset Quotes eld
 \end_inset
 
-Ꭳ ᎯᎷᎩ, ᎯᎷᎩ, ᎣᎩᏥ ᎤᎦᏐᏣᏁᏓ! ᏫᏍᎩᏕᎳ, ᏫᏍᎩᏕᎳ ᏗᏨᏰᏥ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ!
+Ꭳ ᎯᎷᎩ, ᎯᎷᎩ, ᎡᏥ ᎤᎦᏐᏣᏁᏓ! ᏫᏍᎩᏕᎳ, ᏫᏍᎩᏕᎳ ᏗᏨᏰᏥ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ!
 \begin_inset Quotes erd
 \end_inset
 
@@ -8517,7 +8559,7 @@ status collapsed
 \end_inset
 
 ᎢᏥᏥ ᎤᎦᏐᏣᏁᏓ Ꮭ ᏱᎦᏱᏥᏍᏕᎸᏗ.
- ᏭᏪᏅᏒᎩ.
+ ᎤᏟ ᏭᏪᏅᏒᎩ.
  ᏃᏊ ᎣᏍᏓ ᎠᎵᏍᏓᏴᏗ ᏓᎦᎵᏍᏓᏴᏂ.
  ᏌᏊ, ᎠᏂᏔᎵ, ᎠᏂᏦᎢ! ᏅᎩ, ᎯᏍᎩ, ᏑᏓᎵ! ᎦᎵᏉᎩ ᏧᎾᏍᏗ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ!
 \begin_inset Quotes erd
@@ -8760,7 +8802,7 @@ But the door was open.
 \begin_layout Standard
 
 \size largest
-ᎾᎯᏳᏃ ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ ᎤᏴᏞ.
+ᏃᏊᎴ ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ ᎤᏴᏞ.
 \begin_inset Note Note
 status collapsed
 
@@ -8809,7 +8851,12 @@ So the goat went in.
 \begin_inset Quotes erd
 \end_inset
 
- ᎤᏛᏁ ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ, 
+ ᎤᏛᏁ ᎤᏂᏥ ᎤᎦᏐᏣᏁᏓ.
+\end_layout
+
+\begin_layout Standard
+
+\size largest
 \begin_inset Quotes eld
 \end_inset
 
@@ -9169,7 +9216,8 @@ status collapsed
  ᎠᎵᏍᏓᏴᏗ ᎣᎩᎯᏙᎴᎴ ᎤᏛᏁ Ꮎ ᏩᏯ.
  ᎣᎩᏥ ᎤᎦᏐᏣᏁᏓ ᎤᏛᏁ Ꮎ ᏩᏯ.
  ᎦᎶᎯᏍᏗ ᎠᏎ ᎣᎩᏍᏚᎢᏍᏗ ᎣᎪᏎᎸᎩ.
- ᏂᎯ ᎣᎨᎵᏒᎩ ᎠᎴ ᏩᏯ ᎤᏴᏍᏗ ᏃᎦᏛᏁᎸᎩ.
+ ᏂᎯ ᎣᎨᎵᏒᎩ.
+ ᏩᏯᏃ ᎤᏴᏍᏗ ᏃᎦᏛᏁᎸᎩ.
  ᎾᎯᏳ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᏚᏒᏅᎩ.
  ᎡᏆ ᏩᏥᏱ ᎠᏆᏗᏍᎦᎳᏅᎩ.
 \begin_inset Quotes erd
@@ -9229,9 +9277,8 @@ status collapsed
 \begin_inset Quotes eld
 \end_inset
 
-Ꮎ ᏩᏯ ᏗᏇᏥ ᏚᏒᏁ.
- ᏑᏓᎵ ᎤᏍᏗ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ.
- ᎠᏇᏥ ᏌᏊᏊ ᎤᎦᏐᏣᏁᏓ ᎠᎩᎾ ᏄᏒᏅᎾ.
+ᏗᏇᏥ ᏑᏓᎵ ᎤᏍᏗ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ ᏚᏒᏁ Ꮎ ᏩᏯ.
+ ᏌᏊᏊ ᎤᎦᏐᏣᏁᏓ ᎠᎩᎾ ᏄᏒᏅᎾ.
  Ꭳ! Ꭳ! ᏗᏇᏥ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ! ᏗᏇᏥ ᎤᏂᏲ ᎤᎾᎦᏐᏣᏁᏓ ᎠᏂᎩᎾ!
 \begin_inset Quotes erd
 \end_inset
