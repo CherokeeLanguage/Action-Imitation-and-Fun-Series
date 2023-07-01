@@ -1,0 +1,14 @@
+6/27/23, 11:13 AM
+Project Statistics
+
+                 	Segments	Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
+Total:           	     558	 3240	                  13223	                 15908	     1	
+Remaining:       	       0	    0	                      0	                     0	     0	
+Unique:          	     473	 2918	                  11925	                 14373	     1	
+Unique Remaining:	       0	    0	                      0	                     0	     0	
+
+
+Individual File Statistics:
+
+File Name          	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (w/o spaces)	Remaining Characters (w/o spaces)	Unique Characters (w/o spaces)	Unique Remaining Characters (w/o spaces)	Total Characters (w/ spaces)	Remaining Characters (w/ spaces)	Unique Characters (w/ spaces)	Unique Remaining Characters (w/ spaces)	
+The_Three_Bears.txt	           558	                 0	            473	                        0	       3240	              0	        2918	                     0	                        13223	                                0	                         11925	                                       0	                       15908	                               0	                        14373	                                      0	

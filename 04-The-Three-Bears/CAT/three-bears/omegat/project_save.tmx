@@ -1,0 +1,3892 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>"And see!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T142513Z" creationid="Michael Conrad" creationdate="20230627T142513Z">
+        <seg>“ᎠᎴ Ꮒ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"But the door is not locked," growled the big, huge bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030420Z" creationid="Michael Conrad" creationdate="20230627T030419Z">
+        <seg>“ᎠᏎᏃ ᏓᎩᏏ ᎤᎵᏍᏚᎢᏓ,” ᎤᏟᏂᎩᏓ ᎤᏛᏁ ᎡᏆ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Did you not lock the door?" growled the big, huge bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030348Z" creationid="Michael Conrad" creationdate="20230627T030343Z">
+        <seg>“ᏣᏍᏚᏁᏧ ᏓᎩᏏ?” ᎤᏟᏂᎩᏓ ᎤᏛᏁ ᎡᏆ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I am hungry for food.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023626Z" creationid="Michael Conrad" creationdate="20230627T023626Z">
+        <seg>“ᎠᎩᏍᏗ ᎠᎩᏲᏏ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I am hungry, too," said the middle sized bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T141220Z" creationid="Michael Conrad" creationdate="20230627T141220Z">
+        <seg>“ᎠᎩᏲᏏᎭ ᏍᏊ,” ᏩᏂᎨ ᎤᏛᏁ ᎤᏍᏗᎧ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I am hungry, too," squealed the little, wee wee bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T141229Z" creationid="Michael Conrad" creationdate="20230627T141228Z">
+        <seg>“ᎠᎩᏲᏏᎭ ᏍᏊ,” ᎡᏝᏪ ᎤᏛᏁ ᏭᏍᏗᎬ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I am hungry," growled the big, huge bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T141212Z" creationid="Michael Conrad" creationdate="20230627T141211Z">
+        <seg>“ᎠᎩᏲᏏᎭ,” ᎤᏟᏂᎩᏓ ᎤᏛᏁ ᎡᏆ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I am hungry," said the middle sized bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T150541Z" creationid="Michael Conrad" creationdate="20230627T150541Z">
+        <seg>“ᎠᎩᏲᏏ,” ᏩᏂᎨ ᎤᏛᏁ ᎤᏍᏗᎧ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I am hungry," squealed the little, wee wee bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T150548Z" creationid="Michael Conrad" creationdate="20230627T150548Z">
+        <seg>“ᎠᎩᏲᏏ,” ᎡᏝᏪ ᎤᏛᏁ ᏭᏍᏗᎬ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I am tired."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T145908Z" creationid="Michael Conrad" creationdate="20230627T145908Z">
+        <seg>“ᏓᎩᏯᏪᎦ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I do not like cold milk," said Money Hair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T024932Z" creationid="Michael Conrad" creationdate="20230627T024932Z">
+        <seg>“Ꮭ ᎤᏴᏜ ᎤᏅᏗ ᏯᎩᎸᏉᏙ,” ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I do not like the little chair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023505Z" creationid="Michael Conrad" creationdate="20230627T023505Z">
+        <seg>“ᎯᎠ ᏭᏍᏗᎬ ᎦᏍᎩᎶ Ꮭ ᏯᎩᎸᏉᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I knew there was a thief in the house," growled the big, huge bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030859Z" creationid="Michael Conrad" creationdate="20230627T030824Z">
+        <seg>“ᎦᏃᏍᎩᏍᎩ ᎦᎵᏦᏕ ᎠᏯᎥ ᎠᏆᏔᏛᎩ,” ᎤᏟᏂᎩᏓ ᎤᏛᏁ ᎡᏆ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I knew there was a thief in the house," said the middle sized bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030906Z" creationid="Michael Conrad" creationdate="20230627T030906Z">
+        <seg>“ᎦᏃᏍᎩᏍᎩ ᎦᎵᏦᏕ ᎠᏯᎥ ᎠᏆᏔᏛᎩ,” ᏩᏂᎨ ᎤᏛᏁ ᎤᏍᏗᎧ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I knew there was a thief in the house," squealed the little, wee wee bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030913Z" creationid="Michael Conrad" creationdate="20230627T030913Z">
+        <seg>“ᎦᏃᏍᎩᏍᎩ ᎦᎵᏦᏕ ᎠᏯᎥ ᎠᏆᏔᏛᎩ,” ᎡᏝᏪ ᎤᏛᏁ ᏭᏍᏗᎬ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I like milk!" said Money Hair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T024414Z" creationid="Michael Conrad" creationdate="20230627T024412Z">
+        <seg>“ᎤᏅᏗ ᎠᎩᎸᏉᏙ!” ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I like the big chair," said Silver Locks.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T022824Z" creationid="Michael Conrad" creationdate="20230627T022824Z">
+        <seg>“ᎤᏔᎾ ᎦᏍᎩᎶ ᎠᎩᎸᏉᏗ,” ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I like the house," said Money Hair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T145120Z" creationid="Michael Conrad" creationdate="20230627T145120Z">
+        <seg>“Ꮎ ᎦᎵᏦᏕ ᎠᎩᎸᏉᏗ,” ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I like the little bed."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025342Z" creationid="Michael Conrad" creationdate="20230627T025342Z">
+        <seg>“ᏭᏍᏗᎬ ᎦᏂᏟ ᎠᎩᎸᏉᏗ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I like the little chair," said Money Hair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T022841Z" creationid="Michael Conrad" creationdate="20230627T022839Z">
+        <seg>“ᏭᏍᏗᎬ ᎦᏍᎩᎶ ᎠᎩᎸᏉᏗ,” ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I like the middle sized chair," said Money Hair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T022832Z" creationid="Michael Conrad" creationdate="20230627T022832Z">
+        <seg>“ᎤᏍᏗᎧ ᎦᏍᎩᎶ ᎠᎩᎸᏉᏗ,” ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I like the three chairs," said Money Hair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T022814Z" creationid="Michael Conrad" creationdate="20230627T022813Z">
+        <seg>“ᏦᎢ ᏗᎦᏍᎩᎶ ᏓᎩᎸᏉᏗ,” ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I like the two chairs," said Money Hair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T022757Z" creationid="Michael Conrad" creationdate="20230627T022757Z">
+        <seg>“ᏔᎵ ᏗᎦᏍᎩᎶ ᏓᎩᎸᏉᏗ,” ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I like this chair," said Money Hair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T022742Z" creationid="Michael Conrad" creationdate="20230627T022742Z">
+        <seg>“ᎯᎠ ᎦᏍᎩᎶ ᎠᎩᎸᏉᏗ,” ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I like this house," said Money Hair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T022728Z" creationid="Michael Conrad" creationdate="20230627T022728Z">
+        <seg>“ᎯᎠ ᎦᎵᏦᏕ ᎠᎩᎸᏉᏗ,” ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I locked the door."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030408Z" creationid="Michael Conrad" creationdate="20230627T030408Z">
+        <seg>“ᏓᎩᏏ ᎠᎩᏍᏚᏅᎩ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I see a table.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T024044Z" creationid="Michael Conrad" creationdate="20230627T024044Z">
+        <seg>“ᎦᏍᎩᎶ ᏥᎪᏩᏘᎭ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I see three chairs.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T145133Z" creationid="Michael Conrad" creationdate="20230627T145133Z">
+        <seg>“ᏦᎢ ᏗᎦᏍᎩᎶ ᏕᏥᎪᏩᏘ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I should like to sit in the big chair," said Money Hair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023110Z" creationid="Michael Conrad" creationdate="20230627T023108Z">
+        <seg>“ᎤᏔᎾ ᎦᏍᎩᎶ ᎠᏉᏞᏍᏗ ᎠᎩᎸᏉᏛᎭ,” ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I should like to sit in the little chair," said Money Hair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023157Z" creationid="Michael Conrad" creationdate="20230627T023154Z">
+        <seg>“ᏭᏍᏗᎬ ᎦᏍᎩᎶ ᎠᏉᏞᏍᏗ ᎠᎩᎸᏉᏛᎭ,” ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I should like to sit in the middle sized chair," said Money Hair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023125Z" creationid="Michael Conrad" creationdate="20230627T023125Z">
+        <seg>“ᎤᏍᏗᎧ ᎦᏍᎩᎶ ᎠᏉᏞᏍᏗ ᎠᎩᎸᏉᏛᎭ,” ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I will find a bed," said she.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T145902Z" creationid="Michael Conrad" creationdate="20230627T145902Z">
+        <seg>“ᎦᏂᏟ ᏥᏩᏛᎲᎭ,” ᎤᏛᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I will never run away again," said Money Hair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T143700Z" creationid="Michael Conrad" creationdate="20230627T143700Z">
+        <seg>“ᏗᏇᏅᏒ ᎤᏟ Ꮭ ᎢᎸᎯᏳ ᏱᏓᎦᎵᏘᏒᏌᏂ.” ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I will never run into the woods again.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T143711Z" creationid="Michael Conrad" creationdate="20230627T143711Z">
+        <seg>“ᎢᎾᎨ ᎤᎿ Ꮭ ᎢᎸᎯᏳ ᏱᏓᎦᎵᏘᏒᏌᏂ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"I will taste the milk in the middle sized bowl.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T024512Z" creationid="Michael Conrad" creationdate="20230627T024512Z">
+        <seg>“ᎤᏍᏗᎧ ᎠᏟᏍᏙᏗ Ꮎ ᎤᏅᏗ ᏫᎦᏲᏢᎢ ᏓᎦᏗᏔᎯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Is there food in the house?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T145606Z" creationid="Michael Conrad" creationdate="20230627T145606Z">
+        <seg>“ᎠᎵᏍᏓᏴᏗᏍ ᎠᎭᏂ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"It is not too hard.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025507Z" creationid="Michael Conrad" creationdate="20230627T025507Z">
+        <seg>“ᏍᏓᏯᏒ ᏂᎨᏒᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"My milk!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T141354Z" creationid="Michael Conrad" creationdate="20230627T141354Z">
+        <seg>“ᎠᏆᏤᎵ ᎤᏅᏗ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Now we shall find the thief," growled the big, huge bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T142020Z" creationid="Michael Conrad" creationdate="20230627T142020Z">
+        <seg>“ᏃᏊ ᎦᏃᏍᎩᏍᎩ ᏓᏰᏗᏩᏛᎯ,” ᎤᏟᏂᎩᏓ ᎤᏛᏁ ᎡᏆ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Now we shall find the thief," said the middle sized bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T142044Z" creationid="Michael Conrad" creationdate="20230627T142044Z">
+        <seg>“ᏃᏊ ᎦᏃᏍᎩᏍᎩ ᏓᏰᏗᏩᏛᎯ,” ᏩᏂᎨ ᎤᏛᏁ ᎤᏍᏗᎧ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Now we shall find the thief," squealed the little, wee wee bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T142102Z" creationid="Michael Conrad" creationdate="20230627T142102Z">
+        <seg>“ᏃᏊ ᎦᏃᏍᎩᏍᎩ ᏓᏰᏗᏩᏛᎯ,” ᎡᏝᏪ ᎤᏛᏁ ᏭᏍᏗᎬ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"O see, see!" growled the big, huge bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T143141Z" creationid="Michael Conrad" creationdate="20230627T143141Z">
+        <seg>“Ꭳ Ꮒ, Ꮒ!” ᎤᏟᏂᎩᏓ ᎤᏛᏁ ᎡᏆ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"O see, see!" said the middle sized bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T143147Z" creationid="Michael Conrad" creationdate="20230627T143147Z">
+        <seg>“Ꭳ Ꮒ, Ꮒ!” ᏩᏂᎨ ᎤᏛᏁ ᎤᏍᏗᎧ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"O see, see!" squealed the little, wee wee bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T143154Z" creationid="Michael Conrad" creationdate="20230627T143154Z">
+        <seg>“Ꭳ Ꮒ, Ꮒ!” ᎡᏝᏪ ᎤᏛᏁ ᏭᏍᏗᎬ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"O yes," said the middle sized bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030435Z" creationid="Michael Conrad" creationdate="20230627T030435Z">
+        <seg>“Ꭳ ᎥᎥ,” ᏩᏂᎨ ᎤᏛᏁ ᎤᏍᏗᎧ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"O yes," squealed the little, wee wee bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030529Z" creationid="Michael Conrad" creationdate="20230627T030529Z">
+        <seg>“Ꭳ ᎥᎥ,” ᎡᏝᏪ ᎤᏛᏁ ᏭᏍᏗᎬ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"O!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023437Z" creationid="Michael Conrad" creationdate="20230627T023437Z">
+        <seg>“Ꭳ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"O, I am so hungry!" said Money Hair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023617Z" creationid="Michael Conrad" creationdate="20230627T023617Z">
+        <seg>“Ꭳ, ᏥᏈᏍᏗ ᎠᎩᏲᏏ!” ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"O, I was so hungry!" said Money Hair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025128Z" creationid="Michael Conrad" creationdate="20230627T025128Z">
+        <seg>“Ꭳ, ᏙᏳ ᎠᎩᏲᏏᏌ!” ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"O, I was so hungry!" she said.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T145847Z" creationid="Michael Conrad" creationdate="20230627T145847Z">
+        <seg>“Ꭳ, ᏥᏈᏍᏗ ᎠᎩᏲᏍᎬᎩ!” ᎤᏛᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"O, never, never, never!"</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T151139Z" creationid="Michael Conrad" creationdate="20230627T151139Z">
+        <seg>“Ꭳ, Ꮭ ᎢᎸᎯᏳ, Ꮭ ᎢᎸᎯᏳ, Ꮭ ᎢᎸᎯᏳ!”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"O, the big bed is too hard!" said Money Hair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025247Z" creationid="Michael Conrad" creationdate="20230627T025247Z">
+        <seg>“Ꭳ, ᎡᏆ ᎦᏂᏟ ᏫᏍᏓᏴ!” ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"O, the little bed is just right!" said Money Hair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025334Z" creationid="Michael Conrad" creationdate="20230627T025334Z">
+        <seg>“Ꭳ, ᏭᏍᏗᎬ ᎦᏂᏟ ᎣᏍᏓᏊ!” ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"O, the middle sized bed is too soft," said Money Hair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025312Z" creationid="Michael Conrad" creationdate="20230627T025312Z">
+        <seg>“Ꭳ, ᎤᏍᏗᎧ ᎦᏂᏟ ᏩᏂᎨᏒ,” ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"O, what a good house!" said she.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T144929Z" creationid="Michael Conrad" creationdate="20230627T144929Z">
+        <seg>“Ꭳ, ᎥᏍᎩᎾ ᎣᏍᏓ ᎦᎵᏦᏕ!” ᎤᏛᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Oil like the little chair," said Money Hair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023241Z" creationid="Michael Conrad" creationdate="20230627T023241Z">
+        <seg>“Ꭳ! ᏭᏍᏗᎬ ᎦᏍᎩᎶ ᎠᎩᎸᏉᏗ,” ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Only a little girl," growled the big, huge bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T143550Z" creationid="Michael Conrad" creationdate="20230627T143550Z">
+        <seg>“ᎤᏍᏗᏊ ᎠᎨᏳᏣ,” ᎤᏟᏂᎩᏓ ᎤᏛᏁ ᎡᏆ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Only a little girl," said the middle sized bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T143559Z" creationid="Michael Conrad" creationdate="20230627T143559Z">
+        <seg>“ᎤᏍᏗᏊ ᎠᎨᏳᏣ,” ᏩᏂᎨ ᎤᏛᏁ ᎤᏍᏗᎧ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Only a little girl," squealed the little, wee wee bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T143629Z" creationid="Michael Conrad" creationdate="20230627T143629Z">
+        <seg>“ᎤᏍᏗᏊ ᎠᎨᏳᏣ,” ᎡᏝᏪ ᎤᏛᏁ ᏭᏍᏗᎬ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"See!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030623Z" creationid="Michael Conrad" creationdate="20230627T030623Z">
+        <seg>“Ꮒ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"See!" growled the big, huge bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030639Z" creationid="Michael Conrad" creationdate="20230627T030639Z">
+        <seg>“Ꮒ!” ᎤᏟᏂᎩᏓ ᎤᏛᏁ ᎡᏆ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"See!" said the middle sized bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030645Z" creationid="Michael Conrad" creationdate="20230627T030645Z">
+        <seg>“Ꮒ!” ᏩᏂᎨ ᎤᏛᏁ ᎤᏍᏗᎧ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"See!" squealed the little, wee wee bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030652Z" creationid="Michael Conrad" creationdate="20230627T030652Z">
+        <seg>“Ꮒ!” ᎡᏝᏪ ᎤᏛᏁ ᏭᏍᏗᎬ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"See, see!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T150818Z" creationid="Michael Conrad" creationdate="20230627T150818Z">
+        <seg>“Ꮒ, Ꮒ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"See, see, see!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030808Z" creationid="Michael Conrad" creationdate="20230627T030808Z">
+        <seg>“Ꮒ, Ꮒ, Ꮒ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Somebody has been lying in my bed," growled the big, huge bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T142416Z" creationid="Michael Conrad" creationdate="20230627T142416Z">
+        <seg>“ᎠᏆᏤᎵ ᎦᏂᏟ ᎩᎶ ᎦᏅᎨ,” ᎤᏟᏂᎩᏓ ᎡᏆ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Somebody has been lying in my bed," said the middle sized bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T142444Z" creationid="Michael Conrad" creationdate="20230627T142444Z">
+        <seg>“ᎠᏆᏤᎵ ᎦᏂᏟ ᎩᎶ ᎦᏅᎨ,” ᏩᏂᎨ ᎤᏍᏗᎧ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Somebody has been lying in my bed," squealed the little, wee wee bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T142504Z" creationid="Michael Conrad" creationdate="20230627T142504Z">
+        <seg>“ᎠᏆᏤᎵ ᎦᏂᏟ ᎩᎶ ᎦᏅᎨ,” ᎡᏝᏪ ᏭᏍᏗᎬ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Somebody has drank my milk.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T141330Z" creationid="Michael Conrad" creationdate="20230627T141330Z">
+        <seg>“ᎩᎶ ᎠᏆᏤᎵ ᎤᏅᏗ ᎤᏒᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Somebody has sat in my chair," growled the big, huge bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030743Z" creationid="Michael Conrad" creationdate="20230627T030743Z">
+        <seg>“ᎩᎶ ᎠᏆᏤᎵ ᎦᏍᎩᎶ ᎤᏬᏞ,” ᎤᏟᏂᎩᏓ ᎤᏛᏁ ᎡᎦ ᎤᏔᎾ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Somebody has sat in my chair," growled the middle sized bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030750Z" creationid="Michael Conrad" creationdate="20230627T030750Z">
+        <seg>“ᎩᎶ ᎠᏆᏤᎵ ᎦᏍᎩᎶ ᎤᏬᏞ,” ᏩᏂᎨ ᎤᏛᏁ ᎤᏍᏗᎧ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Somebody has sat in my chair," squealed the little, wee wee bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030759Z" creationid="Michael Conrad" creationdate="20230627T030759Z">
+        <seg>“ᎩᎶ ᎠᏆᏤᎵ ᎦᏍᎩᎶ ᎤᏬᏞ,” ᎡᏝᏪ ᎤᏛᏁ ᏭᏍᏗᎬ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Somebody has slept in my bed," growled the big, huge bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T150754Z" creationid="Michael Conrad" creationdate="20230627T150754Z">
+        <seg>“ᎩᎶ ᎠᏆᏤᎵ ᎦᏂᏟ ᎦᏅᎨ,” ᎤᏟᏂᎩᏓ ᎤᏛᏁ ᎡᏆ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Somebody has slept in my bed," said the middle sized bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T150803Z" creationid="Michael Conrad" creationdate="20230627T150803Z">
+        <seg>“ᎩᎶ ᎠᏆᏤᎵ ᎦᏂᏟ ᎦᏅᎨ,” ᏩᏂᎨ ᎤᏛᏁ ᎤᏍᏗᎧ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Somebody has slept in my bed," squealed the little, wee wee bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T150810Z" creationid="Michael Conrad" creationdate="20230627T150810Z">
+        <seg>“ᎩᎶ ᎠᏆᏤᎵ ᎦᏂᏟ ᎦᏅᎨ,” ᎡᏝᏪ ᎤᏛᏁ ᏭᏍᏗᎬ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Somebody has tasted my milk," growled the big, huge bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T141254Z" creationid="Michael Conrad" creationdate="20230627T141254Z">
+        <seg>“ᎩᎶ ᎠᏆᏤᎵ ᎤᏅᏗ ᎦᏲᏟ ᎤᏗᏔᎮ,” ᎤᏟᏂᎩᏓ ᎤᏛᏁ ᎡᏆ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Somebody has tasted my milk," said the middle sized bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T141302Z" creationid="Michael Conrad" creationdate="20230627T141302Z">
+        <seg>“ᎩᎶ ᎠᏆᏤᎵ ᎤᏅᏗ ᎦᏲᏟ ᎤᏗᏔᎮ,” ᏩᏂᎨ ᎤᏛᏁ ᎤᏍᏗᎧ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Somebody has tasted my milk," squealed the little, wee wee bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T141313Z" creationid="Michael Conrad" creationdate="20230627T141313Z">
+        <seg>“ᎩᎶ ᎠᏆᏤᎵ ᎤᏅᏗ ᏂᎦᏓ ᎤᏗᏔᎮ,” ᎡᏝᏪ ᎤᏛᏁ ᏭᏍᏗᎬ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Somebody is in our house."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030536Z" creationid="Michael Conrad" creationdate="20230627T030536Z">
+        <seg>“ᎩᎶ ᎠᏯ ᎣᎦᏤᎵ ᎦᎵᏦᏕ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Somebody is in the house," growled the big, huge bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030702Z" creationid="Michael Conrad" creationdate="20230627T030700Z">
+        <seg>“ᎩᎶ ᎦᎵᏦᏕ ᎠᏯ,” ᎤᏟᏂᎩᏓ ᎤᏛᏁ ᎡᏆ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Somebody is in the house," said the middle sized bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T150318Z" creationid="Michael Conrad" creationdate="20230627T150318Z">
+        <seg>“ᎩᎶ ᎦᎵᏦᏕ ᎠᏯ,” ᏩᏂᎨ ᎤᏛᏁ ᎤᏍᏗᎧ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Somebody is in the house," squealed the little, wee wee bear..</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T150327Z" creationid="Michael Conrad" creationdate="20230627T150327Z">
+        <seg>“ᎩᎶ ᎦᎵᏦᏕ ᎠᏯ,” ᎡᏝᏪ ᎤᏛᏁ ᏭᏍᏗᎬ ᏲᎾ..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Somebody is in the house."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030428Z" creationid="Michael Conrad" creationdate="20230627T030428Z">
+        <seg>“ᎩᎶ ᎠᏯ ᎦᎵᏦᏕ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Somebody sat in my chair," growled the big, huge bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T150417Z" creationid="Michael Conrad" creationdate="20230627T150349Z">
+        <seg>“ᎩᎶ ᎠᏆᏤᎵ ᎦᏍᎩᎶ ᎤᏬᏞ,” ᎤᏟᏂᎩᏓ ᎤᏛᏁ ᎡᏆ ᏲᎾ..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Somebody sat in my chair," said the middle sized bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T150437Z" creationid="Michael Conrad" creationdate="20230627T150424Z">
+        <seg>“ᎩᎶ ᎠᏆᏤᎵ ᎦᏍᎩᎶ ᎤᏬᏞ,” ᏩᏂᎨ ᎤᏛᏁ ᎤᏍᏗᎧ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Somebody sat in my chair," squealed the little, wee wee bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T150433Z" creationid="Michael Conrad" creationdate="20230627T150431Z">
+        <seg>“ᎩᎶ ᎠᏆᏤᎵ ᎦᏍᎩᎶ ᎤᏬᏞ,” ᎡᏝᏪ ᎤᏛᏁ ᏭᏍᏗᎬ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"The big bed is too hard," she said.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T150052Z" creationid="Michael Conrad" creationdate="20230627T150052Z">
+        <seg>“ᎤᏔᎾ ᎦᏂᏟ ᏍᏓᏯᏒ ,” ᎤᏛᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"The big chair is too big," said Money Hair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023210Z" creationid="Michael Conrad" creationdate="20230627T023155Z">
+        <seg>“ᎤᏔᎾ ᎦᏍᎩᎶ ᏍᏓᏯᏒ,” ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"The big chair is too hard," said Money Hair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T145229Z" creationid="Michael Conrad" creationdate="20230627T145229Z">
+        <seg>“ᎤᏔᎾ ᎦᏍᎩᎶ ᏍᏓᏯᏒ,” ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"The little bed is just right," she said.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T150106Z" creationid="Michael Conrad" creationdate="20230627T150106Z">
+        <seg>“ᏭᏍᏗᎬ ᎦᏂᏟ ᎣᏍᏓᏊ,” ᎤᏛᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"The little chair is just right," said Money Hair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T145244Z" creationid="Michael Conrad" creationdate="20230627T145244Z">
+        <seg>“ᏭᏍᏗᎬ ᎦᏍᎩᎶ ᎣᏍᏓᏊ,” ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"The little chair is not too big.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023313Z" creationid="Michael Conrad" creationdate="20230627T023248Z">
+        <seg>“ᏭᏍᏗᎬ ᎦᏍᎩᎶ ᏍᏓᏯᏒ ᏂᎨᏒᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"The middle sized bed is too soft," she said.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T150059Z" creationid="Michael Conrad" creationdate="20230627T150059Z">
+        <seg>“ᎤᏍᏗᎧ ᎦᏂᏟ ᏩᏂᎨᏒ,” ᎤᏛᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"The middle sized chair is too soft " said Money Hair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T145237Z" creationid="Michael Conrad" creationdate="20230627T145237Z">
+        <seg>“ᎤᏍᏗᎧ ᎦᏍᎩᎶ ᏩᏂᎨᏒ,” ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"The middle sized chair is too soft"</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023224Z" creationid="Michael Conrad" creationdate="20230627T023224Z">
+        <seg>“ᎤᏍᏗᎧ ᎦᏍᎩᎶ ᏩᏂᎨᏒ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"The milk in the big bowl is too cold," she said.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T145731Z" creationid="Michael Conrad" creationdate="20230627T145731Z">
+        <seg>“ᎤᏅᏗ ᎤᏔᎾ ᎠᏟᏍᏙᏗ ᏭᎪᏛ ᎤᏗᏞᎦ,” ᎤᏛᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"The milk in the big bowl is too hot," said Money Hair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T024821Z" creationid="Michael Conrad" creationdate="20230627T024821Z">
+        <seg>“ᎤᏔᎾ ᎠᏟᏍᏙᏗ Ꮎ ᎤᏅᏗ ᏭᎪᏛ ᎤᏗᏞᎦ,” ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"The milk in the little bowl is just right," said Money Hair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025102Z" creationid="Michael Conrad" creationdate="20230627T025102Z">
+        <seg>“ᎤᏅᏗ ᏭᏍᏗᎬ ᎠᏟᏍᏙᏗ ᎣᏍᏓᏊ,” ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"The milk in the little bowl is just right," she said.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T145746Z" creationid="Michael Conrad" creationdate="20230627T145746Z">
+        <seg>“ᎤᏅᏗ ᏭᏍᏗᎬ ᎠᏟᏍᏙᏗ ᎣᏍᏓᏊ,” ᎤᏛᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"The milk in the middle sized bowl is too hot," she said.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T145738Z" creationid="Michael Conrad" creationdate="20230627T145738Z">
+        <seg>“ᎤᏅᏗ ᎤᏍᏗᎧ ᎠᏟᏍᏙᏗ ᏭᎪᏛ ᎤᏴᏜ,” ᎤᏛᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"The thief is up stairs," said the middle sized bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T150711Z" creationid="Michael Conrad" creationdate="20230627T150711Z">
+        <seg>“Ꮎ ᎦᏃᏍᎩᏍᎩ ᎠᎩᏠᏒᏍᏗ ᎦᎸᎳᏗᏜ ᎤᏪᏙᎸᎭ,” ᏩᏂᎨ ᎤᏛᏁ ᎤᏍᏗᎧ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"The thief is up stairs," squealed the little, wee wee bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T150718Z" creationid="Michael Conrad" creationdate="20230627T150718Z">
+        <seg>“Ꮎ ᎦᏃᏍᎩᏍᎩ ᎠᎩᏠᏒᏍᏗ ᎦᎸᎳᏗᏜ ᎤᏪᏙᎸᎭ,” ᎡᏝᏪ ᎤᏛᏁ ᏭᏍᏗᎬ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"The wicked thief must be up stairs," growled the big, huge bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T142113Z" creationid="Michael Conrad" creationdate="20230627T142113Z">
+        <seg>“Ꮎ ᎤᏲᏒ ᎦᏃᏍᎩᏍᎩ ᎠᎩᏠᏒᏍᏗ ᎦᎸᎳᏗᏜ ᎤᏪᏙᎸᎭ,” ᎤᏟᏂᎩᏓ ᎤᏛᏁ ᎡᏆ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"The wicked thief must be up stairs," said the middle sized bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T142128Z" creationid="Michael Conrad" creationdate="20230627T142128Z">
+        <seg>“Ꮎ ᎤᏲᏒ ᎦᏃᏍᎩᏍᎩ ᎠᎩᏠᏒᏍᏗ ᎦᎸᎳᏗᏜ ᎤᏪᏙᎸᎭ,” ᏩᏂᎨ ᎤᏛᏁ ᎤᏍᏗᎧ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"The wicked thief must be up stairs," squealed the little bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T142139Z" creationid="Michael Conrad" creationdate="20230627T142139Z">
+        <seg>“Ꮎ ᎤᏲᏒ ᎦᏃᏍᎩᏍᎩ ᎠᎩᏠᏒᏍᏗ ᎦᎸᎳᏗᏜ ᎤᏪᏙᎸᎭ,” ᎡᏝᏪ ᎤᏛᏁ ᏭᏍᏗᎬ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"The wicked, wicked thief!" said the middle sized bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030947Z" creationid="Michael Conrad" creationdate="20230627T030947Z">
+        <seg>“ᎤᏲᏒ ᎤᏲᏒ ᎦᏃᏍᎩᏍᎩ!” ᏩᏂᎨ ᎤᏛᏁ ᎤᏍᏗᎧ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"The wicked, wicked thief!" squealed the little, wee wee bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030955Z" creationid="Michael Conrad" creationdate="20230627T030955Z">
+        <seg>“ᎤᏲᏒ ᎤᏲᏒ ᎦᏃᏍᎩᏍᎩ!” ᎡᏝᏪ ᎤᏛᏁ ᏭᏍᏗᎬ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"The wicked; wicked thief!" growled the big, huge bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030940Z" creationid="Michael Conrad" creationdate="20230627T030940Z">
+        <seg>“ᎤᏲᏒ ᎤᏲᏒ ᎦᏃᏍᎩᏍᎩ!” ᎤᏟᏂᎩᏓ ᎤᏛᏁ ᎡᏆ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"This bed is just right," said Money Hair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025453Z" creationid="Michael Conrad" creationdate="20230627T025453Z">
+        <seg>“ᎯᎠ ᎦᏂᏟ ᎣᏍᏓᏊ,” ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"This is a big, huge chair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T022855Z" creationid="Michael Conrad" creationdate="20230627T022855Z">
+        <seg>“ᎯᎠ ᎦᏍᎩᎶ ᏭᎪᏛ ᎤᏔᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"We will find the thief.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T150632Z" creationid="Michael Conrad" creationdate="20230627T150632Z">
+        <seg>“Ꮎ ᎦᏃᏍᎩᏍᎩ ᎡᏗᏩᏛᎲᎭ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Who lives in the house?" said Money Hair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T145039Z" creationid="Michael Conrad" creationdate="20230627T145039Z">
+        <seg>“ᎦᎪ ᎠᏁᎰ Ꮎ ᎦᎵᏦᏕ?” ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Who lives in this house?" said Money Hair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T024037Z" creationid="Michael Conrad" creationdate="20230627T024037Z">
+        <seg>“ᎦᎪ ᎠᏁᎰ ᎯᎠ ᎦᎵᏦᏕ?” ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Yes, somebody is in the house," said the middle sized bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030710Z" creationid="Michael Conrad" creationdate="20230627T030710Z">
+        <seg>“ᎥᎥ, ᎩᎶ ᎦᎵᏦᏕ ᎠᏯ,” ᏩᏂᎨ ᎤᏛᏁ ᎤᏍᏗᎧ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Yes, yes, somebody is in the house," squealed the little, wee wee bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030723Z" creationid="Michael Conrad" creationdate="20230627T030723Z">
+        <seg>“ᎥᎥ, ᎥᎥ, ᎩᎶ ᎦᎵᏦᏕ ᎠᏯ,” ᎡᏝᏪ ᎤᏛᏁ ᏭᏍᏗᎬ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Yes," said the middle sized bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030355Z" creationid="Michael Conrad" creationdate="20230627T030355Z">
+        <seg>“ᎥᎥ,” ᏩᏂᎨ ᎤᏛᏁ ᎤᏍᏗᎧ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>And see!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T024234Z" creationid="Michael Conrad" creationdate="20230627T024234Z">
+        <seg>ᎠᎴ Ꮒ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Break, break!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T145322Z" creationid="Michael Conrad" creationdate="20230627T145322Z">
+        <seg>ᎠᏲᎨ, ᎤᏲᏤ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Break, break, break!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023352Z" creationid="Michael Conrad" creationdate="20230627T023352Z">
+        <seg>ᎤᏲᏨᎢ, ᎤᏲᏨᎢ, ᎤᏲᏨᎢ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But Money Hair was asleep.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T150250Z" creationid="Michael Conrad" creationdate="20230627T150250Z">
+        <seg>ᎠᏎᏃ ᎠᏕᎳ ᎤᏍᏘᎬ ᎦᏟᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But the chair began to break.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T145306Z" creationid="Michael Conrad" creationdate="20230627T145306Z">
+        <seg>ᎠᏎᏃ ᎦᏍᎩᎶ ᎤᏲᏍᏗ ᎤᎴᏅᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>CM" growled the big, huge bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T142552Z" creationid="Michael Conrad" creationdate="20230627T142552Z">
+        <seg>[fuzzy]“Ꮒ!” ᎤᏟᏂᎩᏓ ᎤᏛᏁ ᎡᏆ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Can I find it?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023939Z" creationid="Michael Conrad" creationdate="20230627T023939Z">
+        <seg>ᎡᎵᏊᏍ ᏱᏕᏥᏩᏔ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Can the bears walk?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230626T234821Z" creationid="Michael Conrad" creationdate="20230626T234821Z">
+        <seg>ᎬᏩᏁᏓᏍᏗᏍ ᏲᎾ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Come, big, huge bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T031029Z" creationid="Michael Conrad" creationdate="20230627T031029Z">
+        <seg>ᎮᎾ, ᎡᏆ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Come, come, let us find the thief.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T150642Z" creationid="Michael Conrad" creationdate="20230627T150642Z">
+        <seg>ᎢᏕᎾ, ᎢᏕᎾ, ᎦᏃᏍᎩᏍᎩ ᎡᏗᏩᏛᎲᎭ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Come, let us find her.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T031004Z" creationid="Michael Conrad" creationdate="20230627T031004Z">
+        <seg>ᎥᏍᎩᎾ ᎡᏗᏩᏛᎲᎭ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Come, little, wee wee bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T031042Z" creationid="Michael Conrad" creationdate="20230627T031042Z">
+        <seg>ᎮᎾ, ᏭᏍᏗᎬ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Come, middle sized bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T031035Z" creationid="Michael Conrad" creationdate="20230627T031035Z">
+        <seg>ᎮᎾ, ᎤᏍᏗᎧ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Did Money Hair wake?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T143108Z" creationid="Michael Conrad" creationdate="20230627T143108Z">
+        <seg>ᎤᏰᏤᏍ ᎠᏕᎳ ᎤᏍᏘᎬᎢ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do the bears like the trees?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T000316Z" creationid="Michael Conrad" creationdate="20230627T000316Z">
+        <seg>ᏲᎾᏍ ᏕᏡᎬ ᏚᏂᎸᏉᏙ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do the bears like the woods?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230626T235041Z" creationid="Michael Conrad" creationdate="20230626T234932Z">
+        <seg>ᏲᎾᏍ ᎢᎾᎨ ᎤᏂᎸᏉᏙ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do you hear the bears?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T141602Z" creationid="Michael Conrad" creationdate="20230627T141546Z">
+        <seg>ᏲᎾᏍ ᎦᎯᏯᏛᎩ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do you hear them coming?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T141704Z" creationid="Michael Conrad" creationdate="20230627T141704Z">
+        <seg>ᎭᏛᎩᏍ ᎤᏂᎷᏨᎢ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do you not hear them?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T141615Z" creationid="Michael Conrad" creationdate="20230627T030214Z">
+        <seg>ᎦᎯᏯᏛᎩᏧ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Does the big, huge bear have the big chair?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T022924Z" creationid="Michael Conrad" creationdate="20230627T022924Z">
+        <seg>ᎤᏔᎾᏍ ᎦᏍᎩᎶ ᎤᏤᎵ ᎡᏆ ᏲᎾ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Does the little, wee wee bear have the little chair?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T022951Z" creationid="Michael Conrad" creationdate="20230627T022951Z">
+        <seg>ᏭᏍᏗᎬᏍ ᎦᏍᎩᎶ ᎤᏤᎵ ᏭᏍᏗᎬ ᏲᎾ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Does the middle sized bear have the middle sized chair?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023037Z" creationid="Michael Conrad" creationdate="20230627T022936Z">
+        <seg>ᎤᏍᏗᎧᏍ ᎦᏍᎩᎶ ᎤᏤᎵ ᎤᏍᏗᎧ ᏲᎾ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Down went Money Hair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023411Z" creationid="Michael Conrad" creationdate="20230627T023411Z">
+        <seg>ᎡᎳᏗ ᏭᏪᏅᏎ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Down went the chair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023426Z" creationid="Michael Conrad" creationdate="20230627T023426Z">
+        <seg>ᎡᎳᏗ ᏭᏪᏅᏎ ᎤᏲᏨ ᎦᏍᎩᎶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Growl, growl!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T142859Z" creationid="Michael Conrad" creationdate="20230627T142859Z">
+        <seg>ᎤᏲᏒ ᎡᏆ ᏄᏪᏒᎢ ᎨᏎ. ᎤᏲᏒ ᎡᏆ ᏄᏪᏒᎢ ᎨᏎ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hear the bears, Money Hair!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030134Z" creationid="Michael Conrad" creationdate="20230627T030134Z">
+        <seg>ᏲᎾ ᎦᎯᏯᏛᎬᎦ, ᎠᏕᎳ ᎤᏍᏘᎬᎢ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hear the big, huge bear growl.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T142758Z" creationid="Michael Conrad" creationdate="20230627T142758Z">
+        <seg>ᎡᏆ ᏲᎾ ᎤᏲᏒ ᎡᏆ ᏄᏪᏒᎢ ᎭᏛᎬᎦ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hear the little, wee wee bear squeal.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T142851Z" creationid="Michael Conrad" creationdate="20230627T142851Z">
+        <seg>ᏭᏍᏗᎬ ᏲᎾ ᎤᏲᏒ ᎡᏝᏪ ᏄᏪᏒᎢ ᎭᏛᎬᎦ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Her hair is like money.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T000534Z" creationid="Michael Conrad" creationdate="20230627T000437Z">
+        <seg>ᎠᏕᎳ ᎤᏁᎦ ᎢᏳᏍᏗ ᎤᏍᏘᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Here is a little girl.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T000405Z" creationid="Michael Conrad" creationdate="20230627T000405Z">
+        <seg>ᎠᎭᏂ ᎤᏍᏗ ᎠᎨᏳᏣ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Here is the thief."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T142529Z" creationid="Michael Conrad" creationdate="20230627T142529Z">
+        <seg>ᎠᎭᏂ ᎦᏃᏍᎩᏍᎩ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Here is their food."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T024240Z" creationid="Michael Conrad" creationdate="20230627T024240Z">
+        <seg>ᎠᎭᏂ ᏧᎾᏤᎵ ᏗᎩᏍᏗ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Here is their table.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T024225Z" creationid="Michael Conrad" creationdate="20230627T024225Z">
+        <seg>ᎠᎭᏂ ᎤᎾᏤᎵ ᎦᏍᎩᎶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Here she is!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T142521Z" creationid="Michael Conrad" creationdate="20230627T142521Z">
+        <seg>ᎥᏍᎩᎾ ᎠᎭᏂ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Here she is!"</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T150827Z" creationid="Michael Conrad" creationdate="20230627T150827Z">
+        <seg>ᎠᎭᏂ ᎥᏍᎩᎾ!”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How do you do, Money Hair?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T000609Z" creationid="Michael Conrad" creationdate="20230627T000609Z">
+        <seg>ᏙᎯᏧ, ᎠᏕᎳ ᎤᏍᏘᎬᎢ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T151308Z" creationid="Michael Conrad" creationdate="20230627T151308Z">
+        <seg>1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I am so hungry."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T145613Z" creationid="Michael Conrad" creationdate="20230627T145613Z">
+        <seg>ᎤᎪᏗ ᎠᎩᏲᏏ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I see one bear in the woods.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T000113Z" creationid="Michael Conrad" creationdate="20230627T000042Z">
+        <seg>ᏌᏊ ᏲᎾ ᎢᎾᎨ ᏥᎪᏩᏘ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I see one bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230626T235337Z" creationid="Michael Conrad" creationdate="20230626T235337Z">
+        <seg>ᏌᏊ ᏲᎾ ᏥᎪᏩᏘ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I see one, two, three trees in the woods.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T000307Z" creationid="Michael Conrad" creationdate="20230627T000307Z">
+        <seg>ᏌᏊ ᏡᎬ, ᏔᎵ ᏕᏡᎬ, ᏦᎢ ᏕᏡᎬ ᎢᎾᎨ ᏕᏥᎪᏩᏘ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I see three bears in the woods.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230626T235350Z" creationid="Michael Conrad" creationdate="20230626T235350Z">
+        <seg>ᎠᏂᏦᎢ ᏲᎾ ᎢᎾᎨ ᎦᏥᎪᏩᏘ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I see trees in the woods.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T000300Z" creationid="Michael Conrad" creationdate="20230627T000300Z">
+        <seg>ᏕᏡᎬ ᎢᎾᎨ ᏕᏥᎪᏩᏘ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I see two bears in the woods.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T000128Z" creationid="Michael Conrad" creationdate="20230627T000128Z">
+        <seg>ᎠᏂᏔᎵ ᏲᎾ ᎢᎾᎨ ᎦᏥᎪᏩᏘ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I see two bears.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230626T235343Z" creationid="Michael Conrad" creationdate="20230626T235343Z">
+        <seg>ᎠᏂᏔᎵ ᏲᎾ ᎦᏥᎪᏩᏘ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I shall find it.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023953Z" creationid="Michael Conrad" creationdate="20230627T023953Z">
+        <seg>ᏙᏓᏥᏩᏛᎯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I should like some food.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023634Z" creationid="Michael Conrad" creationdate="20230627T023634Z">
+        <seg>ᎠᎩᏍᏗ ᎠᎩᎸᏉᏛᎭ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I will look for it.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023946Z" creationid="Michael Conrad" creationdate="20230627T023946Z">
+        <seg>ᏙᏛᎩᏯᎵ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I will never run away again," she said.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T151131Z" creationid="Michael Conrad" creationdate="20230627T151131Z">
+        <seg>ᏗᏇᏅᏒ ᎤᏟ Ꮭ ᎢᎸᎯᏳ ᏱᏓᎦᎵᏘᏒᏌᏂ,” ᎤᏛᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I will taste the milk in the big, huge bowl," said Money Hair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T024458Z" creationid="Michael Conrad" creationdate="20230627T024451Z">
+        <seg>“ᎤᏔᎾ ᎠᏟᏍᏙᏗ Ꮎ ᎤᏅᏗ ᏫᎦᏲᏢᎢ ᏓᎦᏗᏔᎯ,” ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I will taste the milk in the little, wee wee bowl."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T024519Z" creationid="Michael Conrad" creationdate="20230627T024519Z">
+        <seg>ᏭᏍᏗᎬ ᎠᏟᏍᏙᏗ Ꮎ ᎤᏅᏗ ᏫᎦᏲᏢᎢ ᏓᎦᏗᏔᎯ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I would like to sit in the chairs."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T145140Z" creationid="Michael Conrad" creationdate="20230627T145140Z">
+        <seg>ᏗᎦᏍᎩᎶ ᏓᏉᏢᎭ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>II</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T000749Z" creationid="Michael Conrad" creationdate="20230626T234851Z">
+        <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>III</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T000756Z" creationid="Michael Conrad" creationdate="20230626T235144Z">
+        <seg>3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IV</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T000801Z" creationid="Michael Conrad" creationdate="20230626T235330Z">
+        <seg>4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IX</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T002144Z" creationid="Michael Conrad" creationdate="20230627T002144Z">
+        <seg>9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Is there any food in the house?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023718Z" creationid="Michael Conrad" creationdate="20230627T023641Z">
+        <seg>ᏗᎩᏍᏗᏍ ᎠᎭᏂ ᎦᎵᏦᏕ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Is there any food on the table?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T024052Z" creationid="Michael Conrad" creationdate="20230627T024052Z">
+        <seg>ᏗᎩᏍᏗᏍ ᎦᏍᎩᎸᎢ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is not too soft."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025513Z" creationid="Michael Conrad" creationdate="20230627T025513Z">
+        <seg>ᏩᏂᎨᏒ ᏂᎨᏒᎾ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is too hot."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T024838Z" creationid="Michael Conrad" creationdate="20230627T024838Z">
+        <seg>ᏭᏗᏞᎬ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It was the little, wee wee bed.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025445Z" creationid="Michael Conrad" creationdate="20230627T025442Z">
+        <seg>ᏭᏍᏗᎬ ᎦᏂᏟ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Jump out of the window!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T143213Z" creationid="Michael Conrad" creationdate="20230627T143213Z">
+        <seg>Ꮎ ᏦᎳᏂ ᏙᏱ ᏔᏟᏔᏚᎦ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Jump, Money Hair, jump!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T143349Z" creationid="Michael Conrad" creationdate="20230627T143349Z">
+        <seg>ᏔᏟᏔᏚᎦ, ᎠᏕᎳ ᎤᏍᏘᎬ, ᏔᏟᏔᏚᎦ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Jump, jump, Money Hair!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T143203Z" creationid="Michael Conrad" creationdate="20230627T143203Z">
+        <seg>ᏔᏟᏔᏚᎦ, ᏔᏟᏔᏚᎦ, ᎠᏕᎳ ᎤᏍᏘᎬᎢ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Jump, then, jump!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T143233Z" creationid="Michael Conrad" creationdate="20230627T143233Z">
+        <seg>ᏔᏟᏔᏚᎦ, ᎾᎯᏳ, ᏔᏟᏔᏚᎦ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Just then Money Hair awoke.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T150836Z" creationid="Michael Conrad" creationdate="20230627T150836Z">
+        <seg>ᎾᎯᏳᏃ ᎤᏰᎶᎢᏍᏗ ᎤᏰᏤ ᎠᏕᎳ ᎤᏍᏘᎬ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Just then Money Hair woke.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T142639Z" creationid="Michael Conrad" creationdate="20230627T142639Z">
+        <seg>ᎤᏰᎶᎢᏍᏗ ᎠᏕᎳ ᎤᏍᏘᎬ ᎤᏰᏤ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Knock, knock, knock!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T002050Z" creationid="Michael Conrad" creationdate="20230627T002050Z">
+        <seg>ᎤᏩᏂᎴ, ᎤᏩᏂᎴ, ᎤᏩᏂᎴ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Listen!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T141528Z" creationid="Michael Conrad" creationdate="20230627T141528Z">
+        <seg>ᎭᏛᏓᏍᏓ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair began to be hungry.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023610Z" creationid="Michael Conrad" creationdate="20230627T023610Z">
+        <seg>ᎩᎳᏊ ᎠᏕᎳ ᎤᏍᏘᎬ ᎤᏲᏏᏍᎨ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair came from her home.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T001856Z" creationid="Michael Conrad" creationdate="20230627T001856Z">
+        <seg>ᎠᏕᎳ ᎤᏍᏘᎬ ᏧᏪᏅᏒᎢ ᎤᏟ ᎤᎷᏤ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair came into the woods.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T144912Z" creationid="Michael Conrad" creationdate="20230627T144912Z">
+        <seg>ᎠᏕᎳ ᎤᏍᏘᎬ ᎢᎾᎨ ᎤᏴᏢᎢ ᎤᎷᏤ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair came to the house in the woods.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T001412Z" creationid="Michael Conrad" creationdate="20230627T001412Z">
+        <seg>[fuzzy][fuzzy]ᏲᎾ ᎤᎾᏤᎵ ᎦᎵᏦᏕ ᎠᏕᎳ ᎤᏍᏘᎬ ᎤᎷᏤ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair came to the house of the bears.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T001321Z" creationid="Michael Conrad" creationdate="20230627T001312Z">
+        <seg>ᎠᏕᎳ ᎤᏍᏘᎬ ᏲᎾ ᎦᎵᏦᏕ ᎤᎷᏤ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair came to the house of the hears.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T000940Z" creationid="Michael Conrad" creationdate="20230627T000940Z">
+        <seg>[fuzzy]ᏲᎾ ᎤᎾᏤᎵ ᎦᎵᏦᏕ ᎠᏕᎳ ᎤᏍᏘᎬ ᎤᎷᏤ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair came to the woods.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T000651Z" creationid="Michael Conrad" creationdate="20230627T000651Z">
+        <seg>ᎠᏕᎳ ᎤᏍᏘᎬ ᎢᎾᎨ ᎤᎷᏤ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair drank and drank.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025116Z" creationid="Michael Conrad" creationdate="20230627T025116Z">
+        <seg>ᎠᏕᎳ ᎤᏍᏘᎬ ᎤᏗᏔᎲᏌᏁ ᎠᎴ ᎤᏗᏔᎲᏌᏅ ᎤᏒᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair drank from the little bowl.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025109Z" creationid="Michael Conrad" creationdate="20230627T025109Z">
+        <seg>ᎠᏕᎳ ᎤᏍᏘᎬ ᎤᏗᏔᎲᏌᏁ ᏭᏍᏗᎬ ᎠᏟᏍᏙᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair had run away from home.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T145054Z" creationid="Michael Conrad" creationdate="20230627T145054Z">
+        <seg>ᎠᏕᎳ ᎤᏍᏘᎬ ᎤᎵᏘᏎ ᏧᏪᏅᏒᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair is lost in the trees.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T000642Z" creationid="Michael Conrad" creationdate="20230627T000642Z">
+        <seg>ᏕᏡᎬ ᎠᏰᏟ ᎠᏕᎳ ᎤᏍᏘᎬ ᎤᎴᎾᏞ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair is lost in the woods.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T000619Z" creationid="Michael Conrad" creationdate="20230627T000619Z">
+        <seg>ᎠᏕᎳ ᎤᏍᏘᎬ ᎤᎴᎾᏞ ᎤᎿ ᎢᎾᎨᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair jumped from the bed.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T143130Z" creationid="Michael Conrad" creationdate="20230627T143130Z">
+        <seg>ᎠᏕᎳ ᎤᏍᏘᎬ ᎦᏂᏟ ᎤᏟ ᏚᎵᏔᏗᏅᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair jumped out of bed.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T150952Z" creationid="Michael Conrad" creationdate="20230627T150952Z">
+        <seg>ᎠᏕᎳ ᎤᏍᏘᎬ ᎦᏂᏟ ᎤᏟ ᏚᎵᏔᏗᏅᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair jumped.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T143433Z" creationid="Michael Conrad" creationdate="20230627T143433Z">
+        <seg>ᎠᏕᎳ ᎤᏍᏘᎬ ᏚᎵᏔᏗᏅᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair knocked at the door of the house.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T002043Z" creationid="Michael Conrad" creationdate="20230627T002043Z">
+        <seg>ᎠᏕᎳ ᎤᏍᏘᎬ ᎦᎵᏦᏕ ᎦᎶᎯᏍᏗ ᎤᏩᏂᎴ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair knocked at the door.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T002021Z" creationid="Michael Conrad" creationdate="20230627T002021Z">
+        <seg>ᎠᏕᎳ ᎤᏍᏘᎬ ᎦᎵᏦᏕ ᎦᎶᎯᏍᏗ ᎤᏩᏂᎴ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair knocked.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T001953Z" creationid="Michael Conrad" creationdate="20230627T001953Z">
+        <seg>ᎠᏕᎳ ᎤᏍᏘᎬ ᎤᏩᏂᎴ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair lay on the big bed.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T145956Z" creationid="Michael Conrad" creationdate="20230627T145956Z">
+        <seg>ᎠᏕᎳ ᎤᏍᏘᎬ ᎤᏔᎾ ᎦᏂᏟ ᎦᏅᎨ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair lay on the little bed.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025327Z" creationid="Michael Conrad" creationdate="20230627T025327Z">
+        <seg>ᎠᏕᎳ ᎤᏍᏘᎬ ᏭᏍᏗᎬ ᎦᏂᏟ ᎦᏅᎨ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair lay on the middle sized bed.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025305Z" creationid="Michael Conrad" creationdate="20230627T025305Z">
+        <seg>ᎤᏍᏗᎧ ᎦᏂᏟ ᎦᏅᎨ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair ran away from her home.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T000848Z" creationid="Michael Conrad" creationdate="20230627T000848Z">
+        <seg>ᎠᏕᎳ ᎤᏍᏘᎬ ᏧᏪᏅᏒ ᎤᏟ ᎤᎵᏘᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair ran into the woods.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T000855Z" creationid="Michael Conrad" creationdate="20230627T000855Z">
+        <seg>ᎠᏕᎳ ᎤᏍᏘᎬ ᎢᎾᎨ ᎠᏰᏟ ᎤᎵᏘᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair ran out of the woods.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T143644Z" creationid="Michael Conrad" creationdate="20230627T143644Z">
+        <seg>ᎠᏕᎳ ᎤᏍᏘᎬ ᎢᎾᎨ ᎤᏟ ᎠᏟᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair ran to her home.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T143652Z" creationid="Michael Conrad" creationdate="20230627T143652Z">
+        <seg>ᏧᏪᏅᏒ ᎠᏟᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair ran until she came to her home.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T151120Z" creationid="Michael Conrad" creationdate="20230627T151120Z">
+        <seg>ᎠᏕᎳ ᎤᏍᏘᎬ ᎠᏟᏎ ᎾᎯᏳ ᏧᏪᏅᏒᎢ ᎤᎷᏤ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair sat and sat in the little chair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023343Z" creationid="Michael Conrad" creationdate="20230627T023343Z">
+        <seg>ᎠᏕᎳ ᎤᏍᏘᎬ ᎤᏬᏞ ᎠᎴ ᎤᏬᏞ ᏭᏍᏗᎬ ᎦᏍᎩᎶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair sat in the big chair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023117Z" creationid="Michael Conrad" creationdate="20230627T023117Z">
+        <seg>ᎤᏔᎾ ᎦᏍᎩᎶ ᎤᏬᏞ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair sat in the little chair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T145220Z" creationid="Michael Conrad" creationdate="20230627T145220Z">
+        <seg>ᎠᏕᎳ ᎤᏍᏘᎬ ᏭᏍᏗᎬ ᎦᏍᎩᎶ ᎤᏬᏞ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair sat in the middle sized chair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023141Z" creationid="Michael Conrad" creationdate="20230627T023141Z">
+        <seg>ᎤᏍᏗᎧ ᎦᏍᎩᎶ ᎤᏬᏞ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair saw a chair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T022735Z" creationid="Michael Conrad" creationdate="20230627T022735Z">
+        <seg>ᎠᏕᎳ ᎤᏍᏘᎬ ᎦᏍᎩᎶ ᎤᎪᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair saw the three bears.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T143123Z" creationid="Michael Conrad" creationdate="20230627T143123Z">
+        <seg>ᎠᏕᎳ ᎤᏍᏘᎬ ᎠᏂᏦᎢ ᏲᎾ ᏚᎪᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair saw three bowls on the table.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T024301Z" creationid="Michael Conrad" creationdate="20230627T024301Z">
+        <seg>ᎠᏕᎳ ᎤᏍᏘᎬ ᏦᎢ ᏗᏟᏍᏙᏗ ᏚᎪᎮ ᎦᏍᎩᎸᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair saw three chairs.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T022806Z" creationid="Michael Conrad" creationdate="20230627T022806Z">
+        <seg>ᏦᎢ ᏗᎦᏍᎩᎶ ᏚᎪᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair saw two chairs.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T022750Z" creationid="Michael Conrad" creationdate="20230627T022750Z">
+        <seg>ᏔᎵ ᏗᎦᏍᎩᎶ ᏚᎪᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair slept and slept.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025554Z" creationid="Michael Conrad" creationdate="20230627T025554Z">
+        <seg>ᎠᏕᎳ ᎤᏍᏘᎬ ᎦᏟᎮ ᎠᎴ ᎦᏟᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair slept on and on.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030226Z" creationid="Michael Conrad" creationdate="20230627T030226Z">
+        <seg>ᎠᏕᎳ ᎤᏍᏘᎬ ᎦᏟᎮ Ꮟ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair tasted the milk in the big bowl.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T024540Z" creationid="Michael Conrad" creationdate="20230627T024540Z">
+        <seg>ᎤᏔᎾ ᎠᏟᏍᏙᏗ Ꮎ ᎤᏅᏗ ᏫᎦᏲᏢᎢ ᎤᏗᏔᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair tasted the milk in the little bowl.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025052Z" creationid="Michael Conrad" creationdate="20230627T025052Z">
+        <seg>ᏭᏍᏗᎬ ᎠᏟᏍᏙᏗ Ꮎ ᎤᏅᏗ ᏫᎦᏲᏢᎢ ᎤᏗᏔᎮ Ꮎ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair tasted the milk in the middle sized bowl.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T024852Z" creationid="Michael Conrad" creationdate="20230627T024851Z">
+        <seg>ᎤᏍᏗᎧ ᎠᏟᏍᏙᏗ Ꮎ ᎤᏅᏗ ᏫᎦᏲᏢᎢ ᎤᏗᏔᎮ Ꮎ ᎠᏕᎳ ᎤᏍᏘᎬ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair tried the door.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T002105Z" creationid="Michael Conrad" creationdate="20230627T002105Z">
+        <seg>ᎠᏕᎳ ᎤᏍᏘᎬ ᎦᎶᎯᏍᏗ ᎤᏍᏚᎢᏍᏗ ᎤᏁᏟᏔᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair was lost in the woods.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T145100Z" creationid="Michael Conrad" creationdate="20230627T145100Z">
+        <seg>ᎠᏕᎳ ᎤᏍᏘᎬ ᎢᎾᎨ ᎤᎿ ᎤᎴᎾᏞ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair was tired from her walk in the woods.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025148Z" creationid="Michael Conrad" creationdate="20230627T025148Z">
+        <seg>ᎠᏕᎳ ᎤᏍᏘᎬ ᎢᎾᎨ ᎤᏪᏙᎸ ᎢᏳᏍᏗ ᏚᏯᏪᏤ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair was tired.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025141Z" creationid="Michael Conrad" creationdate="20230627T025141Z">
+        <seg>ᎠᏕᎳ ᎤᏍᏘᎬ ᏚᏯᏪᏤ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair was very, very tired.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025401Z" creationid="Michael Conrad" creationdate="20230627T025401Z">
+        <seg>ᎠᏕᎳ ᎤᏍᏘᎬ ᏙᏳ ᏙᏳ ᏚᏯᏪᏤ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair went into the house.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T002118Z" creationid="Michael Conrad" creationdate="20230627T002118Z">
+        <seg>ᎠᏕᎳ ᎤᏍᏘᎬ ᎦᎵᏦᏕ ᎤᏴᏞ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair went to the bedroom.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025155Z" creationid="Michael Conrad" creationdate="20230627T025155Z">
+        <seg>ᎠᏕᎳ ᎤᏍᏘᎬ ᎠᏂᏟᎯᏱ ᏭᏪᏅᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair went to the table.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T024253Z" creationid="Michael Conrad" creationdate="20230627T024253Z">
+        <seg>ᎠᏕᎳ ᎤᏍᏘᎬ ᎦᏍᎩᎶ ᏭᏪᏅᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025629Z" creationid="Michael Conrad" creationdate="20230627T025629Z">
+        <seg>ᎠᏕᎳ ᎤᏍᏘᎬᎢ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Hair, Money Hair, lost Money Hair!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T000710Z" creationid="Michael Conrad" creationdate="20230627T000710Z">
+        <seg>ᎠᏕᎳ ᎤᏍᏘᎬ, ᎠᏕᎳ ᎤᏍᏘᎬ, ᎤᎴᎾᏢᎢ ᎠᏕᎳ ᎤᏍᏘᎬᎢ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No one was at home.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T144952Z" creationid="Michael Conrad" creationdate="20230627T144952Z">
+        <seg>Ꮭ ᎩᎶ ᏳᏬᏞ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Not a bear was at home.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T002139Z" creationid="Michael Conrad" creationdate="20230627T002139Z">
+        <seg>Ꮭ ᏌᏊ ᏲᎾ ᏳᏬᏞ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now Money Hair is lost in the woods.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T000902Z" creationid="Michael Conrad" creationdate="20230627T000902Z">
+        <seg>ᏃᏊ ᎠᏕᎳ ᎤᏍᏘᎬ ᎢᎾᎨ ᎠᏰᏟ ᎤᎴᎾᏞ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O Money Hair!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T000909Z" creationid="Michael Conrad" creationdate="20230627T000909Z">
+        <seg>Ꭳ ᎠᏕᎳ ᎤᏍᏘᎬᎢ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O Money Hair, run, run.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025719Z" creationid="Michael Conrad" creationdate="20230627T025719Z">
+        <seg>Ꭳ ᎠᏕᎳ ᎤᏍᏘᎬ, ᎭᎵᏘ, ᎭᎵᏘ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O Money Hair, wake, wake, wake!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T141445Z" creationid="Michael Conrad" creationdate="20230627T141445Z">
+        <seg>Ꭳ ᎠᏕᎳ ᎤᏍᏘᎬ, ᎯᏰᎩ, ᎯᏰᎩ, ᎯᏰᎩ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O my milk!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T141404Z" creationid="Michael Conrad" creationdate="20230627T141404Z">
+        <seg>Ꭳ ᎠᏆᏤᎵ ᎤᏅᏗ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O yes, Money Hair woke.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T143114Z" creationid="Michael Conrad" creationdate="20230627T143114Z">
+        <seg>Ꭳ ᎥᎥ, ᎠᏕᎳ ᎤᏍᏘᎬ ᎤᏰᏤ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O yes, the bears must have food.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023922Z" creationid="Michael Conrad" creationdate="20230627T023922Z">
+        <seg>Ꭳ ᎥᎥ, ᏲᎾ ᏗᎩᏍᏗ ᏚᏂᎮᏍᏛᎭ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023441Z" creationid="Michael Conrad" creationdate="20230627T023441Z">
+        <seg>Ꭳ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O!"</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023529Z" creationid="Michael Conrad" creationdate="20230627T023529Z">
+        <seg>Ꭳ!”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O!" growled the big, huge bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T142606Z" creationid="Michael Conrad" creationdate="20230627T142606Z">
+        <seg>Ꭳ!” ᎤᏟᏂᎩᏓ ᎤᏛᏁ ᎡᏆ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O!" said Money Hair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023452Z" creationid="Michael Conrad" creationdate="20230627T023452Z">
+        <seg>Ꭳ!” ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O!" said the middle sized bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T142615Z" creationid="Michael Conrad" creationdate="20230627T142615Z">
+        <seg>Ꭳ!” ᏩᏂᎨ ᎤᏛᏁ ᎤᏍᏗᎧ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O!" screamed Money Hair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T143318Z" creationid="Michael Conrad" creationdate="20230627T143318Z">
+        <seg>Ꭳ!” ᎤᏪᏡᏂᎶᎡ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O!" she cried.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T150850Z" creationid="Michael Conrad" creationdate="20230627T150850Z">
+        <seg>Ꭳ!” ᎤᏪᏡᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O!" squealed the little, wee wee bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T141344Z" creationid="Michael Conrad" creationdate="20230627T141344Z">
+        <seg>Ꭳ!” ᎡᏝᏪ ᎤᏛᏁ ᏭᏍᏗᎬ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O, Money Hair, you are lost.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T000717Z" creationid="Michael Conrad" creationdate="20230627T000717Z">
+        <seg>Ꭳ, ᎠᏕᎳ ᎤᏍᏘᎬ, ᏣᎴᎾᏞ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O, here it is!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T024205Z" creationid="Michael Conrad" creationdate="20230627T024205Z">
+        <seg>Ꭳ, ᎥᏍᎩᎾ ᎠᎭᏂ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O, how she screamed!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T143325Z" creationid="Michael Conrad" creationdate="20230627T143325Z">
+        <seg>Ꭳ, ᏥᏈᏍᏗ ᎤᏪᏡᏂᎶᎥ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O, how tired she was!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025534Z" creationid="Michael Conrad" creationdate="20230627T025534Z">
+        <seg>Ꭳ, ᏥᏈᏍᏗ ᏚᏯᏪᏤ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O, run, run!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T143052Z" creationid="Michael Conrad" creationdate="20230627T143052Z">
+        <seg>Ꭳ, ᎭᎵᏘ, ᎭᎵᏘ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O, so tired — so tired — so tired!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025417Z" creationid="Michael Conrad" creationdate="20230627T025417Z">
+        <seg>Ꭳ, ᏚᏯᏪᏨᎢ — ᏚᏯᏪᏨᎢ — ᏚᏯᏪᏨᎢ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O, the bears!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T142714Z" creationid="Michael Conrad" creationdate="20230627T142714Z">
+        <seg>Ꭳ, Ꮎ ᏲᎾ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O, the big, huge bear!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T143718Z" creationid="Michael Conrad" creationdate="20230627T143718Z">
+        <seg>Ꭳ, Ꮎ ᎡᏆ ᏲᎾ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O, the little, wee wee bear!"</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T143739Z" creationid="Michael Conrad" creationdate="20230627T143739Z">
+        <seg>Ꭳ, Ꮎ ᏭᏍᏗᎬ ᏲᎾ!”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O, the middle sized bear!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T143724Z" creationid="Michael Conrad" creationdate="20230627T143724Z">
+        <seg>Ꭳ, Ꮎ ᎤᏍᏗᎧ ᏲᎾ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O, wake, wake!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T141748Z" creationid="Michael Conrad" creationdate="20230627T141748Z">
+        <seg>Ꭳ, ᎯᏰᎩ, ᎯᏰᎩ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O, wake, wake, Money Hair!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025700Z" creationid="Michael Conrad" creationdate="20230627T025700Z">
+        <seg>Ꭳ, ᎯᏰᎩ, ᎯᏰᎩ, ᎠᏕᎳ ᎤᏍᏘᎬᎢ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the table were bowls.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T145621Z" creationid="Michael Conrad" creationdate="20230627T145621Z">
+        <seg>ᎦᏍᎩᎸ ᏗᏟᏍᏙᏗ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once three bears lived in the woods.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T144832Z" creationid="Michael Conrad" creationdate="20230627T144832Z">
+        <seg>ᏌᏊ ᎢᏳᏩᎪᏘ ᎠᏂᏦᎢ ᏲᎾ ᎢᎾᎨ ᎠᏁᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One angry bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T141957Z" creationid="Michael Conrad" creationdate="20230627T141957Z">
+        <seg>ᏌᏊ ᎤᎿᎸᏒ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One bear lives in the house.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230626T235422Z" creationid="Michael Conrad" creationdate="20230626T235422Z">
+        <seg>ᏌᏊ ᏲᎾ ᎦᎵᏦᏕ ᎡᎭ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One bear walks in the woods.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230626T235359Z" creationid="Michael Conrad" creationdate="20230626T235359Z">
+        <seg>ᏌᏊ ᏲᎾ ᎢᎾᎨ ᎡᏙᎭ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One bed was a big, huge bed.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025209Z" creationid="Michael Conrad" creationdate="20230627T025209Z">
+        <seg>ᏌᏊ ᎦᏂᏟ ᎡᏆ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One bed was a little, wee wee bed.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025228Z" creationid="Michael Conrad" creationdate="20230627T025228Z">
+        <seg>ᏌᏊ ᎦᏂᏟ ᏭᏍᏗᎬ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One bed was a middle sized bed.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025222Z" creationid="Michael Conrad" creationdate="20230627T025222Z">
+        <seg>ᏌᏊ ᎦᏂᏟ ᎤᏍᏗᎧ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One little thief!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T142157Z" creationid="Michael Conrad" creationdate="20230627T142157Z">
+        <seg>ᏌᏊ ᎤᏍᏗ ᎦᏃᏍᎩᏍᎩ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One was a big, huge bowl.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T024308Z" creationid="Michael Conrad" creationdate="20230627T024308Z">
+        <seg>ᏌᏊ ᎠᏟᏍᏙᏗ ᎤᏔᎾ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One was a little, wee wee bowl.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T024344Z" creationid="Michael Conrad" creationdate="20230627T024344Z">
+        <seg>ᏌᏊ ᎠᏟᏍᏙᏗ ᏭᏍᏗᎬ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One was a middle sized bowl.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T024337Z" creationid="Michael Conrad" creationdate="20230627T024337Z">
+        <seg>ᏌᏊ ᎠᏟᏍᏙᏗ ᎤᏍᏗᎧ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One, two, three!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T002000Z" creationid="Michael Conrad" creationdate="20230627T002000Z">
+        <seg>ᏌᏊ, ᏔᎵ, ᏦᎢ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Poor Money Hair!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T000633Z" creationid="Michael Conrad" creationdate="20230627T000633Z">
+        <seg>ᎤᏲᏨ ᎠᏕᎳ ᎤᏍᏘᎬᎢ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Run, Money Hair!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T143019Z" creationid="Michael Conrad" creationdate="20230627T143019Z">
+        <seg>ᎭᎵᏘ, ᎠᏕᎳ ᎤᏍᏘᎬ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Run, Money Hair, run!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T142742Z" creationid="Michael Conrad" creationdate="20230627T142742Z">
+        <seg>ᎭᎵᏘ, ᎠᏕᎳ ᎤᏍᏘᎬ, ᎭᎵᏘ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See the bear in the woods.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230626T234919Z" creationid="Michael Conrad" creationdate="20230626T234919Z">
+        <seg>ᎢᎾᎨ ᏲᎾ ᎯᎪᏩᏔ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See the bear walk.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230626T234836Z" creationid="Michael Conrad" creationdate="20230626T234836Z">
+        <seg>Ꮒ, ᏲᎾ ᎡᏙᎭ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See the bears in the woods.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230626T234925Z" creationid="Michael Conrad" creationdate="20230626T234925Z">
+        <seg>ᎢᎾᎨ ᏲᎾ ᎦᎯᎪᏩᏔ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See the bears.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230626T234814Z" creationid="Michael Conrad" creationdate="20230626T234814Z">
+        <seg>ᏲᎾ ᎦᎯᎪᏩᏔ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See the lost Money Hair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T000626Z" creationid="Michael Conrad" creationdate="20230627T000626Z">
+        <seg>ᎯᎪᏩᏔ Ꮎ ᎤᎴᎾᏢᎢ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See, the house is in the woods.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230626T235312Z" creationid="Michael Conrad" creationdate="20230626T235312Z">
+        <seg>Ꮒ, ᎤᎾᏤᎵ ᎦᎵᏦᏕ ᎢᎾᎨᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She did not hear the bears at the door.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030236Z" creationid="Michael Conrad" creationdate="20230627T030236Z">
+        <seg>ᏲᎾ ᎦᎶᎯᏍᏗ ᎤᏂᏍᏚᎢᏒ Ꮭ ᏳᏛᎦᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She did not hear them come into the house.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030246Z" creationid="Michael Conrad" creationdate="20230627T030246Z">
+        <seg>ᏲᎾ ᎦᎵᏦᏕ ᎤᏂᏴᏢ Ꮭ ᏳᏛᎦᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She did not hear them come to their beds.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030314Z" creationid="Michael Conrad" creationdate="20230627T030314Z">
+        <seg>ᎤᎾᏤᎵ ᏗᎦᏂᏟ ᎤᏂᏪᏅᏒ Ꮭ ᏳᏛᎦᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She did not hear them go to their bowls.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030307Z" creationid="Michael Conrad" creationdate="20230627T030307Z">
+        <seg>ᎤᎾᏤᎵ ᏗᏟᏍᏙᏗ ᎤᏂᏪᏅᏒ Ꮭ ᏳᏛᎦᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She did not hear them go to their chairs.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030254Z" creationid="Michael Conrad" creationdate="20230627T030254Z">
+        <seg>ᎤᎾᏤᎵ ᏗᎦᏍᎩᎶ ᎤᏂᏪᏅᏒ Ꮭ ᏳᏛᎦᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She did not hear them.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T150227Z" creationid="Michael Conrad" creationdate="20230627T150227Z">
+        <seg>Ꮭ ᏱᏚᏛᎦᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She did not hear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T150256Z" creationid="Michael Conrad" creationdate="20230627T150256Z">
+        <seg>Ꮭ ᏱᏚᏛᎦᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She drank and drank.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T145835Z" creationid="Michael Conrad" creationdate="20230627T145835Z">
+        <seg>ᎠᏗᏔᏍᎨ ᎠᎴ ᎠᏗᏔᏍᎨ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She fell asleep in the little bed.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025433Z" creationid="Michael Conrad" creationdate="20230627T025433Z">
+        <seg>ᏭᏍᏗᎬ ᎦᏂᏟ ᎤᏢᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She fell asleep.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025426Z" creationid="Michael Conrad" creationdate="20230627T025426Z">
+        <seg>ᎤᏢᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She heard the growl of the big, huge bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T142702Z" creationid="Michael Conrad" creationdate="20230627T142702Z">
+        <seg>ᎡᏆ ᏲᎾ ᎤᏟᏂᎩᏓ ᏄᏪᏒᎢ ᎤᏛᎦᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She heard the squeal of the little, wee wee bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T142650Z" creationid="Michael Conrad" creationdate="20230627T142650Z">
+        <seg>ᏭᏍᏗᎬ ᏲᎾ ᎡᏝᏪ ᏄᏪᏒᎢ ᎤᏛᎦᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She is called Money Hair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T000602Z" creationid="Michael Conrad" creationdate="20230627T000602Z">
+        <seg>ᎠᏕᎳ ᎤᏍᏘᎬ ᏚᏙᎠ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She jumped out of the window.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T143440Z" creationid="Michael Conrad" creationdate="20230627T143440Z">
+        <seg>ᏦᎳᏂ ᏙᏱ ᏚᎵᏔᏗᏅᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She jumped up from the bed.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T143332Z" creationid="Michael Conrad" creationdate="20230627T143332Z">
+        <seg>ᎦᏂᏟ ᎤᏟ ᏚᎵᏔᏗᏅᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She knocked on the door.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T144945Z" creationid="Michael Conrad" creationdate="20230627T144945Z">
+        <seg>ᎤᏩᏂᎴ ᎦᎶᎯᏍᏗᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She looked into the bowls.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T145649Z" creationid="Michael Conrad" creationdate="20230627T145649Z">
+        <seg>ᏗᏟᏍᏙᏗ ᏚᎦᏙᏍᏔᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She ran and ran and ran.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T151023Z" creationid="Michael Conrad" creationdate="20230627T151023Z">
+        <seg>ᎤᎵᏘᏎ ᎠᎴ ᎠᏟᏎ ᎠᎴ ᎠᏟᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She ran and ran.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T143453Z" creationid="Michael Conrad" creationdate="20230627T143453Z">
+        <seg>ᎠᏟᏎ ᎠᎴ ᎠᏟᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She ran out of the woods.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T151031Z" creationid="Michael Conrad" creationdate="20230627T151031Z">
+        <seg>ᎢᎾᎨ ᎤᏟ ᎤᎵᏘᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She ran to the window.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T143341Z" creationid="Michael Conrad" creationdate="20230627T143341Z">
+        <seg>ᏦᎳᏂ ᎤᎵᏘᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She saw the bears.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T150842Z" creationid="Michael Conrad" creationdate="20230627T150842Z">
+        <seg>ᏲᎾ ᏚᎪᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She saw the house of the bears.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T144920Z" creationid="Michael Conrad" creationdate="20230627T144920Z">
+        <seg>ᎤᎪᎮ, ᏲᎾ ᎤᎾᏤᎵ ᎦᎵᏦᏕ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She slept a long time.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T150148Z" creationid="Michael Conrad" creationdate="20230627T150148Z">
+        <seg>ᎪᎯᏓ ᎦᏟᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She slept in the little bed.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T150129Z" creationid="Michael Conrad" creationdate="20230627T150129Z">
+        <seg>ᏭᏍᏗᎬ ᎦᏂᏟ ᎦᏟᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She slept on and on.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T150141Z" creationid="Michael Conrad" creationdate="20230627T150141Z">
+        <seg>ᎦᏟᎮ ᎠᎴ ᎦᏟᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She slept on the little wee wee bed.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025601Z" creationid="Michael Conrad" creationdate="20230627T025601Z">
+        <seg>ᏭᏍᏗᎬ ᎦᏂᏟ ᎤᎿ ᎦᏟᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She slept until the bears came home.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025608Z" creationid="Michael Conrad" creationdate="20230627T025608Z">
+        <seg>ᏲᎾ ᎦᎵᏦᏕ ᎤᏂᎷᏤ ᎢᎪᎯᏓ ᎦᏟᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She slept until the bears came into the house.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025615Z" creationid="Michael Conrad" creationdate="20230627T025615Z">
+        <seg>ᏲᎾ ᎦᎵᏦᏕ ᎤᏂᏴᏞ ᎢᎪᎯᏓ ᎦᏟᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She slept until the bears came.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T150221Z" creationid="Michael Conrad" creationdate="20230627T150221Z">
+        <seg>ᏲᎾ ᎤᏂᎷᏤ ᎢᎪᎯᏓ ᎦᏟᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She tasted the milk in the big bowl.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T145659Z" creationid="Michael Conrad" creationdate="20230627T145659Z">
+        <seg>ᎤᏔᎾ ᎠᏟᏍᏙᏗ ᎤᏅᏗ ᎦᏲᏟᏊ ᎤᏗᏔᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She tasted the milk in the little bowl.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T145715Z" creationid="Michael Conrad" creationdate="20230627T145715Z">
+        <seg>ᏭᏍᏗᎬ ᎠᏟᏍᏙᏗ ᎤᏅᏗ ᎦᏲᏟᏊ ᎤᏗᏔᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She tasted the milk in the middle sized bowl.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T145708Z" creationid="Michael Conrad" creationdate="20230627T145708Z">
+        <seg>ᎤᏍᏗᎧ ᎠᏟᏍᏙᏗ ᎤᏅᏗ ᎦᏲᏟᏊ ᎤᏗᏔᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She was so very tired.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025409Z" creationid="Michael Conrad" creationdate="20230627T025409Z">
+        <seg>ᏙᏳ ᏚᏯᏪᏤ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She went up to the house.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T144937Z" creationid="Michael Conrad" creationdate="20230627T144937Z">
+        <seg>ᎦᎵᏦᏕ ᏭᏪᏅᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So Money Hair fell asleep.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T150121Z" creationid="Michael Conrad" creationdate="20230627T150121Z">
+        <seg>ᎠᏕᎳᏃ ᎤᏍᏘᎬ ᎤᏢᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So Money Hair lay on the big bed.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025236Z" creationid="Michael Conrad" creationdate="20230627T025236Z">
+        <seg>ᏃᏊᎴ ᎡᏆ ᎦᏂᏟ ᎦᏅᎨ Ꮎ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So Money Hair sat and sat.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T145256Z" creationid="Michael Conrad" creationdate="20230627T145256Z">
+        <seg>ᎠᏕᎳᏃ ᎤᏬᏞ ᎠᎴ ᎤᏬᏞ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So Money Hair sat in the big chair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T145158Z" creationid="Michael Conrad" creationdate="20230627T145158Z">
+        <seg>ᎠᏕᎳᏃ ᎤᏍᏘᎬ ᎤᏔᎾ ᎦᏍᎩᎶ ᎤᏬᏞ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So she drank it.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T145827Z" creationid="Michael Conrad" creationdate="20230627T145827Z">
+        <seg>ᏃᏊᎴ ᎠᏗᏔᏍᎨ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So she went to the bedroom.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T145922Z" creationid="Michael Conrad" creationdate="20230627T145922Z">
+        <seg>ᏃᏊᎴ ᎠᏂᏟᎯᏱ ᏭᏪᏅᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So the bears went to the table.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T141237Z" creationid="Michael Conrad" creationdate="20230627T141237Z">
+        <seg>ᏃᏊᎴ ᏲᎾ ᎦᏍᎩᎶ ᏭᏁᏅᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Somebody drank all of my milk."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T141426Z" creationid="Michael Conrad" creationdate="20230627T141426Z">
+        <seg>ᎩᎶ ᎠᏆᏤᎵ ᎤᏅᏗ ᎤᏒᏁ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Somebody has broken it.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T150453Z" creationid="Michael Conrad" creationdate="20230627T150453Z">
+        <seg>ᎩᎶ ᎤᏲᏍᏔᏁ!”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Somebody has broken my chair."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030815Z" creationid="Michael Conrad" creationdate="20230627T030815Z">
+        <seg>ᎩᎶ ᎠᏆᏤᎵ ᎦᏍᎩᎶ ᎤᏲᏍᏔᏅᎩ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Somebody has drank my milk!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T141414Z" creationid="Michael Conrad" creationdate="20230627T141414Z">
+        <seg>ᎩᎶ ᎠᏆᏤᎵ ᎤᏅᏗ ᏂᎦᏓ ᎤᏗᏔᎮ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Squeal, squeal!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T142907Z" creationid="Michael Conrad" creationdate="20230627T142907Z">
+        <seg>ᎤᏲᏒ ᎡᏝᏪ ᏄᏪᏒᎢ ᎨᏎ. ᎤᏲᏒ ᎡᏝᏪ ᏄᏪᏒᎢ ᎨᏎ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>THE THREE BEARS</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230626T234743Z" creationid="Michael Conrad" creationdate="20230626T234743Z">
+        <seg>Ꮎ ᎠᏂᏦᎢ ᏲᎾ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Whole Story</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T143744Z" creationid="Michael Conrad" creationdate="20230627T143744Z">
+        <seg>ᏂᎦᏓ ᎧᏃᎮᏗ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bear is in the woods.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230626T235604Z" creationid="Michael Conrad" creationdate="20230626T235604Z">
+        <seg>ᏲᎾ ᎤᎿ ᎢᎾᎨᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bear lives in the woods.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230626T234910Z" creationid="Michael Conrad" creationdate="20230626T234910Z">
+        <seg>ᎢᎾᎨ ᎡᎭ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bears are angry.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T142749Z" creationid="Michael Conrad" creationdate="20230627T142749Z">
+        <seg>ᏲᎾ ᎤᏂᎿᎸᎭ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bears are at the door.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025638Z" creationid="Michael Conrad" creationdate="20230627T025638Z">
+        <seg>ᎦᎶᎯᏍᏗᎢ ᏲᎾ ᎠᏂᏍᏚᎢᎠ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bears are coming for the thief.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T141504Z" creationid="Michael Conrad" creationdate="20230627T141504Z">
+        <seg>ᏲᎾ ᎦᏃᏍᎩᏍᎩ ᎠᏂᎷᏤᎭ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bears are coming.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T141457Z" creationid="Michael Conrad" creationdate="20230627T141457Z">
+        <seg>ᏲᎾ ᎤᎿ ᎠᏂᎷᎦ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bears are in the house.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030001Z" creationid="Michael Conrad" creationdate="20230627T025645Z">
+        <seg>ᏲᎾ ᎦᎵᏦᏕ ᎠᏂᏯᎠ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bears can see.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230626T234848Z" creationid="Michael Conrad" creationdate="20230626T234848Z">
+        <seg>ᏲᎾ ᎬᏩᏂᎪᏩᏛᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bears can walk.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230626T234827Z" creationid="Michael Conrad" creationdate="20230626T234827Z">
+        <seg>ᏲᎾ ᎬᏩᏁᏓᏍᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bears climb into the trees.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T000333Z" creationid="Michael Conrad" creationdate="20230627T000333Z">
+        <seg>ᏕᏡᎬ ᏲᎾ ᏓᏂᎴᎪ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bears do like the trees.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T000324Z" creationid="Michael Conrad" creationdate="20230627T000324Z">
+        <seg>ᏲᎾ ᏕᏡᎬ ᏚᏂᎸᏉᏙ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bears like to climb into the trees.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T000348Z" creationid="Michael Conrad" creationdate="20230627T000348Z">
+        <seg>ᏲᎾ ᏕᏡᎬ ᏓᏂᎴᎪ ᎤᏂᎸᏉᏙ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bears like to live in the woods.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230626T235304Z" creationid="Michael Conrad" creationdate="20230626T235304Z">
+        <seg>ᏲᎾ ᎢᎾᎨ ᎠᏁᎰ ᎤᏂᎸᏉᏗ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bears like to walk in the woods.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230626T235132Z" creationid="Michael Conrad" creationdate="20230626T235132Z">
+        <seg>ᏲᎾ ᎢᎾᎨ ᎤᏁᏓᏍᏗ ᎤᏂᎸᏉᏙ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bears live in the house.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230626T235325Z" creationid="Michael Conrad" creationdate="20230626T235325Z">
+        <seg>ᎦᎵᏦᏕ ᏲᎾ ᎠᏁᎭ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bears live in the woods.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230626T234901Z" creationid="Michael Conrad" creationdate="20230626T234901Z">
+        <seg>ᎢᎾᎨ ᎠᏁᎭ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bears looked at the room.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030609Z" creationid="Michael Conrad" creationdate="20230627T030609Z">
+        <seg>ᏲᎾ ᎧᏅᏑᎸᎢ ᎤᏂᎦᏖᏃᎴ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bears looked ont of the window.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T143514Z" creationid="Michael Conrad" creationdate="20230627T143514Z">
+        <seg>ᏦᎳᏂ ᏙᏱ ᎤᏂᎦᏖᏃᎴ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bears looked out of the window.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T151038Z" creationid="Michael Conrad" creationdate="20230627T151038Z">
+        <seg>ᏲᎾ ᏦᎳᏂ ᎤᎾᎦᏔᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bears ran to the window.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T143507Z" creationid="Michael Conrad" creationdate="20230627T143507Z">
+        <seg>ᏦᎳᏂ ᏲᎾ ᎤᎾᏓᎾᏩᏍᏔᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bears saw the wee wee chair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030615Z" creationid="Michael Conrad" creationdate="20230627T030615Z">
+        <seg>ᏲᎾ ᏭᏍᏗᎬ ᎦᏍᎩᎶ ᎤᏂᎪᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bears sit in their chairs.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023008Z" creationid="Michael Conrad" creationdate="20230627T023008Z">
+        <seg>ᏲᎾ ᏧᎾᏤᎵ ᏗᎦᏍᎩᎶ ᏚᏃᏠ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bears went in at the door.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030550Z" creationid="Michael Conrad" creationdate="20230627T030550Z">
+        <seg>ᏲᎾ ᎦᎶᎯᏍᏗ ᎤᏂᏴᏞ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bears went into the bedroom.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T150745Z" creationid="Michael Conrad" creationdate="20230627T150745Z">
+        <seg>Ꮎ ᏲᎾ ᎠᏂᏟᎯᏱ ᏭᏁᏅᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bears went into the house.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T150335Z" creationid="Michael Conrad" creationdate="20230627T150335Z">
+        <seg>ᏲᎾ ᎦᎵᏦᏕ ᎤᏂᏴᏞ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bears went to the room of the big, huge bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T142405Z" creationid="Michael Conrad" creationdate="20230627T142405Z">
+        <seg>ᎡᏆ ᏲᎾ ᎤᏤᎵ ᎧᏅᏑᎸ ᏭᏁᏅᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bears went up stairs.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T141813Z" creationid="Michael Conrad" creationdate="20230627T141813Z">
+        <seg>ᎠᎩᏠᏒᏍᏗ ᎦᎸᎳᏗᏜ ᏭᏁᏅᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bears were angry.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T150624Z" creationid="Michael Conrad" creationdate="20230627T150624Z">
+        <seg>ᏲᎾ ᎤᏂᎿᎸᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bears were not at home.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T002125Z" creationid="Michael Conrad" creationdate="20230627T002125Z">
+        <seg>Ꮭ ᏲᎾ ᏱᏚᏃᏞ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bears were out for a walk.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T002132Z" creationid="Michael Conrad" creationdate="20230627T002132Z">
+        <seg>ᏲᎾ ᏙᏱ ᎠᏁᏙᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bears will eat you.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T141521Z" creationid="Michael Conrad" creationdate="20230627T141521Z">
+        <seg>ᏓᎨᏣᏒᏂ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bears will find you.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025652Z" creationid="Michael Conrad" creationdate="20230627T025652Z">
+        <seg>ᏲᎾ ᎡᎵᏊ ᏂᎯ ᏱᎨᏣᏩᏔ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The big, huge bear sits in the big chair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023018Z" creationid="Michael Conrad" creationdate="20230627T023018Z">
+        <seg>ᎡᏆ ᏲᎾ ᎤᏃᏠ ᎤᏔᎾ ᎦᏍᎩᎶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The door was not locked.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T002112Z" creationid="Michael Conrad" creationdate="20230627T002112Z">
+        <seg>ᎦᎶᎯᏍᏗ ᏓᎩᏏ ᎤᎵᏍᏚᎢᏓ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The little chair began to break.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023400Z" creationid="Michael Conrad" creationdate="20230627T023400Z">
+        <seg>ᏭᏍᏗᎬ ᎦᏍᎩᎶ ᎤᏲᏍᏗ ᎤᎴᏅᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The little chair is just right."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023324Z" creationid="Michael Conrad" creationdate="20230627T023324Z">
+        <seg>ᏭᏍᏗᎬ ᎦᏍᎩᎶ ᎣᏍᏓᏊ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The little chair is not too soft.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023316Z" creationid="Michael Conrad" creationdate="20230627T023316Z">
+        <seg>ᏭᏍᏗᎬ ᎦᏍᎩᎶ ᏩᏂᎨᏒ ᏂᎨᏒᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The little, wee wee bear sits in the little chair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023053Z" creationid="Michael Conrad" creationdate="20230627T023053Z">
+        <seg>ᏭᏍᏗᎬ ᏲᎾ ᎤᏃᏠ ᏭᏍᏗᎬ ᎦᏍᎩᎶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The middle sized bear sits in the middle sized chair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023026Z" creationid="Michael Conrad" creationdate="20230627T023025Z">
+        <seg>ᎤᏍᏗᎧ ᏲᎾ ᎤᏃᏠ ᎤᏍᏗᎧ ᎦᏍᎩᎶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The milk in the middle sized bowl was too cold.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T024903Z" creationid="Michael Conrad" creationdate="20230627T024903Z">
+        <seg>ᎤᏍᏗᎧ ᎠᏟᏍᏙᏗ Ꮎ ᎤᏅᏗ ᏭᏴᏢ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The second bear is a smaller female.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T000135Z" creationid="Michael Conrad" creationdate="20230627T000135Z">
+        <seg>ᏔᎵᏁ ᏲᎾ ᎤᏍᏗᎧ ᎠᎩᏏ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The thief is up stairs," growled the big, huge bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T150702Z" creationid="Michael Conrad" creationdate="20230627T150702Z">
+        <seg>Ꮎ ᎦᏃᏍᎩᏍᎩ ᎠᎩᏠᏒᏍᏗ ᎦᎸᎳᏗᏜ ᎤᏪᏙᎸᎭ,” ᎤᏟᏂᎩᏓ ᎤᏛᏁ ᎡᏆ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The third bear is the smallest and their cub.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T000247Z" creationid="Michael Conrad" creationdate="20230627T000247Z">
+        <seg>ᏦᎢᏁ ᏲᎾ ᏭᏍᏗᎬᎢ ᎠᎴ ᎤᏁᏥ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The third bear is the smallest cub.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T000145Z" creationid="Michael Conrad" creationdate="20230627T000145Z">
+        <seg>ᏦᎢᏁ ᏲᎾ ᏭᏍᏗᎬᎢ ᎤᏁᏥ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The three bears are coming for you, Money Hair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T141721Z" creationid="Michael Conrad" creationdate="20230627T141721Z">
+        <seg>ᎠᏂᏦᎢ ᏲᎾ ᎨᏣᎷᏤᎭ, ᎠᏕᎳ ᎤᏍᏘᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The three bears came into the house.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030328Z" creationid="Michael Conrad" creationdate="20230627T030328Z">
+        <seg>ᎠᏂᏦᎢ ᏲᎾ ᎦᎵᏦᏕ ᎤᏂᏴᏞ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The three bears live in the house.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T024127Z" creationid="Michael Conrad" creationdate="20230627T024127Z">
+        <seg>ᎠᏂᏦᎢ ᏲᎾ ᎠᏁᎰ ᎯᎠ ᎦᎵᏦᏕ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The three bears must have food.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T024134Z" creationid="Michael Conrad" creationdate="20230627T024134Z">
+        <seg>ᎠᏂᏦᎢ ᏲᎾ ᏗᎩᏍᏗ ᏚᏂᎮᏍᏛᎭ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The three bears!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T142726Z" creationid="Michael Conrad" creationdate="20230627T142726Z">
+        <seg>Ꮎ ᎠᏂᏦᎢ ᏲᎾ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then Money Hair fell asleep.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025520Z" creationid="Michael Conrad" creationdate="20230627T025520Z">
+        <seg>ᎾᎯᏳ ᎠᏕᎳ ᎤᏍᏘᎬ ᎤᏢᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then Money Hair sat in the little chair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023232Z" creationid="Michael Conrad" creationdate="20230627T023232Z">
+        <seg>ᎾᎯᏳ ᎠᏕᎳ ᎤᏍᏘᎬ ᎤᏬᏞ ᏭᏍᏗᎬ ᎦᏍᎩᎶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then she ran.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T143447Z" creationid="Michael Conrad" creationdate="20230627T143447Z">
+        <seg>ᎾᎯᏳ ᎤᎵᏘᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then they went to the room of the little, wee wee bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T142451Z" creationid="Michael Conrad" creationdate="20230627T142451Z">
+        <seg>ᎾᎯᏳ ᏭᏍᏗᎬ ᏲᎾ ᎤᏤᎵ ᎧᏅᏑᎸ ᏭᏁᏅᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then they went to the room of the middle sized bear!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T142428Z" creationid="Michael Conrad" creationdate="20230627T142426Z">
+        <seg>ᎾᎯᏳ ᎤᏍᏗᎧ ᏲᎾ ᎤᏤᎵ ᎧᏅᏑᎸ ᏭᏁᏅᏎ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There is milk in the big, huge bowl.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T024422Z" creationid="Michael Conrad" creationdate="20230627T024422Z">
+        <seg>ᎤᏔᎾ ᎠᏟᏍᏙᏗ ᎤᏅᏗ ᎠᏥᏞ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There is milk in the little, wee wee bowl.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T024438Z" creationid="Michael Conrad" creationdate="20230627T024438Z">
+        <seg>ᏭᏍᏗᎬ ᎠᏟᏍᏙᏗ ᎤᏅᏗ ᎠᏥᏞ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There is milk in the middle sized bowl.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T024431Z" creationid="Michael Conrad" creationdate="20230627T024431Z">
+        <seg>ᎤᏍᏗᎧ ᎠᏟᏍᏙᏗ ᎤᏅᏗ ᎠᏥᏞ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There must be food in the house.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T024014Z" creationid="Michael Conrad" creationdate="20230627T024014Z">
+        <seg>ᏗᎩᏍᏗ ᎠᎭᏂ ᎦᎵᏦᏕ ᏚᏂᎮᏍᏛᎭ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There must be food.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T024007Z" creationid="Michael Conrad" creationdate="20230627T024007Z">
+        <seg>ᏗᎩᏍᏗ ᎠᎭᏂ ᏚᏂᎮᏍᏛᎭ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There was a big bed.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T145933Z" creationid="Michael Conrad" creationdate="20230627T145933Z">
+        <seg>ᎤᏔᎾ ᎦᏂᏟ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There was a little bed.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T145946Z" creationid="Michael Conrad" creationdate="20230627T145946Z">
+        <seg>ᏭᏍᏗᎬ ᎦᏂᏟ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There was a middle sized bed.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T145939Z" creationid="Michael Conrad" creationdate="20230627T145939Z">
+        <seg>ᎤᏍᏗᎧ ᎦᏂᏟ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There was milk in the bowls.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T024358Z" creationid="Michael Conrad" creationdate="20230627T024358Z">
+        <seg>ᏗᏟᏍᏙᏗ ᎤᏅᏗ ᎠᏥᏞ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There were three beds.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025202Z" creationid="Michael Conrad" creationdate="20230627T025202Z">
+        <seg>ᎤᎿ ᏦᎢ ᏗᎦᏂᏟ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There were three bowls.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T145627Z" creationid="Michael Conrad" creationdate="20230627T145627Z">
+        <seg>ᏦᎢ ᏗᏟᏍᏙᏗ ᎨᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They are coming for the thief.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T141712Z" creationid="Michael Conrad" creationdate="20230627T141712Z">
+        <seg>ᎦᏃᏍᎩᏍᎩ ᎠᏂᎷᏤᎭ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They are coming for you.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T141645Z" creationid="Michael Conrad" creationdate="20230627T141645Z">
+        <seg>ᎨᏣᎷᏤᎭ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They are very, very angry.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T143224Z" creationid="Michael Conrad" creationdate="20230627T143224Z">
+        <seg>ᎥᏍᎩᎾ ᏙᏳ ᏙᏳ ᎤᏂᎿᎸᏒ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They began to drink their milk.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T141246Z" creationid="Michael Conrad" creationdate="20230627T141246Z">
+        <seg>ᎤᏅᏗ ᎤᎾᏗᏔᏍᏗ ᎤᎾᎴᏅᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They lived in a house.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T144839Z" creationid="Michael Conrad" creationdate="20230627T144839Z">
+        <seg>ᎦᎵᏦᏕ ᎠᏁᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They looked at the little girl.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T143521Z" creationid="Michael Conrad" creationdate="20230627T143521Z">
+        <seg>ᎤᏍᏗ ᎠᎨᏳᏣ ᎤᎾᎦᏙᏍᏔᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They looked at the three chairs.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T150408Z" creationid="Michael Conrad" creationdate="20230627T150342Z">
+        <seg>ᏦᎢ ᏗᎦᏍᎩᎶ ᏚᎾᎦᏙᏍᏔᏁ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They saw her run and run.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T143543Z" creationid="Michael Conrad" creationdate="20230627T143543Z">
+        <seg>ᎥᏍᎩᎾ ᎤᏟᏎ ᎠᎴ ᎤᏟᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They were angry.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T141820Z" creationid="Michael Conrad" creationdate="20230627T141820Z">
+        <seg>ᎤᏂᎿᎸᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They will eat you, Money Hair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T141732Z" creationid="Michael Conrad" creationdate="20230627T141732Z">
+        <seg>ᏓᎨᏣᏒᏂ, ᎠᏕᎳ ᎤᏍᏘᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This bear is a big male.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T000120Z" creationid="Michael Conrad" creationdate="20230627T000120Z">
+        <seg>ᎯᎠ ᏲᎾ ᎡᏆ ᎠᏨᏯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is a middle sized chair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T022902Z" creationid="Michael Conrad" creationdate="20230627T022902Z">
+        <seg>ᎯᎠ ᎦᏍᎩᎶ ᎤᏍᏗᎧ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is a wee, wee chair."</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T022909Z" creationid="Michael Conrad" creationdate="20230627T022909Z">
+        <seg>ᎯᎠ ᎦᏍᎩᎶ ᏭᏍᏗᎬᎢ.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is their home.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T024218Z" creationid="Michael Conrad" creationdate="20230627T024218Z">
+        <seg>ᎯᎠ ᎦᎵᏦᏕ ᎤᎾᏤᎵ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Three angry bears!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T142149Z" creationid="Michael Conrad" creationdate="20230627T142149Z">
+        <seg>ᎠᏂᏦᎢ ᎤᏂᎿᎸᏒ ᏲᎾ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Three angry bears.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T142010Z" creationid="Michael Conrad" creationdate="20230627T142010Z">
+        <seg>ᎠᏂᏦᎢ ᎤᏂᎿᎸᏒ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Three bears live in the house.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230626T235434Z" creationid="Michael Conrad" creationdate="20230626T235434Z">
+        <seg>ᎠᏂᏦᎢ ᏲᎾ ᎦᎵᏦᏕ ᎠᏁᎭ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Three bears lived in the woods.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T144713Z" creationid="Michael Conrad" creationdate="20230627T144713Z">
+        <seg>ᎠᏂᏦᎢ ᏲᎾ ᎢᎾᎨ ᎠᏁᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Three bears walk in the woods.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230626T235415Z" creationid="Michael Conrad" creationdate="20230626T235415Z">
+        <seg>ᎠᏂᏦᎢ ᏲᎾ ᎢᎾᎨ ᎠᏁᏙᎭ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Three bears went out for a walk.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T144904Z" creationid="Michael Conrad" creationdate="20230627T144904Z">
+        <seg>ᎠᏂᏦᎢ ᏙᏱ ᎤᏁᏙᎴ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tired, tired Money Hair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025527Z" creationid="Michael Conrad" creationdate="20230627T025527Z">
+        <seg>ᏚᏯᏪᏨᎢ, ᏚᏯᏪᏨᎢ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Two angry bears.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T142003Z" creationid="Michael Conrad" creationdate="20230627T142003Z">
+        <seg>ᎠᏂᏔᎵ ᎤᏂᎿᎸᏒ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Two bears live in the house.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230626T235428Z" creationid="Michael Conrad" creationdate="20230626T235428Z">
+        <seg>ᎠᏂᏔᎵ ᏲᎾ ᎦᎵᏦᏕ ᎠᏁᎭ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Two bears walk in the woods.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230626T235406Z" creationid="Michael Conrad" creationdate="20230626T235406Z">
+        <seg>ᎠᏂᏔᎵ ᏲᎾ ᎢᎾᎨ ᎠᏁᏙᎭ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>V</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T000807Z" creationid="Michael Conrad" creationdate="20230626T235437Z">
+        <seg>5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>VI</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T000818Z" creationid="Michael Conrad" creationdate="20230627T000351Z">
+        <seg>6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>VII</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T000827Z" creationid="Michael Conrad" creationdate="20230627T000720Z">
+        <seg>7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>VIII</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T001811Z" creationid="Michael Conrad" creationdate="20230627T001811Z">
+        <seg>8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wake, Money Hair, wake!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T142244Z" creationid="Michael Conrad" creationdate="20230627T142244Z">
+        <seg>ᎯᏰᎩ, ᎠᏕᎳ ᎤᏍᏘᎬ, ᎯᏰᎩ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wake, little thief, wake!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T142217Z" creationid="Michael Conrad" creationdate="20230627T142217Z">
+        <seg>ᎯᏰᎩ, ᏣᏍᏗ ᎯᏃᏍᎩᏍᎩ, ᎯᏰᎩ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wake, wake, Money Hair!</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T141739Z" creationid="Michael Conrad" creationdate="20230627T141739Z">
+        <seg>ᎯᏰᎩ, ᎯᏰᎩ, ᎠᏕᎳ ᎤᏍᏘᎬᎢ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We shall see.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T031019Z" creationid="Michael Conrad" creationdate="20230627T031019Z">
+        <seg>ᏓᏗᎪᎯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Where are the three bears?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T024140Z" creationid="Michael Conrad" creationdate="20230627T024140Z">
+        <seg>ᎭᏢ ᎠᏂᏦᎢ ᏲᎾ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Where is she?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T031011Z" creationid="Michael Conrad" creationdate="20230627T031011Z">
+        <seg>ᎭᏢ ᎥᏍᎩᎾ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Where is the food?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023931Z" creationid="Michael Conrad" creationdate="20230627T023931Z">
+        <seg>ᎭᏢ ᏗᎩᏍᏗ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Where is the thief?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030933Z" creationid="Michael Conrad" creationdate="20230627T030933Z">
+        <seg>ᎭᏢ ᎦᏃᏍᎩᏍᎩ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Where is their food?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T024149Z" creationid="Michael Conrad" creationdate="20230627T024149Z">
+        <seg>ᎭᏢ ᏧᎾᏤᎵ ᏗᎩᏍᏗ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Where, where is it?"</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T024024Z" creationid="Michael Conrad" creationdate="20230627T024024Z">
+        <seg>ᎭᏢ? ᎭᏢ ᎥᏍᎩᎾ?”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Who is the thief?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030926Z" creationid="Michael Conrad" creationdate="20230627T030926Z">
+        <seg>ᎦᎪ ᎦᏃᏍᎩᏍᎩ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Why did you run away from home?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T000917Z" creationid="Michael Conrad" creationdate="20230627T000917Z">
+        <seg>ᎦᏙᎲ ᏗᏤᏅᏒ ᎤᏟ ᏣᎵᏘᏎ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Why do bears live in the woods?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230626T235255Z" creationid="Michael Conrad" creationdate="20230626T235255Z">
+        <seg>ᎦᏙᎲ ᏲᎾ ᎢᎾᎨ ᎠᏁᎰ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Why do the bears climb into the trees?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T000340Z" creationid="Michael Conrad" creationdate="20230627T000340Z">
+        <seg>ᎦᏙᎲ ᏲᎾ ᏕᏡᎬ ᏓᏂᎴᎪ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Why do the bears like the woods?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230626T235112Z" creationid="Michael Conrad" creationdate="20230626T234947Z">
+        <seg>ᎦᏙᎲ ᏲᎾ ᎢᎾᎨ ᎤᏂᎸᏉᏙ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Will they eat Money Hair?</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T142734Z" creationid="Michael Conrad" creationdate="20230627T142734Z">
+        <seg>ᎠᏂᏒᏅᎭᏍ ᎠᏕᎳ ᎤᏍᏘᎬ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>X</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T022914Z" creationid="Michael Conrad" creationdate="20230627T022914Z">
+        <seg>10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XI</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023058Z" creationid="Michael Conrad" creationdate="20230627T023058Z">
+        <seg>11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XII</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023329Z" creationid="Michael Conrad" creationdate="20230627T023329Z">
+        <seg>12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XIII</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023541Z" creationid="Michael Conrad" creationdate="20230627T023541Z">
+        <seg>13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XIV</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T024028Z" creationid="Michael Conrad" creationdate="20230627T024028Z">
+        <seg>14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XIX</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025349Z" creationid="Michael Conrad" creationdate="20230627T025349Z">
+        <seg>19</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XV</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T024245Z" creationid="Michael Conrad" creationdate="20230627T024245Z">
+        <seg>15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XVI</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T024349Z" creationid="Michael Conrad" creationdate="20230627T024349Z">
+        <seg>16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XVII</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T024524Z" creationid="Michael Conrad" creationdate="20230627T024524Z">
+        <seg>17</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XVIII</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025132Z" creationid="Michael Conrad" creationdate="20230627T025132Z">
+        <seg>18</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XX</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025538Z" creationid="Michael Conrad" creationdate="20230627T025538Z">
+        <seg>20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XXI</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T025706Z" creationid="Michael Conrad" creationdate="20230627T025706Z">
+        <seg>21</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XXII</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030318Z" creationid="Michael Conrad" creationdate="20230627T030318Z">
+        <seg>22</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XXIII</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030541Z" creationid="Michael Conrad" creationdate="20230627T030541Z">
+        <seg>23</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XXIV</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030730Z" creationid="Michael Conrad" creationdate="20230627T030730Z">
+        <seg>24</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XXIX</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T142249Z" creationid="Michael Conrad" creationdate="20230627T142249Z">
+        <seg>29</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XXV</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030917Z" creationid="Michael Conrad" creationdate="20230627T030917Z">
+        <seg>25</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XXVI</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T031047Z" creationid="Michael Conrad" creationdate="20230627T031047Z">
+        <seg>26</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XXVII</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T141431Z" creationid="Michael Conrad" creationdate="20230627T141431Z">
+        <seg>27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XXVIII</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T141754Z" creationid="Michael Conrad" creationdate="20230627T141754Z">
+        <seg>28</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XXX</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T142630Z" creationid="Michael Conrad" creationdate="20230627T142630Z">
+        <seg>30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XXXI</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T143058Z" creationid="Michael Conrad" creationdate="20230627T143058Z">
+        <seg>31</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XXXII</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T143307Z" creationid="Michael Conrad" creationdate="20230627T143307Z">
+        <seg>32</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XXXIII</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T143458Z" creationid="Michael Conrad" creationdate="20230627T143458Z">
+        <seg>33</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yes, the bears like the woods.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230626T235057Z" creationid="Michael Conrad" creationdate="20230626T234940Z">
+        <seg>ᎥᎥ, ᏲᎾ ᎢᎾᎨ ᎤᏂᎸᏉᏙ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yes, the big, huge bear has the big chair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T022930Z" creationid="Michael Conrad" creationdate="20230627T022930Z">
+        <seg>ᎥᎥ, ᎡᏆ ᏲᎾ ᎤᏔᎾ ᎦᏍᎩᎶ ᎤᏤᎵ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yes, the little, wee wee bear has the little chair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023000Z" creationid="Michael Conrad" creationdate="20230627T023000Z">
+        <seg>ᎥᎥ, ᏭᏍᏗᎬ ᏲᎾ ᏭᏍᏗᎬ ᎦᏍᎩᎶ ᎤᏤᎵ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yes, the middle sized bear has the middle sized chair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T023031Z" creationid="Michael Conrad" creationdate="20230627T022943Z">
+        <seg>ᎥᎥ, ᎤᏍᏗᎧ ᏲᎾ ᎤᏍᏗᎧ ᎦᏍᎩᎶ ᎤᏤᎵ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You are lost in the woods.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T001805Z" creationid="Michael Conrad" creationdate="20230627T001805Z">
+        <seg>ᎢᎾᎨ ᎠᏰᏟ ᏣᎴᎾᏞ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You are lost, Money Hair.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T001759Z" creationid="Michael Conrad" creationdate="20230627T001759Z">
+        <seg>ᏣᎴᎾᏞ, ᎠᏕᎳ ᎤᏍᏘᎬᎢ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You are the thief.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T141512Z" creationid="Michael Conrad" creationdate="20230627T141512Z">
+        <seg>ᎯᏃᏍᎩᏍᎩ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You ran away from home.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T001752Z" creationid="Michael Conrad" creationdate="20230627T001752Z">
+        <seg>ᏗᏤᏅᏒ ᎤᏟ ᏣᎵᏘᏎ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>see!"</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T030629Z" creationid="Michael Conrad" creationdate="20230627T030629Z">
+        <seg>Ꮒ!”</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+    <tu>
+      <prop type="file">The_Three_Bears.txt</prop>
+      <prop type="prev">Somebody has broken it.</prop>
+      <prop type="next">"I am hungry," said the middle sized bear.</prop>
+      <tuv lang="en-US">
+        <seg>"I am hungry," growled the big, huge bear.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T150523Z" creationid="Michael Conrad" creationdate="20230627T150523Z">
+        <seg>“ᎠᎩᏲᏏ,” ᎤᏟᏂᎩᏓ ᎤᏛᏁ ᎡᏆ ᏲᎾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">The_Three_Bears.txt</prop>
+      <prop type="prev">Down went Money Hair.</prop>
+      <prop type="next">"Is there food in the house?</prop>
+      <tuv lang="en-US">
+        <seg>Money Hair began to be hungry.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T145538Z" creationid="Michael Conrad" creationdate="20230627T145538Z">
+        <seg>ᎠᏕᎳᏃ ᎤᏍᏘᎬ ᎤᏲᏏᏐᏗ ᎤᎴᏅᎮ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">The_Three_Bears.txt</prop>
+      <prop type="prev">Money Hair came from her home.</prop>
+      <prop type="next">Money Hair knocked.</prop>
+      <tuv lang="en-US">
+        <seg>Money Hair came to the house in the woods.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T001938Z" creationid="Michael Conrad" creationdate="20230627T001938Z">
+        <seg>ᎦᎵᏦᏕ ᎢᎾᎨ ᎠᏰᏟ ᎤᎷᏤ ᎠᏕᎳ ᎤᏍᏘᎬ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">The_Three_Bears.txt</prop>
+      <prop type="prev">Money Hair came to the woods.</prop>
+      <prop type="next">Money Hair, Money Hair, lost Money Hair!</prop>
+      <tuv lang="en-US">
+        <seg>Money Hair came to the house of the bears.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T001626Z" creationid="Michael Conrad" creationdate="20230627T001626Z">
+        <seg>ᏲᎾ ᎤᎾᏤᎵ ᎦᎵᏦᏕ ᎠᏕᎳ ᎤᏍᏘᎬ ᎤᎷᏤ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">The_Three_Bears.txt</prop>
+      <prop type="prev">VIII</prop>
+      <prop type="next">Money Hair came from her home.</prop>
+      <tuv lang="en-US">
+        <seg>Money Hair came to the woods.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T001830Z" creationid="Michael Conrad" creationdate="20230627T001830Z">
+        <seg>ᎠᏕᎳ ᎤᏍᏘᎬ ᎢᎾᎨ ᎠᏰᏟ ᎤᎷᏤ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">The_Three_Bears.txt</prop>
+      <prop type="prev">Money Hair lay on the big bed.</prop>
+      <prop type="next">Money Hair lay on the little bed.</prop>
+      <tuv lang="en-US">
+        <seg>Money Hair lay on the middle sized bed.</seg>
+      </tuv>
+      <tuv lang="chr" changeid="Michael Conrad" changedate="20230627T150012Z" creationid="Michael Conrad" creationdate="20230627T150012Z">
+        <seg>ᎠᏕᎳ ᎤᏍᏘᎬ ᎤᏍᏗᎧ ᎦᏂᏟ ᎦᏅᎨ.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

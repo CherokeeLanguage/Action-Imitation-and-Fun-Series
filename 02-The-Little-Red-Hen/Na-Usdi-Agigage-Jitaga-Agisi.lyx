@@ -187,11 +187,11 @@ The Little Red Hen
 \end_layout
 
 \begin_layout Author
-ᎹᎦᎵ ᎧᏅᏩᏗ
+One Fire Language Services
 \begin_inset Newline newline
 \end_inset
 
-Michael Conrad
+ᏌᏊ ᎠᏥᎳ ᏗᎦᏬᏂᎯᏍᏗ ᏧᏂᎸᏫᏍᏓᏁᎯ
 \end_layout
 
 \begin_layout Standard
@@ -216,22 +216,6 @@ Michael Conrad
 \end_layout
 
 \begin_layout Standard
-\align center
-This work is licensed to you under the 
-\noun on
-Creative Commons Attribution-Share Alike 3.0 United States License
-\noun default
-.
-\end_layout
-
-\begin_layout Standard
-\align center
-
-\size small
-You are free to copy and share this work.
-\end_layout
-
-\begin_layout Standard
 \begin_inset VSpace vfill*
 \end_inset
 
@@ -247,29 +231,27 @@ The Little Red Hen
 \end_layout
 
 \begin_layout Standard
-Second Edition
+Third Edition
 \end_layout
 
 \begin_layout Standard
-\begin_inset Branch smashwords
-inverted 0
-status collapsed
-
-\begin_layout Standard
-Published by Michael Joyner at Smashwords
+Copyright 2023, One Fire Language Services
 \end_layout
 
+\begin_layout Standard
+\begin_inset VSpace defskip*
 \end_inset
 
 
 \end_layout
 
 \begin_layout Standard
-Copyright 2021, Michael Conrad
-\end_layout
-
-\begin_layout Standard
-ISBN: 978-0-000-00000-0
+This work is automatically licensed to you under the 
+\noun on
+Creative Commons Attribution-Share Alike 4.0 International License
+\emph on
+\noun default
+.
 \end_layout
 
 \begin_layout Standard
@@ -283,6 +265,13 @@ ISBN: 978-0-000-00000-0
 \begin_inset CommandInset toc
 LatexCommand tableofcontents
 
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill
 \end_inset
 
 
@@ -386,12 +375,110 @@ mainmatter{}
 
 \end_layout
 
+\begin_layout Chapter*
+Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+\end_layout
+
+\begin_layout Section*
+You are free to:
+\end_layout
+
+\begin_layout Description
+Share — copy and redistribute the material in any medium or format
+\end_layout
+
+\begin_layout Description
+Adapt — remix, transform, and build upon the material for any purpose, even
+ commercially.
+\end_layout
+
+\begin_layout Standard
+The licensor cannot revoke these freedoms as long as you follow the license
+ terms.
+\end_layout
+
+\begin_layout Section*
+Under the following terms:
+\end_layout
+
+\begin_layout Description
+Attribution — You must give appropriate credit, provide a link to the license,
+ and indicate if changes were made.
+ You may do so in any reasonable manner, but not in any way that suggests
+ the licensor endorses you or your use.
+\end_layout
+
+\begin_layout Description
+Share
+\begin_inset space ~
+\end_inset
+
+Alike — If you remix, transform, or build upon the material, you must distribute
+ your contributions under the same license as the original.
+\end_layout
+
+\begin_layout Description
+No
+\begin_inset space ~
+\end_inset
+
+additional
+\begin_inset space ~
+\end_inset
+
+restrictions — You may not apply legal terms or technological measures that
+ legally restrict others from doing anything the license permits.
+\end_layout
+
+\begin_layout Section*
+Notices:
+\end_layout
+
+\begin_layout Standard
+You do not have to comply with the license for elements of the material
+ in the public domain or where your use is permitted by an applicable exception
+ or limitation.
+\end_layout
+
+\begin_layout Standard
+No warranties are given.
+ The license may not give you all of the permissions necessary for your
+ intended use.
+ For example, other rights such as publicity, privacy, or moral rights may
+ limit how you use the material.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace defskip*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+
+\emph on
+Commercial use is permitted.
+\end_layout
+
 \begin_layout Chapter
 ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ
 \end_layout
 
 \begin_layout Standard
 \align center
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+ᎠᏯᏙᎸᎢ 1
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename src.jpg/003.jpg
 	lyxscale 10
@@ -430,7 +517,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ ᎯᎪᏩᏔ.
+ᎠᎩᎦᎨ ᏥᏔᎦ ᎯᎪᏩᏔ.
 \end_layout
 
 \begin_layout Standard
@@ -450,6 +537,18 @@ mainmatter{}
 \align center
 
 \size huge
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+ᎠᏯᏙᎸᎢ 2
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename src.jpg/004.jpg
 	lyxscale 10
@@ -500,6 +599,21 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+ᎠᏯᏙᎸᎢ 3
+\end_layout
+
+\end_inset
+
 ᎦᏙ ᎤᏍᏗ ᎯᎠ?
 \end_layout
 
@@ -518,7 +632,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎠᎩᎦᎨ ᏥᏔᎦ.
+ᎥᏍᎩᎾ ᎠᎩᎦᎨ ᏥᏔᎦ.
 \end_layout
 
 \begin_layout Standard
@@ -581,6 +695,18 @@ mainmatter{}
 \align center
 
 \size huge
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+ᎠᏯᏙᎸᎢ 4
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename src.jpg/005.jpg
 	lyxscale 10
@@ -607,7 +733,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏪᏌ ᏥᏔᎦᏃ ᎤᎾᎵᎢ.
+ᏪᏌ ᎣᎩᎾᎵᎢ.
 \end_layout
 
 \begin_layout Standard
@@ -619,13 +745,13 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏏᏆ ᏥᏔᎦᏃ ᎤᎾᎵᎢ.
+ᏏᏆ ᎣᎩᎾᎵᎢ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᎧᏂᏈᏌ ᏥᏔᎦᏃ ᎤᎾᎵᎢ.
+ᎧᏂᏈᏌ ᎣᎩᎾᎵᎢ.
 \end_layout
 
 \begin_layout Standard
@@ -637,19 +763,19 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎥᎥ, ᎤᎾᎵᎢ ᏪᏌ ᎠᎴ ᏥᏔᎦ.
+ᎥᎥ, ᏪᏌ ᎣᎩᎾᎵᎢ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᎤᎾᎵᎢ ᎧᏂᏈᏌ ᎠᎴ ᏥᏔᎦ.
+ᎧᏂᏈᏌ ᎣᎩᎾᎵᎢ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᎤᎾᎵᎢ ᏏᏆ ᎠᎴ ᏥᏔᎦ.
+ᏏᏆ ᎣᎩᎾᎵᎢ.
 \end_layout
 
 \begin_layout Standard
@@ -676,6 +802,18 @@ mainmatter{}
 \align center
 
 \size huge
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+ᎠᏯᏙᎸᎢ 5
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename src.jpg/006.jpg
 	lyxscale 10
@@ -690,7 +828,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎠᎩᎦᎨ ᏥᏔᎦ ᏥᎪᏩᏘᎭ.
+ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Standard
@@ -764,6 +902,18 @@ mainmatter{}
 \align center
 
 \size huge
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+ᎠᏯᏙᎸᎢ 6
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename src.jpg/007.jpg
 	lyxscale 10
@@ -894,6 +1044,18 @@ mainmatter{}
 \align center
 
 \size huge
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+ᎠᏯᏙᎸᎢ 7
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename src.jpg/008.jpg
 	lyxscale 10
@@ -920,7 +1082,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎤᎩᏔ ᎠᏩᏔ.
+ᎤᎩᏔ ᎤᏩᏛᎮ.
 \end_layout
 
 \begin_layout Standard
@@ -974,7 +1136,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎤᎩᏔ ᎠᏩᏔ.
+ᎤᎩᏔ ᎤᏩᏛᎮ.
 \end_layout
 
 \begin_layout Standard
@@ -986,7 +1148,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ ᎤᎩᏔ ᎠᏩᏔ.
+ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ ᎤᎩᏔ ᎤᏩᏛᎮ.
 \end_layout
 
 \begin_layout Standard
@@ -1000,6 +1162,16 @@ mainmatter{}
 \align center
 
 \size huge
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+ᎠᏯᏙᎸᎢ 8
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename src.jpg/009.jpg
 	lyxscale 10
@@ -1026,19 +1198,19 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎤᎩᏔᏍ ᎠᏩᏔ ᎯᎠ ᏥᏔᎦ?
+ᎤᎩᏔᏍ ᎤᏩᏛᎮ ᎯᎠ ᏥᏔᎦ?
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᎥᎥ, ᎯᎠ ᏥᏔᎦ ᎤᎩᏔ ᎠᏩᏔ.
+ᎥᎥ, ᎯᎠ ᏥᏔᎦ ᎤᎩᏔ ᎤᏩᏛᎮ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᎯᎪᏩᏔ ᎯᎠ ᎤᎩᏔ.
+ᎯᎪᏩᏔ ᎯᎠ Ꮎ ᎤᎩᏔ.
 \end_layout
 
 \begin_layout Standard
@@ -1108,7 +1280,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᏙᎯᏳ ᏥᎾᎵ ᏪᏌ.
+ᏥᎾᎵ ᏪᏌ.
 \begin_inset Quotes erd
 \end_inset
 
@@ -1158,7 +1330,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎤᎩᏔ ᏥᏩᏔ.
+ᎤᎩᏔ ᎠᎩᏩᏛᎲᎩ.
 \begin_inset Quotes erd
 \end_inset
 
@@ -1176,6 +1348,18 @@ mainmatter{}
 \align center
 
 \size huge
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+ᎠᏯᏙᎸᎢ 9
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename src.jpg/010.jpg
 	lyxscale 10
@@ -1190,19 +1374,19 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎾᏍ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ ᎤᎩᏔ ᎠᏩᏔ?
+ᎾᏍ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ ᎤᎩᏔ ᎤᏩᏛᎮ?
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᎥᎥ, Ꮎ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ ᎤᎩᏔ ᎠᏩᏔ.
+ᎥᎥ, Ꮎ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ ᎤᎩᏔ ᎤᏩᏛᎮ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᎤᎩᏔᏍ ᎠᏩᏔ ᏪᏌ ᏍᏊ?
+ᎤᎩᏔᏍ ᎤᏩᏛᎮ ᏪᏌ ᏍᏊ?
 \end_layout
 
 \begin_layout Standard
@@ -1214,7 +1398,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎤᎩᏔᏍ ᎠᏩᏔ ᎧᏂᏈᏌ?
+ᎧᏂᏈᏌᏍ ᎤᎩᏔ ᎤᏩᏛᎮ?
 \end_layout
 
 \begin_layout Standard
@@ -1244,7 +1428,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎤᏍᏗᏍ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ ᎦᎾᎵ?
+ᎦᎾᎵᏍ Ꮎ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ?
 \end_layout
 
 \begin_layout Standard
@@ -1262,7 +1446,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎤᎩᏔ ᎠᏩᏔ.
+ᎤᎩᏔ ᎤᏩᏛᎮ.
 \end_layout
 
 \begin_layout Standard
@@ -1276,6 +1460,18 @@ mainmatter{}
 \align center
 
 \size huge
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+ᎠᏯᏙᎸᎢ 10
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename src.jpg/011.jpg
 	lyxscale 10
@@ -1296,7 +1492,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎤᎿ.
+ᎤᎿ ᏥᏔᎦ.
 \end_layout
 
 \begin_layout Standard
@@ -1320,26 +1516,19 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎤᎿ ᏪᏌ.
+ᎤᎿ Ꮎ ᏪᏌ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᎤᎿ ᎧᏂᏈᏌ.
+ᎤᎿ Ꮎ ᎧᏂᏈᏌ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᎤᎿ ᏏᏆ.
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage clearpage
-\end_inset
-
-
+ᎤᎿ Ꮎ ᏏᏆ.
 \end_layout
 
 \begin_layout Standard
@@ -1423,6 +1612,18 @@ mainmatter{}
 \align center
 
 \size huge
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+ᎠᏯᏙᎸᎢ 11
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename src.jpg/013.jpg
 	lyxscale 10
@@ -1491,7 +1692,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎥᏝ, ᎧᏂᏈᏌ ᏙᎯᏳ ᎦᎾᎵ.
+ᎥᏍᎩᎾ ᏙᎯᏳ ᎦᎾᎵ.
 \end_layout
 
 \begin_layout Standard
@@ -1563,13 +1764,26 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+ᎠᏯᏙᎸᎢ 12
+\end_layout
+
+\end_inset
+
 ᏏᏆ ᎯᎪᏩᏔ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᏭᎪᏛ ᎦᎾᎵ ᏏᏆ.
+ᎤᏔᎾ ᎦᎾᎵ ᏏᏆ.
 \end_layout
 
 \begin_layout Standard
@@ -1581,7 +1795,19 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏭᎪᏛ ᎦᎾᎵ ᎧᏂᏈᏌ.
+ᎤᏔᎾ ᎦᎾᎵ ᎧᏂᏈᏌ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏪᏌ ᎯᎪᏩᏔ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎤᏔᎾ ᎦᎾᎵ ᏪᏌ.
 \end_layout
 
 \begin_layout Standard
@@ -1619,6 +1845,18 @@ mainmatter{}
 \align center
 
 \size huge
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+ᎠᏯᏙᎸᎢ 13
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename src.jpg/014.jpg
 	lyxscale 10
@@ -1706,7 +1944,7 @@ mainmatter{}
 \begin_inset Quotes erd
 \end_inset
 
- ᎤᏛᏁ ᏪᏌ.
+ ᎤᏛᏁ ᎤᏔᎾ ᏪᏌ.
 \end_layout
 
 \begin_layout Standard
@@ -1719,7 +1957,7 @@ mainmatter{}
 \begin_inset Quotes erd
 \end_inset
 
- ᎤᏛᏁ ᎧᏂᏈᏌ.
+ ᎤᏛᏁ ᎤᏔᎾ ᎧᏂᏈᏌ.
 \end_layout
 
 \begin_layout Standard
@@ -1732,7 +1970,7 @@ mainmatter{}
 \begin_inset Quotes erd
 \end_inset
 
- ᎤᏛᏁ ᏏᏆ.
+ ᎤᏛᏁ ᎤᏔᎾ ᏏᏆ.
 \end_layout
 
 \begin_layout Standard
@@ -1850,6 +2088,18 @@ mainmatter{}
 \align center
 
 \size huge
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+ᎠᏯᏙᎸᎢ 14
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename src.jpg/015.jpg
 	lyxscale 10
@@ -2024,6 +2274,18 @@ mainmatter{}
 \align center
 
 \size huge
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+ᎠᏯᏙᎸᎢ 15
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename src.jpg/016.jpg
 	lyxscale 10
@@ -2209,7 +2471,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-Ꮭ ᏱᏂᎦᏛᏁᎭ,
+Ꮭ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -2222,7 +2484,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-Ꮭ ᏱᏂᎦᏛᏁᎭ,
+Ꮭ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -2235,7 +2497,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-Ꮭ ᏱᏂᎦᏛᏁᎭ,
+Ꮭ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -2248,7 +2510,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᎾᎯᏳ ᏂᎦᏛᏁᎭ,
+ᎾᎯᏳ ᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -2262,8 +2524,26 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 
 \size huge
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+ᎠᏯᏙᎸᎢ 16
+\end_layout
+
+\end_inset
+
 Ꮭ ᏍᏙᏍᏓ ᏍᏓᎵᎢ ᏱᎩ, ᏪᏌ.
 \end_layout
 
@@ -2372,19 +2652,19 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏪᏌ ᎤᎾᎵᎢ.
+ᏪᏌ ᎣᎩᎾᎵᎢ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᎧᏂᏈᏌ ᎤᎾᎵᎢ.
+ᎧᏂᏈᏌ ᎣᎩᎾᎵᎢ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᏏᏆ ᎤᎾᎵᎢ.
+ᏏᏆ ᎣᎩᎾᎵᎢ.
 \end_layout
 
 \begin_layout Standard
@@ -2468,7 +2748,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏙᎯᏳ ᎠᏂᎾᎵ.
+ᎥᏍᎩᎾ ᏙᎯᏳ ᎠᏂᎾᎵ ᎨᏎᎢ.
 \end_layout
 
 \begin_layout Standard
@@ -2646,7 +2926,7 @@ mainmatter{}
 \begin_inset Quotes erd
 \end_inset
 
- ᎤᏛᏁ ᏥᏔᎦ.
+ ᎤᏛᏁ ᏥᏔᎦ ᎠᎩᏏ.
 \end_layout
 
 \begin_layout Standard
@@ -2752,7 +3032,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-Ꮭ ᏱᏂᎦᏛᏁᎭ,
+Ꮭ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -2765,7 +3045,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-Ꮭ ᏱᏂᎦᏛᏁᎭ,
+Ꮭ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -2778,7 +3058,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-Ꮭ ᏱᏂᎦᏛᏁᎭ,
+Ꮭ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -2795,7 +3075,7 @@ mainmatter{}
 \begin_inset Quotes erd
 \end_inset
 
- ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ.
+ ᎤᏛᏁ ᎤᏍᏗ ᏥᏔᎦ ᎠᎩᏏ.
 \end_layout
 
 \begin_layout Standard
@@ -2815,6 +3095,18 @@ mainmatter{}
 \align center
 
 \size huge
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+ᎠᏯᏙᎸᎢ 17
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename src.jpg/017.jpg
 	lyxscale 10
@@ -2836,7 +3128,7 @@ mainmatter{}
 \begin_inset Quotes erd
 \end_inset
 
- ᎤᏛᏁ ᏥᏔᎦ.
+ ᎤᏛᏁ ᏥᏔᎦ ᎠᎩᏏ.
 \end_layout
 
 \begin_layout Standard
@@ -2892,6 +3184,18 @@ mainmatter{}
 \align center
 
 \size huge
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+ᎠᏯᏙᎸᎢ 18
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename src.jpg/018.jpg
 	lyxscale 10
@@ -2957,7 +3261,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-Ꮭ ᏱᏂᎦᏛᏁᎭ,
+Ꮭ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -2983,7 +3287,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-Ꮭ ᏱᏂᎦᏛᏁᎭ,
+Ꮭ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -3009,7 +3313,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-Ꮭ ᏱᏂᎦᏛᏁᎭ,
+Ꮭ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -3041,7 +3345,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-Ꮭ ᏱᏂᎦᏛᏁᎭ,
+Ꮭ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -3054,7 +3358,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-Ꮭ ᏱᏂᎦᏛᏁᎭ,
+Ꮭ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -3067,7 +3371,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-Ꮭ ᏱᏂᎦᏛᏁᎭ,
+Ꮭ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -3080,7 +3384,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᏓᏂᎦᏛᏁᎵ,
+ᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -3104,6 +3408,18 @@ mainmatter{}
 \align center
 
 \size huge
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+ᎠᏯᏙᎸᎢ 19
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename src.jpg/019.jpg
 	lyxscale 10
@@ -3154,7 +3470,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-Ꭳ, Ꮭ, ᎥᏍᎩᎾ ᏙᎯᏳ ᎦᎾᎵ.
+Ꭳ, Ꮭ, Ꮎ ᏏᏆ ᏙᎯᏳ ᎦᎾᎵ.
 \end_layout
 
 \begin_layout Standard
@@ -3172,13 +3488,13 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎦᎾᎵ ᏪᏌ ᎬᏩᎵᏍᏓᏴᏗ.
+ᎦᎾᎵ ᏪᏌ ᎬᏩᏢᏅᏗ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᎬᏩᏢᏅᏗ ᏍᏊ.
+ᎬᏩᎵᏍᏓᏴᏗ ᏍᏊ.
 \end_layout
 
 \begin_layout Standard
@@ -3250,6 +3566,21 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+ᎠᏯᏙᎸᎢ 20
+\end_layout
+
+\end_inset
+
 ᎯᎪᏩᏔ, ᎠᎭᏂ ᎦᎾᎵ ᏪᏌ.
 \end_layout
 
@@ -3318,6 +3649,18 @@ mainmatter{}
 \align center
 
 \size huge
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+ᎠᏯᏙᎸᎢ 21
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename src.jpg/020.jpg
 	lyxscale 10
@@ -3377,7 +3720,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-Ꮭ ᏱᏥᏫᏗᎭ,
+Ꮭ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -3390,7 +3733,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-Ꮭ ᏱᏥᏫᏗᎭ,
+Ꮭ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -3403,7 +3746,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-Ꮭ ᏱᏥᏫᏗᎭ,
+Ꮭ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -3432,6 +3775,21 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+ᎠᏯᏙᎸᎢ 22
+\end_layout
+
+\end_inset
+
 ᎦᏙᎲ ᎤᏣᎴᏍᏗ ᏗᏍᏙᏍᎩᎢ ᎠᏎ ᎤᏫᏘᏗ?
 \end_layout
 
@@ -3474,7 +3832,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎦᏙᎲ Ꮭ ᏪᏌ ᏯᏫᏗᎭ?
+ᎦᏙᎲ Ꮭ ᎦᎾᎵ ᏪᏌ ᏯᏫᏗᎭ?
 \end_layout
 
 \begin_layout Standard
@@ -3498,7 +3856,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᏛᏫᏛᎯ.
+ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ ᏛᏫᏛᎯ.
 \end_layout
 
 \begin_layout Standard
@@ -3512,6 +3870,16 @@ mainmatter{}
 \align center
 
 \size huge
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+ᎠᏯᏙᎸᎢ 23
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename src.jpg/021.jpg
 	lyxscale 10
@@ -3545,7 +3913,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎣᏍᏓ ᎢᏌ ᏂᏓᎦᎵᏍᏔᏂ.
+ᎢᏌ ᎣᏍᏓ ᎨᏎᏍᏗ.
 \end_layout
 
 \begin_layout Standard
@@ -3569,6 +3937,21 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+ᎠᏯᏙᎸᎢ 24
+\end_layout
+
+\end_inset
+
 ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ ᎤᏣᎴᏍᏗ ᎤᎩᏔ ᎤᏩᏛᎮ.
 \end_layout
 
@@ -3581,7 +3964,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎤᏣᎴᏍᏗ ᎤᏩᏟᏌᏁ.
+Ꮎ ᎤᏣᎴᏍᏗ ᎤᏩᏟᏌᏁ.
 \end_layout
 
 \begin_layout Standard
@@ -3605,7 +3988,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏛᏍᏙᎢ ᎠᎴ ᎢᏌ ᏂᏓᎦᎵᏍᏔᏂ.
+ᏗᏍᏙᏍᎩ ᏛᏍᏙᎢ ᎠᎴ ᎢᏌ ᏂᏓᎦᎵᏍᏔᏂ.
 \end_layout
 
 \begin_layout Standard
@@ -3619,6 +4002,16 @@ mainmatter{}
 \align center
 
 \size huge
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+ᎠᏯᏙᎸᎢ 25
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename src.jpg/022.jpg
 	lyxscale 10
@@ -3687,19 +4080,25 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏙᎯᏳᏍ ᎯᎾᎵ ᎢᏳᏍᏗ Ꮭ ᏱᏣᎵᏍᏕᎸᎮ, ᏏᏆ?
+ᏝᏍ ᏴᎦᏘᎩ ᏙᎯᏳ ᎯᎾᎵ, ᏏᏆ?
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᏙᎯᏳᏍ ᎯᎾᎵ ᎢᏳᏍᏗ Ꮭ ᏱᏣᎵᏍᏕᎸᎮ, ᏪᏌ?
+ᏝᏍ ᏴᎦᏘᎩ ᏙᎯᏳ ᎯᎾᎵ, ᏪᏌ?
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᏙᎯᏳᏍ ᎯᎾᎵ ᎢᏳᏍᏗ Ꮭ ᏱᏣᎵᏍᏕᎸᎮ, ᎧᏂᏈᏌ?
+ᏝᏍ ᏴᎦᏘᎩ ᏙᎯᏳ ᎯᎾᎵ, ᎧᏂᏈᏌ?
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+Ꭳ, Ꮭ, ᎥᏝ ᏭᎪᏛᎢ ᎣᎩᎾᎵ ᏱᎩ ᏓᏲᏥᎩ.
 \end_layout
 
 \begin_layout Standard
@@ -3708,7 +4107,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᎢᏌ ᎢᎩᎩᏍᏗ ᏓᎦᎵᏍᏕᎸᎯ.,
+ᎢᏌ ᏓᏲᏥᎩ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -3721,7 +4120,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᎢᏌ ᎢᎩᎩᏍᏗ ᏓᎦᎵᏍᏕᎸᎯ,
+ᎢᏌ ᏓᏲᏥᎩ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -3734,7 +4133,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᎢᏌ ᎢᎩᎩᏍᏗ ᏓᎦᎵᏍᏕᎸᎯ,
+ᎢᏌ ᏓᏲᏥᎩ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -3752,6 +4151,18 @@ mainmatter{}
 \align center
 
 \size huge
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+ᎠᏯᏙᎸᎢ 26
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename src.jpg/023.jpg
 	lyxscale 10
@@ -3827,7 +4238,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᎠᏆᏤᎵ ᎤᏣᎴᏍᏗ.
+ᎠᏆᏤᎵᎦᏯ ᎤᏣᎴᏍᏗ.
 \end_layout
 
 \begin_layout Standard
@@ -3887,7 +4298,13 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏕᎦᎵᏗ ᎠᏥᎵᏔᏅᎩ ᎢᏌ.
+ᎥᏍᎩᎾ ᎠᏥᎵᏗᎭ ᏕᎦᎵᏗ.
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᎢᏌ ᎠᏥᎵᏗᎭ ᏕᎦᎵᏗ.
 \end_layout
 
 \begin_layout Standard
@@ -3923,6 +4340,21 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+ᎠᏯᏙᎸᎢ 27
+\end_layout
+
+\end_inset
+
 ᎠᎭᏂ ᎤᏣᎴᏍᏗ ᎢᏌ.
 \end_layout
 
@@ -3936,7 +4368,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏕᎦᎵᏗ ᎠᏥᎵᏔᏅᎩ ᎢᏌ.
+ᎢᏌ ᎠᏥᎵᏗᎭ ᏕᎦᎵᏗ.
 \end_layout
 
 \begin_layout Standard
@@ -3966,19 +4398,19 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏛᎩᏒᏏᏍᎪ Ꮎ ᎦᎾᎵ ᏏᏆ?
+ᏛᎩᏒᏏᏍ Ꮎ ᎦᎾᎵ ᏏᏆ?
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᏛᎩᏒᏏᏍᎪ Ꮎ ᎦᎾᎵ ᏪᏌ?
+ᏛᎩᏒᏏᏍ Ꮎ ᎦᎾᎵ ᏪᏌ?
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᏛᎩᏒᏏᏍᎪ Ꮎ ᎦᎾᎵ ᎧᏂᏈᏌ?
+ᏛᎩᏒᏏᏍ Ꮎ ᎦᎾᎵ ᎧᏂᏈᏌ?
 \end_layout
 
 \begin_layout Standard
@@ -3987,7 +4419,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᏘᎩᏒᏏᏍᎪ, ᏏᏆ?
+ᏘᎩᏒᏏᏍ, ᏏᏆ?
 \begin_inset Quotes erd
 \end_inset
 
@@ -4000,7 +4432,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᏘᎩᏒᏏᏍᎪ, ᏪᏌ?
+ᏘᎩᏒᏏᏍ, ᏪᏌ?
 \begin_inset Quotes erd
 \end_inset
 
@@ -4013,7 +4445,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᏘᎩᏒᏏᏍᎪ, ᎧᏂᏈᏌ?
+ᏘᎩᏒᏏᏍ, ᎧᏂᏈᏌ?
 \begin_inset Quotes erd
 \end_inset
 
@@ -4062,20 +4494,13 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-\begin_inset Quotes eld
-\end_inset
-
-ᎾᎯᏳ ᏥᎩᏎᎦ,
-\begin_inset Quotes erd
-\end_inset
-
- ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ.
+“ᎾᎯᏳ ᏂᏓᎦᏛᏁᎵ,” ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᎠᎴ ᎤᎩᏒᏎ.
+ᎠᎴ ᏄᏛᏁᎴ.
 \end_layout
 
 \begin_layout Standard
@@ -4089,6 +4514,18 @@ mainmatter{}
 \align center
 
 \size huge
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+ᎠᏯᏙᎸᎢ 28
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename src.jpg/024.jpg
 	lyxscale 10
@@ -4205,14 +4642,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-\begin_inset Quotes eld
-\end_inset
-
-ᎾᎯᏳ ᏥᎩᏎᎦ,
-\begin_inset Quotes erd
-\end_inset
-
- ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ.
+“ᎾᎯᏳ ᏂᏓᎦᏛᏁᎵ,” ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ.
 \end_layout
 
 \begin_layout Standard
@@ -4224,6 +4654,21 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+ᎠᏯᏙᎸᎢ 29
+\end_layout
+
+\end_inset
+
 ᏏᏆ ᎤᎩᏔ ᎬᏩᏛᏗ ᎨᏎᎢ.
 \end_layout
 
@@ -4320,6 +4765,19 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+ᎠᏯᏙᎸᎢ 30
+\end_layout
+
+\end_inset
+
 ᎦᎪ ᎤᏤᎵ ᎢᏌ, ᏪᏌ?
 \end_layout
 
@@ -4359,7 +4817,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᎠᏆᏤᎵ ᎢᏌ,
+ᎠᏆᏤᎵᎦᏯ ᎢᏌ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -4425,6 +4883,21 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+ᎠᏯᏙᎸᎢ 31
+\end_layout
+
+\end_inset
+
 ᏂᎦᏓᏍ ᏏᏆ ᎠᏂᎾᎵ ᎨᏐᎢ?
 \end_layout
 
@@ -4509,7 +4982,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎠᏎᏃ, Ꮒ, ᎠᎭᏂ ᎤᏍᏗ ᏥᏔᎦ.
+ᎠᏎᏃ, Ꮒ, ᎠᎭᏂ ᎤᏍᏗ ᏥᏔᎦ ᎠᎩᏏ.
 \end_layout
 
 \begin_layout Standard
@@ -4521,13 +4994,13 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎥᏍᎩᎾ ᎦᎾᎵ ᎥᏝᏧ ᏱᎩ?
+ᎥᏝᏧ ᎥᏍᎩᎾ ᎦᎾᎵ ᏱᎩ?
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᎦᏙ? ᎤᏍᏗᏍ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ ᎦᎾᎵ?
+ᎦᏙ? ᎦᎾᎵᏍ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ?
 \end_layout
 
 \begin_layout Standard
@@ -4599,6 +5072,22 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+ᎠᏯᏙᎸᎢ 32
+\end_layout
+
+\end_inset
+
+
 \begin_inset Quotes eld
 \end_inset
 
@@ -4678,7 +5167,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᎥᏝ ᏱᏂᎦᏛᏁᎭ,
+ᎥᏝ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -4691,7 +5180,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᎠᎴ ᎥᏝ ᏱᏂᎦᏛᏁᎭ,
+ᎠᎴ ᎥᏝ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -4704,7 +5193,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᎠᎴ ᎥᏝ ᏱᏂᎦᏛᏁᎭ,
+ᎠᎴ ᎥᏝ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -4793,7 +5282,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᎦᎪ ᎡᎦ?
+ᎦᎪ ᏓᏰᏅᏏ?
 \end_layout
 
 \begin_layout Standard
@@ -4812,7 +5301,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᎥᏝ ᏱᏂᎦᏛᏁᎭ,
+Ꮭ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -4825,7 +5314,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᎥᏝ ᏱᏂᎦᏛᏁᎭ,
+Ꮭ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -4838,7 +5327,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᎥᏝ ᏱᏂᎦᏛᏁᎭ,
+Ꮭ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -4848,14 +5337,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-\begin_inset Quotes eld
-\end_inset
-
-ᎾᎯᏳ ᏂᎦᏛᏁᎭ,
-\begin_inset Quotes erd
-\end_inset
-
- ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ.
+“ᎾᎯᏳ ᏂᏓᎦᏛᏁᎵ,” ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ.
 \end_layout
 
 \begin_layout Standard
@@ -4867,6 +5349,21 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+ᎠᏯᏙᎸᎢ 33
+\end_layout
+
+\end_inset
+
 Ꮒ, ᎠᎭᏂ ᎢᏌ.
 \end_layout
 
@@ -4951,7 +5448,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎢᏌᏍ ᎤᏣᎠ ᏕᎦᎵᏗ?
+ᎡᏆᏍ ᎢᏌ ᏕᎦᎵᏗ?
 \end_layout
 
 \begin_layout Standard
@@ -4989,6 +5486,18 @@ mainmatter{}
 \align center
 
 \size huge
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+ᎠᏯᏙᎸᎢ 34
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename src.jpg/025.jpg
 	lyxscale 10
@@ -5039,7 +5548,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎦᎪ ᏛᏍᏚᎢᏏ?
+ᎦᎪ ᏕᎦᎵᏗ ᏛᏍᏚᎢᏏ?
 \end_layout
 
 \begin_layout Standard
@@ -5048,7 +5557,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᎥᏝ ᏱᏂᎦᏛᏁᎭ,
+ᎥᏝ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -5061,7 +5570,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᎥᏝ ᏱᏂᎦᏛᏁᎭ,
+ᎥᏝ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -5074,7 +5583,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᎥᏝ ᏱᏂᎦᏛᏁᎭ,
+ᎥᏝ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -5084,14 +5593,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-\begin_inset Quotes eld
-\end_inset
-
-ᎾᎯᏳ ᏓᏂᎦᏛᏁᎵ,
-\begin_inset Quotes erd
-\end_inset
-
- ᎤᏛᏁ ᏥᏔᎦ.
+“ᎾᎯᏳ ᏂᏓᎦᏛᏁᎵ,” ᎤᏛᏁ ᏥᏔᎦ ᎠᎩᏏ.
 \end_layout
 
 \begin_layout Standard
@@ -5147,6 +5649,18 @@ mainmatter{}
 \align center
 
 \size huge
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+ᎠᏯᏙᎸᎢ 35
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename src.jpg/026.jpg
 	lyxscale 10
@@ -5173,13 +5687,13 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏪᏌᏍ ᏛᏍᏚᎢᏏ?
+ᏪᏌᎨ ᏛᏍᏚᎢᏏ?
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᎧᏂᏈᏌᏍ ᏛᏍᏚᎢᏏ?
+ᎧᏂᏈᏌᎨ ᏛᏍᏚᎢᏏ?
 \end_layout
 
 \begin_layout Standard
@@ -5295,6 +5809,18 @@ mainmatter{}
 \align center
 
 \size huge
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+ᎠᏯᏙᎸᎢ 36
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename src.jpg/027.jpg
 	lyxscale 10
@@ -5309,7 +5835,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎦᏙ ᏛᏛᏁᎵ ᏃᏊ?
+ᎦᏙ ᏛᏛᏁᎵ ᏃᏊ Ꮎ ᎤᏍᏗ ᏥᏔᎦ ᎠᎩᏏ?
 \end_layout
 
 \begin_layout Standard
@@ -5321,7 +5847,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎦᏚ ᏓᎦᏚᏂ.
+ᎢᏌ ᎪᏢᏔᏅ ᎦᏚ ᏓᎦᏚᏂ.
 \end_layout
 
 \begin_layout Standard
@@ -5396,7 +5922,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᎥᏝ ᏱᏂᎦᏛᏁᎭ,
+ᎥᏝ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -5409,7 +5935,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᎥᏝ ᏱᏂᎦᏛᏁᎭ,
+ᎥᏝ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -5422,7 +5948,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᎥᏝ ᏱᏂᎦᏛᏁᎭ,
+ᎥᏝ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -5432,14 +5958,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-\begin_inset Quotes eld
-\end_inset
-
-ᎾᎯᏳ ᏂᎦᏛᏁᎭ,
-\begin_inset Quotes erd
-\end_inset
-
- ᎤᏛᏁ ᏥᏔᎦ.
+“ᎾᎯᏳ ᏂᏓᎦᏛᏁᎵ,” ᎤᏛᏁ ᏥᏔᎦ ᎠᎩᏏ.
 \end_layout
 
 \begin_layout Standard
@@ -5459,6 +5978,18 @@ mainmatter{}
 \align center
 
 \size huge
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+ᎠᏯᏙᎸᎢ 37
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename src.jpg/028.jpg
 	lyxscale 10
@@ -5476,7 +6007,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᎦᏚ ᎢᎩᎲᎭ,
+ᎢᎦᏓ ᎦᏚ ᏬᎩᎮᏍᏗ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -5499,14 +6030,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-\begin_inset Quotes eld
-\end_inset
-
-ᎦᏚ ᎢᎩᎲᎭ.
-\begin_inset Quotes erd
-\end_inset
-
-
+“ᎢᎦᏓ ᎦᏚ ᏬᎩᎮᏍᏗ.”
 \end_layout
 
 \begin_layout Standard
@@ -5525,14 +6049,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-\begin_inset Quotes eld
-\end_inset
-
-ᎦᏚ ᎢᎩᎲᎭ.
-\begin_inset Quotes erd
-\end_inset
-
-
+“ᎢᎦᏓ ᎦᏚ ᏬᎩᎮᏍᏗ.”
 \end_layout
 
 \begin_layout Standard
@@ -5541,7 +6058,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᏥᏔᎦ ᎣᏍᏓ ᎦᏚ ᎬᏩᏘᏗ,
+ᏥᏔᎦ ᎠᎩᏏ ᎣᏍᏓ ᎦᏚ ᎬᏩᏘᏗ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -5554,7 +6071,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᏥᏔᎦ ᎣᏍᏓ ᎦᏚ ᎬᏩᏘᏗ,
+ᏥᏔᎦ ᎠᎩᏏ ᎣᏍᏓ ᎦᏚ ᎬᏩᏘᏗ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -5567,7 +6084,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᏥᏔᎦ ᎣᏍᏓ ᎦᏚ ᎬᏩᏘᏗ,
+ᏥᏔᎦ ᎠᎩᏏ ᎣᏍᏓ ᎦᏚ ᎬᏩᏘᏗ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -5584,7 +6101,7 @@ mainmatter{}
 \begin_inset Quotes erd
 \end_inset
 
- ᎤᏛᏁ ᏥᏔᎦ.
+ ᎤᏛᏁ ᏥᏔᎦ ᎠᎩᏏ.
 \end_layout
 
 \begin_layout Standard
@@ -5593,19 +6110,19 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᏍᎩᏍᏕᎵᎭᏍ, ᏪᏌ?
+ᏔᏛᏁᎵ, ᏪᏌ?
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᏍᎩᏍᏕᎵᎭᏍ, ᎧᏂᏈᏌ?
+ᏔᏛᏁᎵ, ᎧᏂᏈᏌ?
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᏍᎩᏍᏕᎵᎭᏍ, ᏏᏆ?
+ᏔᏛᏁᎵ, ᏏᏆ?
 \begin_inset Quotes erd
 \end_inset
 
@@ -5615,53 +6132,25 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-\begin_inset Quotes eld
-\end_inset
-
-Ꮭ ᏱᎬᏍᏕᎵᎭ,
-\begin_inset Quotes erd
-\end_inset
-
- ᎤᏛᏁ ᏪᏌ.
+“Ꮭ ᏱᏂᏓᎦᏛᏁᎵ,” ᎤᏛᏁ ᏪᏌ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-\begin_inset Quotes eld
-\end_inset
-
-Ꮭ ᏱᎬᏍᏕᎵᎭ,
-\begin_inset Quotes erd
-\end_inset
-
- ᎤᏛᏁ ᎧᏂᏈᏌ.
+“Ꮭ ᏱᏂᏓᎦᏛᏁᎵ,” ᎤᏛᏁ ᎧᏂᏈᏌ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-\begin_inset Quotes eld
-\end_inset
-
-Ꮭ ᏱᎬᏍᏕᎵᎭ,
-\begin_inset Quotes erd
-\end_inset
-
- ᎤᏛᏁ ᏏᏆ.
+“Ꮭ ᏱᏂᏓᎦᏛᏁᎵ,” ᎤᏛᏁ ᏏᏆ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-\begin_inset Quotes eld
-\end_inset
-
-ᎾᎯᏳ ᎠᏋᏌ ᏥᏚᎲᏍᎦ,
-\begin_inset Quotes erd
-\end_inset
-
- ᎤᏛᏁ ᏥᏔᎦ.
+“ᎾᎯᏳ ᎠᏋᏌ ᏂᏓᎦᏛᏁᎵ,” ᎤᏛᏁ ᏥᏔᎦ ᎠᎩᏏ.
 \end_layout
 
 \begin_layout Standard
@@ -5681,6 +6170,16 @@ mainmatter{}
 \align center
 
 \size huge
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+ᎠᏯᏙᎸᎢ 38
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename src.jpg/029.jpg
 	lyxscale 10
@@ -5701,7 +6200,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎦᏚ ᎦᏍᎩᎸᎢ.
+ᎥᏍᎩᎾ ᎦᏍᎩᎸᎢ.
 \end_layout
 
 \begin_layout Standard
@@ -5749,7 +6248,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-Ꭳ, ᎣᏍᏓ ᏂᎬᏫᏍᏗ ᎦᏚ!
+Ꭳ, ᏥᏈᏍᏗ ᎣᏍᏓ ᏂᎬᏫᏍᏗ ᎦᏚ!
 \end_layout
 
 \begin_layout Standard
@@ -5767,14 +6266,13 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-Ꭳ, ᎥᎥ, ᎠᎬᎭ.
+Ꭳ, ᎥᎥ, ᏯᎩᏒᎭ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
 ᏪᏌ ᎠᎬᎭ ᏍᏊ ᏱᏂᎬᏩᏛᏁᏗ.
- 
 \end_layout
 
 \begin_layout Standard
@@ -5830,6 +6328,18 @@ mainmatter{}
 \align center
 
 \size huge
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+ᎠᏯᏙᎸᎢ 39
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename src.jpg/030.jpg
 	lyxscale 10
@@ -5960,6 +6470,18 @@ mainmatter{}
 \align center
 
 \size huge
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+ᎠᏯᏙᎸᎢ 40
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename src.jpg/031.jpg
 	lyxscale 10
@@ -5995,7 +6517,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-Ꮒ, ᎢᎦᏓ ᎦᏚ ᎠᎩᎭ, ᏏᏆ,
+ᎯᎪᏩᏔ, ᎢᎦᏓ ᎦᏚ ᎠᎩᎭ, ᏏᏆ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -6008,7 +6530,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-Ꮒ, ᎢᎦᏓ ᎦᏚ ᎠᎩᎭ, ᏪᏌ,
+ᎯᎪᏩᏔ, ᎢᎦᏓ ᎦᏚ ᎠᎩᎭ, ᏪᏌ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -6021,7 +6543,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-Ꮒ, ᎢᎦᏓ ᎦᏚ ᎠᎩᎭ, ᎧᏂᏈᏌ,
+ᎯᎪᏩᏔ, ᎢᎦᏓ ᎦᏚ ᎠᎩᎭ, ᎧᏂᏈᏌ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -6092,7 +6614,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᏂᏣᏛᏁᎸᎩ,
+ᏣᏩᏛᎲᎩ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -6105,7 +6627,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᏂᏣᏛᏁᎸᎩ,
+ᏣᏩᏛᎲᎩ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -6118,7 +6640,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᏂᏣᏛᏁᎸᎩ,
+ᏣᏩᏛᎲᎩ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -6142,6 +6664,18 @@ mainmatter{}
 \align center
 
 \size huge
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+ᎠᏯᏙᎸᎢ 41
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename src.jpg/032.jpg
 	lyxscale 10
@@ -6208,7 +6742,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏥᏔᎦ ᎤᏩᏌ ᎤᏰᏘᏎᎴ.
+ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ ᎤᏩᏌ ᎤᏰᏘᏎᎴ.
 \end_layout
 
 \begin_layout Standard
@@ -6266,7 +6800,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏥᏔᎦ ᎤᏩᏌ ᎤᏰᏘᏎᎴ.
+ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ ᎤᏩᏌ ᎤᏰᏘᏎᎴ.
 \end_layout
 
 \begin_layout Standard
@@ -6324,7 +6858,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏥᏔᎦ ᎤᏩᏌ ᎤᏰᏘᏎᎴ.
+ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ ᎤᏩᏌ ᎤᏰᏘᏎᎴ.
 \end_layout
 
 \begin_layout Standard
@@ -6339,7 +6873,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᎦᎪ ᎤᏩᏚᏁ?
+ᎦᎪ ᎦᏚ ᎤᏩᏚᏁ?
 \begin_inset Quotes erd
 \end_inset
 
@@ -6388,7 +6922,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏥᏔᎦ ᎤᏩᏌ ᎤᏰᏘᏎᎴ.
+ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ ᎤᏩᏌ ᎤᏰᏘᏎᎴ.
 \end_layout
 
 \begin_layout Standard
@@ -6397,7 +6931,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᎤᏣᎴᏍᏗ ᎠᎩᏚᏅᎩ ᎠᎴ ᏃᏊ ᎦᏚ ᎠᎩᎭ,
+ᏃᏊ ᎤᏣᎴᏍᏗ ᎪᏢᏔᏅ ᎦᏚ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -6446,14 +6980,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-\begin_inset Quotes eld
-\end_inset
-
-ᎦᎪ ᎠᎩᏍᏕᎵᎭ ᎦᏚ ᎠᎩᎩᏍᏗ?
-\begin_inset Quotes erd
-\end_inset
-
- ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ.
+“ᎦᎪ ᏓᏣᏍᏕᎸᎯ ᎦᏚ ᎠᎵᎩᏍᏗ?” ᎤᏛᏁ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ.
 \end_layout
 
 \begin_layout Standard
@@ -6640,6 +7167,15 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+ᎠᏯᏙᎸᎢ 1
+\end_layout
+
+\end_inset
+
 ᏌᏊ ᎢᏳᏩᎪᏘ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ ᎡᎮ.
 \end_layout
 
@@ -6711,18 +7247,11 @@ mainmatter{}
 
 \size huge
 ᏖᎾ, ᎧᏂᏈᏌ.
-\begin_inset Quotes erd
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-\begin_inset Quotes eld
-\end_inset
-
 ᎪᎱᏍᏗ ᏥᏩᏔ.
  ᎢᏥᎪᏩᏔ.
 \end_layout
@@ -6730,11 +7259,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎦᎪ ᏛᎩᏍᏕᎸᎯ ᎠᎩᏫᏍᏗ?
-\begin_inset Quotes erd
-\end_inset
-
-
+ᎦᎪ ᏓᏣᏍᏕᎸᎯ ᎠᎩᏫᏍᏗ?”
 \end_layout
 
 \begin_layout Standard
@@ -6743,7 +7268,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-Ꮭ ᏱᏂᎦᏛᏁᎭ,
+Ꮭ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -6756,7 +7281,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-Ꮭ ᏱᏂᎦᏛᏁᎭ,
+Ꮭ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -6769,7 +7294,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-Ꮭ ᏱᏂᎦᏛᏁᎭ,
+Ꮭ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -6792,7 +7317,18 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎠᎴ ᎤᏣᎴᏍᏗ ᎤᎩᏔ ᎤᏫᏎ Ꮎ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+ᎠᏯᏙᎸᎢ 2
+\end_layout
+
+\end_inset
+
+ᎤᏣᎴᏍᏗᏃ ᎤᎩᏔ ᎤᏫᏎ Ꮎ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ.
 \end_layout
 
 \begin_layout Standard
@@ -6845,7 +7381,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-Ꮭ ᏱᏂᎦᏛᏁᎭ,
+Ꮭ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -6858,7 +7394,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-Ꮭ ᏱᏂᎦᏛᏁᎭ,
+Ꮭ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -6871,7 +7407,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-Ꮭ ᏱᏂᎦᏛᏁᎭ,
+Ꮭ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -6894,7 +7430,16 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎠᎴ ᎤᏣᎴᏍᏗ ᎤᏩᏟᏌᏁ Ꮎ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+ᎠᏯᏙᎸᎢ 3
+\end_layout
+
+\end_inset
+
+ᎤᏣᎴᏍᏗᏃ ᎤᏩᏟᏌᏁ Ꮎ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ.
 \end_layout
 
 \begin_layout Standard
@@ -6922,7 +7467,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-Ꮭ ᏱᏂᎦᏛᏁᎭ,
+Ꮭ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -6935,7 +7480,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-Ꮭ ᏱᏂᎦᏛᏁᎭ,
+Ꮭ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -6948,7 +7493,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-Ꮭ ᏱᏂᎦᏛᏁᎭ,
+Ꮭ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -6977,6 +7522,17 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+ᎠᏯᏙᏢᎢ 4
+\end_layout
+
+\end_inset
+
 ᏗᏍᏙᏍᎩ ᎤᏣᎴᏍᏗ ᎤᏍᏙᎡ.
 \end_layout
 
@@ -7017,7 +7573,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-Ꮭ ᏱᏂᎦᏛᏁᎭ,
+Ꮭ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -7030,7 +7586,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-Ꮭ ᏱᏂᎦᏛᏁᎭ,
+Ꮭ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -7043,7 +7599,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-Ꮭ ᏱᏂᎦᏛᏁᎭ,
+Ꮭ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -7107,7 +7663,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-Ꮭ ᏱᏂᎦᏛᏁᎭ,
+Ꮭ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -7120,7 +7676,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-Ꮭ ᏱᏂᎦᏛᏁᎭ,
+Ꮭ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -7133,7 +7689,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-Ꮭ ᏱᏂᎦᏛᏁᎭ,
+Ꮭ ᏱᏂᏓᎦᏛᏁᎵ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -7162,6 +7718,15 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+ᎠᏯᏙᎸᎢ 5
+\end_layout
+
+\end_inset
+
 ᏃᏊ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ ᎦᏚ ᎤᏩᏚᏁ ᎤᏣᎴᏍᏗ ᎢᏌ ᎬᏗ.
 \end_layout
 
@@ -7295,156 +7860,6 @@ filename "vocabulary.lyx"
 \end_inset
 
 
-\end_layout
-
-\begin_layout Chapter
-Creative Commons
-\end_layout
-
-\begin_layout Standard
-
-\size small
-This work is licensed under the 
-\noun on
-Creative Commons Attribution-Share Alike 3.0 United States License
-\noun default
-.
- To view a copy of this license, visit 
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-http://creativecommons.org/licenses/by-sa/3.0/us/
-\end_layout
-
-\end_inset
-
- or send a letter to Creative Commons, 171 Second Street, Suite 300, San
- Francisco, California, 94105, USA.
-\end_layout
-
-\begin_layout Subsection*
-In Summary:
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-The summary is not the license.
- It is simply a handy reference for understanding the license and as such,
- has no legal value.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\size small
-You are free:
-\end_layout
-
-\begin_layout Itemize
-
-\size small
-to Share — to copy, distribute, and transmit the work.
-\end_layout
-
-\begin_layout Itemize
-
-\size small
-to Remix — to adapt the work.
-\end_layout
-
-\begin_layout Standard
-
-\size small
-Under the following conditions:
-\end_layout
-
-\begin_layout Itemize
-
-\size small
-Attribution — You must attribute the work in the manner specified by the
- author or licensor (but not in any way that suggests that they endorse
- you or your use of the work).
-\end_layout
-
-\begin_layout Itemize
-
-\size small
-Share Alike — If you alter, transform, or build upon this work, you may
- distribute the resulting work only under the same or similar license to
- this one.
-\end_layout
-
-\begin_layout Standard
-
-\size small
-With the understanding that:
-\end_layout
-
-\begin_layout Itemize
-
-\size small
-Waiver — Any of the above conditions can be waived if you get permission
- from the copyright holder.
-\end_layout
-
-\begin_layout Itemize
-
-\size small
-Other Rights — In no way are any of the following rights affected by the
- license:
-\size default
-
-\begin_inset Separator latexpar
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-
-\size small
-Your fair dealing or fair use rights;
-\end_layout
-
-\begin_layout Itemize
-
-\size small
-Apart from the remix rights granted under this license, the author's moral
- rights;
-\end_layout
-
-\begin_layout Itemize
-
-\size small
-Rights other persons may have either in the work itself or in how the work
- is used, such as publicity or privacy rights.
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-
-\size small
-Notice — For any reuse or distribution, you must make clear to others the
- license terms of this work.
- The best way to do this is with a link to 
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-http://creativecommons.org/licenses/by-sa/3.0/us/
-\end_layout
-
-\end_inset
-
-.
 \end_layout
 
 \begin_layout Standard

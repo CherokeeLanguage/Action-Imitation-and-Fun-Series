@@ -1,0 +1,14 @@
+6/23/23 3:32 PM
+Project Statistics
+
+                 	Segments	Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
+Total:           	     862	 4744	                  17670	                 21553	     1	
+Remaining:       	       0	    0	                      0	                     0	     0	
+Unique:          	     719	 4122	                  15281	                 18685	     1	
+Unique Remaining:	       0	    0	                      0	                     0	     0	
+
+
+Individual File Statistics:
+
+File Name                       	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (w/o spaces)	Remaining Characters (w/o spaces)	Unique Characters (w/o spaces)	Unique Remaining Characters (w/o spaces)	Total Characters (w/ spaces)	Remaining Characters (w/ spaces)	Unique Characters (w/ spaces)	Unique Remaining Characters (w/ spaces)	
+na usdi agigage jitaga agisi.odt	           862	                 0	            719	                        0	       4744	              0	        4122	                     0	                        17670	                                0	                         15281	                                       0	                       21553	                               0	                        18685	                                      0	

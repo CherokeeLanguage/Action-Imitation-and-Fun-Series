@@ -1,0 +1,14 @@
+6/26/23, 5:27 PM
+Project Statistics
+
+                 	Segments	Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
+Total:           	     965	 5127	                  19861	                 24026	     1	
+Remaining:       	       0	    0	                      0	                     0	     0	
+Unique:          	     846	 4668	                  18084	                 21909	     1	
+Unique Remaining:	       0	    0	                      0	                     0	     0	
+
+
+Individual File Statistics:
+
+File Name           	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (w/o spaces)	Remaining Characters (w/o spaces)	Unique Characters (w/o spaces)	Unique Remaining Characters (w/o spaces)	Total Characters (w/ spaces)	Remaining Characters (w/ spaces)	Unique Characters (w/ spaces)	Unique Remaining Characters (w/ spaces)	
+na-anijoi-sigwa.utf8	           965	                 0	            846	                        0	       5127	              0	        4668	                     0	                        19861	                                0	                         18084	                                       0	                       24026	                               0	                        21909	                                      0	
