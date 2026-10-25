@@ -3,9 +3,9 @@
 Syllabary|Pronounce|Breakdown|Definition
 -Ꭰ|||*
 -ᎡᎦ|-é:ga||Is now leaving to do it.
--ᎡᎸᎢ|-e:lv̌:ɂi||Did for someone. Did towards someone.
+-ᎡᎸᎢ|-e:lv̌:ɂi||① Did for someone. ② Did towards someone.
 -ᎡᎾ|-é:na||Just now left to do it.
--ᎡᏗ|-éhdi||To do something for someone. To do something towards someone.
+-ᎡᏗ|-éhdi||① To do something for someone. ② To do something towards someone.
 -ᎢᏌ|-ǐ:sa||Let do it again.
 -ᎢᏏᎸᎢ|-isilv́:ɂi||Did it again.
 -ᎢᏐᏗ|-ǐ:sohdi||To do it again.
@@ -58,6 +58,7 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎠᏋᏌ|① agwv̌:sa ② agwv̋:sa||① Myself. ② I alone.
 ᎠᏎ|① ase ② ǎ:se||① Must. ② Maybe. Perhaps.
 ᎠᏎᏃ|||But.
+ᎠᏥᎳ|||① Fire. ② Watercress.
 ᎠᏥᎵᏔᏅᎩ|||It was put into a container.
 ᎠᏩᏔ|||He or she just found it.
 ᎠᏴ|||I. Me.
@@ -133,7 +134,7 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎤᏫᏛᎮ|||He or she took it somewhere.
 ᎤᏫᏛᎲᎭ||ᎤᏫᏛᎲᎢ -ᎥᎭ|He or she should or would take it somewhere.
 ᎤᏬᏢᏁ|||He or she made it.
-ᎤᏰᏘᏎᎴ|ᎤᏰᏘᏒᎢ -ᎡᎸᎢ||He or she laughed for him or her.
+ᎤᏰᏘᏎᎴ||ᎤᏰᏘᏒᎢ -ᎡᎸᎢ|He or she laughed for him or her.
 Ꭵ|||Yes.
 ᎥᎥ|||Yes.
 ᎥᏍᎩᎾ|||That. Those. He. She. It.
@@ -168,17 +169,17 @@ Syllabary|Pronounce|Breakdown|Definition
 ᎪᎱᏍᏗᏍ|||Is it something?
 ᎬᏍᏕᎸᏗ|||For me to help you.
 ᎬᏗ|||By means of.
-ᎬᏩᎩᎸᏗ|||He or she is able to get on or in it.
-ᎬᏩᎩᎸᏗᏍ|||Is he or she able to get on or in it?
-ᎬᏩᎩᏍᏗ|||He or she is able to get it.
-ᎬᏩᎵᏍᏓᏴᏗ|||He or she is able to eat a meal.
-ᎬᏩᏂᏍᏕᎸᏗ|||They are able to help him or her.
-ᎬᏩᏃᏍᎩᏍᏗ|||He or she is able to steal it.
-ᎬᏩᏘᏗ|||He or she is able to bake.
-ᎬᏩᏛᏗ|||He or she is able to find it.
-ᎬᏩᏟᏐᏗ|||He or she is able to gather it.
-ᎬᏩᏢᏅᏗ|||He or she is able to sleep.
-ᎬᏩᏫᏍᏗ|||He or she is able to plant it.
+ᎬᏩᎩᎸᏗ||ᎬᏩ- ᎤᎩᎸᏗ|He or she is able to get on or in it.
+ᎬᏩᎩᎸᏗᏍ||ᎬᏩ- ᎤᎩᎸᏗ -ᏍᎪ|Is he or she able to get on or in it?
+ᎬᏩᎩᏍᏗ||ᎬᏩ- ᎤᎩᏍᏗ|He or she is able to get it.
+ᎬᏩᎵᏍᏓᏴᏗ||ᎬᏩ- ᎤᎵᏍᏓᏴᏗ|He or she is able to eat a meal.
+ᎬᏩᏂᏍᏕᎸᏗ||ᎬᏩᏂ- ᎤᏍᏕᎸᏗ|They are able to help him or her.
+ᎬᏩᏃᏍᎩᏍᏗ||ᎬᏩ- ᎤᏃᏍᎩᏍᏗ|He or she is able to steal it.
+ᎬᏩᏘᏗ||ᎬᏩ- ᎤᏘᏗ|He or she is able to bake.
+ᎬᏩᏛᏗ||ᎬᏩ- ᎤᏛᏗ|He or she is able to find it.
+ᎬᏩᏟᏐᏗ||ᎬᏩ- ᎤᏟᏐᏗ|He or she is able to gather it.
+ᎬᏩᏢᏅᏗ||ᎬᏩ- ᎤᏢᏅᏗ|He or she is able to sleep.
+ᎬᏩᏫᏍᏗ||ᎬᏩ- ᎤᏫᏍᏗ|He or she is able to plant it.
 ᎭᏢ|||Where?
 ᎯᎠ|||① This. These. ② He. She. It.
 ᎯᎠᏍ|||Is this?
@@ -221,9 +222,8 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏓᎦᎾᏏᏅᏏ|||He or whe will drag it.
 ᏓᎦᏃᏍᎩᏏ|||He or she will steal it.
 ᏓᎦᏚᏂ|||He or she will bake it.
-ᏓᎦᏛᏁᎵ|||I will do.
+ᏓᎦᏛᏁᎵ|||I will do it.
 ᏓᎬᏍᏕᎸᎯ|||I will help you.
-ᏓᏂᎦᏛᏁᎵ|||I will do it.
 ᏓᏍᎩᏍᏕᎸᎯᏍ|||Will you help me?
 ᏓᏗᏚᏂ|||All of us will bake it.
 ᏓᏤᎾ|||You all, come towards me.
@@ -235,6 +235,7 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏕᎦᎵᏗ|||A sack.
 ᏕᎦᎵᏗᏍ|||Is it a sack?
 ᏖᎾ|||Let you go towards me.
+ᏗᎦᏬᏂᎯᏍᏗ|||Language.
 ᏗᎩᏟᏐᏗ|||For me to gather them.
 ᏗᎬᏩᏂᏩᏛᏗ|||They are able to find them.
 ᏗᏍᏙᏍᎩ|||① One who crushes. ② One who operates a mill.
@@ -244,7 +245,7 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏘᎩᏒᏏᏍᎪ|||Will you go and get it?
 ᏘᏫᏛᎯ|||You will take it somewhere.
 ᏙᎯᏳ|||Really. Very.
-ᏙᎯᏳᏍ|||Very?
+ᏙᎯᏳᏍ|||Truly?
 ᏙᏓᎦᏟᏌᏂ|||I will gather them.
 ᏚᎮᏍᏗ|||He or she will be having them.
 ᏛᎩᎸᏂ|||He or she will get on or in it.
@@ -341,9 +342,10 @@ Syllabary|Pronounce|Breakdown|Definition
 ᏥᏥᏔᎦ|||I am a chicken.
 ᏥᏩᏔ|||I just found it.
 ᏧᎾᎵᎢ|||① His or her friends. ② Their friends.
+ᏧᏂᎸᏫᏍᏓᏁᎯ|||They who work for another.
 ᏧᏩᏟᏐᏗ|||For him or her to gather them.
 ᏩᎩᏫᏛᎲᎩ|||I took it somewhere.
-ᏪᎾ|||Go away!
+ᏪᎾ|hwè:na||Go away!
 ᏪᏌ|||A cat. Cats.
 ᏪᏌᏍ|||Is it the cat?
 ᏫᎩᏎᎦᏍ||Ꮻ- Ꭿ- ᎤᎩᏒᎢ -ᎡᎦ -ᏍᎪ|Are you leaving to get it?
