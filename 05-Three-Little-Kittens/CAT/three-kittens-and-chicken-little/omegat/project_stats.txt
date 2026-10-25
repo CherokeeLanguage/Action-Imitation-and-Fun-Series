@@ -1,0 +1,15 @@
+6/27/23, 8:29 PM
+Project Statistics
+
+                 	Segments	Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
+Total:           	     544	 2755	                  11049	                 13261	     2	
+Remaining:       	       0	    0	                      0	                     0	     0	
+Unique:          	     451	 2400	                   9660	                 11610	     2	
+Unique Remaining:	       0	    0	                      0	                     0	     0	
+
+
+Individual File Statistics:
+
+File Name                	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (w/o spaces)	Remaining Characters (w/o spaces)	Unique Characters (w/o spaces)	Unique Remaining Characters (w/o spaces)	Total Characters (w/ spaces)	Remaining Characters (w/ spaces)	Unique Characters (w/ spaces)	Unique Remaining Characters (w/ spaces)	
+Chicken Little.utf8      	           202	                 0	            160	                        0	       1110	              0	         908	                     0	                         4519	                                0	                          3673	                                       0	                        5427	                               0	                         4421	                                      0	
+Three Little Kittens.utf8	           342	                 0	            291	                        0	       1645	              0	        1492	                     0	                         6530	                                0	                          5987	                                       0	                        7834	                               0	                         7189	                                      0	

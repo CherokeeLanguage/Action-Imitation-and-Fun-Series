@@ -1,0 +1,10 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
+story	ᎧᏃᎮᏢᏍᎦ	ᎧᏃᎮᎭ
+stories	ᏗᎧᏃᎮᏢᏍᎦ	ᎧᏃᎮᎭ
+Henny Penny	ᏏᎩᏏ ᎠᎩᏏ
+said Henny Penny	ᏄᏪᏎ ᏏᎩᏏ ᎠᎩᏏ
+Cocky Locky	ᏨᏨᏯ ᎠᏨᏯ
+Ducky Lucky	ᏌᏬᏄ ᎧᏬᏄ
+Goosey Loosey	ᏏᏏ ᏌᏌ
+Turkey Lurkey	ᎬᏌ ᎬᎾ
+Foxy Loxy	ᏧᎳ ᏧᏟ

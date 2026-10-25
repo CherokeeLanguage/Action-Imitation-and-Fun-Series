@@ -1,6 +1,11 @@
 {
+    "already_used": [
+        "../02-The-Little-Red-Hen/used-vocabulary.txt",
+        "../03-The-Three-Pigs/used-vocabulary.txt",
+        "../04-The-Three-Bears/used-vocabulary.txt",
+        "../05-Three-Little-Kittens/used-vocabulary.txt"
+    ],
     "unmatched_file": "vocabulary-unmatched.txt",
-    "already_used": ["../02-The-Little-Red-Hen/used-vocabulary.txt"],
     "entries_file": "vocabulary.txt",
     "vocab_template": "vocabulary-template.lyx",
     "vocab_lyx": "vocabulary.lyx",

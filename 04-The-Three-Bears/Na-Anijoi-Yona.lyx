@@ -494,25 +494,25 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏲᎾᏍ ᎢᎾᎨ ᎤᏂᎸᏉᏗ?
+ᏲᎾᏍ ᎢᎾᎨ ᎤᏂᎸᏉᏙ?
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᎥᎥ, ᏲᎾ ᎢᎾᎨ ᎤᏂᎸᏉᏗ.
+ᎥᎥ, ᏲᎾ ᎢᎾᎨ ᎤᏂᎸᏉᏙ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᎦᏙᎲ ᏲᎾ ᎢᎾᎨ ᎤᏂᎸᏉᏗ?
+ᎦᏙᎲ ᏲᎾ ᎢᎾᎨ ᎤᏂᎸᏉᏙ?
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᏲᎾ ᎢᎾᎨ ᎤᏁᏓᏍᏗ ᎤᏂᎸᏉᏗ.
+ᏲᎾ ᎢᎾᎨ ᎤᏁᏓᏍᏗ ᎤᏂᎸᏉᏙ.
 \end_layout
 
 \begin_layout Standard
@@ -542,7 +542,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎦᏙᎲ ᏲᎾ ᎢᎾᎨ ᎠᏁᎭ?
+ᎦᏙᎲ ᏲᎾ ᎢᎾᎨ ᎠᏁᎰ?
 \end_layout
 
 \begin_layout Standard
@@ -627,7 +627,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏲᎾ ᎢᎾᎨᎢ.
+ᏲᎾ ᎤᎿ ᎢᎾᎨᎢ.
 \end_layout
 
 \begin_layout Standard
@@ -648,7 +648,7 @@ mainmatter{}
 
 \size huge
 ᎠᏂᏦᎢ ᏲᎾ ᎢᎾᎨ ᎦᏥᎪᏩᏘ.
- ᏦᎢᏁ ᏲᎾ ᏭᏍᏗᎬᎢ ᎤᏁᏥ.
+ ᏦᎢᏁ ᏲᎾ ᏭᏍᏗᎬᎢ ᎠᎴ ᎤᏁᏥ.
 \end_layout
 
 \begin_layout Standard
@@ -666,13 +666,13 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏲᎾᏍ ᏕᏡᎬ ᏚᏂᎸᏉᏗ?
+ᏲᎾᏍ ᏕᏡᎬ ᏚᏂᎸᏉᏙ?
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᏲᎾ ᏕᏡᎬ ᏚᏂᎸᏉᏗ.
+ᏲᎾ ᏕᏡᎬ ᏚᏂᎸᏉᏙ.
 \end_layout
 
 \begin_layout Standard
@@ -690,7 +690,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏲᎾ ᏕᏡᎬ ᏓᏂᎴᎪ ᎤᏂᎸᏉᏗ.
+ᏲᎾ ᏕᏡᎬ ᏓᏂᎴᎪ ᎤᏂᎸᏉᏙ.
 \end_layout
 
 \begin_layout Standard
@@ -907,7 +907,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎦᎵᏦᏕ ᎢᎾᎨ ᎠᏰᏟ ᎤᎷᏤ.
+ᎦᎵᏦᏕ ᎢᎾᎨ ᎠᏰᏟ ᎤᎷᏤ ᎠᏕᎳ ᎤᏍᏘᎬ.
 \end_layout
 
 \begin_layout Standard
@@ -1279,6 +1279,9 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
+\begin_inset Quotes eld
+\end_inset
+
 ᏭᏍᏗᎬ ᎦᏍᎩᎶ ᎠᏉᏞᏍᏗ ᎠᎩᎸᏉᏛᎭ,
 \begin_inset Quotes erd
 \end_inset
@@ -1467,7 +1470,12 @@ mainmatter{}
 
 ᎠᎩᏍᏗ ᎠᎩᏲᏏ.
  ᎠᎩᏍᏗ ᎠᎩᎸᏉᏛᎭ.
- ᏗᎩᏍᏗᏍ ᎠᎭᏂ ᎦᎵᏦᏕ?
+\end_layout
+
+\begin_layout Standard
+
+\size huge
+ᏗᎩᏍᏗᏍ ᎠᎭᏂ ᎦᎵᏦᏕ?
 \end_layout
 
 \begin_layout Standard
@@ -1543,7 +1551,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏗᎩᏍᏗ ᎠᎭᏂ ᏚᏂᎮᏍᏛᎭ.
+ᏗᎩᏍᏗ ᎠᎭᏂ ᎦᎵᏦᏕ ᏚᏂᎮᏍᏛᎭ.
 \end_layout
 
 \begin_layout Standard
@@ -1573,7 +1581,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-Ꭳ, ᎠᎭᏂ!
+Ꭳ, ᎥᏍᎩᎾ ᎠᎭᏂ.
 \end_layout
 
 \begin_layout Standard
@@ -1643,13 +1651,13 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏐᎢ ᎠᏟᏍᏙᏗ ᎤᏍᏗᎧ ᎨᏎ.
+ᏌᏊ ᎠᏟᏍᏙᏗ ᎤᏍᏗᎧ ᎨᏎ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᏐᎢ ᎠᏟᏍᏙᏗ ᏭᏍᏗᎬ ᎨᏎ.
+ᏌᏊ ᎠᏟᏍᏙᏗ ᏭᏍᏗᎬ ᎨᏎ.
 \end_layout
 
 \begin_layout Standard
@@ -1671,7 +1679,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᎤᏅᏗ ᎠᎩᎸᏉᏗ!
+ᎤᏅᏗ ᎠᎩᎸᏉᏙ!
 \begin_inset Quotes erd
 \end_inset
 
@@ -1759,7 +1767,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᎤᏔᎾ ᎠᏟᏍᏙᏗ Ꮎ ᎤᏅᏗ ᎤᏗᏞᎦ,
+ᎤᏔᎾ ᎠᏟᏍᏙᏗ Ꮎ ᎤᏅᏗ ᏭᎪᏛ ᎤᏗᏞᎦ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -1797,7 +1805,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-Ꮭ ᎤᏴᏜ ᎤᏅᏗ ᏯᎩᎸᏉᏗ,
+Ꮭ ᎤᏴᏜ ᎤᏅᏗ ᏯᎩᎸᏉᏙ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -1905,13 +1913,13 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏐᎢ ᎦᏂᏟ ᎤᏍᏗᎧ ᎨᏎ.
+ᏌᏊ ᎦᏂᏟ ᎤᏍᏗᎧ ᎨᏎ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᏐᎢ ᎦᏂᏟ ᏭᏍᏗᎬ ᎨᏎ.
+ᏌᏊ ᎦᏂᏟ ᏭᏍᏗᎬ ᎨᏎ.
 \end_layout
 
 \begin_layout Standard
@@ -1936,7 +1944,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏃᏊᎴ ᎤᏍᏗᎧ ᎦᏂᏟ ᎦᏅᎨ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+ᎤᏍᏗᎧ ᎦᏂᏟ ᎦᏅᎨ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
 \end_layout
 
 \begin_layout Standard
@@ -1955,7 +1963,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎾᎯᏳ ᎠᏕᎳ ᎤᏍᏘᎬ ᏭᏍᏗᎬ ᎦᏂᏟ ᎦᏅᎨ.
+ᎠᏕᎳ ᎤᏍᏘᎬ ᏭᏍᏗᎬ ᎦᏂᏟ ᎦᏅᎨ.
 \end_layout
 
 \begin_layout Standard
@@ -2040,7 +2048,6 @@ mainmatter{}
 
 \size huge
 ᏭᏍᏗᎬ ᎦᏂᏟ ᎨᏎ.
- 
 \end_layout
 
 \begin_layout Standard
@@ -2151,7 +2158,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎦᎵᏦᏕ ᏲᎾ ᎠᏂᏴᎯᎭ.
+ᏲᎾ ᎦᎵᏦᏕ ᎠᏂᏯᎠ.
 \end_layout
 
 \begin_layout Standard
@@ -2194,7 +2201,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎦᎯᏯᏛᎩᏍ?
+ᏝᏍ ᏱᎦᎯᏯᏛᎩ?
 \end_layout
 
 \begin_layout Standard
@@ -2694,6 +2701,18 @@ mainmatter{}
 \align center
 
 \size huge
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size huge
+26
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename src.xcf/jpgs/019.jpg
 	lyxscale 10
@@ -3078,7 +3097,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏲᎾ ᎤᎿ ᎠᏁᎦ.
+ᏲᎾ ᎤᎿ ᎠᏂᎷᎦ.
 \end_layout
 
 \begin_layout Standard
@@ -3133,7 +3152,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎾᎯᏳ ᎤᏍᏗᎧ ᏲᎾ ᎤᏤᎵ ᎧᏅᏑᎸ ᏭᏁᏅᏎ.
+ᎾᎯᏳ ᎤᏍᏗᎧ ᏲᎾ ᎤᏤᎵ ᎧᏅᏑᎸ ᏭᏁᏅᏎ!
 \end_layout
 
 \begin_layout Standard
@@ -3328,6 +3347,12 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
+ᎭᎵᏘ, ᎠᏕᎳ ᎤᏍᏘᎬ!
+\end_layout
+
+\begin_layout Standard
+
+\size huge
 Ꭳ, ᎭᎵᏘ, ᎭᎵᏘ!
 \end_layout
 
@@ -3451,7 +3476,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏦᎳᏂ ᏙᏱ ᏔᏟᏔᏚᎦ!
+Ꮎ ᏦᎳᏂ ᏙᏱ ᏔᏟᏔᏚᎦ!
 \end_layout
 
 \begin_layout Standard
@@ -3518,7 +3543,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏦᎳᏂ ᏙᏱ ᏔᏟᏔᏚᎦ!
+Ꮎ ᏦᎳᏂ ᏙᏱ ᏔᏟᏔᏚᎦ!
 \end_layout
 
 \begin_layout Standard
@@ -3527,11 +3552,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-Ꭳ! Ꭳ! Ꭳ!
-\begin_inset Quotes erd
-\end_inset
-
- ᎤᏪᏡᏂᎶᎡ.
+Ꭳ! Ꭳ! Ꭳ!” ᎤᏪᏡᏂᎶᎡ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
 \end_layout
 
 \begin_layout Standard
@@ -3603,7 +3624,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎤᏟᏎ ᎠᎴ ᎤᏟᏎ.
+ᎥᏍᎩᎾ ᎤᏟᏎ ᎠᎴ ᎤᏟᏎ.
 \end_layout
 
 \begin_layout Standard
@@ -3724,7 +3745,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏌᏊ ᎢᎦ ᎠᏂᏦᎢ ᏙᏱ ᎤᏁᏙᎴ.
+ᎠᏂᏦᎢ ᏙᏱ ᎤᏁᏙᎴ.
 \end_layout
 
 \begin_layout Standard
@@ -3773,14 +3794,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-\begin_inset Quotes eld
-\end_inset
-
-ᎦᎪ ᎠᏁᎰ ᎯᎠ ᎦᎵᏦᏕ?
-\begin_inset Quotes erd
-\end_inset
-
- ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
+“ᎦᎪ ᎠᏁᎰ Ꮎ ᎦᎵᏦᏕ?” ᎤᏛᏁ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
 \end_layout
 
 \begin_layout Standard
@@ -3807,7 +3821,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᎯᎠ ᎦᎵᏦᏕ ᎠᎩᎸᏉᏗ,
+Ꮎ ᎦᎵᏦᏕ ᎠᎩᎸᏉᏗ,
 \begin_inset Quotes erd
 \end_inset
 
@@ -3906,19 +3920,19 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏭᏍᏗᎬ ᎦᏍᎩᎶ ᎡᎳᏗ ᎤᏪᏅᏎ.
+ᎡᎳᏗ ᏭᏪᏅᏎ ᎤᏲᏨ ᎦᏍᎩᎶ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᎠᏕᎳ ᎤᏍᏘᎬ ᎡᎳᏗ ᎤᏪᏅᏎ.
+ᎡᎳᏗ ᏭᏪᏅᏎ ᎠᏕᎳ ᎤᏍᏘᎬᎢ.
 \end_layout
 
 \begin_layout Standard
 
 \size huge
-ᏃᏊ ᎠᏕᎳ ᎤᏍᏘᎬ ᎤᏲᏏᏐᏗ ᎤᎴᏅᎮ.
+ᎠᏕᎳᏃ ᎤᏍᏘᎬ ᎤᏲᏏᏐᏗ ᎤᎴᏅᎮ.
 \end_layout
 
 \begin_layout Standard
@@ -4031,7 +4045,8 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎠᏗᏔᏍᎨ ᎠᎴ ᎠᏗᏔᏍᎨ ᎠᎴ ᏂᎦᏓ ᎤᏒᏁ.
+ᏃᏊᎴ ᎠᏗᏔᏍᎨ.
+ ᎠᏗᏔᏍᎨ ᎠᎴ ᎠᏗᏔᏍᎨ.
 \end_layout
 
 \begin_layout Standard
@@ -4082,7 +4097,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎠᏂᏟᎯᏱ ᏭᏪᏅᏎ.
+ᏃᏊᎴ ᎠᏂᏟᎯᏱ ᏭᏪᏅᏎ.
 \end_layout
 
 \begin_layout Standard
@@ -4211,7 +4226,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏲᎾ ᎠᏂᎷᎦ.
+ᏲᎾ ᎤᎿ ᎠᏂᎷᎦ.
 \end_layout
 
 \begin_layout Standard
@@ -4426,7 +4441,7 @@ mainmatter{}
 \begin_inset Quotes eld
 \end_inset
 
-ᎩᎶ ᎤᏅᏗ ᎤᏒᏁ! Ꭳ! Ꭳ! Ꭳ!
+ᎩᎶ ᎤᏅᏗ ᎤᏒᏁ! Ꭳ! Ꭳ!
 \begin_inset Quotes erd
 \end_inset
 
@@ -4490,7 +4505,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎠᏂᏟᎯᏱ ᏭᏁᏅᏎ.
+Ꮎ ᏲᎾ ᎠᏂᏟᎯᏱ ᏭᏁᏅᏎ.
 \end_layout
 
 \begin_layout Standard
@@ -4573,7 +4588,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎡᏆ ᏲᎾ ᎡᏝᏪ ᏄᏪᏒᎢ ᎤᏛᎦᏁ
+ᎡᏆ ᏲᎾ ᎤᏟᏂᎩᏓ ᏄᏪᏒᎢ ᎤᏛᎦᏁ.
 \end_layout
 
 \begin_layout Standard
@@ -4597,7 +4612,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᏦᎳᏂ ᎤᎦᏛᎴᏒᎢ ᏚᎵᏔᏗᏅᏎ.
+ᏦᎳᏂ ᏙᏱ ᏚᎵᏔᏗᏅᏎ.
 \end_layout
 
 \begin_layout Standard
@@ -4666,7 +4681,7 @@ mainmatter{}
 \begin_layout Standard
 
 \size huge
-ᎠᏕᎳ ᎤᏍᏘᎬ ᎠᏟᏎ ᎠᎴ ᎠᏟᏎ ᎾᎯᏳ ᏧᏪᏅᏒᎢ ᎤᎷᏤ.
+ᎠᏕᎳ ᎤᏍᏘᎬ ᎠᏟᏎ ᎾᎯᏳ ᏧᏪᏅᏒᎢ ᎤᎷᏤ.
 \end_layout
 
 \begin_layout Standard
